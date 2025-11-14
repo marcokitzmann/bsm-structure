@@ -1,0 +1,4467 @@
+{
+  "year": 2025,
+  "organizations": {
+    "BWBSV": {
+      "id": "organization_7",
+      "leagues": {
+        "5829": {
+          "id": 5829,
+          "name": "Verbandsliga Herren",
+          "teams": [
+            {
+              "id": 22812,
+              "name": "Villingendorf Cavemen"
+            },
+            {
+              "id": 23110,
+              "name": "Aichelberg Indians"
+            },
+            {
+              "id": 23141,
+              "name": "Herrenberg Wanderers"
+            },
+            {
+              "id": 23154,
+              "name": "Schriesheim Raubritter"
+            },
+            {
+              "id": 23261,
+              "name": "Ladenburg Romans"
+            },
+            {
+              "id": 23296,
+              "name": "Karlsruhe Cougars"
+            }
+          ]
+        },
+        "5837": {
+          "id": 5837,
+          "name": "Juniorenliga",
+          "teams": [
+            {
+              "id": 22885,
+              "name": "Heidenheim Heideköpfe"
+            },
+            {
+              "id": 23143,
+              "name": "Herrenberg Wanderers"
+            },
+            {
+              "id": 23155,
+              "name": "Schriesheim Raubritter"
+            },
+            {
+              "id": 23209,
+              "name": "Tübingen Hawks"
+            },
+            {
+              "id": 23307,
+              "name": "Stuttgart Reds"
+            }
+          ]
+        },
+        "5839": {
+          "id": 5839,
+          "name": "Jugend Verbandsliga",
+          "teams": [
+            {
+              "id": 22886,
+              "name": "Heidenheim Heideköpfe Jugend/ LLZ Baseball Heidenheim U15"
+            },
+            {
+              "id": 23144,
+              "name": "Herrenberg Wanderers"
+            },
+            {
+              "id": 23151,
+              "name": "Mannheim Tornados"
+            },
+            {
+              "id": 23156,
+              "name": "Schriesheim Raubritter"
+            },
+            {
+              "id": 23309,
+              "name": "Stuttgart Reds"
+            }
+          ]
+        },
+        "5853": {
+          "id": 5853,
+          "name": "Verbandsliga Damen",
+          "teams": [
+            {
+              "id": 23015,
+              "name": "Bad Mergentheim Warriors"
+            },
+            {
+              "id": 23114,
+              "name": "Gammertingen Royals"
+            },
+            {
+              "id": 23146,
+              "name": "Herrenberg Wanderers"
+            },
+            {
+              "id": 23215,
+              "name": "Karlsruhe Cougars 2"
+            },
+            {
+              "id": 23260,
+              "name": "Ladenburg Romans"
+            },
+            {
+              "id": 23270,
+              "name": "Mannheim Tornados"
+            },
+            {
+              "id": 23315,
+              "name": "Stuttgart Reds 2"
+            }
+          ]
+        },
+        "5835": {
+          "id": 5835,
+          "name": "Bezirksliga Herren II",
+          "teams": [
+            {
+              "id": 22813,
+              "name": "Villingendorf Cavemen 2"
+            },
+            {
+              "id": 22965,
+              "name": "Gammertingen Royals 2"
+            },
+            {
+              "id": 23138,
+              "name": "Green Sox Göppingen"
+            },
+            {
+              "id": 23142,
+              "name": "Herrenberg Wanderers 2"
+            },
+            {
+              "id": 23202,
+              "name": "Reutlingen Woodpeckers"
+            },
+            {
+              "id": 23256,
+              "name": "Bretten Kangaroos"
+            },
+            {
+              "id": 23268,
+              "name": "Ravensburg Leprechauns"
+            }
+          ]
+        },
+        "5847": {
+          "id": 5847,
+          "name": "Schüler Landesliga I",
+          "teams": [
+            {
+              "id": 22888,
+              "name": "Heidenheim Heideköpfe"
+            },
+            {
+              "id": 23206,
+              "name": "Heubach Hunters (aK)"
+            },
+            {
+              "id": 23259,
+              "name": "Aalen Strikers"
+            },
+            {
+              "id": 23283,
+              "name": "Falcons Ulm"
+            },
+            {
+              "id": 23312,
+              "name": "Stuttgart Reds 2"
+            }
+          ]
+        },
+        "5849": {
+          "id": 5849,
+          "name": "Schüler Landesliga III",
+          "teams": [
+            {
+              "id": 23104,
+              "name": "Nagold Mohawks"
+            },
+            {
+              "id": 23116,
+              "name": "Gammertingen Royals"
+            },
+            {
+              "id": 23134,
+              "name": "Gammertingen Royals 2"
+            },
+            {
+              "id": 23145,
+              "name": "Herrenberg Wanderers"
+            },
+            {
+              "id": 23207,
+              "name": "Tübingen Hawks 1"
+            },
+            {
+              "id": 23208,
+              "name": "Tübingen Hawks 2"
+            }
+          ]
+        },
+        "5831": {
+          "id": 5831,
+          "name": "Landesliga Herren I",
+          "teams": [
+            {
+              "id": 23169,
+              "name": "Neuenburg Atomics 2"
+            },
+            {
+              "id": 23187,
+              "name": "Bühl Blackwoods"
+            },
+            {
+              "id": 23273,
+              "name": "Freiburg Knights"
+            },
+            {
+              "id": 23297,
+              "name": "Karlsruhe Cougars 2"
+            },
+            {
+              "id": 23300,
+              "name": "Heidelberg Hedgehogs 2"
+            }
+          ]
+        },
+        "5832": {
+          "id": 5832,
+          "name": "Landesliga Herren II",
+          "teams": [
+            {
+              "id": 23013,
+              "name": "Bad Mergentheim Warriors"
+            },
+            {
+              "id": 23040,
+              "name": "Taínos Arawak Esslingen"
+            },
+            {
+              "id": 23102,
+              "name": "Nagold Mohawks"
+            },
+            {
+              "id": 23210,
+              "name": "Tübingen Hawks 2"
+            },
+            {
+              "id": 23281,
+              "name": "Falcons Ulm"
+            },
+            {
+              "id": 23308,
+              "name": "Stuttgart Reds 3"
+            }
+          ]
+        },
+        "5841": {
+          "id": 5841,
+          "name": "Jugend Landesliga I",
+          "teams": [
+            {
+              "id": 23103,
+              "name": "SG Nagold Mohawks/Tübingen Hawks"
+            },
+            {
+              "id": 23113,
+              "name": "Villingendorf Cavemen"
+            },
+            {
+              "id": 23115,
+              "name": "Gammertingen Royals"
+            },
+            {
+              "id": 23203,
+              "name": "Reutlingen Woodpeckers"
+            },
+            {
+              "id": 23310,
+              "name": "Stuttgart Reds 2"
+            },
+            {
+              "id": 23354,
+              "name": "Herrenberg Wanderers 2"
+            }
+          ]
+        },
+        "5855": {
+          "id": 5855,
+          "name": "Landesliga Damen",
+          "teams": [
+            {
+              "id": 23158,
+              "name": "Schriesheim Raubritter"
+            },
+            {
+              "id": 23276,
+              "name": "Freiburg Knights"
+            },
+            {
+              "id": 23303,
+              "name": "Falcons Ulm"
+            },
+            {
+              "id": 23306,
+              "name": "SG Villingendorf Cavemen/Herrenberg Wanderers 2"
+            }
+          ]
+        },
+        "5865": {
+          "id": 5865,
+          "name": "Softball Pokal",
+          "teams": [
+            {
+              "id": 23016,
+              "name": "Bad Mergentheim Warriors"
+            },
+            {
+              "id": 23135,
+              "name": "Gammertingen Royals"
+            },
+            {
+              "id": 23153,
+              "name": "Herrenberg Wanderers"
+            },
+            {
+              "id": 23161,
+              "name": "Schriesheim Raubritter"
+            },
+            {
+              "id": 23262,
+              "name": "Ladenburg Romans"
+            },
+            {
+              "id": 23271,
+              "name": "Mannheim Tornados"
+            },
+            {
+              "id": 23278,
+              "name": "Freiburg Knights"
+            },
+            {
+              "id": 23304,
+              "name": "Falcons Ulm"
+            },
+            {
+              "id": 23432,
+              "name": "Stuttgart Reds"
+            }
+          ]
+        },
+        "5845": {
+          "id": 5845,
+          "name": "Schüler Verbandsliga",
+          "teams": [
+            {
+              "id": 23197,
+              "name": "Mannheim Tornados"
+            },
+            {
+              "id": 23311,
+              "name": "Stuttgart Reds"
+            }
+          ]
+        },
+        "5851": {
+          "id": 5851,
+          "name": "T-Ball",
+          "teams": [
+            {
+              "id": 22889,
+              "name": "Heidenheim Heideköpfe"
+            },
+            {
+              "id": 22892,
+              "name": "Remchingen Racoons"
+            },
+            {
+              "id": 23106,
+              "name": "Nagold Mohawks"
+            },
+            {
+              "id": 23148,
+              "name": "Herrenberg Wanderers"
+            },
+            {
+              "id": 23172,
+              "name": "Schriesheim Raubritter"
+            },
+            {
+              "id": 23196,
+              "name": "Heidelberg Hedgehogs"
+            },
+            {
+              "id": 23214,
+              "name": "Karlsruhe Cougars"
+            },
+            {
+              "id": 23258,
+              "name": "Aalen Strikers"
+            },
+            {
+              "id": 23264,
+              "name": "Ladenburg Romans"
+            },
+            {
+              "id": 23282,
+              "name": "Falcons Ulm"
+            },
+            {
+              "id": 23298,
+              "name": "Green Sox Göppingen"
+            },
+            {
+              "id": 23313,
+              "name": "Stuttgart Reds"
+            },
+            {
+              "id": 23353,
+              "name": "Gammertingen Royals"
+            }
+          ]
+        },
+        "5834": {
+          "id": 5834,
+          "name": "Bezirksliga Herren I",
+          "teams": [
+            {
+              "id": 22901,
+              "name": "Heilbronn Pirates"
+            },
+            {
+              "id": 23017,
+              "name": "SG Crailsheim Sentinels/Bad Mergentheim Warriors 2"
+            },
+            {
+              "id": 23107,
+              "name": "Schwäbisch Hall Renegades"
+            },
+            {
+              "id": 23139,
+              "name": "Freiberg Brewers"
+            },
+            {
+              "id": 23267,
+              "name": "SG Ladenburg Romans 2/Mannheim Tornados 2"
+            },
+            {
+              "id": 23289,
+              "name": "Bretten Kangaroos 2"
+            }
+          ]
+        },
+        "5848": {
+          "id": 5848,
+          "name": "Schüler Landesliga II",
+          "teams": [
+            {
+              "id": 22893,
+              "name": "Remchingen Racoons"
+            },
+            {
+              "id": 23157,
+              "name": "Schriesheim Raubritter"
+            },
+            {
+              "id": 23166,
+              "name": "Bretten Kangaroos"
+            },
+            {
+              "id": 23171,
+              "name": "Neuenburg Atomics"
+            },
+            {
+              "id": 23195,
+              "name": "Heidelberg Hedgehogs"
+            },
+            {
+              "id": 23265,
+              "name": "Ladenburg Romans"
+            },
+            {
+              "id": 23295,
+              "name": "Karlsruhe Cougars"
+            }
+          ]
+        },
+        "5859": {
+          "id": 5859,
+          "name": "Softball Jugend",
+          "teams": [
+            {
+              "id": 23159,
+              "name": "Schriesheim Raubritter"
+            },
+            {
+              "id": 23317,
+              "name": "Stuttgart Reds"
+            },
+            {
+              "id": 23490,
+              "name": "Main-Taunus Redwings"
+            },
+            {
+              "id": 23491,
+              "name": "Mainz Athletics"
+            }
+          ]
+        },
+        "5863": {
+          "id": 5863,
+          "name": "Baseball Pokal",
+          "teams": [
+            {
+              "id": 22814,
+              "name": "Villingendorf Cavemen"
+            },
+            {
+              "id": 23014,
+              "name": "Bad Mergentheim Warriors"
+            },
+            {
+              "id": 23068,
+              "name": "Crailsheim Sentinels 2"
+            },
+            {
+              "id": 23105,
+              "name": "Nagold Mohawks"
+            },
+            {
+              "id": 23108,
+              "name": "Schwäbisch Hall Renegades 2"
+            },
+            {
+              "id": 23140,
+              "name": "Freiberg Brewers"
+            },
+            {
+              "id": 23149,
+              "name": "Herrenberg Wanderers"
+            },
+            {
+              "id": 23160,
+              "name": "Schriesheim Raubritter"
+            },
+            {
+              "id": 23179,
+              "name": "Ellwangen Elks"
+            },
+            {
+              "id": 23180,
+              "name": "Green Sox Göppingen"
+            },
+            {
+              "id": 23188,
+              "name": "Bühl Blackwoods"
+            },
+            {
+              "id": 23189,
+              "name": "Bretten Kangaroos"
+            },
+            {
+              "id": 23204,
+              "name": "Reutlingen Woodpeckers"
+            },
+            {
+              "id": 23212,
+              "name": "Tübingen Hawks"
+            },
+            {
+              "id": 23263,
+              "name": "Ladenburg Romans"
+            },
+            {
+              "id": 23269,
+              "name": "Ravensburg Leprechauns"
+            },
+            {
+              "id": 23274,
+              "name": "Freiburg Knights"
+            },
+            {
+              "id": 23284,
+              "name": "Falcons Ulm"
+            },
+            {
+              "id": 23426,
+              "name": "Heilbronn Pirates"
+            },
+            {
+              "id": 23428,
+              "name": "Aichelberg Indians"
+            },
+            {
+              "id": 23431,
+              "name": "Taínos Arawak Esslingen"
+            },
+            {
+              "id": 23437,
+              "name": "Karlsruhe Cougars"
+            }
+          ]
+        },
+        "5842": {
+          "id": 5842,
+          "name": "Jugend Landesliga II",
+          "teams": [
+            {
+              "id": 23167,
+              "name": "SG Bretten Kangaroos/Remchingen Racoons"
+            },
+            {
+              "id": 23170,
+              "name": "Neuenburg Atomics (aK)"
+            },
+            {
+              "id": 23194,
+              "name": "Heidelberg Hedgehogs"
+            },
+            {
+              "id": 23266,
+              "name": "SG Ladenburg Romans/Mannheim Tornados"
+            },
+            {
+              "id": 23275,
+              "name": "Freiburg Knights"
+            }
+          ]
+        },
+        "5843": {
+          "id": 5843,
+          "name": "Jugend Landesliga III",
+          "teams": [
+            {
+              "id": 22887,
+              "name": "Heidenheim Heideköpfe 2"
+            },
+            {
+              "id": 23109,
+              "name": "Aichelberg Indians"
+            },
+            {
+              "id": 23121,
+              "name": "Ellwangen Elks"
+            },
+            {
+              "id": 23137,
+              "name": "Green Sox Göppingen"
+            },
+            {
+              "id": 23302,
+              "name": "SG Falcons Ulm/Ravensburg Leprechauns"
+            }
+          ]
+        },
+        "6062": {
+          "id": 6062,
+          "name": "Coach-Pitch-Liga",
+          "teams": [
+            {
+              "id": 23122,
+              "name": "Ellwangen Elks"
+            },
+            {
+              "id": 23133,
+              "name": "Gammertingen Royals"
+            },
+            {
+              "id": 23147,
+              "name": "Herrenberg Wanderers"
+            },
+            {
+              "id": 23168,
+              "name": "Bretten Kangaroos"
+            },
+            {
+              "id": 23178,
+              "name": "Nagold Mohawks"
+            },
+            {
+              "id": 23205,
+              "name": "Heidelberg Hedgehogs"
+            },
+            {
+              "id": 23213,
+              "name": "Karlsruhe Cougars"
+            },
+            {
+              "id": 23255,
+              "name": "Falcons Ulm"
+            },
+            {
+              "id": 23257,
+              "name": "Aalen Strikers"
+            },
+            {
+              "id": 23314,
+              "name": "Stuttgart Reds"
+            },
+            {
+              "id": 23393,
+              "name": "Ravensburg Leprechauns "
+            },
+            {
+              "id": 23435,
+              "name": "Ladenburg Romans 2"
+            },
+            {
+              "id": 23503,
+              "name": "Heidenheim Heideköpfe"
+            }
+          ]
+        },
+        "5861": {
+          "id": 5861,
+          "name": "Softball Mixed",
+          "teams": [
+            {
+              "id": 23136,
+              "name": "Mannheim Tornados"
+            },
+            {
+              "id": 23193,
+              "name": "Green Sox Göppingen"
+            },
+            {
+              "id": 23211,
+              "name": "Tübingen Hawks"
+            },
+            {
+              "id": 23217,
+              "name": "Karlsruhe Cougars"
+            },
+            {
+              "id": 23279,
+              "name": "Freiburg Knights"
+            }
+          ]
+        },
+        "5857": {
+          "id": 5857,
+          "name": "Juniorinnenliga",
+          "teams": [
+            {
+              "id": 23216,
+              "name": "Karlsruhe Cougars"
+            },
+            {
+              "id": 23272,
+              "name": "Schriesheim Raubritter"
+            },
+            {
+              "id": 23277,
+              "name": "Gammertingen Royals"
+            },
+            {
+              "id": 23316,
+              "name": "Stuttgart Reds"
+            }
+          ]
+        }
+      }
+    },
+    "BSVNRW": {
+      "id": "organization_3",
+      "leagues": {
+        "6007": {
+          "id": 6007,
+          "name": "Bezirksliga Herren 3",
+          "teams": [
+            {
+              "id": 22941,
+              "name": "Jülich Dukes"
+            },
+            {
+              "id": 22944,
+              "name": "Aachen Greyhounds 2"
+            },
+            {
+              "id": 22951,
+              "name": "Neunkirchen Nightmares 2"
+            },
+            {
+              "id": 23032,
+              "name": "Bonn Capitals 4"
+            },
+            {
+              "id": 23034,
+              "name": "Kottenforst Saints"
+            },
+            {
+              "id": 23089,
+              "name": "Cologne Cardinals 5"
+            },
+            {
+              "id": 23254,
+              "name": "Wassenberg Squirrels"
+            }
+          ]
+        },
+        "6010": {
+          "id": 6010,
+          "name": "NRW-Liga Damen",
+          "teams": [
+            {
+              "id": 22938,
+              "name": "Witten Kaker Lakers"
+            },
+            {
+              "id": 22959,
+              "name": "Dortmund Wanderers"
+            },
+            {
+              "id": 22998,
+              "name": "Untouchables Paderborn"
+            },
+            {
+              "id": 23029,
+              "name": "Bonn Capitals 2"
+            },
+            {
+              "id": 23091,
+              "name": "Cologne Cardinals 2"
+            },
+            {
+              "id": 23162,
+              "name": "Wesseling Vermins 2"
+            }
+          ]
+        },
+        "6012": {
+          "id": 6012,
+          "name": "Landesliga Damen 1",
+          "teams": [
+            {
+              "id": 22977,
+              "name": "Ratingen Goose-Necks 2"
+            },
+            {
+              "id": 22986,
+              "name": "Ennepetal Raccoons"
+            },
+            {
+              "id": 22999,
+              "name": "Untouchables Paderborn 2"
+            },
+            {
+              "id": 23011,
+              "name": "SG Solingen Alligators/Hilden Wains"
+            },
+            {
+              "id": 23073,
+              "name": "Verl/Gütersloh Yaks"
+            },
+            {
+              "id": 23355,
+              "name": "Marl Sly Cats"
+            }
+          ]
+        },
+        "6014": {
+          "id": 6014,
+          "name": "NRW-Liga U15",
+          "teams": [
+            {
+              "id": 22997,
+              "name": "Untouchables Paderborn"
+            },
+            {
+              "id": 23047,
+              "name": "Bonn Capitals"
+            },
+            {
+              "id": 23085,
+              "name": "Cologne Cardinals"
+            }
+          ]
+        },
+        "6018": {
+          "id": 6018,
+          "name": "NRW-Liga U12",
+          "teams": [
+            {
+              "id": 22995,
+              "name": "Untouchables Paderborn"
+            },
+            {
+              "id": 23009,
+              "name": "Solingen Alligators"
+            },
+            {
+              "id": 23018,
+              "name": "Ratingen Goose-Necks"
+            },
+            {
+              "id": 23049,
+              "name": "Bonn Capitals"
+            },
+            {
+              "id": 23083,
+              "name": "Cologne Cardinals"
+            }
+          ]
+        },
+        "6020": {
+          "id": 6020,
+          "name": "Landesliga U12 1",
+          "teams": [
+            {
+              "id": 22939,
+              "name": "Witten Kaker Lakers"
+            },
+            {
+              "id": 23064,
+              "name": "Dortmund Rhinos"
+            },
+            {
+              "id": 23075,
+              "name": "Verl/Gütersloh Yaks"
+            },
+            {
+              "id": 23094,
+              "name": "Hagen Chipmunks"
+            },
+            {
+              "id": 23252,
+              "name": "Marl Sly Dogs"
+            }
+          ]
+        },
+        "6019": {
+          "id": 6019,
+          "name": "Landesliga U12 2",
+          "teams": [
+            {
+              "id": 22935,
+              "name": "Krefeld Crows"
+            },
+            {
+              "id": 22983,
+              "name": "Wuppertal Stingrays"
+            },
+            {
+              "id": 23003,
+              "name": "SG Senators/Blackcaps"
+            },
+            {
+              "id": 23038,
+              "name": "Kottenforst Saints"
+            },
+            {
+              "id": 23050,
+              "name": "Bonn Capitals 2"
+            }
+          ]
+        },
+        "6022": {
+          "id": 6022,
+          "name": "Toss Ball Liga U10 1",
+          "teams": [
+            {
+              "id": 22972,
+              "name": "Marl Sly Dogs U10"
+            },
+            {
+              "id": 22975,
+              "name": "Ratingen Goose-Necks"
+            },
+            {
+              "id": 22984,
+              "name": "Wuppertal Stingrays"
+            },
+            {
+              "id": 22994,
+              "name": "Untouchables Paderborn TB"
+            },
+            {
+              "id": 23010,
+              "name": "Solingen Alligators"
+            },
+            {
+              "id": 23076,
+              "name": "Verl/Gütersloh Yaks"
+            }
+          ]
+        },
+        "6021": {
+          "id": 6021,
+          "name": "Toss Ball Liga U10 2",
+          "teams": [
+            {
+              "id": 22952,
+              "name": "Neunkirchen Nightmares"
+            },
+            {
+              "id": 23002,
+              "name": "SG Senators/Crows"
+            },
+            {
+              "id": 23051,
+              "name": "Bonn Capitals"
+            },
+            {
+              "id": 23080,
+              "name": "Cologne Cardinals"
+            },
+            {
+              "id": 23081,
+              "name": "Cologne Cardinals 2"
+            },
+            {
+              "id": 23095,
+              "name": "Wesseling Vermins"
+            }
+          ]
+        },
+        "6009": {
+          "id": 6009,
+          "name": "Bezirksliga Herren 1",
+          "teams": [
+            {
+              "id": 22937,
+              "name": "Witten Kaker Lakers"
+            },
+            {
+              "id": 22958,
+              "name": "SG Dortmund Wanderers 3/Hagen Chipmunks 2"
+            },
+            {
+              "id": 22970,
+              "name": "Marl Sly Dogs 2"
+            },
+            {
+              "id": 22978,
+              "name": "Ratingen Goose-Necks 2"
+            },
+            {
+              "id": 23062,
+              "name": "Dortmund Rhinos"
+            },
+            {
+              "id": 23072,
+              "name": "Verl/Gütersloh Yaks 2"
+            }
+          ]
+        },
+        "6011": {
+          "id": 6011,
+          "name": "Landesliga Damen 2",
+          "teams": [
+            {
+              "id": 22933,
+              "name": "Krefeld Crows"
+            },
+            {
+              "id": 22942,
+              "name": "Jülich Duchess"
+            },
+            {
+              "id": 22946,
+              "name": "Aachen Greyhounds"
+            },
+            {
+              "id": 22954,
+              "name": "Neunkirchen Nightmares 2"
+            },
+            {
+              "id": 23163,
+              "name": "Düsseldorf Senators"
+            }
+          ]
+        },
+        "6017": {
+          "id": 6017,
+          "name": "Landesliga U15 1",
+          "teams": [
+            {
+              "id": 22940,
+              "name": "Witten Kaker Lakers"
+            },
+            {
+              "id": 22960,
+              "name": "Dortmund Wanderers"
+            },
+            {
+              "id": 22963,
+              "name": "SG Blackjacks/Wanderers 2"
+            },
+            {
+              "id": 22996,
+              "name": "Untouchables Paderborn 2"
+            },
+            {
+              "id": 23074,
+              "name": "Verl/Gütersloh Yaks"
+            },
+            {
+              "id": 23078,
+              "name": "Lippstadt Ochmoneks"
+            }
+          ]
+        },
+        "5997": {
+          "id": 5997,
+          "name": "NRW-Liga Herren",
+          "teams": [
+            {
+              "id": 22948,
+              "name": "Dortmund Wanderers 2"
+            },
+            {
+              "id": 22974,
+              "name": "Ratingen Goose-Necks"
+            },
+            {
+              "id": 23035,
+              "name": "Düsseldorf Senators"
+            },
+            {
+              "id": 23071,
+              "name": "Verl/Gütersloh Yaks"
+            },
+            {
+              "id": 23087,
+              "name": "Cologne Cardinals 3"
+            }
+          ]
+        },
+        "6013": {
+          "id": 6013,
+          "name": "NRW-Liga U18",
+          "teams": [
+            {
+              "id": 23000,
+              "name": "Untouchables Paderborn"
+            },
+            {
+              "id": 23046,
+              "name": "Bonn Capitals"
+            },
+            {
+              "id": 23086,
+              "name": "Cologne Cardinals"
+            }
+          ]
+        },
+        "6005": {
+          "id": 6005,
+          "name": "Landesliga Herren 2",
+          "teams": [
+            {
+              "id": 22936,
+              "name": "Duisburg Flying Bats"
+            },
+            {
+              "id": 22943,
+              "name": "Aachen Greyhounds"
+            },
+            {
+              "id": 22957,
+              "name": "Hochdahl Neandertaler"
+            },
+            {
+              "id": 22979,
+              "name": "Wuppertal Stingrays 2"
+            },
+            {
+              "id": 23006,
+              "name": "Zülpich Eagles"
+            },
+            {
+              "id": 23007,
+              "name": "Solingen Alligators 2"
+            },
+            {
+              "id": 23031,
+              "name": "Bonn Capitals 3"
+            },
+            {
+              "id": 23088,
+              "name": "Cologne Cardinals 4"
+            }
+          ]
+        },
+        "6008": {
+          "id": 6008,
+          "name": "Bezirksliga Herren 2",
+          "teams": [
+            {
+              "id": 22932,
+              "name": "Krefeld Crows"
+            },
+            {
+              "id": 22964,
+              "name": "Kapellen Turtles"
+            },
+            {
+              "id": 23036,
+              "name": "Düsseldorf Senators 2"
+            },
+            {
+              "id": 23063,
+              "name": "Dortmund Rhinos 2"
+            },
+            {
+              "id": 23130,
+              "name": "Mönchengladbach Blackcaps"
+            },
+            {
+              "id": 23253,
+              "name": "Ratingen Goose-Necks 3"
+            }
+          ]
+        },
+        "5998": {
+          "id": 5998,
+          "name": "NRW-Liga U19",
+          "teams": [
+            {
+              "id": 22955,
+              "name": "Neunkirchen Nightmares"
+            },
+            {
+              "id": 23030,
+              "name": "Bonn Capitals"
+            },
+            {
+              "id": 23090,
+              "name": "Cologne Cardinals"
+            },
+            {
+              "id": 23096,
+              "name": "Wesseling Vermins"
+            }
+          ]
+        },
+        "6006": {
+          "id": 6006,
+          "name": "Landesliga Herren 1",
+          "teams": [
+            {
+              "id": 22969,
+              "name": "Marl Sly Dogs 1"
+            },
+            {
+              "id": 22973,
+              "name": "Minden Millers"
+            },
+            {
+              "id": 23052,
+              "name": "Bochum Barflies"
+            },
+            {
+              "id": 23070,
+              "name": "Untouchables Paderborn 3"
+            },
+            {
+              "id": 23079,
+              "name": "Lippstadt Ochmoneks"
+            },
+            {
+              "id": 23092,
+              "name": "Hagen Chipmunks"
+            },
+            {
+              "id": 23131,
+              "name": "Mavericks Rheine"
+            }
+          ]
+        },
+        "6058": {
+          "id": 6058,
+          "name": "BBQ-Liga",
+          "teams": [
+            {
+              "id": 22950,
+              "name": "Herne Lizards"
+            },
+            {
+              "id": 23023,
+              "name": "Untouchables PB- Old Bones"
+            },
+            {
+              "id": 23097,
+              "name": "Wesseling Vermins 5"
+            },
+            {
+              "id": 23119,
+              "name": "Duisburg Flying Bats e.V. 2"
+            },
+            {
+              "id": 23280,
+              "name": "Bottrop Blackjacks"
+            },
+            {
+              "id": 23290,
+              "name": "BSC Hickory 2"
+            },
+            {
+              "id": 23305,
+              "name": "Neunkirchen Nightmares"
+            },
+            {
+              "id": 23339,
+              "name": "Thunderducks Hausdülmen"
+            }
+          ]
+        },
+        "6016": {
+          "id": 6016,
+          "name": "Landesliga U15 2",
+          "teams": [
+            {
+              "id": 22934,
+              "name": "SG Crows/Senators"
+            },
+            {
+              "id": 22976,
+              "name": "Ratingen Goose-Necks"
+            },
+            {
+              "id": 22981,
+              "name": "Wuppertal Stingrays"
+            },
+            {
+              "id": 22985,
+              "name": "SG Raccoons/Rhinos"
+            },
+            {
+              "id": 23008,
+              "name": "Solingen Alligators"
+            },
+            {
+              "id": 23022,
+              "name": "SG Goose-Necks 2/Squirrels"
+            }
+          ]
+        },
+        "6015": {
+          "id": 6015,
+          "name": "Landesliga U15 3",
+          "teams": [
+            {
+              "id": 22945,
+              "name": "Aachen Greyhounds"
+            },
+            {
+              "id": 22953,
+              "name": "Neunkirchen Nightmares"
+            },
+            {
+              "id": 23037,
+              "name": "Kottenforst Saints"
+            },
+            {
+              "id": 23048,
+              "name": "Bonn Capitals 2"
+            },
+            {
+              "id": 23084,
+              "name": "Cologne Cardinals 2"
+            },
+            {
+              "id": 23164,
+              "name": "SG Eagles/Vermins"
+            }
+          ]
+        }
+      }
+    },
+    "BSVBB": {
+      "id": "organization_9",
+      "leagues": {
+        "6054": {
+          "id": 6054,
+          "name": "Landesliga Baseball",
+          "teams": [
+            {
+              "id": 23221,
+              "name": "Skylarks 3"
+            },
+            {
+              "id": 23222,
+              "name": "Skylarks 4"
+            },
+            {
+              "id": 23223,
+              "name": "Wizards 2"
+            },
+            {
+              "id": 23243,
+              "name": "Sliders"
+            },
+            {
+              "id": 23244,
+              "name": "Eagles"
+            },
+            {
+              "id": 23245,
+              "name": "Porcupines 2"
+            },
+            {
+              "id": 23291,
+              "name": "Roadrunners 2"
+            },
+            {
+              "id": 23329,
+              "name": "Roosters"
+            },
+            {
+              "id": 23330,
+              "name": "Flamingos 3"
+            },
+            {
+              "id": 23331,
+              "name": "Sluggers 2"
+            }
+          ]
+        },
+        "5976": {
+          "id": 5976,
+          "name": "Jugendaufbauliga Baseball",
+          "teams": [
+            {
+              "id": 23225,
+              "name": "Porcupines"
+            },
+            {
+              "id": 23226,
+              "name": "Sliders"
+            },
+            {
+              "id": 23227,
+              "name": "Wizards 2"
+            },
+            {
+              "id": 23246,
+              "name": "Eagles"
+            },
+            {
+              "id": 23293,
+              "name": "Roadrunners"
+            },
+            {
+              "id": 23319,
+              "name": "Challengers"
+            },
+            {
+              "id": 23334,
+              "name": "R´s"
+            },
+            {
+              "id": 23335,
+              "name": "SG Flamingos/Dukes"
+            }
+          ]
+        },
+        "5974": {
+          "id": 5974,
+          "name": "Juniorenliga Baseball",
+          "teams": [
+            {
+              "id": 23224,
+              "name": "Wizards"
+            },
+            {
+              "id": 23292,
+              "name": "Roadrunners"
+            },
+            {
+              "id": 23332,
+              "name": "Flamingos"
+            },
+            {
+              "id": 23333,
+              "name": "Sluggers"
+            }
+          ]
+        },
+        "6055": {
+          "id": 6055,
+          "name": "Landesliga Baseball",
+          "teams": [
+            {
+              "id": 23221,
+              "name": "Skylarks 3"
+            },
+            {
+              "id": 23223,
+              "name": "Wizards 2"
+            },
+            {
+              "id": 23243,
+              "name": "Sliders"
+            },
+            {
+              "id": 23291,
+              "name": "Roadrunners 2"
+            },
+            {
+              "id": 23329,
+              "name": "Roosters"
+            }
+          ]
+        },
+        "5980": {
+          "id": 5980,
+          "name": "Schülerliga Baseball",
+          "teams": [
+            {
+              "id": 23229,
+              "name": "Skylarks"
+            },
+            {
+              "id": 23230,
+              "name": "Sliders"
+            },
+            {
+              "id": 23231,
+              "name": "Wizards"
+            },
+            {
+              "id": 23247,
+              "name": "Porcupines"
+            },
+            {
+              "id": 23320,
+              "name": "Challengers"
+            },
+            {
+              "id": 23338,
+              "name": "Flamingos"
+            }
+          ]
+        },
+        "5970": {
+          "id": 5970,
+          "name": "Verbandsliga Baseball",
+          "teams": [
+            {
+              "id": 23218,
+              "name": "Porcupines"
+            },
+            {
+              "id": 23219,
+              "name": "Skylarks 2"
+            },
+            {
+              "id": 23220,
+              "name": "Wizards"
+            },
+            {
+              "id": 23242,
+              "name": "Dukes"
+            },
+            {
+              "id": 23318,
+              "name": "Challengers"
+            },
+            {
+              "id": 23326,
+              "name": "Sluggers"
+            },
+            {
+              "id": 23327,
+              "name": "Flamingos 2"
+            },
+            {
+              "id": 23328,
+              "name": "Wallbreakers"
+            }
+          ]
+        },
+        "5984": {
+          "id": 5984,
+          "name": "Verbandsliga Softball",
+          "teams": [
+            {
+              "id": 23250,
+              "name": "SG Skylarks/Wizards"
+            },
+            {
+              "id": 23251,
+              "name": "Porcupines"
+            },
+            {
+              "id": 23321,
+              "name": "Challengers 2"
+            },
+            {
+              "id": 23324,
+              "name": "Ravens 2"
+            },
+            {
+              "id": 23325,
+              "name": "Flamingos"
+            }
+          ]
+        },
+        "5978": {
+          "id": 5978,
+          "name": "Jugendliga Baseball",
+          "teams": [
+            {
+              "id": 23228,
+              "name": "Wizards"
+            },
+            {
+              "id": 23336,
+              "name": "Flamingos"
+            },
+            {
+              "id": 23337,
+              "name": "Sluggers"
+            }
+          ]
+        },
+        "5982": {
+          "id": 5982,
+          "name": "Coach Pitch",
+          "teams": [
+            {
+              "id": 23232,
+              "name": "Skylarks"
+            },
+            {
+              "id": 23249,
+              "name": "Wizards"
+            },
+            {
+              "id": 23294,
+              "name": "Roadrunners"
+            },
+            {
+              "id": 23388,
+              "name": "Flamingos"
+            }
+          ]
+        },
+        "5986": {
+          "id": 5986,
+          "name": "Junorinnenliga Softball",
+          "teams": [
+            {
+              "id": 23322,
+              "name": "Ravens"
+            },
+            {
+              "id": 23323,
+              "name": "Challengers"
+            }
+          ]
+        },
+        "6056": {
+          "id": 6056,
+          "name": "Landesliga Baseball",
+          "teams": [
+            {
+              "id": 23329,
+              "name": "Roosters"
+            },
+            {
+              "id": 23331,
+              "name": "Sluggers 2"
+            }
+          ]
+        },
+        "6057": {
+          "id": 6057,
+          "name": "Verbandsliga Baseball",
+          "teams": [
+            {
+              "id": 23326,
+              "name": "Sluggers"
+            },
+            {
+              "id": 23328,
+              "name": "Wallbreakers"
+            }
+          ]
+        }
+      }
+    },
+    "BBSV": {
+      "id": "organization_6",
+      "leagues": {
+        "5876": {
+          "id": 5876,
+          "name": "Jugend Baseball Bayernliga (U15)",
+          "teams": [
+            {
+              "id": 22817,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23398,
+              "name": "Gauting Indians"
+            },
+            {
+              "id": 23414,
+              "name": "Guggenberger Legionäre"
+            },
+            {
+              "id": 23415,
+              "name": "Guggenberger Legionäre 2"
+            }
+          ]
+        },
+        "5882": {
+          "id": 5882,
+          "name": "Schüler Live Pitch Bayernliga (U12)",
+          "teams": [
+            {
+              "id": 22816,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23400,
+              "name": "Gauting Indians"
+            },
+            {
+              "id": 23413,
+              "name": "Guggenberger Legionäre"
+            }
+          ]
+        },
+        "5872": {
+          "id": 5872,
+          "name": "Landesklasse Baseball Nord",
+          "teams": [
+            {
+              "id": 22797,
+              "name": "Michelbach Angels"
+            },
+            {
+              "id": 22807,
+              "name": "Laub Raiders"
+            },
+            {
+              "id": 22820,
+              "name": "Niederlamitz Greens"
+            },
+            {
+              "id": 22890,
+              "name": "Memmelsdorf Barons 2"
+            },
+            {
+              "id": 22899,
+              "name": "Altdorf Icesharks"
+            },
+            {
+              "id": 22980,
+              "name": "Unterwurmbach Red Sox"
+            },
+            {
+              "id": 23028,
+              "name": "Ingolstadt Schanzer 2"
+            },
+            {
+              "id": 23033,
+              "name": "Erlangen White Sox 2"
+            }
+          ]
+        },
+        "5884": {
+          "id": 5884,
+          "name": "Schüler Live Pitch Landesliga Nord (U12) - R1",
+          "teams": [
+            {
+              "id": 22988,
+              "name": "Franken Rebels"
+            },
+            {
+              "id": 23191,
+              "name": "Erlangen White Sox"
+            },
+            {
+              "id": 23412,
+              "name": "Guggenberger Legionäre 2"
+            },
+            {
+              "id": 23420,
+              "name": "Memmelsdorf Barons"
+            },
+            {
+              "id": 23422,
+              "name": "Laufer Wölfe"
+            }
+          ]
+        },
+        "5896": {
+          "id": 5896,
+          "name": "Landesliga Softball",
+          "teams": [
+            {
+              "id": 22993,
+              "name": "SG Lauf/Erlangen"
+            },
+            {
+              "id": 23041,
+              "name": "Guggenberger Legionäre 3"
+            },
+            {
+              "id": 23045,
+              "name": "Freising Grizzlies 3"
+            },
+            {
+              "id": 23054,
+              "name": "München Caribes"
+            },
+            {
+              "id": 23132,
+              "name": "SG Ingolstadt/Haar 2/Füssen/Baldham/Gröbenzell"
+            }
+          ]
+        },
+        "5966": {
+          "id": 5966,
+          "name": "Bayernliga Baseball Süd",
+          "teams": [
+            {
+              "id": 22777,
+              "name": "Augsburg Gators"
+            },
+            {
+              "id": 22780,
+              "name": "Gauting Indians 2"
+            },
+            {
+              "id": 22781,
+              "name": "Gröbenzell Bandits"
+            },
+            {
+              "id": 22786,
+              "name": "Disciples München-Haar 2"
+            }
+          ]
+        },
+        "5873": {
+          "id": 5873,
+          "name": "Landesklasse Baseball Mitte/Süd",
+          "teams": [
+            {
+              "id": 22815,
+              "name": "Gauting Indians 3"
+            },
+            {
+              "id": 22896,
+              "name": "Augsburg Gators 3"
+            },
+            {
+              "id": 22991,
+              "name": "Guggenberger Legionäre 4"
+            },
+            {
+              "id": 23004,
+              "name": "Passau Beavers"
+            },
+            {
+              "id": 23055,
+              "name": "München Caribes 3"
+            },
+            {
+              "id": 23057,
+              "name": "Grünwald Jesters"
+            },
+            {
+              "id": 23060,
+              "name": "Gröbenzell Bandits 2"
+            },
+            {
+              "id": 23061,
+              "name": "Landsberg Crusaders"
+            }
+          ]
+        },
+        "5885": {
+          "id": 5885,
+          "name": "Schüler Live Pitch Landesliga Mitte (U12) - R1",
+          "teams": [
+            {
+              "id": 22819,
+              "name": "Freising Grizzlies 2"
+            },
+            {
+              "id": 22904,
+              "name": "Baldham Boars"
+            },
+            {
+              "id": 23200,
+              "name": "Dachau Tigers"
+            },
+            {
+              "id": 23347,
+              "name": "Schwaig Red Lions"
+            },
+            {
+              "id": 23390,
+              "name": "SG Steinheim/Landsberg"
+            },
+            {
+              "id": 23407,
+              "name": "Garching Atomics"
+            },
+            {
+              "id": 23412,
+              "name": "Guggenberger Legionäre 2"
+            },
+            {
+              "id": 23425,
+              "name": "Mühldorf Cubs"
+            },
+            {
+              "id": 23433,
+              "name": "SG Ingolstadt/Penzberg"
+            }
+          ]
+        },
+        "5888": {
+          "id": 5888,
+          "name": "Schüler Coach Pitch Mitte (U10) - R1",
+          "teams": [
+            {
+              "id": 22903,
+              "name": "Baldham Boars"
+            },
+            {
+              "id": 23066,
+              "name": "Kufstein Vikings"
+            },
+            {
+              "id": 23199,
+              "name": "Dachau Tigers"
+            },
+            {
+              "id": 23342,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23348,
+              "name": "Schwaig Red Lions"
+            },
+            {
+              "id": 23352,
+              "name": "Augsburg Gators"
+            },
+            {
+              "id": 23392,
+              "name": "Ingolstadt Schanzer"
+            },
+            {
+              "id": 23410,
+              "name": "Guggenberger Legionäre"
+            },
+            {
+              "id": 23430,
+              "name": "München Caribes"
+            },
+            {
+              "id": 23492,
+              "name": "Disciples München-Haar"
+            }
+          ]
+        },
+        "5894": {
+          "id": 5894,
+          "name": "Bayernliga Softball",
+          "teams": [
+            {
+              "id": 22783,
+              "name": "Disciples München-Haar"
+            },
+            {
+              "id": 22784,
+              "name": "Freising Grizzlies 2"
+            },
+            {
+              "id": 22785,
+              "name": "Guggenberger Legionäre 2"
+            }
+          ]
+        },
+        "5867": {
+          "id": 5867,
+          "name": "Bayernliga Baseball Nord",
+          "teams": [
+            {
+              "id": 22778,
+              "name": "Erlangen White Sox"
+            },
+            {
+              "id": 22779,
+              "name": "Fürth Pirates"
+            },
+            {
+              "id": 22782,
+              "name": "Laufer Wölfe"
+            },
+            {
+              "id": 22787,
+              "name": "Memmelsdorf Barons"
+            },
+            {
+              "id": 22789,
+              "name": "Schweinfurt Giants"
+            }
+          ]
+        },
+        "5870": {
+          "id": 5870,
+          "name": "Landesliga Baseball West",
+          "teams": [
+            {
+              "id": 22793,
+              "name": "Füssen Royal Bavarians 2"
+            },
+            {
+              "id": 22806,
+              "name": "SG Garching 2/Erding"
+            },
+            {
+              "id": 22894,
+              "name": "Gundelfingen Moskitos"
+            },
+            {
+              "id": 22895,
+              "name": "Augsburg Gators 2"
+            },
+            {
+              "id": 22898,
+              "name": "Steinheim Red Phantoms"
+            },
+            {
+              "id": 23053,
+              "name": "München Caribes 2"
+            }
+          ]
+        },
+        "5871": {
+          "id": 5871,
+          "name": "Landesliga Baseball Ost",
+          "teams": [
+            {
+              "id": 22897,
+              "name": "Schwaig Red Lions 2"
+            },
+            {
+              "id": 22902,
+              "name": "Baldham Boars 2"
+            },
+            {
+              "id": 22990,
+              "name": "Guggenberger Legionäre 3"
+            },
+            {
+              "id": 23024,
+              "name": "Allershausen Fireballs"
+            },
+            {
+              "id": 23039,
+              "name": "SG Rosenheim/Bad Aibling 89ers"
+            },
+            {
+              "id": 23044,
+              "name": "Freising Grizzlies 2"
+            }
+          ]
+        },
+        "6024": {
+          "id": 6024,
+          "name": "Jugend Baseball Landesliga Südwest (U15) - R1",
+          "teams": [
+            {
+              "id": 22794,
+              "name": "Füssen Royal Bavarians"
+            },
+            {
+              "id": 23201,
+              "name": "Dachau Tigers"
+            },
+            {
+              "id": 23350,
+              "name": "Augsburg Gators"
+            },
+            {
+              "id": 23389,
+              "name": "SG Steinheim/Landsberg"
+            },
+            {
+              "id": 23399,
+              "name": "Gauting Indians 2"
+            }
+          ]
+        },
+        "5886": {
+          "id": 5886,
+          "name": "Schüler Live Pitch Landesliga Südwest (U12) - R1",
+          "teams": [
+            {
+              "id": 22795,
+              "name": "Füssen Royal Bavarians"
+            },
+            {
+              "id": 22904,
+              "name": "Baldham Boars"
+            },
+            {
+              "id": 23200,
+              "name": "Dachau Tigers"
+            },
+            {
+              "id": 23351,
+              "name": "Augsburg Gators"
+            },
+            {
+              "id": 23390,
+              "name": "SG Steinheim/Landsberg"
+            },
+            {
+              "id": 23401,
+              "name": "Gauting Indians 2"
+            },
+            {
+              "id": 23424,
+              "name": "SG Gröbenzell/Haar"
+            },
+            {
+              "id": 23433,
+              "name": "SG Ingolstadt/Penzberg"
+            }
+          ]
+        },
+        "5869": {
+          "id": 5869,
+          "name": "Landesliga Baseball Nord",
+          "teams": [
+            {
+              "id": 22982,
+              "name": "Fürth Pirates 2"
+            },
+            {
+              "id": 22989,
+              "name": "Franken Rebels"
+            },
+            {
+              "id": 22992,
+              "name": "Laufer Wölfe 2"
+            },
+            {
+              "id": 23012,
+              "name": "Schweinfurt Giants 2"
+            },
+            {
+              "id": 23027,
+              "name": "Ingolstadt Schanzer"
+            },
+            {
+              "id": 23056,
+              "name": "Kronach Royals"
+            }
+          ]
+        },
+        "5880": {
+          "id": 5880,
+          "name": "Jugend Baseball Landesliga Südost (U15) - R1",
+          "teams": [
+            {
+              "id": 23058,
+              "name": "Grünwald Jesters"
+            },
+            {
+              "id": 23346,
+              "name": "Schwaig Red Lions"
+            },
+            {
+              "id": 23370,
+              "name": "Disciples München-Haar"
+            },
+            {
+              "id": 23406,
+              "name": "SG Garching/Erding/Baldham"
+            },
+            {
+              "id": 23427,
+              "name": "München Caribes"
+            }
+          ]
+        },
+        "5890": {
+          "id": 5890,
+          "name": "Schüler Coach Pitch Südost (U10) - R1",
+          "teams": [
+            {
+              "id": 22903,
+              "name": "Baldham Boars"
+            },
+            {
+              "id": 23066,
+              "name": "Kufstein Vikings"
+            },
+            {
+              "id": 23199,
+              "name": "Dachau Tigers"
+            },
+            {
+              "id": 23405,
+              "name": "SG Garching/Erding"
+            },
+            {
+              "id": 23430,
+              "name": "München Caribes"
+            },
+            {
+              "id": 23492,
+              "name": "Disciples München-Haar"
+            }
+          ]
+        },
+        "5901": {
+          "id": 5901,
+          "name": "Schüler Softball (U13) - R1",
+          "teams": [
+            {
+              "id": 23344,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23418,
+              "name": "Guggenberger Legionäre"
+            }
+          ]
+        },
+        "6023": {
+          "id": 6023,
+          "name": "Junioren Baseball Bayernliga (U18)",
+          "teams": [
+            {
+              "id": 23371,
+              "name": "Disciples München-Haar"
+            },
+            {
+              "id": 23397,
+              "name": "Gauting Indians"
+            },
+            {
+              "id": 23417,
+              "name": "Guggenberger Legionäre"
+            }
+          ]
+        },
+        "6027": {
+          "id": 6027,
+          "name": "Schüler Live Pitch Landesliga Pokal (U12)",
+          "teams": [
+            {
+              "id": 22795,
+              "name": "Füssen Royal Bavarians"
+            },
+            {
+              "id": 22819,
+              "name": "Freising Grizzlies 2"
+            },
+            {
+              "id": 22904,
+              "name": "Baldham Boars"
+            },
+            {
+              "id": 22988,
+              "name": "Franken Rebels"
+            },
+            {
+              "id": 23191,
+              "name": "Erlangen White Sox"
+            },
+            {
+              "id": 23390,
+              "name": "SG Steinheim/Landsberg"
+            },
+            {
+              "id": 23401,
+              "name": "Gauting Indians 2"
+            },
+            {
+              "id": 23407,
+              "name": "Garching Atomics"
+            },
+            {
+              "id": 23412,
+              "name": "Guggenberger Legionäre 2"
+            },
+            {
+              "id": 23424,
+              "name": "SG Gröbenzell/Haar"
+            }
+          ]
+        },
+        "6025": {
+          "id": 6025,
+          "name": "Schüler Live Pitch Landesliga Südost (U12) - R1",
+          "teams": [
+            {
+              "id": 22904,
+              "name": "Baldham Boars"
+            },
+            {
+              "id": 23067,
+              "name": "Kufstein Vikings"
+            },
+            {
+              "id": 23200,
+              "name": "Dachau Tigers"
+            },
+            {
+              "id": 23433,
+              "name": "SG Ingolstadt/Penzberg"
+            }
+          ]
+        },
+        "6026": {
+          "id": 6026,
+          "name": "Schüler Coach Pitch Nord (U10)",
+          "teams": [
+            {
+              "id": 23192,
+              "name": "Erlangen White Sox"
+            },
+            {
+              "id": 23342,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23395,
+              "name": "Fürth Pirates"
+            },
+            {
+              "id": 23410,
+              "name": "Guggenberger Legionäre"
+            },
+            {
+              "id": 23411,
+              "name": "Guggenberger Legionäre 2"
+            },
+            {
+              "id": 23423,
+              "name": "Laufer Wölfe"
+            },
+            {
+              "id": 23492,
+              "name": "Disciples München-Haar"
+            }
+          ]
+        },
+        "5889": {
+          "id": 5889,
+          "name": "Schüler Coach Pitch Südwest (U10) - R1",
+          "teams": [
+            {
+              "id": 22796,
+              "name": "Füssen Royal Bavarians"
+            },
+            {
+              "id": 22903,
+              "name": "Baldham Boars"
+            },
+            {
+              "id": 23066,
+              "name": "Kufstein Vikings"
+            },
+            {
+              "id": 23199,
+              "name": "Dachau Tigers"
+            },
+            {
+              "id": 23340,
+              "name": "Penzberg Panthers"
+            },
+            {
+              "id": 23352,
+              "name": "Augsburg Gators"
+            },
+            {
+              "id": 23402,
+              "name": "Gauting Indians"
+            },
+            {
+              "id": 23405,
+              "name": "SG Garching/Erding"
+            },
+            {
+              "id": 23430,
+              "name": "München Caribes"
+            },
+            {
+              "id": 23492,
+              "name": "Disciples München-Haar"
+            }
+          ]
+        },
+        "5892": {
+          "id": 5892,
+          "name": "Kinder Teeball (U8) - R1",
+          "teams": [
+            {
+              "id": 23065,
+              "name": "Kufstein Vikings"
+            },
+            {
+              "id": 23341,
+              "name": "Penzberg Panthers"
+            },
+            {
+              "id": 23349,
+              "name": "Schwaig Red Lions"
+            },
+            {
+              "id": 23403,
+              "name": "Gauting Indians"
+            },
+            {
+              "id": 23409,
+              "name": "Guggenberger Legionäre"
+            }
+          ]
+        },
+        "5878": {
+          "id": 5878,
+          "name": "Jugend Baseball Landesliga Nord (U15) - R1",
+          "teams": [
+            {
+              "id": 22891,
+              "name": "Memmelsdorf Barons"
+            },
+            {
+              "id": 23190,
+              "name": "Erlangen White Sox"
+            },
+            {
+              "id": 23394,
+              "name": "Fürth Pirates"
+            },
+            {
+              "id": 23421,
+              "name": "Laufer Wölfe"
+            }
+          ]
+        },
+        "5899": {
+          "id": 5899,
+          "name": "Jugend Softball (U16) - R1",
+          "teams": [
+            {
+              "id": 23345,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23419,
+              "name": "Guggenberger Legionäre"
+            },
+            {
+              "id": 23429,
+              "name": "SG Haar/Füssen"
+            }
+          ]
+        },
+        "5879": {
+          "id": 5879,
+          "name": "Jugend Baseball Landesliga Mitte (U15) - R1",
+          "teams": [
+            {
+              "id": 22818,
+              "name": "Freising Grizzlies 2"
+            },
+            {
+              "id": 22900,
+              "name": "Altdorf Icesharks"
+            },
+            {
+              "id": 23391,
+              "name": "Ingolstadt Schanzer"
+            },
+            {
+              "id": 23416,
+              "name": "Guggenberger Legionäre 3"
+            }
+          ]
+        },
+        "6061": {
+          "id": 6061,
+          "name": "BBQ Slowpitch-Mixed Softball Gruppe Süd",
+          "teams": [
+            {
+              "id": 23497,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23498,
+              "name": "Grünwald Jesters"
+            },
+            {
+              "id": 23499,
+              "name": "Penzberg Panthers"
+            },
+            {
+              "id": 23502,
+              "name": "Dachau Tigers"
+            }
+          ]
+        },
+        "6064": {
+          "id": 6064,
+          "name": "Schüler Live Pitch Bayernliga (U12) - Bay. Meisterschaft",
+          "teams": [
+            {
+              "id": 22816,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23400,
+              "name": "Gauting Indians"
+            }
+          ]
+        },
+        "6066": {
+          "id": 6066,
+          "name": "Jugend Baseball Bayernliga (U15) - Bay. Meisterschaft",
+          "teams": [
+            {
+              "id": 23398,
+              "name": "Gauting Indians"
+            },
+            {
+              "id": 23414,
+              "name": "Guggenberger Legionäre"
+            }
+          ]
+        },
+        "6065": {
+          "id": 6065,
+          "name": "Junioren Baseball (U18) - Bay. Meisterschaft",
+          "teams": [
+            {
+              "id": 23371,
+              "name": "Disciples München-Haar"
+            },
+            {
+              "id": 23397,
+              "name": "Gauting Indians"
+            }
+          ]
+        },
+        "6068": {
+          "id": 6068,
+          "name": "Bayernliga Baseball Playoffs",
+          "teams": [
+            {
+              "id": 22777,
+              "name": "Augsburg Gators"
+            },
+            {
+              "id": 22779,
+              "name": "Fürth Pirates"
+            },
+            {
+              "id": 22780,
+              "name": "Gauting Indians 2"
+            },
+            {
+              "id": 22782,
+              "name": "Laufer Wölfe"
+            }
+          ]
+        },
+        "5903": {
+          "id": 5903,
+          "name": "BBQ Slowpitch-Mixed Softball Gruppe Nord",
+          "teams": [
+            {
+              "id": 23495,
+              "name": "Franken Rebels"
+            },
+            {
+              "id": 23496,
+              "name": "Fürth Pirates"
+            },
+            {
+              "id": 23500,
+              "name": "Regensburg Crazy Bones"
+            },
+            {
+              "id": 23501,
+              "name": "Amberg Brewers"
+            }
+          ]
+        },
+        "6069": {
+          "id": 6069,
+          "name": "Bayernliga Baseball Playdowns",
+          "teams": [
+            {
+              "id": 22778,
+              "name": "Erlangen White Sox"
+            },
+            {
+              "id": 22781,
+              "name": "Gröbenzell Bandits"
+            },
+            {
+              "id": 22786,
+              "name": "Disciples München-Haar 2"
+            },
+            {
+              "id": 22787,
+              "name": "Memmelsdorf Barons"
+            },
+            {
+              "id": 22789,
+              "name": "Schweinfurt Giants"
+            }
+          ]
+        },
+        "6070": {
+          "id": 6070,
+          "name": "Landesliga Baseball Playoffs",
+          "teams": [
+            {
+              "id": 22806,
+              "name": "SG Garching 2/Erding"
+            },
+            {
+              "id": 22897,
+              "name": "Schwaig Red Lions 2"
+            },
+            {
+              "id": 22990,
+              "name": "Guggenberger Legionäre 3"
+            },
+            {
+              "id": 23027,
+              "name": "Ingolstadt Schanzer"
+            },
+            {
+              "id": 23053,
+              "name": "München Caribes 2"
+            },
+            {
+              "id": 23056,
+              "name": "Kronach Royals"
+            }
+          ]
+        },
+        "6071": {
+          "id": 6071,
+          "name": "Landesliga Baseball Nord (Herbstrunde)",
+          "teams": [
+            {
+              "id": 22982,
+              "name": "Fürth Pirates 2"
+            },
+            {
+              "id": 22992,
+              "name": "Laufer Wölfe 2"
+            },
+            {
+              "id": 23012,
+              "name": "Schweinfurt Giants 2"
+            }
+          ]
+        },
+        "6072": {
+          "id": 6072,
+          "name": "Landesliga Baseball Süd (Herbstrunde)",
+          "teams": [
+            {
+              "id": 22793,
+              "name": "Füssen Royal Bavarians 2"
+            },
+            {
+              "id": 22895,
+              "name": "Augsburg Gators 2"
+            },
+            {
+              "id": 22898,
+              "name": "Steinheim Red Phantoms"
+            },
+            {
+              "id": 23024,
+              "name": "Allershausen Fireballs"
+            },
+            {
+              "id": 23039,
+              "name": "SG Rosenheim/Bad Aibling 89ers"
+            }
+          ]
+        },
+        "6074": {
+          "id": 6074,
+          "name": "Jugend Baseball Bayernliga (U15) - R2",
+          "teams": [
+            {
+              "id": 22817,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23398,
+              "name": "Gauting Indians"
+            },
+            {
+              "id": 23414,
+              "name": "Guggenberger Legionäre"
+            },
+            {
+              "id": 23415,
+              "name": "Guggenberger Legionäre 2"
+            },
+            {
+              "id": 23509,
+              "name": "Franken United"
+            },
+            {
+              "id": 23512,
+              "name": "Schwaig Red Lions"
+            },
+            {
+              "id": 23516,
+              "name": "Ingolstadt Schanzer"
+            }
+          ]
+        },
+        "6077": {
+          "id": 6077,
+          "name": "Schüler Live Pitch Bayernliga (U12) - R2",
+          "teams": [
+            {
+              "id": 22816,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23413,
+              "name": "Guggenberger Legionäre"
+            },
+            {
+              "id": 23510,
+              "name": "Franken United"
+            },
+            {
+              "id": 23519,
+              "name": "SG Ingolstadt/Penzberg"
+            }
+          ]
+        },
+        "6075": {
+          "id": 6075,
+          "name": "Jugend Baseball Landesliga Nord (U15) - R2",
+          "teams": [
+            {
+              "id": 22818,
+              "name": "Freising Grizzlies 2"
+            },
+            {
+              "id": 22900,
+              "name": "Altdorf Icesharks"
+            },
+            {
+              "id": 23201,
+              "name": "Dachau Tigers"
+            },
+            {
+              "id": 23389,
+              "name": "SG Steinheim/Landsberg"
+            },
+            {
+              "id": 23394,
+              "name": "Fürth Pirates"
+            },
+            {
+              "id": 23427,
+              "name": "München Caribes"
+            },
+            {
+              "id": 23515,
+              "name": "SG Garching/Erding"
+            },
+            {
+              "id": 23523,
+              "name": "Memmelsdorf Barons 2"
+            }
+          ]
+        },
+        "6076": {
+          "id": 6076,
+          "name": "Jugend Baseball Landesliga Süd (U15) - R2",
+          "teams": [
+            {
+              "id": 22794,
+              "name": "Füssen Royal Bavarians"
+            },
+            {
+              "id": 23058,
+              "name": "Grünwald Jesters"
+            },
+            {
+              "id": 23350,
+              "name": "Augsburg Gators"
+            },
+            {
+              "id": 23370,
+              "name": "Disciples München-Haar"
+            },
+            {
+              "id": 23389,
+              "name": "SG Steinheim/Landsberg"
+            },
+            {
+              "id": 23399,
+              "name": "Gauting Indians 2"
+            },
+            {
+              "id": 23514,
+              "name": "Baldham Boars"
+            }
+          ]
+        },
+        "6078": {
+          "id": 6078,
+          "name": "Schüler Live Pitch Landesliga Nord (U12) - R2",
+          "teams": [
+            {
+              "id": 22988,
+              "name": "Franken Rebels"
+            },
+            {
+              "id": 23508,
+              "name": "Fürth Pirates"
+            },
+            {
+              "id": 23518,
+              "name": "SG Memmelsdorf/Schweinfurt"
+            },
+            {
+              "id": 23521,
+              "name": "Erlangen White Sox 2"
+            },
+            {
+              "id": 23524,
+              "name": "Laufer Wölfe 2"
+            }
+          ]
+        },
+        "6079": {
+          "id": 6079,
+          "name": "Schüler Live Pitch Landesliga Mitte (U12) - R2",
+          "teams": [
+            {
+              "id": 22819,
+              "name": "Freising Grizzlies 2"
+            },
+            {
+              "id": 23200,
+              "name": "Dachau Tigers"
+            },
+            {
+              "id": 23347,
+              "name": "Schwaig Red Lions"
+            },
+            {
+              "id": 23407,
+              "name": "Garching Atomics"
+            },
+            {
+              "id": 23412,
+              "name": "Guggenberger Legionäre 2"
+            },
+            {
+              "id": 23424,
+              "name": "SG Gröbenzell/Haar"
+            },
+            {
+              "id": 23425,
+              "name": "Mühldorf Cubs"
+            },
+            {
+              "id": 23433,
+              "name": "SG Ingolstadt/Penzberg"
+            }
+          ]
+        },
+        "6080": {
+          "id": 6080,
+          "name": "Schüler Live Pitch Landesliga Süd (U12) - R2",
+          "teams": [
+            {
+              "id": 22795,
+              "name": "Füssen Royal Bavarians"
+            },
+            {
+              "id": 22819,
+              "name": "Freising Grizzlies 2"
+            },
+            {
+              "id": 22904,
+              "name": "Baldham Boars"
+            },
+            {
+              "id": 23059,
+              "name": "Grünwald Jesters"
+            },
+            {
+              "id": 23067,
+              "name": "Kufstein Vikings"
+            },
+            {
+              "id": 23390,
+              "name": "SG Steinheim/Landsberg"
+            },
+            {
+              "id": 23401,
+              "name": "Gauting Indians 2"
+            },
+            {
+              "id": 23424,
+              "name": "SG Gröbenzell/Haar"
+            },
+            {
+              "id": 23425,
+              "name": "Mühldorf Cubs"
+            },
+            {
+              "id": 23433,
+              "name": "SG Ingolstadt/Penzberg"
+            }
+          ]
+        },
+        "6081": {
+          "id": 6081,
+          "name": "Schüler Coach Pitch Nord (U10) - R2",
+          "teams": [
+            {
+              "id": 23342,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23392,
+              "name": "Ingolstadt Schanzer"
+            },
+            {
+              "id": 23395,
+              "name": "Fürth Pirates"
+            },
+            {
+              "id": 23405,
+              "name": "SG Garching/Erding"
+            },
+            {
+              "id": 23410,
+              "name": "Guggenberger Legionäre"
+            },
+            {
+              "id": 23411,
+              "name": "Guggenberger Legionäre 2"
+            },
+            {
+              "id": 23423,
+              "name": "Laufer Wölfe"
+            },
+            {
+              "id": 23513,
+              "name": "Altdorf Icesharks"
+            }
+          ]
+        },
+        "6082": {
+          "id": 6082,
+          "name": "Schüler Coach Pitch Südwest (U10) - R2",
+          "teams": [
+            {
+              "id": 22796,
+              "name": "Füssen Royal Bavarians"
+            },
+            {
+              "id": 23199,
+              "name": "Dachau Tigers"
+            },
+            {
+              "id": 23340,
+              "name": "Penzberg Panthers"
+            },
+            {
+              "id": 23348,
+              "name": "Schwaig Red Lions"
+            },
+            {
+              "id": 23352,
+              "name": "Augsburg Gators"
+            },
+            {
+              "id": 23395,
+              "name": "Fürth Pirates"
+            },
+            {
+              "id": 23402,
+              "name": "Gauting Indians"
+            },
+            {
+              "id": 23423,
+              "name": "Laufer Wölfe"
+            },
+            {
+              "id": 23430,
+              "name": "München Caribes"
+            },
+            {
+              "id": 23492,
+              "name": "Disciples München-Haar"
+            }
+          ]
+        },
+        "6083": {
+          "id": 6083,
+          "name": "Schüler Coach Pitch Südost (U10) - R2",
+          "teams": [
+            {
+              "id": 22903,
+              "name": "Baldham Boars"
+            },
+            {
+              "id": 23348,
+              "name": "Schwaig Red Lions"
+            },
+            {
+              "id": 23410,
+              "name": "Guggenberger Legionäre"
+            },
+            {
+              "id": 23430,
+              "name": "München Caribes"
+            },
+            {
+              "id": 23520,
+              "name": "Mühldorf Cubs"
+            }
+          ]
+        },
+        "6084": {
+          "id": 6084,
+          "name": "Kinder Teeball (U8) - R2",
+          "teams": [
+            {
+              "id": 23341,
+              "name": "Penzberg Panthers"
+            },
+            {
+              "id": 23349,
+              "name": "Schwaig Red Lions"
+            },
+            {
+              "id": 23403,
+              "name": "Gauting Indians"
+            },
+            {
+              "id": 23409,
+              "name": "Guggenberger Legionäre"
+            },
+            {
+              "id": 23517,
+              "name": "Ingolstadt Schanzer"
+            }
+          ]
+        },
+        "6088": {
+          "id": 6088,
+          "name": "Schüler Softball (U13) - R2",
+          "teams": [
+            {
+              "id": 23344,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23418,
+              "name": "Guggenberger Legionäre"
+            }
+          ]
+        },
+        "6085": {
+          "id": 6085,
+          "name": "Schüler Coach Pitch Mitte (U10) - R2",
+          "teams": [
+            {
+              "id": 22903,
+              "name": "Baldham Boars"
+            },
+            {
+              "id": 23199,
+              "name": "Dachau Tigers"
+            },
+            {
+              "id": 23340,
+              "name": "Penzberg Panthers"
+            },
+            {
+              "id": 23342,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23352,
+              "name": "Augsburg Gators"
+            },
+            {
+              "id": 23395,
+              "name": "Fürth Pirates"
+            },
+            {
+              "id": 23405,
+              "name": "SG Garching/Erding"
+            },
+            {
+              "id": 23410,
+              "name": "Guggenberger Legionäre"
+            },
+            {
+              "id": 23423,
+              "name": "Laufer Wölfe"
+            },
+            {
+              "id": 23430,
+              "name": "München Caribes"
+            },
+            {
+              "id": 23492,
+              "name": "Disciples München-Haar"
+            },
+            {
+              "id": 23520,
+              "name": "Mühldorf Cubs"
+            }
+          ]
+        },
+        "6089": {
+          "id": 6089,
+          "name": "Jugend Softball (U16) - Bay. Meisterschaft",
+          "teams": [
+            {
+              "id": 23345,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23419,
+              "name": "Guggenberger Legionäre"
+            },
+            {
+              "id": 23429,
+              "name": "SG Haar/Füssen"
+            }
+          ]
+        },
+        "6086": {
+          "id": 6086,
+          "name": "Junioren Baseball (U18) - R2",
+          "teams": [
+            {
+              "id": 23371,
+              "name": "Disciples München-Haar"
+            },
+            {
+              "id": 23397,
+              "name": "Gauting Indians"
+            },
+            {
+              "id": 23417,
+              "name": "Guggenberger Legionäre"
+            }
+          ]
+        },
+        "6073": {
+          "id": 6073,
+          "name": "Landesklasse Baseball Playoffs",
+          "teams": [
+            {
+              "id": 22807,
+              "name": "Laub Raiders"
+            },
+            {
+              "id": 22991,
+              "name": "Guggenberger Legionäre 4"
+            },
+            {
+              "id": 23033,
+              "name": "Erlangen White Sox 2"
+            },
+            {
+              "id": 23057,
+              "name": "Grünwald Jesters"
+            }
+          ]
+        },
+        "6067": {
+          "id": 6067,
+          "name": "Jugend Baseball Landesliga Pokal (U15) - Finalturnier",
+          "teams": [
+            {
+              "id": 23190,
+              "name": "Erlangen White Sox"
+            },
+            {
+              "id": 23346,
+              "name": "Schwaig Red Lions"
+            },
+            {
+              "id": 23391,
+              "name": "Ingolstadt Schanzer"
+            },
+            {
+              "id": 23399,
+              "name": "Gauting Indians 2"
+            }
+          ]
+        },
+        "6116": {
+          "id": 6116,
+          "name": "Schüler Coach Pitch - Bay. Meisterschaft, Gruppe A",
+          "teams": [
+            {
+              "id": 23507,
+              "name": "Ingolstadt Schanzer"
+            },
+            {
+              "id": 23526,
+              "name": "Penzberg Panthers"
+            },
+            {
+              "id": 23528,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23555,
+              "name": "Guggenberger Legionäre 2"
+            }
+          ]
+        },
+        "6117": {
+          "id": 6117,
+          "name": "Schüler Coach Pitch - Bay. Meisterschaft, Gruppe B",
+          "teams": [
+            {
+              "id": 23538,
+              "name": "Dachau Tigers"
+            },
+            {
+              "id": 23539,
+              "name": "SG Garching/Erding"
+            },
+            {
+              "id": 23565,
+              "name": "Gauting Indians 2"
+            },
+            {
+              "id": 23567,
+              "name": "München Caribes"
+            }
+          ]
+        },
+        "6119": {
+          "id": 6119,
+          "name": "Schüler Coach Pitch - Bay. Meisterschaft, Gruppe D",
+          "teams": [
+            {
+              "id": 23505,
+              "name": "Guggenberger Legionäre"
+            },
+            {
+              "id": 23529,
+              "name": "Freising Grizzlies 2"
+            },
+            {
+              "id": 23566,
+              "name": "Schwaig Red Lions"
+            }
+          ]
+        },
+        "6118": {
+          "id": 6118,
+          "name": "Schüler Coach Pitch - Bay. Meisterschaft, Gruppe C",
+          "teams": [
+            {
+              "id": 23522,
+              "name": "Mühldorf Cubs"
+            },
+            {
+              "id": 23527,
+              "name": "Baldham Boars"
+            },
+            {
+              "id": 23564,
+              "name": "Gauting Indians"
+            }
+          ]
+        },
+        "6121": {
+          "id": 6121,
+          "name": "Schüler Coach Pitch - Bay. Meisterschaft, Playoffs",
+          "teams": [
+            {
+              "id": 23505,
+              "name": "Guggenberger Legionäre"
+            },
+            {
+              "id": 23527,
+              "name": "Baldham Boars"
+            },
+            {
+              "id": 23528,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23539,
+              "name": "SG Garching/Erding"
+            },
+            {
+              "id": 23555,
+              "name": "Guggenberger Legionäre 2"
+            },
+            {
+              "id": 23564,
+              "name": "Gauting Indians"
+            },
+            {
+              "id": 23566,
+              "name": "Schwaig Red Lions"
+            },
+            {
+              "id": 23567,
+              "name": "München Caribes"
+            }
+          ]
+        },
+        "6120": {
+          "id": 6120,
+          "name": "Schüler Coach Pitch - Bay. Meisterschaft, Platzierungsrunde",
+          "teams": [
+            {
+              "id": 23507,
+              "name": "Ingolstadt Schanzer"
+            },
+            {
+              "id": 23522,
+              "name": "Mühldorf Cubs"
+            },
+            {
+              "id": 23526,
+              "name": "Penzberg Panthers"
+            },
+            {
+              "id": 23529,
+              "name": "Freising Grizzlies 2"
+            },
+            {
+              "id": 23538,
+              "name": "Dachau Tigers"
+            },
+            {
+              "id": 23565,
+              "name": "Gauting Indians 2"
+            }
+          ]
+        },
+        "6110": {
+          "id": 6110,
+          "name": "BBQ Slowpitch-Mixed Softball Finale",
+          "teams": [
+            {
+              "id": 23496,
+              "name": "Fürth Pirates"
+            },
+            {
+              "id": 23497,
+              "name": "Freising Grizzlies"
+            },
+            {
+              "id": 23499,
+              "name": "Penzberg Panthers"
+            },
+            {
+              "id": 23500,
+              "name": "Regensburg Crazy Bones"
+            }
+          ]
+        }
+      }
+    },
+    "HBSV": {
+      "id": "organization_4",
+      "leagues": {
+        "6049": {
+          "id": 6049,
+          "name": "Schüler Landesliga  Baseball",
+          "teams": [
+            {
+              "id": 23473,
+              "name": "SG Friedberg Braves/Giessen Busters"
+            },
+            {
+              "id": 23474,
+              "name": "Bad Homburg Hornets"
+            },
+            {
+              "id": 23475,
+              "name": "Darmstadt Whippets 2"
+            },
+            {
+              "id": 23476,
+              "name": "Main-Taunus Redwings 2"
+            },
+            {
+              "id": 23477,
+              "name": "Mainz Athletics 2"
+            },
+            {
+              "id": 23478,
+              "name": "Hünstetten STORM"
+            }
+          ]
+        },
+        "6047": {
+          "id": 6047,
+          "name": "Jugend Verbandsliga Baseball",
+          "teams": [
+            {
+              "id": 23464,
+              "name": "Darmstadt Whippets"
+            },
+            {
+              "id": 23465,
+              "name": "Main-Taunus Redwings"
+            },
+            {
+              "id": 23466,
+              "name": "Mainz Athletics"
+            },
+            {
+              "id": 23467,
+              "name": "Bad Homburg Hornets"
+            },
+            {
+              "id": 23468,
+              "name": "Frankfurt 1860"
+            }
+          ]
+        },
+        "6043": {
+          "id": 6043,
+          "name": "Verbandsliga Baseball",
+          "teams": [
+            {
+              "id": 23445,
+              "name": "Frankfurt 1860"
+            },
+            {
+              "id": 23446,
+              "name": "Rüsselsheim Moskitos"
+            },
+            {
+              "id": 23447,
+              "name": "Kassel Herkules"
+            },
+            {
+              "id": 23448,
+              "name": "Fulda Blackhorses"
+            },
+            {
+              "id": 23449,
+              "name": "Main-Taunus Redwings"
+            },
+            {
+              "id": 23450,
+              "name": "Friedberg Braves"
+            }
+          ]
+        },
+        "6044": {
+          "id": 6044,
+          "name": "Landesliga Baseball",
+          "teams": [
+            {
+              "id": 23451,
+              "name": "Pilots Rhein Main Offenbach"
+            },
+            {
+              "id": 23452,
+              "name": "Erbach Grasshoppers"
+            },
+            {
+              "id": 23453,
+              "name": "Frankfurt 1860 2"
+            },
+            {
+              "id": 23454,
+              "name": "Darmstadt Whippets 2"
+            },
+            {
+              "id": 23455,
+              "name": "Giessen Busters"
+            },
+            {
+              "id": 23456,
+              "name": "Wiesbaden Flyers"
+            },
+            {
+              "id": 23489,
+              "name": "Hünstetten STORM 2"
+            }
+          ]
+        },
+        "6046": {
+          "id": 6046,
+          "name": "Jugend Landesliga Baseball",
+          "teams": [
+            {
+              "id": 23461,
+              "name": "Saarlouis Hornets"
+            },
+            {
+              "id": 23462,
+              "name": "Main-Taunus Redwings 2"
+            },
+            {
+              "id": 23463,
+              "name": "SG Dreieich Vultures/Hünstetten STORM"
+            }
+          ]
+        },
+        "6048": {
+          "id": 6048,
+          "name": "Schüler Verbandsliga Baseball",
+          "teams": [
+            {
+              "id": 23469,
+              "name": "Darmstadt Whippets"
+            },
+            {
+              "id": 23470,
+              "name": "Mainz Athletics"
+            },
+            {
+              "id": 23471,
+              "name": "Main-Taunus Redwings"
+            },
+            {
+              "id": 23472,
+              "name": "Frankfurt 1860"
+            }
+          ]
+        },
+        "6045": {
+          "id": 6045,
+          "name": "Junioren Verbandsliga Baseball ",
+          "teams": [
+            {
+              "id": 23457,
+              "name": "Main-Taunus Redwings"
+            },
+            {
+              "id": 23458,
+              "name": "Darmstadt Whippets"
+            },
+            {
+              "id": 23459,
+              "name": "Mainz Athletics"
+            },
+            {
+              "id": 23460,
+              "name": "SG Bad Homburg Hornets/Hünstetten STORM"
+            }
+          ]
+        },
+        "6051": {
+          "id": 6051,
+          "name": "Verbandsliga Softball",
+          "teams": [
+            {
+              "id": 23485,
+              "name": "Frankfurt 1860"
+            },
+            {
+              "id": 23486,
+              "name": "Mainz Athletics"
+            },
+            {
+              "id": 23487,
+              "name": "Main-Taunus Redwings"
+            },
+            {
+              "id": 23488,
+              "name": "SG Bad Kreuznach Cobras/Coblenz Raptors/Saarlouis Hornets"
+            }
+          ]
+        },
+        "6050": {
+          "id": 6050,
+          "name": "T-Ball",
+          "teams": [
+            {
+              "id": 23479,
+              "name": "Main-Taunus Redwings"
+            },
+            {
+              "id": 23480,
+              "name": "Main-Taunus Redwings 2"
+            },
+            {
+              "id": 23481,
+              "name": "Mainz Athletics"
+            },
+            {
+              "id": 23482,
+              "name": "Darmstadt Whippets"
+            },
+            {
+              "id": 23483,
+              "name": "SG Bad Homburg Hornets/Friedberg Braves"
+            },
+            {
+              "id": 23484,
+              "name": "SG Frankfurt 1860/Hünstetten STORM"
+            }
+          ]
+        },
+        "6060": {
+          "id": 6060,
+          "name": "Juniorinnen Verbandsliga Softball",
+          "teams": [
+            {
+              "id": 23493,
+              "name": "Main-Taunus Redwings"
+            },
+            {
+              "id": 23494,
+              "name": "Mainz Athletics"
+            }
+          ]
+        }
+      }
+    },
+    "MBSV": {
+      "id": "organization_8",
+      "leagues": {
+        "6042": {
+          "id": 6042,
+          "name": "Mitteldeutsche Liga Softball",
+          "teams": [
+            {
+              "id": 23443,
+              "name": "Dresden Dukes"
+            },
+            {
+              "id": 23444,
+              "name": "SG Leipzig Wallbreakers/Magdeburg Poor Pigs"
+            }
+          ]
+        },
+        "6039": {
+          "id": 6039,
+          "name": "Mitteldeutsche Verbandsliga Baseball",
+          "teams": [
+            {
+              "id": 23438,
+              "name": "Cyndicates Chemnitz"
+            },
+            {
+              "id": 23439,
+              "name": "Dresden Dukes 2"
+            },
+            {
+              "id": 23440,
+              "name": "Leipzig Wallbreakers 2"
+            },
+            {
+              "id": 23441,
+              "name": "Magdeburg Poor Pigs"
+            },
+            {
+              "id": 23442,
+              "name": "Thuringian Woodpeckers"
+            }
+          ]
+        },
+        "6040": {
+          "id": 6040,
+          "name": "Mitteldeutsche Verbandsliga Baseball Playoffs",
+          "teams": [
+            {
+              "id": 23438,
+              "name": "Cyndicates Chemnitz"
+            },
+            {
+              "id": 23439,
+              "name": "Dresden Dukes 2"
+            },
+            {
+              "id": 23440,
+              "name": "Leipzig Wallbreakers 2"
+            },
+            {
+              "id": 23441,
+              "name": "Magdeburg Poor Pigs"
+            }
+          ]
+        }
+      }
+    },
+    "NBSV": {
+      "id": "organization_2",
+      "leagues": {
+        "5813": {
+          "id": 5813,
+          "name": "Schüler Winterliga 2024/2025",
+          "teams": [
+            {
+              "id": 22761,
+              "name": "Braunschweig 89ers 1"
+            },
+            {
+              "id": 22762,
+              "name": "Braunschweig 89ers 2"
+            },
+            {
+              "id": 22763,
+              "name": "Dohren Wild Farmers"
+            },
+            {
+              "id": 22764,
+              "name": "Hamburg Stealers 1"
+            },
+            {
+              "id": 22765,
+              "name": "Hamburg Stealers 2"
+            },
+            {
+              "id": 22766,
+              "name": "Hannover Regents"
+            },
+            {
+              "id": 22769,
+              "name": "SG Alfeld/Bremen"
+            },
+            {
+              "id": 22770,
+              "name": "Lüneburg Woodlarks"
+            }
+          ]
+        },
+        "5811": {
+          "id": 5811,
+          "name": "Jugend Winterliga 2024/2025",
+          "teams": [
+            {
+              "id": 22756,
+              "name": "Alfeld Greenhorns"
+            },
+            {
+              "id": 22757,
+              "name": "Braunschweig 89ers 1"
+            },
+            {
+              "id": 22758,
+              "name": "Braunschweig 89ers 2"
+            },
+            {
+              "id": 22759,
+              "name": "Dohren Wild Farmers"
+            },
+            {
+              "id": 22760,
+              "name": "Hannover Regents"
+            },
+            {
+              "id": 22767,
+              "name": "SG Bückeburg /Lüneburg/ Minden"
+            },
+            {
+              "id": 22768,
+              "name": "Wolfsburg Blackbirds"
+            }
+          ]
+        },
+        "5815": {
+          "id": 5815,
+          "name": "U23 Winterliga 2024/2025",
+          "teams": [
+            {
+              "id": 22771,
+              "name": "Alfeld Greenhorns"
+            },
+            {
+              "id": 22772,
+              "name": "Braunschweig 89ers"
+            },
+            {
+              "id": 22773,
+              "name": "Aurich Shoreliners"
+            },
+            {
+              "id": 22774,
+              "name": "Bremen Dockers"
+            },
+            {
+              "id": 22775,
+              "name": "Hannover Regents"
+            }
+          ]
+        },
+        "5996": {
+          "id": 5996,
+          "name": "NBSV Landesliga Nord 2025",
+          "teams": [
+            {
+              "id": 23363,
+              "name": "Bremen Dockers 3"
+            },
+            {
+              "id": 23364,
+              "name": "Dohren Wild Farmers 3"
+            },
+            {
+              "id": 23365,
+              "name": "Jemgum Dykereeves"
+            },
+            {
+              "id": 23366,
+              "name": "SG Barrien/Oldenburg"
+            },
+            {
+              "id": 23367,
+              "name": "SG Spaden/Lüneburg"
+            },
+            {
+              "id": 23368,
+              "name": "SG Bremerhaven/Stade"
+            },
+            {
+              "id": 23369,
+              "name": "Wilhelmshaven Waves"
+            }
+          ]
+        },
+        "5990": {
+          "id": 5990,
+          "name": "NBSV Softball Verbandsliga 2025",
+          "teams": [
+            {
+              "id": 23286,
+              "name": "SG Bremen/Dohren"
+            },
+            {
+              "id": 23287,
+              "name": "Hannover Regents"
+            },
+            {
+              "id": 23288,
+              "name": "Lüneburg Woodlarks"
+            }
+          ]
+        },
+        "5994": {
+          "id": 5994,
+          "name": "NBSV Verbandsliga 2025",
+          "teams": [
+            {
+              "id": 23356,
+              "name": "Braunschweig 89ers 2"
+            },
+            {
+              "id": 23357,
+              "name": "Braunschweig 89ers 3"
+            },
+            {
+              "id": 23358,
+              "name": "Bremen Dockers 2"
+            },
+            {
+              "id": 23359,
+              "name": "Hannover Regents 2"
+            },
+            {
+              "id": 23360,
+              "name": "SG Hänigsen/Sehnde"
+            },
+            {
+              "id": 23361,
+              "name": "Wolfsburg Blackbirds"
+            },
+            {
+              "id": 23362,
+              "name": "Dohren Wild Farmers 2"
+            }
+          ]
+        },
+        "6000": {
+          "id": 6000,
+          "name": "NBSV Landesliga Süd 2025",
+          "teams": [
+            {
+              "id": 23373,
+              "name": "Braunschweig 89ers 4"
+            },
+            {
+              "id": 23374,
+              "name": "Hannover Regents 3"
+            },
+            {
+              "id": 23375,
+              "name": "SG Alfeld/Bückeburg"
+            },
+            {
+              "id": 23376,
+              "name": "Wolfsburg Blackbirds 2"
+            },
+            {
+              "id": 23377,
+              "name": "Göttingen Allstars"
+            }
+          ]
+        },
+        "6002": {
+          "id": 6002,
+          "name": "NBSV Jugend Liga 2025",
+          "teams": [
+            {
+              "id": 23378,
+              "name": "Braunschweig 89ers"
+            },
+            {
+              "id": 23379,
+              "name": "Dohren Wild Farmers"
+            },
+            {
+              "id": 23380,
+              "name": "SG Bückeburg/Minden/Alfeld"
+            },
+            {
+              "id": 23381,
+              "name": "SG Hannover/Lüneburg"
+            },
+            {
+              "id": 23382,
+              "name": "Wolfsburg Blackbirds"
+            }
+          ]
+        },
+        "6004": {
+          "id": 6004,
+          "name": "NBSV Schüler Liga 2025",
+          "teams": [
+            {
+              "id": 23383,
+              "name": "Braunschweig 89ers"
+            },
+            {
+              "id": 23384,
+              "name": "Dohren Wild Farmers"
+            },
+            {
+              "id": 23385,
+              "name": "Hannover Regents"
+            },
+            {
+              "id": 23386,
+              "name": "SG Lüneburg/Bremen"
+            },
+            {
+              "id": 23387,
+              "name": "Wolfsburg Blackbirds"
+            }
+          ]
+        },
+        "5993": {
+          "id": 5993,
+          "name": "NBSV Finale Verbandsliga 2025",
+          "teams": [
+            {
+              "id": 23356,
+              "name": "Braunschweig 89ers 2"
+            },
+            {
+              "id": 23358,
+              "name": "Bremen Dockers 2"
+            },
+            {
+              "id": 23361,
+              "name": "Wolfsburg Blackbirds"
+            },
+            {
+              "id": 23362,
+              "name": "Dohren Wild Farmers 2"
+            }
+          ]
+        },
+        "6103": {
+          "id": 6103,
+          "name": "NBSV Schüler Finale  2025",
+          "teams": [
+            {
+              "id": 23383,
+              "name": "Braunschweig 89ers"
+            },
+            {
+              "id": 23384,
+              "name": "Dohren Wild Farmers"
+            }
+          ]
+        },
+        "6102": {
+          "id": 6102,
+          "name": "NBSV Jugend Liga Finale 2025",
+          "teams": [
+            {
+              "id": 23378,
+              "name": "Braunschweig 89ers"
+            },
+            {
+              "id": 23379,
+              "name": "Dohren Wild Farmers"
+            }
+          ]
+        },
+        "5992": {
+          "id": 5992,
+          "name": "NBSV All-Star Game 2025",
+          "teams": []
+        },
+        "5999": {
+          "id": 5999,
+          "name": "NBSV Landesliga Finale 2025",
+          "teams": [
+            {
+              "id": 23368,
+              "name": "SG Bremerhaven/Stade"
+            },
+            {
+              "id": 23375,
+              "name": "SG Alfeld/Bückeburg"
+            }
+          ]
+        }
+      }
+    },
+    "SHBV": {
+      "id": "organization_1",
+      "leagues": {
+        "5947": {
+          "id": 5947,
+          "name": "Tee-Ball-Liga",
+          "teams": [
+            {
+              "id": 23098,
+              "name": "Kiel Seahawks (Baseball)"
+            },
+            {
+              "id": 23118,
+              "name": "Elmshorn Alligators"
+            },
+            {
+              "id": 23124,
+              "name": "Hamburg Stealers"
+            },
+            {
+              "id": 23182,
+              "name": "Holm Westend 69'ers"
+            }
+          ]
+        },
+        "5927": {
+          "id": 5927,
+          "name": "Baseball Bezirksliga",
+          "teams": [
+            {
+              "id": 22914,
+              "name": "Greifswald Baltic Mariners"
+            },
+            {
+              "id": 22915,
+              "name": "Holm Westend 69'ers 2"
+            },
+            {
+              "id": 22916,
+              "name": "Kiel Seahawks (Baseball) 3"
+            },
+            {
+              "id": 22917,
+              "name": "Rostock Bucaneros"
+            },
+            {
+              "id": 22918,
+              "name": "SG Hanseatics/Knights 3"
+            },
+            {
+              "id": 22927,
+              "name": "Schwerin Diamonds 2"
+            },
+            {
+              "id": 23175,
+              "name": "Hamburg Stealers 4"
+            }
+          ]
+        },
+        "5925": {
+          "id": 5925,
+          "name": "Baseball Landesliga",
+          "teams": [
+            {
+              "id": 22909,
+              "name": "Hamburg Knights 2"
+            },
+            {
+              "id": 22910,
+              "name": "Hamburg Marines 2"
+            },
+            {
+              "id": 22911,
+              "name": "Lübeck Lizards"
+            },
+            {
+              "id": 22912,
+              "name": "Schwerin Diamonds"
+            },
+            {
+              "id": 22925,
+              "name": "Elmshorn Alligators 2"
+            },
+            {
+              "id": 22926,
+              "name": "Flensburg Baltics"
+            },
+            {
+              "id": 23117,
+              "name": "Lütjensee Lakers"
+            },
+            {
+              "id": 23248,
+              "name": "Hamburg Dragoons"
+            }
+          ]
+        },
+        "5968": {
+          "id": 5968,
+          "name": "Schülerliga (Vorrunde)",
+          "teams": [
+            {
+              "id": 23026,
+              "name": "Hamburg Marines"
+            },
+            {
+              "id": 23100,
+              "name": "Kiel Seahawks (Baseball)"
+            },
+            {
+              "id": 23126,
+              "name": "Hamburg Stealers 1"
+            },
+            {
+              "id": 23127,
+              "name": "Hamburg Stealers 2"
+            },
+            {
+              "id": 23173,
+              "name": "Elmshorn Alligators"
+            },
+            {
+              "id": 23186,
+              "name": "Hamburg Knights"
+            }
+          ]
+        },
+        "5942": {
+          "id": 5942,
+          "name": "Baseball Jugendliga 2",
+          "teams": [
+            {
+              "id": 22967,
+              "name": "Lütjensee Lakers"
+            },
+            {
+              "id": 23025,
+              "name": "Hamburg Marines"
+            },
+            {
+              "id": 23101,
+              "name": "Kiel Seahawks (Baseball)"
+            },
+            {
+              "id": 23181,
+              "name": "Holm Westend 69'ers"
+            },
+            {
+              "id": 23185,
+              "name": "Hamburg Knights 2"
+            }
+          ]
+        },
+        "5923": {
+          "id": 5923,
+          "name": "Baseball Verbandsliga",
+          "teams": [
+            {
+              "id": 22905,
+              "name": "Hamburg Stealers 3"
+            },
+            {
+              "id": 22906,
+              "name": "Holm Westend 69'ers"
+            },
+            {
+              "id": 22907,
+              "name": "Kiel Seahawks (Baseball) 2"
+            },
+            {
+              "id": 22923,
+              "name": "Hamburg Knights"
+            }
+          ]
+        },
+        "5933": {
+          "id": 5933,
+          "name": "Softball Verbandsliga",
+          "teams": [
+            {
+              "id": 22919,
+              "name": "Hamburg Knights 2"
+            },
+            {
+              "id": 22920,
+              "name": "Hamburg Knights 3"
+            },
+            {
+              "id": 22921,
+              "name": "Holm Westend 69'ers"
+            },
+            {
+              "id": 22922,
+              "name": "SG Lizards/Wildcats"
+            },
+            {
+              "id": 23069,
+              "name": "Kiel Seahawks (Softball)"
+            }
+          ]
+        },
+        "5937": {
+          "id": 5937,
+          "name": "Baseball Juniorenliga",
+          "teams": [
+            {
+              "id": 23129,
+              "name": "Hamburg Stealers"
+            },
+            {
+              "id": 23183,
+              "name": "Holm Westend 69'ers"
+            }
+          ]
+        },
+        "5941": {
+          "id": 5941,
+          "name": "Baseball Jugendliga 1",
+          "teams": [
+            {
+              "id": 23042,
+              "name": "Elmshorn Alligators"
+            },
+            {
+              "id": 23128,
+              "name": "Hamburg Stealers"
+            },
+            {
+              "id": 23184,
+              "name": "Hamburg Knights 1"
+            }
+          ]
+        },
+        "5945": {
+          "id": 5945,
+          "name": "Schülerliga 2",
+          "teams": [
+            {
+              "id": 23100,
+              "name": "Kiel Seahawks (Baseball)"
+            },
+            {
+              "id": 23127,
+              "name": "Hamburg Stealers 2"
+            },
+            {
+              "id": 23186,
+              "name": "Hamburg Knights"
+            }
+          ]
+        },
+        "5944": {
+          "id": 5944,
+          "name": "Schülerliga 1",
+          "teams": [
+            {
+              "id": 23026,
+              "name": "Hamburg Marines"
+            },
+            {
+              "id": 23126,
+              "name": "Hamburg Stealers 1"
+            },
+            {
+              "id": 23173,
+              "name": "Elmshorn Alligators"
+            }
+          ]
+        },
+        "5949": {
+          "id": 5949,
+          "name": "U10 Coach Pitch Liga",
+          "teams": [
+            {
+              "id": 23099,
+              "name": "Kiel Seahawks (Baseball)"
+            },
+            {
+              "id": 23125,
+              "name": "Hamburg Stealers"
+            },
+            {
+              "id": 23174,
+              "name": "Elmshorn Alligators"
+            }
+          ]
+        }
+      }
+    },
+    "SWBSV": {
+      "id": "organization_5",
+      "leagues": {
+        "5820": {
+          "id": 5820,
+          "name": "Verbandsliga Baseball",
+          "teams": [
+            {
+              "id": 22802,
+              "name": "Trier Cardinals"
+            },
+            {
+              "id": 22803,
+              "name": "Mainz Athletics 3"
+            },
+            {
+              "id": 22808,
+              "name": "Saarlouis Hornets 2"
+            },
+            {
+              "id": 22931,
+              "name": "K-Town Bears"
+            }
+          ]
+        },
+        "5827": {
+          "id": 5827,
+          "name": "Mixed Softball",
+          "teams": [
+            {
+              "id": 22792,
+              "name": "Speyer Turtles"
+            },
+            {
+              "id": 22804,
+              "name": "Mainz Athletics"
+            },
+            {
+              "id": 22928,
+              "name": "SG Darmstadt Whippets/Frankfurt 1860"
+            },
+            {
+              "id": 23436,
+              "name": "SG Bad Homburg Hornets/Dreieich Vultures/Darmstadt Rockets/Hünstetten STORM"
+            }
+          ]
+        },
+        "5818": {
+          "id": 5818,
+          "name": "Aufbauliga",
+          "teams": [
+            {
+              "id": 22776,
+              "name": "St. Ingbert Devils"
+            },
+            {
+              "id": 22790,
+              "name": "Worms Cannibals"
+            },
+            {
+              "id": 22791,
+              "name": "Speyer Turtles"
+            },
+            {
+              "id": 22811,
+              "name": "Coblenz Raptors"
+            },
+            {
+              "id": 22987,
+              "name": "Beckerich Hedgehogs"
+            }
+          ]
+        },
+        "5825": {
+          "id": 5825,
+          "name": "Schüler Baseball",
+          "teams": [
+            {
+              "id": 22798,
+              "name": "Mainz Athletics"
+            },
+            {
+              "id": 22799,
+              "name": "Trier Cardinals"
+            },
+            {
+              "id": 22809,
+              "name": "Saarlouis Hornets"
+            },
+            {
+              "id": 22929,
+              "name": "SG K-Town Bears/St. Ingbert Devils"
+            }
+          ]
+        },
+        "5823": {
+          "id": 5823,
+          "name": "Jugendliga",
+          "teams": [
+            {
+              "id": 22800,
+              "name": "Mainz Athletics"
+            },
+            {
+              "id": 22810,
+              "name": "Saarlouis Hornets"
+            },
+            {
+              "id": 22930,
+              "name": "SG K-Town Bears/St. Ingbert Devils"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "metadata": {
+    "generated_at": "2025-11-14T09:04:55.890088",
+    "total_organizations": 9,
+    "successful_organizations": 9,
+    "failed_organizations": 0
+  }
+}
