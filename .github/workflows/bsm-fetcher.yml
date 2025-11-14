@@ -32,20 +32,50 @@ jobs:
       - name: Run BSM Fetcher
         run: python bsm-fetcher.py
       
+      - name: Verify data files were created
+        run: |
+          echo "Checking if data files were created..."
+          if [ -d "data" ] && [ "$(ls -A data)" ]; then
+            echo "✓ Data files found:"
+            ls -lh data/
+          else
+            echo "✗ ERROR: No data files found!"
+            exit 1
+          fi
+      
       - name: Copy data to docs directory
         run: |
+          echo "Checking data directory..."
+          ls -la data/ || echo "Data directory is empty or doesn't exist"
           mkdir -p docs
-          cp -r data/* docs/ || true
+          if [ -d "data" ] && [ "$(ls -A data)" ]; then
+            echo "Copying files from data/ to docs/..."
+            cp -r data/* docs/
+            echo "Files copied successfully"
+            ls -la docs/
+          else
+            echo "Warning: No files to copy from data/"
+          fi
           touch docs/.nojekyll
+          echo "Created .nojekyll file"
       
       - name: Commit and push to repository
         if: success()
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          echo "Staging docs directory..."
           git add docs/
-          git diff --staged --quiet || git commit -m "Update BSM structure data [skip ci]"
-          git push
+          echo "Checking for changes..."
+          git status
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            echo "Committing changes..."
+            git commit -m "Update BSM structure data [skip ci]"
+            echo "Pushing to repository..."
+            git push
+          fi
       
       - name: Upload artifacts (optional)
         if: always()
