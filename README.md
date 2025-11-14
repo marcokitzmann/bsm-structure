@@ -4,7 +4,7 @@ Extrahiert und speichert die Ligen- und Team-Strukturen aller Landesverbände im
 
 ## Beschreibung
 
-Dieses Projekt sammelt automatisch die Strukturdaten (Ligen und Teams) aller konfigurierten Landesverbände aus der BSM-API und speichert sie als strukturierte JSON-Dateien. Die Daten werden wöchentlich aktualisiert und über GitHub Pages bereitgestellt.
+Dieses Projekt sammelt automatisch die Strukturdaten (Ligen und Teams) aller Landesverbände aus der BSM-API und speichert sie als strukturierte JSON-Dateien. Die Daten werden wöchentlich aktualisiert und über GitHub Pages bereitgestellt.
 
 ## Funktionsweise
 
@@ -211,5 +211,4 @@ Die in diesem Projekt gesammelten und bereitgestellten Daten stammen vom Deutsch
 **Wichtiger Hinweis**: 
 - Die Daten werden automatisch aus der öffentlichen BSM-API extrahiert
 - Die Nutzung der Daten erfolgt auf eigene Verantwortung
-- Für Fragen zur Datenverwendung kann der DBV kontaktiert werden: **bsm@baseball-softball.de**
 - Weitere Informationen zur API finden sich in der [BSM API-Dokumentation](https://bsm.baseball-softball.de/api_docs)
