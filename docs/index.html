@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>BSM Structure Data</title>
+</head>
+<body>
+    <h1>BSM Structure Data</h1>
+    <p>JSON-Dateien sind verfügbar unter:</p>
+    <ul id="file-list"></ul>
+    <script>
+        // Liste der verfügbaren JSON-Dateien anzeigen
+        fetch('./bsm-structure-2025.json')
+            .then(response => {
+                if (response.ok) {
+                    const list = document.getElementById('file-list');
+                    const li = document.createElement('li');
+                    li.innerHTML = '<a href="./bsm-structure-2025.json">bsm-structure-2025.json</a>';
+                    list.appendChild(li);
+                }
+            })
+            .catch(() => {});
+    </script>
+</body>
+</html>
+
