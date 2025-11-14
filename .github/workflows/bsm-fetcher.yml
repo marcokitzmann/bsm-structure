@@ -1,0 +1,57 @@
+name: BSM Structure Fetcher
+
+on:
+  schedule:
+    # Montags um 2:00 UTC (entspricht 3:00 MEZ / 4:00 MESZ)
+    - cron: '0 2 * * 1'
+  workflow_dispatch:  # Ermöglicht manuelles Auslösen
+
+jobs:
+  fetch-bsm-structure:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run BSM Fetcher
+        run: python bsm-fetcher.py
+      
+      - name: Copy data to docs directory
+        run: |
+          mkdir -p docs
+          cp -r data/* docs/ || true
+          touch docs/.nojekyll
+      
+      - name: Commit and push to repository
+        if: success()
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/
+          git diff --staged --quiet || git commit -m "Update BSM structure data [skip ci]"
+          git push
+      
+      - name: Upload artifacts (optional)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: bsm-structure-data
+          path: data/
+          retention-days: 30
+
