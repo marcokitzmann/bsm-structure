@@ -68,13 +68,18 @@ jobs:
           git add docs/
           echo "Checking for changes..."
           git status
+          echo "Files in docs directory:"
+          ls -la docs/ || echo "docs directory is empty"
           if git diff --staged --quiet; then
             echo "No changes to commit"
+            echo "Current git status:"
+            git status --short
           else
             echo "Committing changes..."
             git commit -m "Update BSM structure data [skip ci]"
             echo "Pushing to repository..."
             git push
+            echo "Push completed successfully"
           fi
       
       - name: Upload artifacts (optional)
@@ -84,4 +89,31 @@ jobs:
           name: bsm-structure-data
           path: data/
           retention-days: 30
+  
+  deploy-pages:
+    needs: fetch-bsm-structure
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./docs
+      
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
 
