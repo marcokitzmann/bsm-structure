@@ -207,10 +207,32 @@ def get_structure_by_organization(org_name: str, org_id: str, year: int) -> Dict
                         team_id = team.get('id')
                         team_name = team.get('name')
                         if team_id:
-                            leagues_dict[league_id]['teams'][team_id] = {
+                            team_data = {
                                 'id': team_id,
                                 'name': team_name
                             }
+                            
+                            # Extrahiere Club-Informationen
+                            clubs = team.get('clubs')
+                            if clubs and isinstance(clubs, list) and len(clubs) > 0:
+                                # Extrahiere alle Clubs aus dem Array
+                                clubs_list = []
+                                for club in clubs:
+                                    if isinstance(club, dict):
+                                        clubs_list.append({
+                                            'id': club.get('id'),
+                                            'name': club.get('name'),
+                                            'acronym': club.get('acronym'),
+                                            'short_name': club.get('short_name'),
+                                            'logo_url': club.get('logo_url')
+                                        })
+                                # Wenn nur ein Club vorhanden ist, speichere als Objekt, sonst als Array
+                                if len(clubs_list) == 1:
+                                    team_data['club'] = clubs_list[0]
+                                elif len(clubs_list) > 1:
+                                    team_data['clubs'] = clubs_list
+                            
+                            leagues_dict[league_id]['teams'][team_id] = team_data
                 
                 # Extrahiere Away-Team
                 away_entry = match.get('away_league_entry')
@@ -220,10 +242,32 @@ def get_structure_by_organization(org_name: str, org_id: str, year: int) -> Dict
                         team_id = team.get('id')
                         team_name = team.get('name')
                         if team_id:
-                            leagues_dict[league_id]['teams'][team_id] = {
+                            team_data = {
                                 'id': team_id,
                                 'name': team_name
                             }
+                            
+                            # Extrahiere Club-Informationen
+                            clubs = team.get('clubs')
+                            if clubs and isinstance(clubs, list) and len(clubs) > 0:
+                                # Extrahiere alle Clubs aus dem Array
+                                clubs_list = []
+                                for club in clubs:
+                                    if isinstance(club, dict):
+                                        clubs_list.append({
+                                            'id': club.get('id'),
+                                            'name': club.get('name'),
+                                            'acronym': club.get('acronym'),
+                                            'short_name': club.get('short_name'),
+                                            'logo_url': club.get('logo_url')
+                                        })
+                                # Wenn nur ein Club vorhanden ist, speichere als Objekt, sonst als Array
+                                if len(clubs_list) == 1:
+                                    team_data['club'] = clubs_list[0]
+                                elif len(clubs_list) > 1:
+                                    team_data['clubs'] = clubs_list
+                            
+                            leagues_dict[league_id]['teams'][team_id] = team_data
     
     # Konvertiere Teams-Dictionaries zu Listen für JSON-Ausgabe
     for league_id in leagues_dict:
