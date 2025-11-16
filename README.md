@@ -14,9 +14,9 @@ Das Skript `bsm-fetcher.py` führt folgende Schritte aus:
 
 1. **Konfiguration laden**: Lädt die Liste der zu verarbeitenden DBV-Landesverbände aus `config/organizations.json`
 2. **API-Abfrage**: Für jeden Landesverband wird die BSM-API abgefragt, um alle Matches des aktuellen Jahres zu erhalten
-3. **Datenextraktion**: Aus den Match-Daten werden automatisch alle Ligen und Teams extrahiert
+3. **Datenextraktion**: Aus den Match-Daten werden automatisch alle Ligen, Teams und zugehörige Club-Informationen extrahiert
 4. **Strukturierung**: Die Daten werden hierarchisch strukturiert:
-   - Organisationen → Ligen → Teams
+   - Organisationen → Ligen → Teams → Clubs
 5. **Speicherung**: Die vollständige Struktur wird als JSON-Datei im `data/` Verzeichnis gespeichert (Format: `bsm-structure-YYYY.json`)
 
 ### Fehlerbehandlung
@@ -101,7 +101,34 @@ Die JSON-Datei hat folgende Struktur:
           "teams": [
             {
               "id": 22812,
-              "name": "Villingendorf Cavemen"
+              "name": "Villingendorf Cavemen",
+              "club": {
+                "id": 438,
+                "name": "Cavemen",
+                "acronym": "VIL",
+                "short_name": "Villingendorf Cavemen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/..."
+              }
+            },
+            {
+              "id": 23473,
+              "name": "SG Friedberg Braves/Giessen Busters",
+              "clubs": [
+                {
+                  "id": 193,
+                  "name": "Braves",
+                  "acronym": "FRI",
+                  "short_name": "Friedberg Braves",
+                  "logo_url": null
+                },
+                {
+                  "id": 199,
+                  "name": "Giessen Busters",
+                  "acronym": "GIE",
+                  "short_name": "Giessen Busters",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/..."
+                }
+              ]
             },
             ...
           ]
@@ -119,6 +146,23 @@ Die JSON-Datei hat folgende Struktur:
   }
 }
 ```
+
+### Team-Struktur
+
+Jedes Team enthält folgende Informationen:
+
+- **`id`** (integer): Eindeutige Team-ID
+- **`name`** (string): Name des Teams
+- **`club`** (object, optional): Club-Informationen, wenn das Team nur einem Club zugeordnet ist
+  - **`id`** (integer): Club-ID
+  - **`name`** (string): Club-Name
+  - **`acronym`** (string): Club-Kürzel
+  - **`short_name`** (string): Kurzname des Clubs
+  - **`logo_url`** (string|null): URL zum Club-Logo
+- **`clubs`** (array, optional): Array von Club-Informationen, wenn das Team mehreren Clubs zugeordnet ist (Spielgemeinschaft)
+  - Jedes Element enthält die gleichen Felder wie das `club`-Objekt
+
+**Hinweis**: Ein Team hat entweder ein `club`-Objekt (bei einzelnen Clubs) oder ein `clubs`-Array (bei Spielgemeinschaften mit mehreren Clubs), niemals beides.
 
 ## Anwendungsbeispiele
 
