@@ -82,13 +82,13 @@ jobs:
             echo "Push completed successfully"
           fi
       
-      - name: Upload artifacts (optional)
-        if: always()
+      - name: Upload artifacts
+        if: success()
         uses: actions/upload-artifact@v4
         with:
-          name: bsm-structure-data
-          path: data/
-          retention-days: 30
+          name: docs-for-pages
+          path: docs/
+          retention-days: 1
   
   deploy-pages:
     needs: fetch-bsm-structure
@@ -102,8 +102,11 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - name: Download docs artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: docs-for-pages
+          path: ./docs
       
       - name: Setup Pages
         uses: actions/configure-pages@v4
