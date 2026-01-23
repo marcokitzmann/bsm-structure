@@ -3,7 +3,7 @@ name: BSM Structure Fetcher
 on:
   schedule:
     # Montags um 2:00 UTC (entspricht 3:00 MEZ / 4:00 MESZ)
-    - cron: '0 2 * * 1'
+    - cron: '0 2 * * *'
   workflow_dispatch:  # Ermöglicht manuelles Auslösen
 
 jobs:
