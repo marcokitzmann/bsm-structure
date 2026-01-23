@@ -280,6 +280,26 @@
               ]
             }
           ]
+        },
+        "6310": {
+          "id": 6310,
+          "name": "NBSV Schüler Finale  2026",
+          "teams": []
+        },
+        "6305": {
+          "id": 6305,
+          "name": "NBSV Landesliga Süd Finale 2026",
+          "teams": []
+        },
+        "6308": {
+          "id": 6308,
+          "name": "NBSV Jugend Liga Finale 2026",
+          "teams": []
+        },
+        "6301": {
+          "id": 6301,
+          "name": "NBSV Landesliga Finale 2026",
+          "teams": []
         }
       }
     },
@@ -293,7 +313,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-01-19T03:50:14.094923",
+    "generated_at": "2026-01-23T07:24:27.353404",
     "total_organizations": 9,
     "successful_organizations": 1,
     "failed_organizations": 8
