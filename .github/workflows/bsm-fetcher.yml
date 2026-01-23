@@ -30,7 +30,7 @@ jobs:
           pip install -r requirements.txt
       
       - name: Run BSM Fetcher
-        run: python bsm-fetcher.py
+        run: python bsm-fetcher.py --year 2025
       
       - name: Verify data files were created
         run: |
