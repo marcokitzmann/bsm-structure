@@ -63,6 +63,12 @@ Das Skript:
 - Fragt die BSM-API für das aktuelle Jahr ab
 - Speichert die Ergebnisse in `data/bsm-structure-YYYY.json`
 
+### Abruf für ein bestimmtes Jahr
+
+```bash
+python bsm-fetcher.py --year 2026
+```
+
 ### Konfiguration
 
 Die zu verarbeitenden Organisationen werden in `config/organizations.json` definiert:
