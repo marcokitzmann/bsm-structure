@@ -1,3 +1,4 @@
+import argparse
 import requests
 import json
 import os
@@ -6,14 +7,41 @@ import sys
 from datetime import datetime
 from typing import Dict, Any, Optional
 
-# Variablen
-year = datetime.now().year
-
 # Konfiguration
 MAX_RETRIES = 3
 RETRY_DELAY = 10  # Sekunden zwischen Retries
 REQUEST_DELAY = 2  # Sekunden zwischen verschiedenen API-Requests
 TIMEOUT = 30  # Sekunden für API-Timeout
+
+def parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:
+    """
+    Parse CLI-Argumente.
+
+    Args:
+        argv: Optionales argv für Tests/Einbettung. Wenn None, verwendet argparse sys.argv.
+
+    Returns:
+        argparse.Namespace mit geparsten Argumenten.
+    """
+    current_year = datetime.now().year
+
+    parser = argparse.ArgumentParser(
+        description="Extrahiert und speichert die BSM-Ligen- und Team-Strukturen pro Organisation.",
+    )
+    parser.add_argument(
+        "--year",
+        type=int,
+        default=current_year,
+        help=f"Jahr für den Struktur-Abruf (Default: {current_year})",
+    )
+
+    args = parser.parse_args(argv)
+
+    # Einfache Plausibilitätsprüfung, damit Tippfehler früh auffallen.
+    if args.year < 2000 or args.year > 2100:
+        parser.error("--year muss zwischen 2000 und 2100 liegen.")
+
+    return args
 
 def get_organizations() -> Dict[str, str]:
     """
@@ -410,6 +438,9 @@ def save_structure(structure: Dict[str, Any], year: int) -> bool:
 
 def main():
     """Hauptfunktion zum Ausführen des Skripts."""
+    args = parse_args()
+    year = args.year
+
     print("BSM-Struktur Extraktor")
     print("=" * 50)
     print(f"Jahr: {year}")
