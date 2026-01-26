@@ -8518,7 +8518,7 @@
             },
             {
               "id": 23190,
-              "name": "Erlangen White Sox",
+              "name": "Erlangen White Sox 2",
               "club": {
                 "id": 6,
                 "name": "White Sox",
@@ -10489,7 +10489,7 @@
           "teams": [
             {
               "id": 23190,
-              "name": "Erlangen White Sox",
+              "name": "Erlangen White Sox 2",
               "club": {
                 "id": 6,
                 "name": "White Sox",
@@ -13631,7 +13631,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-01-23T16:11:49.786691",
+    "generated_at": "2026-01-26T03:57:05.816711",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
