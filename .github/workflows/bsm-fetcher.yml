@@ -29,8 +29,60 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       
-      - name: Run BSM Fetcher
-        run: python bsm-fetcher.py --year 2025
+      - name: Check for missing historical years
+        id: check_years
+        run: |
+          CURRENT_YEAR=$(date +%Y)
+          START_YEAR=2024
+          MISSING_YEARS=""
+          
+          echo "Checking for existing structure files in docs/..."
+          mkdir -p docs
+          
+          # Prüfe für jedes Jahr ab 2024 bis zum Vorjahr (historische Jahre)
+          # Das aktuelle Jahr wird separat gehandhabt
+          LAST_YEAR=$((CURRENT_YEAR - 1))
+          if [ $LAST_YEAR -ge $START_YEAR ]; then
+            for year in $(seq $START_YEAR $LAST_YEAR); do
+              if [ ! -f "docs/bsm-structure-${year}.json" ]; then
+                echo "Missing: bsm-structure-${year}.json"
+                MISSING_YEARS="${MISSING_YEARS} ${year}"
+              else
+                echo "Found: bsm-structure-${year}.json"
+              fi
+            done
+          else
+            echo "Current year is ${CURRENT_YEAR}, no historical years to check (start year is ${START_YEAR})"
+          fi
+          
+          # Entferne führendes Leerzeichen
+          MISSING_YEARS=$(echo $MISSING_YEARS | sed 's/^ *//')
+          
+          if [ -z "$MISSING_YEARS" ]; then
+            if [ $LAST_YEAR -ge $START_YEAR ]; then
+              echo "All historical years (${START_YEAR}-${LAST_YEAR}) are present."
+            fi
+            echo "missing_years=" >> $GITHUB_OUTPUT
+          else
+            echo "Missing historical years found: $MISSING_YEARS"
+            echo "missing_years=$MISSING_YEARS" >> $GITHUB_OUTPUT
+          fi
+          echo "current_year=$CURRENT_YEAR" >> $GITHUB_OUTPUT
+      
+      - name: Create missing historical years (one-time)
+        if: steps.check_years.outputs.missing_years != ''
+        run: |
+          echo "Creating missing historical structure files..."
+          for year in ${{ steps.check_years.outputs.missing_years }}; do
+            echo "Fetching data for year $year..."
+            python bsm-fetcher.py --year $year
+          done
+      
+      - name: Run BSM Fetcher (current year)
+        run: |
+          CURRENT_YEAR=$(date +%Y)
+          echo "Fetching data for current year: $CURRENT_YEAR"
+          python bsm-fetcher.py --year $CURRENT_YEAR
       
       - name: Verify data files were created
         run: |
@@ -50,11 +102,29 @@ jobs:
           mkdir -p docs
           if [ -d "data" ] && [ "$(ls -A data)" ]; then
             echo "Copying files from data/ to docs/..."
-            cp -r data/* docs/
+            # Kopiere nur JSON-Dateien, die noch nicht in docs/ existieren oder neu sind
+            for file in data/bsm-structure-*.json; do
+              if [ -f "$file" ]; then
+                filename=$(basename "$file")
+                if [ ! -f "docs/$filename" ] || [ "$file" -nt "docs/$filename" ]; then
+                  echo "Copying $filename to docs/..."
+                  cp "$file" "docs/$filename"
+                else
+                  echo "Skipping $filename (already exists and is up-to-date)"
+                fi
+              fi
+            done
             echo "Files copied successfully"
             ls -la docs/
+            
+            # Prüfe, ob Dateien tatsächlich kopiert wurden
+            if [ ! "$(ls -A docs/*.json 2>/dev/null)" ]; then
+              echo "✗ ERROR: No JSON files found in docs/ after copy!"
+              exit 1
+            fi
           else
-            echo "Warning: No files to copy from data/"
+            echo "✗ ERROR: No files to copy from data/"
+            exit 1
           fi
           touch docs/.nojekyll
           echo "Created .nojekyll file"
@@ -64,18 +134,29 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          
+          # Prüfe, ob JSON-Dateien in docs/ existieren
+          if [ ! "$(ls -A docs/*.json 2>/dev/null)" ]; then
+            echo "✗ ERROR: No JSON files found in docs/ directory!"
+            exit 1
+          fi
+          
           echo "Staging docs directory..."
           git add docs/
           echo "Checking for changes..."
           git status
           echo "Files in docs directory:"
           ls -la docs/ || echo "docs directory is empty"
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
+          
+          # Prüfe auf Änderungen (sowohl staged als auch unstaged)
+          if git diff --staged --quiet && git diff --quiet; then
+            echo "No changes to commit (files are identical to repository)"
             echo "Current git status:"
             git status --short
+            echo "Verifying JSON files exist in docs/:"
+            ls -lh docs/*.json || echo "No JSON files found!"
           else
-            echo "Committing changes..."
+            echo "Changes detected, committing..."
             git commit -m "Update BSM structure data [skip ci]"
             echo "Pushing to repository..."
             git push
