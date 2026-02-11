@@ -790,6 +790,67 @@
     "BSVNRW": {
       "id": "organization_3",
       "leagues": {
+        "6244": {
+          "id": 6244,
+          "name": "NRW-Liga U12",
+          "teams": [
+            {
+              "id": 23739,
+              "name": "Solingen Alligators",
+              "club": {
+                "id": 378,
+                "name": "Alligators",
+                "acronym": "SOL",
+                "short_name": "Solingen Alligators",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/378/thumb/AS-Gr%C3%BCn_200x200px.png?1733997493"
+              }
+            },
+            {
+              "id": 23786,
+              "name": "Cologne Cardinals",
+              "club": {
+                "id": 316,
+                "name": "Cardinals",
+                "acronym": "COC",
+                "short_name": "Cologne Cardinals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/316/thumb/COC.jpeg?1707934291"
+              }
+            },
+            {
+              "id": 23949,
+              "name": "Untouchables Paderborn",
+              "club": {
+                "id": 365,
+                "name": "Untouchables",
+                "acronym": "UNT",
+                "short_name": "Untouchables Paderborn",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/365/thumb/Ball_auf_wei%C3%9F-1.jpg?1587225040"
+              }
+            },
+            {
+              "id": 23969,
+              "name": "Ratingen Goose-Necks",
+              "club": {
+                "id": 371,
+                "name": "Goose-Necks",
+                "acronym": "RAT",
+                "short_name": "Ratingen Goose-Necks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/371/thumb/150px-GooseNecks-R.png?1747212060"
+              }
+            },
+            {
+              "id": 23975,
+              "name": "Bonn Capitals",
+              "club": {
+                "id": 311,
+                "name": "Capitals",
+                "acronym": "BON",
+                "short_name": "Bonn Capitals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/311/thumb/BonnCapitals.png?1587225033"
+              }
+            }
+          ]
+        },
         "6246": {
           "id": 6246,
           "name": "Landesliga U12 1",
@@ -936,6 +997,67 @@
                   "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/344/thumb/IMG_20180416_222423.jpg?1587225038"
                 }
               ]
+            }
+          ]
+        },
+        "6342": {
+          "id": 6342,
+          "name": "Landesliga U12",
+          "teams": [
+            {
+              "id": 23736,
+              "name": "Wesseling Vermins",
+              "club": {
+                "id": 387,
+                "name": "Vermins",
+                "acronym": "WES",
+                "short_name": "Wesseling Vermins",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/387/thumb/Wesseling_logo.jpg?1587225044"
+              }
+            },
+            {
+              "id": 23787,
+              "name": "Cologne Cardinals 2",
+              "club": {
+                "id": 316,
+                "name": "Cardinals",
+                "acronym": "COC",
+                "short_name": "Cologne Cardinals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/316/thumb/COC.jpeg?1707934291"
+              }
+            },
+            {
+              "id": 23892,
+              "name": "Neunkirchen Nightmares",
+              "club": {
+                "id": 363,
+                "name": "Nightmares",
+                "acronym": "NKN",
+                "short_name": "Neunkirchen Nightmares",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/363/thumb/Nightmares-Kralle-transparent.png?1587225039"
+              }
+            },
+            {
+              "id": 23974,
+              "name": "Bonn Capitals 2",
+              "club": {
+                "id": 311,
+                "name": "Capitals",
+                "acronym": "BON",
+                "short_name": "Bonn Capitals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/311/thumb/BonnCapitals.png?1587225033"
+              }
+            },
+            {
+              "id": 23981,
+              "name": "Kottenforst Saints",
+              "club": {
+                "id": 311,
+                "name": "Capitals",
+                "acronym": "BON",
+                "short_name": "Bonn Capitals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/311/thumb/BonnCapitals.png?1587225033"
+              }
             }
           ]
         },
@@ -2007,7 +2129,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-02-10T04:33:24.315691",
+    "generated_at": "2026-02-11T04:31:41.500621",
     "total_organizations": 10,
     "successful_organizations": 4,
     "failed_organizations": 6
