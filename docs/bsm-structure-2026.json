@@ -3873,7 +3873,154 @@
     },
     "MBSV": {
       "id": "organization_8",
-      "leagues": {}
+      "leagues": {
+        "6377": {
+          "id": 6377,
+          "name": "Mitteldeutsche Verbandsliga Baseball",
+          "teams": [
+            {
+              "id": 24286,
+              "name": "Cyndicates Chemnitz",
+              "club": {
+                "id": 797,
+                "name": "Cyndicates",
+                "acronym": "CHE",
+                "short_name": "Cyndicates Chemnitz",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/797/thumb/cyndicates_500px.png?1587225090"
+              }
+            },
+            {
+              "id": 24287,
+              "name": "Dresden Dukes",
+              "club": {
+                "id": 245,
+                "name": "Dukes",
+                "acronym": "DDU",
+                "short_name": "Dresden Dukes",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24288,
+              "name": "Leipzig Wallbreakers 2",
+              "club": {
+                "id": 249,
+                "name": "Wallbreakers",
+                "acronym": "LWA",
+                "short_name": "Leipzig Wallbreakers",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24289,
+              "name": "Magdeburg Poor Pigs",
+              "club": {
+                "id": 84,
+                "name": "Poor Pigs",
+                "acronym": "MPP",
+                "short_name": "Magdeburg Poor Pigs",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/084/thumb/mpp-logo-ball-small-square.png?1587224989"
+              }
+            },
+            {
+              "id": 24290,
+              "name": "Thuringian Woodpeckers",
+              "clubs": [
+                {
+                  "id": 585,
+                  "name": "Giants",
+                  "acronym": "JEN",
+                  "short_name": "Jena Giants",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/585/thumb/Giants_logo.png?1650100251"
+                },
+                {
+                  "id": 246,
+                  "name": "Angels",
+                  "acronym": "EFA",
+                  "short_name": "Erfurt Angels",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/246/thumb/logo_200x200px.png?1587225025"
+                }
+              ]
+            }
+          ]
+        },
+        "6380": {
+          "id": 6380,
+          "name": "Mitteldeutsche Liga Softball",
+          "teams": [
+            {
+              "id": 24291,
+              "name": "Dresden Dukes",
+              "club": {
+                "id": 245,
+                "name": "Dukes",
+                "acronym": "DDU",
+                "short_name": "Dresden Dukes",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24292,
+              "name": "SG Leipzig Wallbreakers/Magdeburg Poor Pigs",
+              "clubs": [
+                {
+                  "id": 249,
+                  "name": "Wallbreakers",
+                  "acronym": "LWA",
+                  "short_name": "Leipzig Wallbreakers",
+                  "logo_url": null
+                },
+                {
+                  "id": 84,
+                  "name": "Poor Pigs",
+                  "acronym": "MPP",
+                  "short_name": "Magdeburg Poor Pigs",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/084/thumb/mpp-logo-ball-small-square.png?1587224989"
+                }
+              ]
+            }
+          ]
+        },
+        "6384": {
+          "id": 6384,
+          "name": "Freie Liga Baseball",
+          "teams": [
+            {
+              "id": 24297,
+              "name": "Leipzig Wallbreakers 3",
+              "club": {
+                "id": 249,
+                "name": "Wallbreakers",
+                "acronym": "LWA",
+                "short_name": "Leipzig Wallbreakers",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24298,
+              "name": "Dresden Dukes 2",
+              "club": {
+                "id": 245,
+                "name": "Dukes",
+                "acronym": "DDU",
+                "short_name": "Dresden Dukes",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24299,
+              "name": "Los Caballos Döbeln ",
+              "club": {
+                "id": 862,
+                "name": "Los Caballos",
+                "acronym": "DLC",
+                "short_name": "Los Caballos Döbeln ",
+                "logo_url": null
+              }
+            }
+          ]
+        }
+      }
     },
     "NBSV": {
       "id": "organization_2",
@@ -5402,9 +5549,9 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-02-22T04:20:21.866315",
+    "generated_at": "2026-02-23T04:27:08.499134",
     "total_organizations": 10,
-    "successful_organizations": 6,
-    "failed_organizations": 4
+    "successful_organizations": 7,
+    "failed_organizations": 3
   }
 }
