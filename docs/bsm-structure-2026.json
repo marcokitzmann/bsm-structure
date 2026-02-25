@@ -785,7 +785,18 @@
     },
     "BWBSV": {
       "id": "organization_7",
-      "leagues": {}
+      "leagues": {
+        "6366": {
+          "id": 6366,
+          "name": "Baseball Pokal",
+          "teams": []
+        },
+        "6367": {
+          "id": 6367,
+          "name": "Softball Pokal",
+          "teams": []
+        }
+      }
     },
     "BSVNRW": {
       "id": "organization_3",
@@ -2508,104 +2519,6 @@
             }
           ]
         },
-        "6224": {
-          "id": 6224,
-          "name": "Junorinnenliga Softball",
-          "teams": [
-            {
-              "id": 24031,
-              "name": "Challengers",
-              "club": {
-                "id": 486,
-                "name": "SCC Challengers",
-                "acronym": "BEC",
-                "short_name": "SCC e.V.",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/486/thumb/challengers_Logo_NEW.jpg?1587225071"
-              }
-            },
-            {
-              "id": 24141,
-              "name": "Ravens",
-              "club": {
-                "id": 491,
-                "name": "Ravens / Roosters",
-                "acronym": "BER",
-                "short_name": "NSF Berlin Ravens / Roosters",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/491/thumb/logo-baseballworld-website.png?1587225072"
-              }
-            }
-          ]
-        },
-        "6293": {
-          "id": 6293,
-          "name": "Schüler-Landesliga Baseball",
-          "teams": [
-            {
-              "id": 23931,
-              "name": "Eagles",
-              "club": {
-                "id": 603,
-                "name": "Mahlow Eagles",
-                "acronym": "MEG",
-                "short_name": "Mahlow Eagles",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/603/thumb/eagles-mainlogo.png?1587225082"
-              }
-            },
-            {
-              "id": 24015,
-              "name": "Wizards 2",
-              "club": {
-                "id": 494,
-                "name": "Wizards",
-                "acronym": "BEW",
-                "short_name": "Berlin Wizards",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/494/thumb/Wizards-Logo-200x200.png?1741764774"
-              }
-            },
-            {
-              "id": 24033,
-              "name": "SG Sliders/Challengers",
-              "clubs": [
-                {
-                  "id": 486,
-                  "name": "SCC Challengers",
-                  "acronym": "BEC",
-                  "short_name": "SCC e.V.",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/486/thumb/challengers_Logo_NEW.jpg?1587225071"
-                },
-                {
-                  "id": 495,
-                  "name": "Sliders",
-                  "acronym": "SLI",
-                  "short_name": "Berlin Sliders",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/495/thumb/Logo-Berlin-Sliders.png?1636040006"
-                }
-              ]
-            },
-            {
-              "id": 24091,
-              "name": "Roadrunners",
-              "club": {
-                "id": 502,
-                "name": "Roadrunners",
-                "acronym": "BWP",
-                "short_name": "Berlin Ausbau Roadrunners",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/502/thumb/path35.png?1587225073"
-              }
-            },
-            {
-              "id": 24130,
-              "name": "Flamingos 2",
-              "club": {
-                "id": 604,
-                "name": "Flamingos",
-                "acronym": "FLA",
-                "short_name": "Berlin Flamingos",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/604/thumb/flalogo_big_freigestellt.png?1625524563"
-              }
-            }
-          ]
-        },
         "6218": {
           "id": 6218,
           "name": "Schülerliga Baseball",
@@ -2973,6 +2886,104 @@
                 "acronym": "BER",
                 "short_name": "NSF Berlin Ravens / Roosters",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/491/thumb/logo-baseballworld-website.png?1587225072"
+              }
+            }
+          ]
+        },
+        "6224": {
+          "id": 6224,
+          "name": "Junorinnenliga Softball",
+          "teams": [
+            {
+              "id": 24031,
+              "name": "Challengers",
+              "club": {
+                "id": 486,
+                "name": "SCC Challengers",
+                "acronym": "BEC",
+                "short_name": "SCC e.V.",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/486/thumb/challengers_Logo_NEW.jpg?1587225071"
+              }
+            },
+            {
+              "id": 24141,
+              "name": "Ravens",
+              "club": {
+                "id": 491,
+                "name": "Ravens / Roosters",
+                "acronym": "BER",
+                "short_name": "NSF Berlin Ravens / Roosters",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/491/thumb/logo-baseballworld-website.png?1587225072"
+              }
+            }
+          ]
+        },
+        "6293": {
+          "id": 6293,
+          "name": "Schüler-Landesliga Baseball",
+          "teams": [
+            {
+              "id": 23931,
+              "name": "Eagles",
+              "club": {
+                "id": 603,
+                "name": "Mahlow Eagles",
+                "acronym": "MEG",
+                "short_name": "Mahlow Eagles",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/603/thumb/eagles-mainlogo.png?1587225082"
+              }
+            },
+            {
+              "id": 24015,
+              "name": "Wizards 2",
+              "club": {
+                "id": 494,
+                "name": "Wizards",
+                "acronym": "BEW",
+                "short_name": "Berlin Wizards",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/494/thumb/Wizards-Logo-200x200.png?1741764774"
+              }
+            },
+            {
+              "id": 24033,
+              "name": "SG Sliders/Challengers",
+              "clubs": [
+                {
+                  "id": 486,
+                  "name": "SCC Challengers",
+                  "acronym": "BEC",
+                  "short_name": "SCC e.V.",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/486/thumb/challengers_Logo_NEW.jpg?1587225071"
+                },
+                {
+                  "id": 495,
+                  "name": "Sliders",
+                  "acronym": "SLI",
+                  "short_name": "Berlin Sliders",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/495/thumb/Logo-Berlin-Sliders.png?1636040006"
+                }
+              ]
+            },
+            {
+              "id": 24091,
+              "name": "Roadrunners",
+              "club": {
+                "id": 502,
+                "name": "Roadrunners",
+                "acronym": "BWP",
+                "short_name": "Berlin Ausbau Roadrunners",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/502/thumb/path35.png?1587225073"
+              }
+            },
+            {
+              "id": 24130,
+              "name": "Flamingos 2",
+              "club": {
+                "id": 604,
+                "name": "Flamingos",
+                "acronym": "FLA",
+                "short_name": "Berlin Flamingos",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/604/thumb/flalogo_big_freigestellt.png?1625524563"
               }
             }
           ]
@@ -5600,9 +5611,9 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-02-24T04:21:47.528146",
+    "generated_at": "2026-02-25T04:23:13.035409",
     "total_organizations": 10,
-    "successful_organizations": 7,
-    "failed_organizations": 3
+    "successful_organizations": 8,
+    "failed_organizations": 2
   }
 }
