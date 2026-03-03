@@ -1094,6 +1094,139 @@
             }
           ]
         },
+        "6360": {
+          "id": 6360,
+          "name": "Schüler Landesliga",
+          "teams": [
+            {
+              "id": 23849,
+              "name": "Gammertingen Royals",
+              "club": {
+                "id": 404,
+                "name": "Royals",
+                "acronym": "GAM",
+                "short_name": "Gammertingen Royals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/404/thumb/RoyalsLogoFinal.png?1709819032"
+              }
+            },
+            {
+              "id": 23891,
+              "name": "Herrenberg Wanderers",
+              "club": {
+                "id": 411,
+                "name": "Wanderers",
+                "acronym": "HER",
+                "short_name": "Herrenberg Wanderers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/411/thumb/Wanderers-Logo.jpg?1587225051"
+              }
+            },
+            {
+              "id": 24061,
+              "name": "Nagold Mohawks",
+              "club": {
+                "id": 421,
+                "name": "Mohawks",
+                "acronym": "NAG",
+                "short_name": "Nagold Mohawks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/421/thumb/Mohawks_official_400.png?1587225053"
+              }
+            },
+            {
+              "id": 24079,
+              "name": "Tübingen Hawks",
+              "club": {
+                "id": 437,
+                "name": "Hawks",
+                "acronym": "TUB",
+                "short_name": "Tübingen Hawks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/437/thumb/20150301_Logo_Hawks_CMYK.png?1587225063"
+              }
+            },
+            {
+              "id": 24107,
+              "name": "Karlsruhe Cougars",
+              "club": {
+                "id": 414,
+                "name": "Cougars",
+                "acronym": "KAR",
+                "short_name": "Karlsruhe Cougars",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/414/thumb/Cougars-Favicon-Blue-Transparent-640px.png?1587225051"
+              }
+            }
+          ]
+        },
+        "6361": {
+          "id": 6361,
+          "name": "Verbandsliga Damen",
+          "teams": [
+            {
+              "id": 23861,
+              "name": "Gammertingen Royals",
+              "club": {
+                "id": 404,
+                "name": "Royals",
+                "acronym": "GAM",
+                "short_name": "Gammertingen Royals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/404/thumb/RoyalsLogoFinal.png?1709819032"
+              }
+            },
+            {
+              "id": 23890,
+              "name": "Herrenberg Wanderers",
+              "club": {
+                "id": 411,
+                "name": "Wanderers",
+                "acronym": "HER",
+                "short_name": "Herrenberg Wanderers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/411/thumb/Wanderers-Logo.jpg?1587225051"
+              }
+            },
+            {
+              "id": 23937,
+              "name": "Schriesheim Raubritter",
+              "club": {
+                "id": 435,
+                "name": "Raubritter",
+                "acronym": "SRR",
+                "short_name": "Schriesheim Raubritter",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24064,
+              "name": "Stuttgart Reds 2",
+              "club": {
+                "id": 436,
+                "name": "Reds",
+                "acronym": "STU",
+                "short_name": "Stuttgart Reds",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/PferdleUndS.jpg?1587225062"
+              }
+            },
+            {
+              "id": 24109,
+              "name": "Karlsruhe Cougars 2",
+              "club": {
+                "id": 414,
+                "name": "Cougars",
+                "acronym": "KAR",
+                "short_name": "Karlsruhe Cougars",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/414/thumb/Cougars-Favicon-Blue-Transparent-640px.png?1587225051"
+              }
+            },
+            {
+              "id": 24118,
+              "name": "Ladenburg Romans",
+              "club": {
+                "id": 416,
+                "name": "Romans",
+                "acronym": "LAD",
+                "short_name": "Ladenburg Romans",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/416/thumb/Logo400x400.png?1713448561"
+              }
+            }
+          ]
+        },
         "6350": {
           "id": 6350,
           "name": "Bezirksliga Herren",
@@ -1168,6 +1301,96 @@
                   "acronym": "MAT",
                   "short_name": "Mannheim Tornados",
                   "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/419/thumb/tornadosrundbbsb723cm.jpg?1587225052"
+                }
+              ]
+            }
+          ]
+        },
+        "6354": {
+          "id": 6354,
+          "name": "Jugend Landesliga",
+          "teams": [
+            {
+              "id": 23818,
+              "name": "Villingendorf Cavemen",
+              "club": {
+                "id": 438,
+                "name": "Cavemen",
+                "acronym": "VIL",
+                "short_name": "Villingendorf Cavemen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/438/thumb/cavemen_logo_neu_2021.png?1627303383"
+              }
+            },
+            {
+              "id": 23850,
+              "name": "Gammertingen Royals",
+              "club": {
+                "id": 404,
+                "name": "Royals",
+                "acronym": "GAM",
+                "short_name": "Gammertingen Royals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/404/thumb/RoyalsLogoFinal.png?1709819032"
+              }
+            },
+            {
+              "id": 23887,
+              "name": "Herrenberg Wanderers",
+              "club": {
+                "id": 411,
+                "name": "Wanderers",
+                "acronym": "HER",
+                "short_name": "Herrenberg Wanderers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/411/thumb/Wanderers-Logo.jpg?1587225051"
+              }
+            },
+            {
+              "id": 24002,
+              "name": "Reutlingen Woodpeckers",
+              "club": {
+                "id": 425,
+                "name": "Woodpeckers",
+                "acronym": "REU",
+                "short_name": "Reutlingen Woodpeckers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/425/thumb/Woodpeckers_Logo_jpg_1.jpg?1587225054"
+              }
+            },
+            {
+              "id": 24084,
+              "name": "SG Tübingen Hawks/Nagold Mohawks",
+              "clubs": [
+                {
+                  "id": 437,
+                  "name": "Hawks",
+                  "acronym": "TUB",
+                  "short_name": "Tübingen Hawks",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/437/thumb/20150301_Logo_Hawks_CMYK.png?1587225063"
+                },
+                {
+                  "id": 421,
+                  "name": "Mohawks",
+                  "acronym": "NAG",
+                  "short_name": "Nagold Mohawks",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/421/thumb/Mohawks_official_400.png?1587225053"
+                }
+              ]
+            },
+            {
+              "id": 24086,
+              "name": "SG Tübingen Hawks 2/Nagold Mohawks 2",
+              "clubs": [
+                {
+                  "id": 437,
+                  "name": "Hawks",
+                  "acronym": "TUB",
+                  "short_name": "Tübingen Hawks",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/437/thumb/20150301_Logo_Hawks_CMYK.png?1587225063"
+                },
+                {
+                  "id": 421,
+                  "name": "Mohawks",
+                  "acronym": "NAG",
+                  "short_name": "Nagold Mohawks",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/421/thumb/Mohawks_official_400.png?1587225053"
                 }
               ]
             }
@@ -1399,7 +1622,7 @@
                 "name": "Raubritter",
                 "acronym": "SRR",
                 "short_name": "Schriesheim Raubritter",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/435/thumb/Logo_bsm.jpg?1740661932"
+                "logo_url": null
               }
             },
             {
@@ -8523,7 +8746,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-03-02T04:16:48.539028",
+    "generated_at": "2026-03-03T04:17:51.752125",
     "total_organizations": 10,
     "successful_organizations": 9,
     "failed_organizations": 1
