@@ -3764,67 +3764,6 @@
             }
           ]
         },
-        "6205": {
-          "id": 6205,
-          "name": "Verbandsliga Baseball",
-          "teams": [
-            {
-              "id": 23924,
-              "name": "Sluggers",
-              "club": {
-                "id": 492,
-                "name": "Sluggers",
-                "acronym": "BES",
-                "short_name": "Berlin Sluggers",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/492/thumb/SluggersLogo2011Fin_dklrot_kl.png?1587225072"
-              }
-            },
-            {
-              "id": 24008,
-              "name": "Wizards",
-              "club": {
-                "id": 494,
-                "name": "Wizards",
-                "acronym": "BEW",
-                "short_name": "Berlin Wizards",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/494/thumb/Wizards-Logo-200x200.png?1741764774"
-              }
-            },
-            {
-              "id": 24017,
-              "name": "Skylarks 2",
-              "club": {
-                "id": 485,
-                "name": "Skylarks",
-                "acronym": "BEA",
-                "short_name": "Berlin Skylarks",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/485/thumb/Skylarks_Logo-Rondell_200px.png?1608387861"
-              }
-            },
-            {
-              "id": 24036,
-              "name": "Wallbreakers",
-              "club": {
-                "id": 249,
-                "name": "Wallbreakers",
-                "acronym": "LWA",
-                "short_name": "Leipzig Wallbreakers",
-                "logo_url": null
-              }
-            },
-            {
-              "id": 24038,
-              "name": "Porcupines",
-              "club": {
-                "id": 498,
-                "name": "Porcupines",
-                "acronym": "POT",
-                "short_name": "Potsdam Porcupines",
-                "logo_url": null
-              }
-            }
-          ]
-        },
         "6208": {
           "id": 6208,
           "name": "Landesliga Baseball",
@@ -4179,6 +4118,67 @@
                 "acronym": "FLA",
                 "short_name": "Berlin Flamingos",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/604/thumb/flalogo_big_freigestellt.png?1625524563"
+              }
+            }
+          ]
+        },
+        "6205": {
+          "id": 6205,
+          "name": "Verbandsliga Baseball",
+          "teams": [
+            {
+              "id": 23924,
+              "name": "Sluggers",
+              "club": {
+                "id": 492,
+                "name": "Sluggers",
+                "acronym": "BES",
+                "short_name": "Berlin Sluggers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/492/thumb/SluggersLogo2011Fin_dklrot_kl.png?1587225072"
+              }
+            },
+            {
+              "id": 24008,
+              "name": "Wizards",
+              "club": {
+                "id": 494,
+                "name": "Wizards",
+                "acronym": "BEW",
+                "short_name": "Berlin Wizards",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/494/thumb/Wizards-Logo-200x200.png?1741764774"
+              }
+            },
+            {
+              "id": 24017,
+              "name": "Skylarks 2",
+              "club": {
+                "id": 485,
+                "name": "Skylarks",
+                "acronym": "BEA",
+                "short_name": "Berlin Skylarks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/485/thumb/Skylarks_Logo-Rondell_200px.png?1608387861"
+              }
+            },
+            {
+              "id": 24036,
+              "name": "Wallbreakers",
+              "club": {
+                "id": 249,
+                "name": "Wallbreakers",
+                "acronym": "LWA",
+                "short_name": "Leipzig Wallbreakers",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24038,
+              "name": "Porcupines",
+              "club": {
+                "id": 498,
+                "name": "Porcupines",
+                "acronym": "POT",
+                "short_name": "Potsdam Porcupines",
+                "logo_url": null
               }
             }
           ]
@@ -8746,7 +8746,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-03-03T04:17:51.752125",
+    "generated_at": "2026-03-04T04:10:48.781495",
     "total_organizations": 10,
     "successful_organizations": 9,
     "failed_organizations": 1
