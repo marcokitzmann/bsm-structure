@@ -730,7 +730,7 @@
                 "name": "Reds",
                 "acronym": "STU",
                 "short_name": "Stuttgart Reds",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/PferdleUndS.jpg?1587225062"
+                "logo_url": null
               }
             },
             {
@@ -997,7 +997,7 @@
                 "name": "Reds",
                 "acronym": "STU",
                 "short_name": "Stuttgart Reds",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/PferdleUndS.jpg?1587225062"
+                "logo_url": null
               }
             },
             {
@@ -1920,7 +1920,7 @@
                 "name": "Reds",
                 "acronym": "STU",
                 "short_name": "Stuttgart Reds",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/PferdleUndS.jpg?1587225062"
+                "logo_url": null
               }
             },
             {
@@ -8746,7 +8746,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-03-04T04:10:48.781495",
+    "generated_at": "2026-03-05T04:14:45.338331",
     "total_organizations": 10,
     "successful_organizations": 9,
     "failed_organizations": 1
