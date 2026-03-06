@@ -237,7 +237,7 @@
                 "name": "Reds",
                 "acronym": "STU",
                 "short_name": "Stuttgart Reds",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/PferdleUndS.jpg?1587225062"
+                "logo_url": null
               }
             }
           ]
@@ -575,7 +575,7 @@
                 "name": "Reds",
                 "acronym": "STU",
                 "short_name": "Stuttgart Reds",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/PferdleUndS.jpg?1587225062"
+                "logo_url": null
               }
             },
             {
@@ -1200,7 +1200,7 @@
                 "name": "Reds",
                 "acronym": "STU",
                 "short_name": "Stuttgart Reds",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/PferdleUndS.jpg?1587225062"
+                "logo_url": null
               }
             },
             {
@@ -1583,7 +1583,7 @@
                 "name": "Reds",
                 "acronym": "STU",
                 "short_name": "Stuttgart Reds",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/PferdleUndS.jpg?1587225062"
+                "logo_url": null
               }
             },
             {
@@ -1644,7 +1644,7 @@
                 "name": "Reds",
                 "acronym": "STU",
                 "short_name": "Stuttgart Reds",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/PferdleUndS.jpg?1587225062"
+                "logo_url": null
               }
             },
             {
@@ -1784,7 +1784,7 @@
                 "name": "Reds",
                 "acronym": "STU",
                 "short_name": "Stuttgart Reds",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/PferdleUndS.jpg?1587225062"
+                "logo_url": null
               }
             },
             {
@@ -1854,7 +1854,7 @@
                 "name": "Reds",
                 "acronym": "STU",
                 "short_name": "Stuttgart Reds",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/PferdleUndS.jpg?1587225062"
+                "logo_url": null
               }
             },
             {
@@ -5203,7 +5203,7 @@
                 "name": "Jesters",
                 "acronym": "GRU",
                 "short_name": "Grünwald Jesters",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/00003004.png?1587224982"
+                "logo_url": null
               }
             }
           ]
@@ -5570,7 +5570,7 @@
                 "name": "Jesters",
                 "acronym": "GRU",
                 "short_name": "Grünwald Jesters",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/00003004.png?1587224982"
+                "logo_url": null
               }
             }
           ]
@@ -5956,7 +5956,7 @@
                 "name": "Jesters",
                 "acronym": "GRU",
                 "short_name": "Grünwald Jesters",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/00003004.png?1587224982"
+                "logo_url": null
               }
             }
           ]
@@ -6159,7 +6159,7 @@
                 "name": "Jesters",
                 "acronym": "GRU",
                 "short_name": "Grünwald Jesters",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/00003004.png?1587224982"
+                "logo_url": null
               }
             }
           ]
@@ -8073,7 +8073,7 @@
                   "name": "Eagles",
                   "acronym": "GOS",
                   "short_name": "Goslar Eagles",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/806/thumb/7E833DE7-BE6C-4991-BE13-CD0CFC9A7137.png?1631451859"
+                  "logo_url": "https://bsm.baseball-softball.de/system/club/regular_clubs/logos/000/000/806/thumb/logo-bsm.jpg?1772727319"
                 }
               ]
             }
@@ -8746,7 +8746,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-03-05T04:14:45.338331",
+    "generated_at": "2026-03-06T04:11:34.560774",
     "total_organizations": 10,
     "successful_organizations": 9,
     "failed_organizations": 1
