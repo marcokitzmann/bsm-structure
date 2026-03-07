@@ -4660,7 +4660,7 @@
                 "name": "Jesters",
                 "acronym": "GRU",
                 "short_name": "Grünwald Jesters",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/00003004.png?1587224982"
+                "logo_url": null
               }
             },
             {
@@ -7423,7 +7423,7 @@
                   "name": "Eagles",
                   "acronym": "GOS",
                   "short_name": "Goslar Eagles",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/806/thumb/7E833DE7-BE6C-4991-BE13-CD0CFC9A7137.png?1631451859"
+                  "logo_url": "https://bsm.baseball-softball.de/system/club/regular_clubs/logos/000/000/806/thumb/logo-bsm.jpg?1772727319"
                 }
               ]
             },
@@ -8114,6 +8114,34 @@
     "SHBV": {
       "id": "organization_1",
       "leagues": {
+        "6274": {
+          "id": 6274,
+          "name": "Baseball Juniorenliga",
+          "teams": [
+            {
+              "id": 23810,
+              "name": "Hamburg Knights",
+              "club": {
+                "id": 254,
+                "name": "Knights",
+                "acronym": "HHK",
+                "short_name": "Hamburg Knights",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/254/thumb/knights.jpg?1587225027"
+              }
+            },
+            {
+              "id": 23869,
+              "name": "Hamburg Stealers",
+              "club": {
+                "id": 503,
+                "name": "Stealers",
+                "acronym": "HHS",
+                "short_name": "Hamburg Stealers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
+              }
+            }
+          ]
+        },
         "6279": {
           "id": 6279,
           "name": "Baseball Jugendliga 2",
@@ -8601,34 +8629,6 @@
             }
           ]
         },
-        "6274": {
-          "id": 6274,
-          "name": "Baseball Juniorenliga",
-          "teams": [
-            {
-              "id": 23810,
-              "name": "Hamburg Knights",
-              "club": {
-                "id": 254,
-                "name": "Knights",
-                "acronym": "HHK",
-                "short_name": "Hamburg Knights",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/254/thumb/knights.jpg?1587225027"
-              }
-            },
-            {
-              "id": 23869,
-              "name": "Hamburg Stealers",
-              "club": {
-                "id": 503,
-                "name": "Stealers",
-                "acronym": "HHS",
-                "short_name": "Hamburg Stealers",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
-              }
-            }
-          ]
-        },
         "6260": {
           "id": 6260,
           "name": "Baseball Verbandsliga",
@@ -8746,7 +8746,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-03-06T04:11:34.560774",
+    "generated_at": "2026-03-07T04:02:57.992755",
     "total_organizations": 10,
     "successful_organizations": 9,
     "failed_organizations": 1
