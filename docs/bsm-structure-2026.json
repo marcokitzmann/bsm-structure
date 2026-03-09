@@ -8737,18 +8737,101 @@
               }
             }
           ]
+        },
+        "6281": {
+          "id": 6281,
+          "name": "Schülerliga 1",
+          "teams": []
+        },
+        "6282": {
+          "id": 6282,
+          "name": "Schülerliga 2",
+          "teams": []
         }
       }
     },
     "SWBSV": {
       "id": "organization_5",
-      "leagues": {}
+      "leagues": {
+        "6387": {
+          "id": 6387,
+          "name": "Aufbauliga",
+          "teams": [
+            {
+              "id": 24300,
+              "name": "Speyer Turtles",
+              "club": {
+                "id": 238,
+                "name": "Turtles",
+                "acronym": "SPE",
+                "short_name": "Speyer Turtles",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24301,
+              "name": "St. Ingbert Devils",
+              "club": {
+                "id": 226,
+                "name": "Devils",
+                "acronym": "IGB",
+                "short_name": "St. Ingbert Devils",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24302,
+              "name": "Worms Cannibals",
+              "club": {
+                "id": 240,
+                "name": "Cannibals",
+                "acronym": "WOR",
+                "short_name": "Worms Cannibals",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24316,
+              "name": "Neuwied Racoons",
+              "club": {
+                "id": 863,
+                "name": "Racoons",
+                "acronym": "NRR",
+                "short_name": "Neuwied Racoons",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24317,
+              "name": "Bad Dürkheim Barrels",
+              "club": {
+                "id": 864,
+                "name": "Barrels",
+                "acronym": "DHB",
+                "short_name": "Bad Dürkheim Barrels",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24318,
+              "name": "Mainz Athletics 4",
+              "club": {
+                "id": 1,
+                "name": "Athletics",
+                "acronym": "MAI",
+                "short_name": "Mainz Athletics",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/001/thumb/as_logo.png?1587224970"
+              }
+            }
+          ]
+        }
+      }
     }
   },
   "metadata": {
-    "generated_at": "2026-03-08T04:13:36.146015",
+    "generated_at": "2026-03-09T04:21:04.096260",
     "total_organizations": 10,
-    "successful_organizations": 9,
-    "failed_organizations": 1
+    "successful_organizations": 10,
+    "failed_organizations": 0
   }
 }
