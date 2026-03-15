@@ -7884,87 +7884,6 @@
             }
           ]
         },
-        "6297": {
-          "id": 6297,
-          "name": "NBSV Verbandsliga 2026",
-          "teams": [
-            {
-              "id": 24148,
-              "name": "Braunschweig 89ers 2",
-              "club": {
-                "id": 447,
-                "name": "89ers",
-                "acronym": "BSK",
-                "short_name": "Braunschweig 89ers",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/447/thumb/logo_Braunschweig89ers_Wappen.png?1587225066"
-              }
-            },
-            {
-              "id": 24149,
-              "name": "Braunschweig 89ers 3",
-              "club": {
-                "id": 447,
-                "name": "89ers",
-                "acronym": "BSK",
-                "short_name": "Braunschweig 89ers",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/447/thumb/logo_Braunschweig89ers_Wappen.png?1587225066"
-              }
-            },
-            {
-              "id": 24150,
-              "name": "Bremen Dockers 2",
-              "club": {
-                "id": 445,
-                "name": "Dockers",
-                "acronym": "BRE",
-                "short_name": "Bremen Dockers",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/445/thumb/Dockers_Logo_neu_2018.jpg?1587225065"
-              }
-            },
-            {
-              "id": 24151,
-              "name": "Dohren Wild Farmers 2",
-              "club": {
-                "id": 453,
-                "name": "Wild Farmers",
-                "acronym": "DWF",
-                "short_name": "Dohren Wild Farmers",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/453/thumb/DohrenWildFarmers.jpg?1587225067"
-              }
-            },
-            {
-              "id": 24152,
-              "name": "Hannover Regents",
-              "club": {
-                "id": 463,
-                "name": "Regents",
-                "acronym": "HRG",
-                "short_name": "Hannover Regents",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/463/thumb/hannover3.png?1587225068"
-              }
-            },
-            {
-              "id": 24153,
-              "name": "SG Hänigsen/Sehnde",
-              "clubs": [
-                {
-                  "id": 458,
-                  "name": "Farmers",
-                  "acronym": "HAF",
-                  "short_name": "Hänigsen Farmers",
-                  "logo_url": null
-                },
-                {
-                  "id": 473,
-                  "name": "Devils",
-                  "acronym": "SEH",
-                  "short_name": "Sehnde Devils",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/473/thumb/DevilsLogo_gro%C3%9F.jpg?1587225070"
-                }
-              ]
-            }
-          ]
-        },
         "6302": {
           "id": 6302,
           "name": "NBSV Landesliga Nord 2026",
@@ -8164,6 +8083,87 @@
                 "short_name": "Braunschweig 89ers",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/447/thumb/logo_Braunschweig89ers_Wappen.png?1587225066"
               }
+            }
+          ]
+        },
+        "6297": {
+          "id": 6297,
+          "name": "NBSV Verbandsliga 2026",
+          "teams": [
+            {
+              "id": 24148,
+              "name": "Braunschweig 89ers 2",
+              "club": {
+                "id": 447,
+                "name": "89ers",
+                "acronym": "BSK",
+                "short_name": "Braunschweig 89ers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/447/thumb/logo_Braunschweig89ers_Wappen.png?1587225066"
+              }
+            },
+            {
+              "id": 24149,
+              "name": "Braunschweig 89ers 3",
+              "club": {
+                "id": 447,
+                "name": "89ers",
+                "acronym": "BSK",
+                "short_name": "Braunschweig 89ers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/447/thumb/logo_Braunschweig89ers_Wappen.png?1587225066"
+              }
+            },
+            {
+              "id": 24150,
+              "name": "Bremen Dockers 2",
+              "club": {
+                "id": 445,
+                "name": "Dockers",
+                "acronym": "BRE",
+                "short_name": "Bremen Dockers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/445/thumb/Dockers_Logo_neu_2018.jpg?1587225065"
+              }
+            },
+            {
+              "id": 24151,
+              "name": "Dohren Wild Farmers 2",
+              "club": {
+                "id": 453,
+                "name": "Wild Farmers",
+                "acronym": "DWF",
+                "short_name": "Dohren Wild Farmers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/453/thumb/DohrenWildFarmers.jpg?1587225067"
+              }
+            },
+            {
+              "id": 24152,
+              "name": "Hannover Regents",
+              "club": {
+                "id": 463,
+                "name": "Regents",
+                "acronym": "HRG",
+                "short_name": "Hannover Regents",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/463/thumb/hannover3.png?1587225068"
+              }
+            },
+            {
+              "id": 24153,
+              "name": "SG Hänigsen/Sehnde",
+              "clubs": [
+                {
+                  "id": 458,
+                  "name": "Farmers",
+                  "acronym": "HAF",
+                  "short_name": "Hänigsen Farmers",
+                  "logo_url": null
+                },
+                {
+                  "id": 473,
+                  "name": "Devils",
+                  "acronym": "SEH",
+                  "short_name": "Sehnde Devils",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/473/thumb/DevilsLogo_gro%C3%9F.jpg?1587225070"
+                }
+              ]
             }
           ]
         },
@@ -9421,7 +9421,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-03-14T04:12:43.049708",
+    "generated_at": "2026-03-15T04:34:33.173197",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
