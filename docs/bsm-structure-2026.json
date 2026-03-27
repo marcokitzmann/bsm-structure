@@ -2684,14 +2684,23 @@
           "teams": [
             {
               "id": 23731,
-              "name": "Mönchengladbach Blackcaps",
-              "club": {
-                "id": 795,
-                "name": "Blackcaps",
-                "acronym": "MON",
-                "short_name": "Mönchengladbach Blackcaps",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/795/thumb/MG_Blackcaps_club_logo.jpg?1587234218"
-              }
+              "name": "SG Mönchengladbach Blackcaps/Cologne Cardinals 2",
+              "clubs": [
+                {
+                  "id": 795,
+                  "name": "Blackcaps",
+                  "acronym": "MON",
+                  "short_name": "Mönchengladbach Blackcaps",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/795/thumb/MG_Blackcaps_club_logo.jpg?1587234218"
+                },
+                {
+                  "id": 316,
+                  "name": "Cardinals",
+                  "acronym": "COC",
+                  "short_name": "Cologne Cardinals",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/316/thumb/COC.jpeg?1707934291"
+                }
+              ]
             },
             {
               "id": 23856,
@@ -9570,7 +9579,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-03-26T04:35:25.784750",
+    "generated_at": "2026-03-27T04:36:00.490592",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
