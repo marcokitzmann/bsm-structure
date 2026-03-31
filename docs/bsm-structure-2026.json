@@ -3151,7 +3151,7 @@
                 "id": 324,
                 "name": "Flying Bats",
                 "acronym": "DUI",
-                "short_name": "Duisburg Flying Bats e.V.",
+                "short_name": "Duisburg Flying Bats",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/324/thumb/Flying_Bats_Logo_klein.png?1590917868"
               }
             },
@@ -9579,7 +9579,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-03-30T04:47:20.284138",
+    "generated_at": "2026-03-31T04:38:20.591876",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
