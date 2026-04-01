@@ -1013,96 +1013,6 @@
             }
           ]
         },
-        "6354": {
-          "id": 6354,
-          "name": "Jugend Landesliga",
-          "teams": [
-            {
-              "id": 23818,
-              "name": "Villingendorf Cavemen",
-              "club": {
-                "id": 438,
-                "name": "Cavemen",
-                "acronym": "VIL",
-                "short_name": "Villingendorf Cavemen",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/438/thumb/cavemen_logo_neu_2021.png?1627303383"
-              }
-            },
-            {
-              "id": 23850,
-              "name": "Gammertingen Royals",
-              "club": {
-                "id": 404,
-                "name": "Royals",
-                "acronym": "GAM",
-                "short_name": "Gammertingen Royals",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/404/thumb/RoyalsLogoFinal.png?1709819032"
-              }
-            },
-            {
-              "id": 23887,
-              "name": "Herrenberg Wanderers",
-              "club": {
-                "id": 411,
-                "name": "Wanderers",
-                "acronym": "HER",
-                "short_name": "Herrenberg Wanderers",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/411/thumb/Wanderers-Logo.jpg?1587225051"
-              }
-            },
-            {
-              "id": 24002,
-              "name": "Reutlingen Woodpeckers",
-              "club": {
-                "id": 425,
-                "name": "Woodpeckers",
-                "acronym": "REU",
-                "short_name": "Reutlingen Woodpeckers",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/425/thumb/Woodpeckers_Logo_jpg_1.jpg?1587225054"
-              }
-            },
-            {
-              "id": 24084,
-              "name": "SG Tübingen Hawks/Nagold Mohawks",
-              "clubs": [
-                {
-                  "id": 437,
-                  "name": "Hawks",
-                  "acronym": "TUB",
-                  "short_name": "Tübingen Hawks",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/437/thumb/20150301_Logo_Hawks_CMYK.png?1587225063"
-                },
-                {
-                  "id": 421,
-                  "name": "Mohawks",
-                  "acronym": "NAG",
-                  "short_name": "Nagold Mohawks",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/421/thumb/Mohawks_official_400.png?1587225053"
-                }
-              ]
-            },
-            {
-              "id": 24086,
-              "name": "SG Tübingen Hawks 2/Nagold Mohawks 2",
-              "clubs": [
-                {
-                  "id": 437,
-                  "name": "Hawks",
-                  "acronym": "TUB",
-                  "short_name": "Tübingen Hawks",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/437/thumb/20150301_Logo_Hawks_CMYK.png?1587225063"
-                },
-                {
-                  "id": 421,
-                  "name": "Mohawks",
-                  "acronym": "NAG",
-                  "short_name": "Nagold Mohawks",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/421/thumb/Mohawks_official_400.png?1587225053"
-                }
-              ]
-            }
-          ]
-        },
         "6359": {
           "id": 6359,
           "name": "Schüler Landesliga",
@@ -1391,6 +1301,96 @@
                   "acronym": "MAT",
                   "short_name": "Mannheim Tornados",
                   "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/419/thumb/tornadosrundbbsb723cm.jpg?1587225052"
+                }
+              ]
+            }
+          ]
+        },
+        "6354": {
+          "id": 6354,
+          "name": "Jugend Landesliga",
+          "teams": [
+            {
+              "id": 23818,
+              "name": "Villingendorf Cavemen",
+              "club": {
+                "id": 438,
+                "name": "Cavemen",
+                "acronym": "VIL",
+                "short_name": "Villingendorf Cavemen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/438/thumb/cavemen_logo_neu_2021.png?1627303383"
+              }
+            },
+            {
+              "id": 23850,
+              "name": "Gammertingen Royals",
+              "club": {
+                "id": 404,
+                "name": "Royals",
+                "acronym": "GAM",
+                "short_name": "Gammertingen Royals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/404/thumb/RoyalsLogoFinal.png?1709819032"
+              }
+            },
+            {
+              "id": 23887,
+              "name": "Herrenberg Wanderers",
+              "club": {
+                "id": 411,
+                "name": "Wanderers",
+                "acronym": "HER",
+                "short_name": "Herrenberg Wanderers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/411/thumb/Wanderers-Logo.jpg?1587225051"
+              }
+            },
+            {
+              "id": 24002,
+              "name": "Reutlingen Woodpeckers",
+              "club": {
+                "id": 425,
+                "name": "Woodpeckers",
+                "acronym": "REU",
+                "short_name": "Reutlingen Woodpeckers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/425/thumb/Woodpeckers_Logo_jpg_1.jpg?1587225054"
+              }
+            },
+            {
+              "id": 24084,
+              "name": "SG Tübingen Hawks/Nagold Mohawks",
+              "clubs": [
+                {
+                  "id": 437,
+                  "name": "Hawks",
+                  "acronym": "TUB",
+                  "short_name": "Tübingen Hawks",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/437/thumb/20150301_Logo_Hawks_CMYK.png?1587225063"
+                },
+                {
+                  "id": 421,
+                  "name": "Mohawks",
+                  "acronym": "NAG",
+                  "short_name": "Nagold Mohawks",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/421/thumb/Mohawks_official_400.png?1587225053"
+                }
+              ]
+            },
+            {
+              "id": 24086,
+              "name": "SG Tübingen Hawks 2/Nagold Mohawks 2",
+              "clubs": [
+                {
+                  "id": 437,
+                  "name": "Hawks",
+                  "acronym": "TUB",
+                  "short_name": "Tübingen Hawks",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/437/thumb/20150301_Logo_Hawks_CMYK.png?1587225063"
+                },
+                {
+                  "id": 421,
+                  "name": "Mohawks",
+                  "acronym": "NAG",
+                  "short_name": "Nagold Mohawks",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/421/thumb/Mohawks_official_400.png?1587225053"
                 }
               ]
             }
@@ -6864,6 +6864,128 @@
               }
             }
           ]
+        },
+        "6416": {
+          "id": 6416,
+          "name": "BBQ Slowpitch-Mixed Softball",
+          "teams": [
+            {
+              "id": 24375,
+              "name": "Altdorf Raptors",
+              "club": {
+                "id": 851,
+                "name": "Icesharks",
+                "acronym": "ALT",
+                "short_name": "Altdorf Icesharks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/851/thumb/IMG_7190.jpeg?1707337033"
+              }
+            },
+            {
+              "id": 24376,
+              "name": "Fürth Pirates",
+              "club": {
+                "id": 4,
+                "name": "Pirates",
+                "acronym": "FUR",
+                "short_name": "Fürth Pirates",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/004/thumb/FuerthPirates.jpg?1702023686"
+              }
+            },
+            {
+              "id": 24377,
+              "name": "Franken Rebels",
+              "club": {
+                "id": 559,
+                "name": "Franken Rebels",
+                "acronym": "FRR",
+                "short_name": "Franken Rebels",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/559/thumb/Logo_2020_red_bg_white_claim.png?1595857875"
+              }
+            },
+            {
+              "id": 24378,
+              "name": "Regensburg Crazy Bones",
+              "club": {
+                "id": 14,
+                "name": "Legionäre",
+                "acronym": "REG",
+                "short_name": "Guggenberger Legionäre",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/014/thumb/Legion%C3%A4re_SCRIPT_Logo_GUGGENBERGER_L_CoB.png?1646045867"
+              }
+            }
+          ]
+        },
+        "6415": {
+          "id": 6415,
+          "name": "BBQ Slowpitch-Mixed Softball",
+          "teams": [
+            {
+              "id": 24063,
+              "name": "Schwaig Red Lions",
+              "club": {
+                "id": 555,
+                "name": "Red Lions",
+                "acronym": "SRL",
+                "short_name": "Schwaig Red Lions",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/555/thumb/Logo_Red_Lions_auf_schwarz_100_DPI.png?1587225078"
+              }
+            },
+            {
+              "id": 24380,
+              "name": "Freising Grizzlies",
+              "club": {
+                "id": 59,
+                "name": "Grizzlies",
+                "acronym": "FRE",
+                "short_name": "Freising Grizzlies",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
+              }
+            },
+            {
+              "id": 24381,
+              "name": "Baldham Boars",
+              "club": {
+                "id": 22,
+                "name": "Boars",
+                "acronym": "BAL",
+                "short_name": "Baldham Boars",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/022/thumb/Boars_Logo_Badge_RGB_White_Circle_BG.png?1748957783"
+              }
+            },
+            {
+              "id": 24382,
+              "name": "Grünwald Jesters",
+              "club": {
+                "id": 33,
+                "name": "Jesters",
+                "acronym": "GRU",
+                "short_name": "Grünwald Jesters",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/00003004.png?1587224982"
+              }
+            },
+            {
+              "id": 24383,
+              "name": "Dachau Tigers",
+              "club": {
+                "id": 25,
+                "name": "Tigers",
+                "acronym": "DAC",
+                "short_name": "Dachau Tigers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/025/thumb/avatar.png?1675289058"
+              }
+            },
+            {
+              "id": 24384,
+              "name": "Disciples München-Haar",
+              "club": {
+                "id": 35,
+                "name": "Disciples",
+                "acronym": "HAA",
+                "short_name": "Disciples München-Haar",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/035/thumb/00003009.png?1587224982"
+              }
+            }
+          ]
         }
       }
     },
@@ -9579,7 +9701,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-03-31T04:38:20.591876",
+    "generated_at": "2026-04-01T04:49:07.540335",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
