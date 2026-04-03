@@ -8431,7 +8431,7 @@
         },
         "6299": {
           "id": 6299,
-          "name": "NBSV Softball Verbandsliga 2025",
+          "name": "NBSV Softball Verbandsliga 2026",
           "teams": [
             {
               "id": 24154,
@@ -9608,45 +9608,6 @@
             }
           ]
         },
-        "6392": {
-          "id": 6392,
-          "name": "Jugendliga",
-          "teams": [
-            {
-              "id": 24308,
-              "name": "Mainz Athletics",
-              "club": {
-                "id": 1,
-                "name": "Athletics",
-                "acronym": "MAI",
-                "short_name": "Mainz Athletics",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/001/thumb/as_logo.png?1587224970"
-              }
-            },
-            {
-              "id": 24309,
-              "name": "Saarlouis Hornets",
-              "club": {
-                "id": 237,
-                "name": "Hornets",
-                "acronym": "SLS",
-                "short_name": "Saarlouis Hornets",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/237/thumb/Logo_Hornets_Akzent_09_2021.png?1687501902"
-              }
-            },
-            {
-              "id": 24321,
-              "name": "K-Town Bears",
-              "club": {
-                "id": 228,
-                "name": "Bears",
-                "acronym": "KSL",
-                "short_name": "K-Town Bears",
-                "logo_url": null
-              }
-            }
-          ]
-        },
         "6394": {
           "id": 6394,
           "name": "Schüler Baseball",
@@ -9696,12 +9657,51 @@
               }
             }
           ]
+        },
+        "6392": {
+          "id": 6392,
+          "name": "Jugendliga",
+          "teams": [
+            {
+              "id": 24308,
+              "name": "Mainz Athletics",
+              "club": {
+                "id": 1,
+                "name": "Athletics",
+                "acronym": "MAI",
+                "short_name": "Mainz Athletics",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/001/thumb/as_logo.png?1587224970"
+              }
+            },
+            {
+              "id": 24309,
+              "name": "Saarlouis Hornets",
+              "club": {
+                "id": 237,
+                "name": "Hornets",
+                "acronym": "SLS",
+                "short_name": "Saarlouis Hornets",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/237/thumb/Logo_Hornets_Akzent_09_2021.png?1687501902"
+              }
+            },
+            {
+              "id": 24321,
+              "name": "K-Town Bears",
+              "club": {
+                "id": 228,
+                "name": "Bears",
+                "acronym": "KSL",
+                "short_name": "K-Town Bears",
+                "logo_url": null
+              }
+            }
+          ]
         }
       }
     }
   },
   "metadata": {
-    "generated_at": "2026-04-02T04:32:11.219482",
+    "generated_at": "2026-04-03T04:32:27.885647",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
