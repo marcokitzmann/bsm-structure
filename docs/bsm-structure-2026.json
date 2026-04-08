@@ -858,78 +858,6 @@
             }
           ]
         },
-        "6348": {
-          "id": 6348,
-          "name": "Landesliga Herren",
-          "teams": [
-            {
-              "id": 23956,
-              "name": "Bühl Blackwoods",
-              "club": {
-                "id": 805,
-                "name": "Blackwoods",
-                "acronym": "BBW",
-                "short_name": "Bühl Blackwoods",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/805/thumb/TVB_BB_Emblem.jpg?1587225091"
-              }
-            },
-            {
-              "id": 24026,
-              "name": "Neuenburg Atomics 2",
-              "club": {
-                "id": 422,
-                "name": "Atomics",
-                "acronym": "NAT",
-                "short_name": "Neuenburg Atomics",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/422/thumb/Atomics_A.jpg?1587225054"
-              }
-            },
-            {
-              "id": 24048,
-              "name": "Heidelberg Hedgehogs 2",
-              "club": {
-                "id": 407,
-                "name": "Hedgehogs",
-                "acronym": "HEH",
-                "short_name": "Heidelberg Hedgehogs",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/407/thumb/hedgehogs_logo_rot_schwarz_3D.png?1587225049"
-              }
-            },
-            {
-              "id": 24060,
-              "name": "Nagold Mohawks",
-              "club": {
-                "id": 421,
-                "name": "Mohawks",
-                "acronym": "NAG",
-                "short_name": "Nagold Mohawks",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/421/thumb/Mohawks_official_400.png?1587225053"
-              }
-            },
-            {
-              "id": 24115,
-              "name": "Karlsruhe Cougars 2",
-              "club": {
-                "id": 414,
-                "name": "Cougars",
-                "acronym": "KAR",
-                "short_name": "Karlsruhe Cougars",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/414/thumb/Cougars-Favicon-Blue-Transparent-640px.png?1587225051"
-              }
-            },
-            {
-              "id": 24134,
-              "name": "Freiburg Knights",
-              "club": {
-                "id": 403,
-                "name": "Knights",
-                "acronym": "FRK",
-                "short_name": "Freiburg Knights",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/403/thumb/Knights_Logo_2020.png?1626179640"
-              }
-            }
-          ]
-        },
         "6349": {
           "id": 6349,
           "name": "Landesliga Herren",
@@ -2175,6 +2103,78 @@
                 "acronym": "ESS",
                 "short_name": "Taínos Arawak Esslingen",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/843/thumb/logo_klein.jpg?1673785100"
+              }
+            }
+          ]
+        },
+        "6348": {
+          "id": 6348,
+          "name": "Landesliga Herren",
+          "teams": [
+            {
+              "id": 23956,
+              "name": "Bühl Blackwoods",
+              "club": {
+                "id": 805,
+                "name": "Blackwoods",
+                "acronym": "BBW",
+                "short_name": "Bühl Blackwoods",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/805/thumb/TVB_BB_Emblem.jpg?1587225091"
+              }
+            },
+            {
+              "id": 24026,
+              "name": "Neuenburg Atomics 2",
+              "club": {
+                "id": 422,
+                "name": "Atomics",
+                "acronym": "NAT",
+                "short_name": "Neuenburg Atomics",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/422/thumb/Atomics_A.jpg?1587225054"
+              }
+            },
+            {
+              "id": 24048,
+              "name": "Heidelberg Hedgehogs 2",
+              "club": {
+                "id": 407,
+                "name": "Hedgehogs",
+                "acronym": "HEH",
+                "short_name": "Heidelberg Hedgehogs",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/407/thumb/hedgehogs_logo_rot_schwarz_3D.png?1587225049"
+              }
+            },
+            {
+              "id": 24060,
+              "name": "Nagold Mohawks",
+              "club": {
+                "id": 421,
+                "name": "Mohawks",
+                "acronym": "NAG",
+                "short_name": "Nagold Mohawks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/421/thumb/Mohawks_official_400.png?1587225053"
+              }
+            },
+            {
+              "id": 24115,
+              "name": "Karlsruhe Cougars 2",
+              "club": {
+                "id": 414,
+                "name": "Cougars",
+                "acronym": "KAR",
+                "short_name": "Karlsruhe Cougars",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/414/thumb/Cougars-Favicon-Blue-Transparent-640px.png?1587225051"
+              }
+            },
+            {
+              "id": 24134,
+              "name": "Freiburg Knights",
+              "club": {
+                "id": 403,
+                "name": "Knights",
+                "acronym": "FRK",
+                "short_name": "Freiburg Knights",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/403/thumb/Knights_Logo_2020.png?1626179640"
               }
             }
           ]
@@ -9527,7 +9527,7 @@
             },
             {
               "id": 24326,
-              "name": "SG Bad Homburg Hornets/Giessen Busters",
+              "name": "SG Bad Homburg Hornets/Giessen Busters/Hünstetten STORM",
               "clubs": [
                 {
                   "id": 206,
@@ -9542,6 +9542,13 @@
                   "acronym": "GIE",
                   "short_name": "Giessen Busters",
                   "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/199/thumb/Busters-Logo.png?1587224999"
+                },
+                {
+                  "id": 207,
+                  "name": "STORM",
+                  "acronym": "HUN",
+                  "short_name": "Hünstetten STORM",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/207/thumb/2023_CharacterCloud_quad-200x200-wei%C3%9F.png?1677681168"
                 }
               ]
             }
@@ -9701,7 +9708,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-04-07T04:35:29.812617",
+    "generated_at": "2026-04-08T04:39:32.574337",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
