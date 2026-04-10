@@ -5161,7 +5161,7 @@
             },
             {
               "id": 23696,
-              "name": "Baldham Boars ",
+              "name": "Baldham Boars",
               "club": {
                 "id": 22,
                 "name": "Boars",
@@ -9708,7 +9708,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-04-09T04:36:14.402115",
+    "generated_at": "2026-04-10T04:49:36.132952",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
