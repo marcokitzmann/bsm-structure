@@ -7180,6 +7180,56 @@
             }
           ]
         },
+        "6408": {
+          "id": 6408,
+          "name": "Schüler Verbandsliga Baseball",
+          "teams": [
+            {
+              "id": 24355,
+              "name": "Main-Taunus Redwings",
+              "club": {
+                "id": 211,
+                "name": "Redwings",
+                "acronym": "MTR",
+                "short_name": "Main-Taunus Redwings",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/211/thumb/RW_logo_rund_3D.jpg?1587225008"
+              }
+            },
+            {
+              "id": 24356,
+              "name": "Darmstadt Whippets",
+              "club": {
+                "id": 188,
+                "name": "Whippets",
+                "acronym": "DAW",
+                "short_name": "Darmstadt Whippets",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/188/thumb/whippets.png?1587224998"
+              }
+            },
+            {
+              "id": 24357,
+              "name": "Frankfurt 1860",
+              "club": {
+                "id": 192,
+                "name": "1860",
+                "acronym": "FRA",
+                "short_name": "Frankfurt 1860",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/192/thumb/FTV1860_Logo_neu.png?1750281776"
+              }
+            },
+            {
+              "id": 24358,
+              "name": "Bad Homburg Hornets",
+              "club": {
+                "id": 206,
+                "name": "Hornets",
+                "acronym": "HOM",
+                "short_name": "Bad Homburg Hornets",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/206/thumb/hornets-button3-1.png?1749714236"
+              }
+            }
+          ]
+        },
         "6406": {
           "id": 6406,
           "name": "Jugend Verbandsliga Baseball",
@@ -7266,56 +7316,6 @@
                 "acronym": "MTR",
                 "short_name": "Main-Taunus Redwings",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/211/thumb/RW_logo_rund_3D.jpg?1587225008"
-              }
-            }
-          ]
-        },
-        "6408": {
-          "id": 6408,
-          "name": "Schüler Verbandsliga Baseball",
-          "teams": [
-            {
-              "id": 24355,
-              "name": "Main-Taunus Redwings",
-              "club": {
-                "id": 211,
-                "name": "Redwings",
-                "acronym": "MTR",
-                "short_name": "Main-Taunus Redwings",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/211/thumb/RW_logo_rund_3D.jpg?1587225008"
-              }
-            },
-            {
-              "id": 24356,
-              "name": "Darmstadt Whippets",
-              "club": {
-                "id": 188,
-                "name": "Whippets",
-                "acronym": "DAW",
-                "short_name": "Darmstadt Whippets",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/188/thumb/whippets.png?1587224998"
-              }
-            },
-            {
-              "id": 24357,
-              "name": "Frankfurt 1860",
-              "club": {
-                "id": 192,
-                "name": "1860",
-                "acronym": "FRA",
-                "short_name": "Frankfurt 1860",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/192/thumb/FTV1860_Logo_neu.png?1750281776"
-              }
-            },
-            {
-              "id": 24358,
-              "name": "Bad Homburg Hornets",
-              "club": {
-                "id": 206,
-                "name": "Hornets",
-                "acronym": "HOM",
-                "short_name": "Bad Homburg Hornets",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/206/thumb/hornets-button3-1.png?1749714236"
               }
             }
           ]
@@ -9421,7 +9421,7 @@
                 "name": "Barrels",
                 "acronym": "DHB",
                 "short_name": "Bad Dürkheim Barrels",
-                "logo_url": null
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/864/thumb/Bildschirmfoto_2026-04-09_um_18.32.37.png?1775752405"
               }
             },
             {
@@ -9708,7 +9708,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-04-10T04:49:36.132952",
+    "generated_at": "2026-04-11T04:24:02.019656",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
