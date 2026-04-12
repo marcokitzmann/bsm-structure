@@ -6303,67 +6303,6 @@
             }
           ]
         },
-        "6176": {
-          "id": 6176,
-          "name": "Jugend Baseball Landesliga Südost (U15) - R1",
-          "teams": [
-            {
-              "id": 24157,
-              "name": "Disciples München-Haar",
-              "club": {
-                "id": 35,
-                "name": "Disciples",
-                "acronym": "HAA",
-                "short_name": "Disciples München-Haar",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/035/thumb/00003009.png?1587224982"
-              }
-            },
-            {
-              "id": 24159,
-              "name": "Baldham Boars",
-              "club": {
-                "id": 22,
-                "name": "Boars",
-                "acronym": "BAL",
-                "short_name": "Baldham Boars",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/022/thumb/Boars_Logo_Badge_RGB_White_Circle_BG.png?1748957783"
-              }
-            },
-            {
-              "id": 24222,
-              "name": "Kufstein Vikings",
-              "club": {
-                "id": 622,
-                "name": "Vikings",
-                "acronym": "KUF",
-                "short_name": "Kufstein Vikings",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/622/thumb/Union_Kufstein_Vikings.PNG?1587225086"
-              }
-            },
-            {
-              "id": 24250,
-              "name": "Freising Grizzlies 2",
-              "club": {
-                "id": 59,
-                "name": "Grizzlies",
-                "acronym": "FRE",
-                "short_name": "Freising Grizzlies",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
-              }
-            },
-            {
-              "id": 24271,
-              "name": "Grünwald Jesters",
-              "club": {
-                "id": 33,
-                "name": "Jesters",
-                "acronym": "GRU",
-                "short_name": "Grünwald Jesters",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/00003004.png?1587224982"
-              }
-            }
-          ]
-        },
         "6185": {
           "id": 6185,
           "name": "Schüler Coach Pitch Nord (U10) - R1",
@@ -6556,6 +6495,67 @@
             },
             {
               "id": 24272,
+              "name": "Grünwald Jesters",
+              "club": {
+                "id": 33,
+                "name": "Jesters",
+                "acronym": "GRU",
+                "short_name": "Grünwald Jesters",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/00003004.png?1587224982"
+              }
+            }
+          ]
+        },
+        "6176": {
+          "id": 6176,
+          "name": "Jugend Baseball Landesliga Südost (U15) - R1",
+          "teams": [
+            {
+              "id": 24157,
+              "name": "Disciples München-Haar",
+              "club": {
+                "id": 35,
+                "name": "Disciples",
+                "acronym": "HAA",
+                "short_name": "Disciples München-Haar",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/035/thumb/00003009.png?1587224982"
+              }
+            },
+            {
+              "id": 24159,
+              "name": "Baldham Boars",
+              "club": {
+                "id": 22,
+                "name": "Boars",
+                "acronym": "BAL",
+                "short_name": "Baldham Boars",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/022/thumb/Boars_Logo_Badge_RGB_White_Circle_BG.png?1748957783"
+              }
+            },
+            {
+              "id": 24222,
+              "name": "Kufstein Vikings",
+              "club": {
+                "id": 622,
+                "name": "Vikings",
+                "acronym": "KUF",
+                "short_name": "Kufstein Vikings",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/622/thumb/Union_Kufstein_Vikings.PNG?1587225086"
+              }
+            },
+            {
+              "id": 24250,
+              "name": "Freising Grizzlies 2",
+              "club": {
+                "id": 59,
+                "name": "Grizzlies",
+                "acronym": "FRE",
+                "short_name": "Freising Grizzlies",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
+              }
+            },
+            {
+              "id": 24271,
               "name": "Grünwald Jesters",
               "club": {
                 "id": 33,
@@ -9708,7 +9708,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-04-11T04:24:02.019656",
+    "generated_at": "2026-04-12T04:48:45.273347",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
