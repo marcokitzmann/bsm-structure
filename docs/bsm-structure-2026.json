@@ -2229,6 +2229,67 @@
             }
           ]
         },
+        "6365": {
+          "id": 6365,
+          "name": "Softball Mixed",
+          "teams": [
+            {
+              "id": 24027,
+              "name": "Green Sox Göppingen",
+              "club": {
+                "id": 406,
+                "name": "Green Sox",
+                "acronym": "GOP",
+                "short_name": "Green Sox Göppingen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/406/thumb/Greensox_1991_Logo_.png?1587225049"
+              }
+            },
+            {
+              "id": 24081,
+              "name": "Tübingen Hawks",
+              "club": {
+                "id": 437,
+                "name": "Hawks",
+                "acronym": "TUB",
+                "short_name": "Tübingen Hawks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/437/thumb/20150301_Logo_Hawks_CMYK.png?1587225063"
+              }
+            },
+            {
+              "id": 24111,
+              "name": "Karlsruhe Cougars",
+              "club": {
+                "id": 414,
+                "name": "Cougars",
+                "acronym": "KAR",
+                "short_name": "Karlsruhe Cougars",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/414/thumb/Cougars-Favicon-Blue-Transparent-640px.png?1587225051"
+              }
+            },
+            {
+              "id": 24116,
+              "name": "Mannheim Tornados",
+              "club": {
+                "id": 419,
+                "name": "Mannheim Tornados",
+                "acronym": "MAT",
+                "short_name": "Mannheim Tornados",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/419/thumb/tornadosrundbbsb723cm.jpg?1587225052"
+              }
+            },
+            {
+              "id": 24140,
+              "name": "Freiburg Knights",
+              "club": {
+                "id": 403,
+                "name": "Knights",
+                "acronym": "FRK",
+                "short_name": "Freiburg Knights",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/403/thumb/Knights_Logo_2020.png?1626179640"
+              }
+            }
+          ]
+        },
         "6367": {
           "id": 6367,
           "name": "Softball Pokal",
@@ -6203,45 +6264,6 @@
             }
           ]
         },
-        "6154": {
-          "id": 6154,
-          "name": "Bayernliga Softball",
-          "teams": [
-            {
-              "id": 23650,
-              "name": "Disciples München-Haar",
-              "club": {
-                "id": 35,
-                "name": "Disciples",
-                "acronym": "HAA",
-                "short_name": "Disciples München-Haar",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/035/thumb/00003009.png?1587224982"
-              }
-            },
-            {
-              "id": 23651,
-              "name": "Freising Grizzlies 2",
-              "club": {
-                "id": 59,
-                "name": "Grizzlies",
-                "acronym": "FRE",
-                "short_name": "Freising Grizzlies",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
-              }
-            },
-            {
-              "id": 23652,
-              "name": "Guggenberger Legionäre 2",
-              "club": {
-                "id": 14,
-                "name": "Legionäre",
-                "acronym": "REG",
-                "short_name": "Guggenberger Legionäre",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/014/thumb/Legion%C3%A4re_SCRIPT_Logo_GUGGENBERGER_L_CoB.png?1646045867"
-              }
-            }
-          ]
-        },
         "6149": {
           "id": 6149,
           "name": "Landesliga Baseball Südwest",
@@ -6502,6 +6524,45 @@
                 "acronym": "GRU",
                 "short_name": "Grünwald Jesters",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/00003004.png?1587224982"
+              }
+            }
+          ]
+        },
+        "6154": {
+          "id": 6154,
+          "name": "Bayernliga Softball",
+          "teams": [
+            {
+              "id": 23650,
+              "name": "Disciples München-Haar",
+              "club": {
+                "id": 35,
+                "name": "Disciples",
+                "acronym": "HAA",
+                "short_name": "Disciples München-Haar",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/035/thumb/00003009.png?1587224982"
+              }
+            },
+            {
+              "id": 23651,
+              "name": "Freising Grizzlies 2",
+              "club": {
+                "id": 59,
+                "name": "Grizzlies",
+                "acronym": "FRE",
+                "short_name": "Freising Grizzlies",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
+              }
+            },
+            {
+              "id": 23652,
+              "name": "Guggenberger Legionäre 2",
+              "club": {
+                "id": 14,
+                "name": "Legionäre",
+                "acronym": "REG",
+                "short_name": "Guggenberger Legionäre",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/014/thumb/Legion%C3%A4re_SCRIPT_Logo_GUGGENBERGER_L_CoB.png?1646045867"
               }
             }
           ]
@@ -9708,7 +9769,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-04-12T04:48:45.273347",
+    "generated_at": "2026-04-13T05:16:20.666544",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
