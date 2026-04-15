@@ -10,6 +10,7 @@
           "teams": [
             {
               "id": 23610,
+              "league_entry_id": 45447,
               "name": "Bremen Dockers",
               "club": {
                 "id": 445,
@@ -21,6 +22,7 @@
             },
             {
               "id": 23613,
+              "league_entry_id": 45448,
               "name": "Dohren Wild Farmers",
               "club": {
                 "id": 453,
@@ -32,6 +34,7 @@
             },
             {
               "id": 23619,
+              "league_entry_id": 45449,
               "name": "Hamburg Marines",
               "club": {
                 "id": 257,
@@ -43,6 +46,7 @@
             },
             {
               "id": 23620,
+              "league_entry_id": 45450,
               "name": "Hamburg Stealers 2",
               "club": {
                 "id": 503,
@@ -54,6 +58,7 @@
             },
             {
               "id": 23622,
+              "league_entry_id": 45451,
               "name": "Kiel Seahawks",
               "club": {
                 "id": 167,
@@ -65,6 +70,7 @@
             },
             {
               "id": 23637,
+              "league_entry_id": 45452,
               "name": "Hamburg Knights",
               "club": {
                 "id": 254,
@@ -82,6 +88,7 @@
           "teams": [
             {
               "id": 23604,
+              "league_entry_id": 45465,
               "name": "Bayerische Baseball Academy",
               "club": {
                 "id": 841,
@@ -93,6 +100,7 @@
             },
             {
               "id": 23614,
+              "league_entry_id": 45466,
               "name": "Freising Grizzlies",
               "club": {
                 "id": 59,
@@ -104,6 +112,7 @@
             },
             {
               "id": 23615,
+              "league_entry_id": 45467,
               "name": "Füssen Royal Bavarians",
               "club": {
                 "id": 28,
@@ -115,6 +124,7 @@
             },
             {
               "id": 23617,
+              "league_entry_id": 45468,
               "name": "Garching Atomics",
               "club": {
                 "id": 29,
@@ -126,6 +136,7 @@
             },
             {
               "id": 23618,
+              "league_entry_id": 45469,
               "name": "Guggenberger Legionäre 2",
               "club": {
                 "id": 14,
@@ -137,6 +148,7 @@
             },
             {
               "id": 23625,
+              "league_entry_id": 45470,
               "name": "München Caribes",
               "club": {
                 "id": 46,
@@ -148,6 +160,7 @@
             },
             {
               "id": 23629,
+              "league_entry_id": 45471,
               "name": "Schwaig Red Lions",
               "club": {
                 "id": 555,
@@ -159,6 +172,7 @@
             },
             {
               "id": 23641,
+              "league_entry_id": 45472,
               "name": "Gauting Indians 2",
               "club": {
                 "id": 30,
@@ -176,6 +190,7 @@
           "teams": [
             {
               "id": 23582,
+              "league_entry_id": 45439,
               "name": "Gauting Indians",
               "club": {
                 "id": 30,
@@ -187,6 +202,7 @@
             },
             {
               "id": 23583,
+              "league_entry_id": 45440,
               "name": "Guggenberger Legionäre",
               "club": {
                 "id": 14,
@@ -198,6 +214,7 @@
             },
             {
               "id": 23585,
+              "league_entry_id": 45441,
               "name": "Heidenheim Heideköpfe",
               "club": {
                 "id": 408,
@@ -209,6 +226,7 @@
             },
             {
               "id": 23587,
+              "league_entry_id": 45442,
               "name": "Mainz Athletics",
               "club": {
                 "id": 1,
@@ -220,6 +238,7 @@
             },
             {
               "id": 23588,
+              "league_entry_id": 45443,
               "name": "München-Haar Disciples",
               "club": {
                 "id": 35,
@@ -231,6 +250,7 @@
             },
             {
               "id": 23589,
+              "league_entry_id": 45444,
               "name": "Stuttgart Reds",
               "club": {
                 "id": 436,
@@ -248,6 +268,7 @@
           "teams": [
             {
               "id": 23580,
+              "league_entry_id": 45433,
               "name": "Bonn Capitals",
               "club": {
                 "id": 311,
@@ -259,6 +280,7 @@
             },
             {
               "id": 23581,
+              "league_entry_id": 45434,
               "name": "Cologne Cardinals",
               "club": {
                 "id": 316,
@@ -270,6 +292,7 @@
             },
             {
               "id": 23584,
+              "league_entry_id": 45435,
               "name": "Hamburg Stealers",
               "club": {
                 "id": 503,
@@ -281,6 +304,7 @@
             },
             {
               "id": 23586,
+              "league_entry_id": 45436,
               "name": "Hünstetten STORM",
               "club": {
                 "id": 207,
@@ -292,6 +316,7 @@
             },
             {
               "id": 23590,
+              "league_entry_id": 45437,
               "name": "Untouchables Paderborn",
               "club": {
                 "id": 365,
@@ -303,6 +328,7 @@
             },
             {
               "id": 23635,
+              "league_entry_id": 45438,
               "name": "Dortmund Wanderers",
               "club": {
                 "id": 322,
@@ -320,6 +346,7 @@
           "teams": [
             {
               "id": 23605,
+              "league_entry_id": 45453,
               "name": "Berlin Ausbau Roadrunners",
               "club": {
                 "id": 502,
@@ -331,6 +358,7 @@
             },
             {
               "id": 23606,
+              "league_entry_id": 45454,
               "name": "Berlin Flamingos",
               "club": {
                 "id": 604,
@@ -342,6 +370,7 @@
             },
             {
               "id": 23607,
+              "league_entry_id": 45455,
               "name": "Berlin Skylarks",
               "club": {
                 "id": 485,
@@ -353,6 +382,7 @@
             },
             {
               "id": 23609,
+              "league_entry_id": 45456,
               "name": "Braunschweig 89ers",
               "club": {
                 "id": 447,
@@ -364,6 +394,7 @@
             },
             {
               "id": 23638,
+              "league_entry_id": 45457,
               "name": "Wolfsburg Blackbirds",
               "club": {
                 "id": 817,
@@ -381,6 +412,7 @@
           "teams": [
             {
               "id": 23603,
+              "league_entry_id": 45473,
               "name": "Bad Homburg Hornets",
               "club": {
                 "id": 206,
@@ -392,6 +424,7 @@
             },
             {
               "id": 23612,
+              "league_entry_id": 45474,
               "name": "Darmstadt Whippets",
               "club": {
                 "id": 188,
@@ -403,6 +436,7 @@
             },
             {
               "id": 23623,
+              "league_entry_id": 45475,
               "name": "Mainz Athletics 2",
               "club": {
                 "id": 1,
@@ -414,6 +448,7 @@
             },
             {
               "id": 23624,
+              "league_entry_id": 45476,
               "name": "Mannheim Tornados",
               "club": {
                 "id": 419,
@@ -425,6 +460,7 @@
             },
             {
               "id": 23628,
+              "league_entry_id": 45477,
               "name": "Saarlouis Hornets",
               "club": {
                 "id": 237,
@@ -436,6 +472,7 @@
             },
             {
               "id": 23640,
+              "league_entry_id": 45478,
               "name": "Schriesheim Raubritter",
               "club": {
                 "id": 435,
@@ -453,6 +490,7 @@
           "teams": [
             {
               "id": 23608,
+              "league_entry_id": 45458,
               "name": "Bonn Capitals 2",
               "club": {
                 "id": 311,
@@ -464,6 +502,7 @@
             },
             {
               "id": 23611,
+              "league_entry_id": 45459,
               "name": "Cologne Cardinals 2",
               "club": {
                 "id": 316,
@@ -475,6 +514,7 @@
             },
             {
               "id": 23627,
+              "league_entry_id": 45460,
               "name": "Neunkirchen Nightmares",
               "club": {
                 "id": 363,
@@ -486,6 +526,7 @@
             },
             {
               "id": 23630,
+              "league_entry_id": 45461,
               "name": "Solingen Alligators",
               "club": {
                 "id": 378,
@@ -497,6 +538,7 @@
             },
             {
               "id": 23633,
+              "league_entry_id": 45462,
               "name": "Untouchables Paderborn 2",
               "club": {
                 "id": 365,
@@ -508,6 +550,7 @@
             },
             {
               "id": 23634,
+              "league_entry_id": 45463,
               "name": "Wuppertal Stingrays",
               "club": {
                 "id": 390,
@@ -519,6 +562,7 @@
             },
             {
               "id": 23639,
+              "league_entry_id": 45464,
               "name": "Düsseldorf Senators",
               "club": {
                 "id": 325,
@@ -536,6 +580,7 @@
           "teams": [
             {
               "id": 23616,
+              "league_entry_id": 45479,
               "name": "Gammertingen Royals",
               "club": {
                 "id": 404,
@@ -547,6 +592,7 @@
             },
             {
               "id": 23621,
+              "league_entry_id": 45480,
               "name": "Heidenheim Heideköpfe 2",
               "club": {
                 "id": 408,
@@ -558,6 +604,7 @@
             },
             {
               "id": 23626,
+              "league_entry_id": 45481,
               "name": "Neuenburg Atomics",
               "club": {
                 "id": 422,
@@ -569,6 +616,7 @@
             },
             {
               "id": 23631,
+              "league_entry_id": 45482,
               "name": "Stuttgart Reds 2",
               "club": {
                 "id": 436,
@@ -580,6 +628,7 @@
             },
             {
               "id": 23632,
+              "league_entry_id": 45483,
               "name": "Tübingen Hawks",
               "club": {
                 "id": 437,
@@ -597,6 +646,7 @@
           "teams": [
             {
               "id": 23591,
+              "league_entry_id": 45419,
               "name": "Cologne Cardinals",
               "club": {
                 "id": 316,
@@ -608,6 +658,7 @@
             },
             {
               "id": 23594,
+              "league_entry_id": 45420,
               "name": "Hamburg Knights",
               "club": {
                 "id": 254,
@@ -619,6 +670,7 @@
             },
             {
               "id": 23597,
+              "league_entry_id": 45421,
               "name": "NSF Berlin Ravens",
               "club": {
                 "id": 491,
@@ -630,6 +682,7 @@
             },
             {
               "id": 23598,
+              "league_entry_id": 45422,
               "name": "Ratingen Goose-Necks",
               "club": {
                 "id": 371,
@@ -641,6 +694,7 @@
             },
             {
               "id": 23599,
+              "league_entry_id": 45423,
               "name": "SCC Berlin Challengers",
               "club": {
                 "id": 486,
@@ -652,6 +706,7 @@
             },
             {
               "id": 23602,
+              "league_entry_id": 45424,
               "name": "Wesseling Vermins",
               "club": {
                 "id": 387,
@@ -663,6 +718,7 @@
             },
             {
               "id": 23636,
+              "league_entry_id": 45425,
               "name": "Untouchables Paderborn",
               "club": {
                 "id": 365,
@@ -680,6 +736,7 @@
           "teams": [
             {
               "id": 23592,
+              "league_entry_id": 45426,
               "name": "Freising Grizzlies",
               "club": {
                 "id": 59,
@@ -691,6 +748,7 @@
             },
             {
               "id": 23593,
+              "league_entry_id": 45427,
               "name": "Guggenberger Legionäre",
               "club": {
                 "id": 14,
@@ -702,6 +760,7 @@
             },
             {
               "id": 23595,
+              "league_entry_id": 45428,
               "name": "Karlsruhe Cougars",
               "club": {
                 "id": 414,
@@ -713,6 +772,7 @@
             },
             {
               "id": 23596,
+              "league_entry_id": 45429,
               "name": "Neunkirchen Nightmares",
               "club": {
                 "id": 363,
@@ -724,6 +784,7 @@
             },
             {
               "id": 23600,
+              "league_entry_id": 45430,
               "name": "Stuttgart Reds",
               "club": {
                 "id": 436,
@@ -735,6 +796,7 @@
             },
             {
               "id": 23601,
+              "league_entry_id": 45431,
               "name": "Tübingen Hawks",
               "club": {
                 "id": 437,
@@ -792,6 +854,7 @@
           "teams": [
             {
               "id": 23657,
+              "league_entry_id": 46417,
               "name": "Aichelberg Indians",
               "club": {
                 "id": 440,
@@ -803,6 +866,7 @@
             },
             {
               "id": 23707,
+              "league_entry_id": 46418,
               "name": "Tübingen Hawks 2",
               "club": {
                 "id": 437,
@@ -814,6 +878,7 @@
             },
             {
               "id": 23884,
+              "league_entry_id": 46419,
               "name": "Herrenberg Wanderers",
               "club": {
                 "id": 411,
@@ -825,6 +890,7 @@
             },
             {
               "id": 24047,
+              "league_entry_id": 46420,
               "name": "Heidelberg Hedgehogs",
               "club": {
                 "id": 407,
@@ -836,6 +902,7 @@
             },
             {
               "id": 24108,
+              "league_entry_id": 46421,
               "name": "Karlsruhe Cougars",
               "club": {
                 "id": 414,
@@ -847,6 +914,7 @@
             },
             {
               "id": 24117,
+              "league_entry_id": 46422,
               "name": "Ladenburg Romans",
               "club": {
                 "id": 416,
@@ -864,6 +932,7 @@
           "teams": [
             {
               "id": 23815,
+              "league_entry_id": 46429,
               "name": "Villingendorf Cavemen",
               "club": {
                 "id": 438,
@@ -875,6 +944,7 @@
             },
             {
               "id": 23862,
+              "league_entry_id": 46430,
               "name": "Bad Mergentheim Warriors",
               "club": {
                 "id": 397,
@@ -886,6 +956,7 @@
             },
             {
               "id": 23885,
+              "league_entry_id": 46431,
               "name": "Herrenberg Wanderers 2",
               "club": {
                 "id": 411,
@@ -897,6 +968,7 @@
             },
             {
               "id": 24007,
+              "league_entry_id": 46432,
               "name": "Taínos Arawak Esslingen",
               "club": {
                 "id": 843,
@@ -908,6 +980,7 @@
             },
             {
               "id": 24042,
+              "league_entry_id": 46433,
               "name": "Ellwangen Elks",
               "club": {
                 "id": 439,
@@ -919,6 +992,7 @@
             },
             {
               "id": 24074,
+              "league_entry_id": 46434,
               "name": "Stuttgart Reds 3",
               "club": {
                 "id": 436,
@@ -930,6 +1004,7 @@
             },
             {
               "id": 24097,
+              "league_entry_id": 46435,
               "name": "Falcons Ulm",
               "club": {
                 "id": 540,
@@ -947,6 +1022,7 @@
           "teams": [
             {
               "id": 23895,
+              "league_entry_id": 46482,
               "name": "Neuenburg Atomics",
               "club": {
                 "id": 422,
@@ -958,6 +1034,7 @@
             },
             {
               "id": 23936,
+              "league_entry_id": 46483,
               "name": "Schriesheim Raubritter",
               "club": {
                 "id": 435,
@@ -969,6 +1046,7 @@
             },
             {
               "id": 24050,
+              "league_entry_id": 46484,
               "name": "Heidelberg Hedgehogs",
               "club": {
                 "id": 407,
@@ -980,6 +1058,7 @@
             },
             {
               "id": 24122,
+              "league_entry_id": 46485,
               "name": "Ladenburg Romans",
               "club": {
                 "id": 416,
@@ -991,6 +1070,7 @@
             },
             {
               "id": 24125,
+              "league_entry_id": 46486,
               "name": "SG Ladenburg Romans 2/Mannheim Tornados",
               "clubs": [
                 {
@@ -1011,6 +1091,7 @@
             },
             {
               "id": 24137,
+              "league_entry_id": 46487,
               "name": "Freiburg Knights",
               "club": {
                 "id": 403,
@@ -1028,6 +1109,7 @@
           "teams": [
             {
               "id": 23849,
+              "league_entry_id": 46488,
               "name": "Gammertingen Royals",
               "club": {
                 "id": 404,
@@ -1039,6 +1121,7 @@
             },
             {
               "id": 23891,
+              "league_entry_id": 46489,
               "name": "Herrenberg Wanderers",
               "club": {
                 "id": 411,
@@ -1050,6 +1133,7 @@
             },
             {
               "id": 24061,
+              "league_entry_id": 46490,
               "name": "Nagold Mohawks",
               "club": {
                 "id": 421,
@@ -1061,6 +1145,7 @@
             },
             {
               "id": 24079,
+              "league_entry_id": 46491,
               "name": "Tübingen Hawks",
               "club": {
                 "id": 437,
@@ -1072,6 +1157,7 @@
             },
             {
               "id": 24107,
+              "league_entry_id": 46492,
               "name": "Karlsruhe Cougars",
               "club": {
                 "id": 414,
@@ -1089,6 +1175,7 @@
           "teams": [
             {
               "id": 23861,
+              "league_entry_id": 46493,
               "name": "Gammertingen Royals",
               "club": {
                 "id": 404,
@@ -1100,6 +1187,7 @@
             },
             {
               "id": 23890,
+              "league_entry_id": 46494,
               "name": "Herrenberg Wanderers",
               "club": {
                 "id": 411,
@@ -1111,6 +1199,7 @@
             },
             {
               "id": 23937,
+              "league_entry_id": 46495,
               "name": "Schriesheim Raubritter",
               "club": {
                 "id": 435,
@@ -1122,6 +1211,7 @@
             },
             {
               "id": 24064,
+              "league_entry_id": 46496,
               "name": "Stuttgart Reds 2",
               "club": {
                 "id": 436,
@@ -1133,6 +1223,7 @@
             },
             {
               "id": 24109,
+              "league_entry_id": 46497,
               "name": "Karlsruhe Cougars 2",
               "club": {
                 "id": 414,
@@ -1144,6 +1235,7 @@
             },
             {
               "id": 24118,
+              "league_entry_id": 46498,
               "name": "Ladenburg Romans",
               "club": {
                 "id": 416,
@@ -1161,6 +1253,7 @@
           "teams": [
             {
               "id": 23864,
+              "league_entry_id": 46436,
               "name": "SG Crailsheim Sentinels / Bad Mergentheim Warriors 2",
               "clubs": [
                 {
@@ -1181,6 +1274,7 @@
             },
             {
               "id": 23900,
+              "league_entry_id": 46437,
               "name": "Heilbronn Pirates",
               "club": {
                 "id": 410,
@@ -1192,6 +1286,7 @@
             },
             {
               "id": 23915,
+              "league_entry_id": 46438,
               "name": "Bretten Kangaroos",
               "club": {
                 "id": 398,
@@ -1203,6 +1298,7 @@
             },
             {
               "id": 23957,
+              "league_entry_id": 46439,
               "name": "Freiberg Brewers",
               "club": {
                 "id": 402,
@@ -1214,6 +1310,7 @@
             },
             {
               "id": 24123,
+              "league_entry_id": 46440,
               "name": "SG Ladenburg Romans 2/Mannheim Tornados 2",
               "clubs": [
                 {
@@ -1240,6 +1337,7 @@
           "teams": [
             {
               "id": 23819,
+              "league_entry_id": 46499,
               "name": "SG Villingendorf Cavemen/Herrenberg Wanderers",
               "clubs": [
                 {
@@ -1260,6 +1358,7 @@
             },
             {
               "id": 23865,
+              "league_entry_id": 46500,
               "name": "Bad Mergentheim Warriors",
               "club": {
                 "id": 397,
@@ -1271,6 +1370,7 @@
             },
             {
               "id": 23928,
+              "league_entry_id": 46501,
               "name": "Gammertingen Royals 2",
               "club": {
                 "id": 404,
@@ -1282,6 +1382,7 @@
             },
             {
               "id": 24101,
+              "league_entry_id": 46502,
               "name": "Falcons Ulm",
               "club": {
                 "id": 540,
@@ -1293,6 +1394,7 @@
             },
             {
               "id": 24104,
+              "league_entry_id": 46503,
               "name": "Tübingen Hawks 2",
               "club": {
                 "id": 437,
@@ -1304,6 +1406,7 @@
             },
             {
               "id": 24135,
+              "league_entry_id": 46504,
               "name": "Freiburg Knights",
               "club": {
                 "id": 403,
@@ -1321,6 +1424,7 @@
           "teams": [
             {
               "id": 23886,
+              "league_entry_id": 46447,
               "name": "Herrenberg Wanderers",
               "club": {
                 "id": 411,
@@ -1332,6 +1436,7 @@
             },
             {
               "id": 23954,
+              "league_entry_id": 46448,
               "name": "Heidenheim Heideköpfe/ LLZ U18",
               "club": {
                 "id": 408,
@@ -1343,6 +1448,7 @@
             },
             {
               "id": 24043,
+              "league_entry_id": 46449,
               "name": "Ellwangen Elks",
               "club": {
                 "id": 439,
@@ -1354,6 +1460,7 @@
             },
             {
               "id": 24073,
+              "league_entry_id": 46450,
               "name": "Stuttgart Reds",
               "club": {
                 "id": 436,
@@ -1365,6 +1472,7 @@
             },
             {
               "id": 24095,
+              "league_entry_id": 46451,
               "name": "Tübingen Hawks",
               "club": {
                 "id": 437,
@@ -1382,6 +1490,7 @@
           "teams": [
             {
               "id": 23817,
+              "league_entry_id": 46441,
               "name": "Villingendorf Cavemen 2",
               "club": {
                 "id": 438,
@@ -1393,6 +1502,7 @@
             },
             {
               "id": 23919,
+              "league_entry_id": 46442,
               "name": "Ravensburg Leprechauns 1",
               "club": {
                 "id": 619,
@@ -1404,6 +1514,7 @@
             },
             {
               "id": 23920,
+              "league_entry_id": 46443,
               "name": "Ravensburg Leprechauns 2",
               "club": {
                 "id": 619,
@@ -1415,6 +1526,7 @@
             },
             {
               "id": 23927,
+              "league_entry_id": 46444,
               "name": "Gammertingen Royals 2",
               "club": {
                 "id": 404,
@@ -1426,6 +1538,7 @@
             },
             {
               "id": 24001,
+              "league_entry_id": 46445,
               "name": "Reutlingen Woodpeckers",
               "club": {
                 "id": 425,
@@ -1437,6 +1550,7 @@
             },
             {
               "id": 24024,
+              "league_entry_id": 46446,
               "name": "Green Sox Göppingen",
               "club": {
                 "id": 406,
@@ -1454,6 +1568,7 @@
           "teams": [
             {
               "id": 23876,
+              "league_entry_id": 46452,
               "name": "Bretten Kangaroos",
               "club": {
                 "id": 398,
@@ -1465,6 +1580,7 @@
             },
             {
               "id": 23961,
+              "league_entry_id": 46453,
               "name": "Heidenheim Heideköpfe/ LLZ U15",
               "club": {
                 "id": 408,
@@ -1476,6 +1592,7 @@
             },
             {
               "id": 24072,
+              "league_entry_id": 46454,
               "name": "Stuttgart Reds",
               "club": {
                 "id": 436,
@@ -1487,6 +1604,7 @@
             },
             {
               "id": 24124,
+              "league_entry_id": 46455,
               "name": "Ladenburg Romans",
               "club": {
                 "id": 416,
@@ -1504,6 +1622,7 @@
           "teams": [
             {
               "id": 23818,
+              "league_entry_id": 46456,
               "name": "Villingendorf Cavemen",
               "club": {
                 "id": 438,
@@ -1515,6 +1634,7 @@
             },
             {
               "id": 23850,
+              "league_entry_id": 46457,
               "name": "Gammertingen Royals",
               "club": {
                 "id": 404,
@@ -1526,6 +1646,7 @@
             },
             {
               "id": 23887,
+              "league_entry_id": 46458,
               "name": "Herrenberg Wanderers",
               "club": {
                 "id": 411,
@@ -1537,6 +1658,7 @@
             },
             {
               "id": 24002,
+              "league_entry_id": 46459,
               "name": "Reutlingen Woodpeckers",
               "club": {
                 "id": 425,
@@ -1548,6 +1670,7 @@
             },
             {
               "id": 24084,
+              "league_entry_id": 46460,
               "name": "SG Tübingen Hawks/Nagold Mohawks",
               "clubs": [
                 {
@@ -1568,6 +1691,7 @@
             },
             {
               "id": 24086,
+              "league_entry_id": 46461,
               "name": "SG Tübingen Hawks 2/Nagold Mohawks 2",
               "clubs": [
                 {
@@ -1594,6 +1718,7 @@
           "teams": [
             {
               "id": 23896,
+              "league_entry_id": 46462,
               "name": "Neuenburg Atomics",
               "club": {
                 "id": 422,
@@ -1605,6 +1730,7 @@
             },
             {
               "id": 23935,
+              "league_entry_id": 46463,
               "name": "Schriesheim Raubritter",
               "club": {
                 "id": 435,
@@ -1616,6 +1742,7 @@
             },
             {
               "id": 24049,
+              "league_entry_id": 46464,
               "name": "Heidelberg Hedgehogs",
               "club": {
                 "id": 407,
@@ -1627,6 +1754,7 @@
             },
             {
               "id": 24071,
+              "league_entry_id": 46465,
               "name": "Stuttgart Reds 2",
               "club": {
                 "id": 436,
@@ -1638,6 +1766,7 @@
             },
             {
               "id": 24126,
+              "league_entry_id": 46466,
               "name": "SG Ladenburg Romans 2/Mannheim Tornados",
               "clubs": [
                 {
@@ -1658,6 +1787,7 @@
             },
             {
               "id": 24136,
+              "league_entry_id": 46467,
               "name": "Freiburg Knights",
               "club": {
                 "id": 403,
@@ -1675,6 +1805,7 @@
           "teams": [
             {
               "id": 23706,
+              "league_entry_id": 46468,
               "name": "Aichelberg Indians Jugend",
               "club": {
                 "id": 440,
@@ -1686,6 +1817,7 @@
             },
             {
               "id": 24016,
+              "league_entry_id": 46469,
               "name": "SG Heubach Hunters/Aalen Strikers",
               "clubs": [
                 {
@@ -1706,6 +1838,7 @@
             },
             {
               "id": 24023,
+              "league_entry_id": 46470,
               "name": "Green Sox Göppingen",
               "club": {
                 "id": 406,
@@ -1717,6 +1850,7 @@
             },
             {
               "id": 24044,
+              "league_entry_id": 46471,
               "name": "Ellwangen Elks",
               "club": {
                 "id": 439,
@@ -1728,6 +1862,7 @@
             },
             {
               "id": 24046,
+              "league_entry_id": 46472,
               "name": "Ravensburg Leprechauns",
               "club": {
                 "id": 619,
@@ -1739,6 +1874,7 @@
             },
             {
               "id": 24098,
+              "league_entry_id": 46473,
               "name": "Falcons Ulm",
               "club": {
                 "id": 540,
@@ -1756,6 +1892,7 @@
           "teams": [
             {
               "id": 23962,
+              "league_entry_id": 46474,
               "name": "Heidenheim Heideköpfe/LLZ U12",
               "club": {
                 "id": 408,
@@ -1767,6 +1904,7 @@
             },
             {
               "id": 24069,
+              "league_entry_id": 46475,
               "name": "Stuttgart Reds",
               "club": {
                 "id": 436,
@@ -1778,6 +1916,7 @@
             },
             {
               "id": 24100,
+              "league_entry_id": 46476,
               "name": "Falcons Ulm",
               "club": {
                 "id": 540,
@@ -1795,6 +1934,7 @@
           "teams": [
             {
               "id": 23748,
+              "league_entry_id": 46477,
               "name": "Remchingen Racoons",
               "club": {
                 "id": 842,
@@ -1806,6 +1946,7 @@
             },
             {
               "id": 23880,
+              "league_entry_id": 46478,
               "name": "Bretten Kangaroos",
               "club": {
                 "id": 398,
@@ -1817,6 +1958,7 @@
             },
             {
               "id": 24030,
+              "league_entry_id": 46479,
               "name": "SG Ravensburg Leprechauns/Green Sox Göppingen",
               "clubs": [
                 {
@@ -1837,6 +1979,7 @@
             },
             {
               "id": 24070,
+              "league_entry_id": 46480,
               "name": "Stuttgart Reds 2",
               "club": {
                 "id": 436,
@@ -1848,6 +1991,7 @@
             },
             {
               "id": 24082,
+              "league_entry_id": 46481,
               "name": "Aalen Strikers",
               "club": {
                 "id": 395,
@@ -1865,6 +2009,7 @@
           "teams": [
             {
               "id": 23816,
+              "league_entry_id": 46516,
               "name": "Villingendorf Cavemen",
               "club": {
                 "id": 438,
@@ -1876,6 +2021,7 @@
             },
             {
               "id": 23863,
+              "league_entry_id": 46517,
               "name": "Bad Mergentheim Warriors",
               "club": {
                 "id": 397,
@@ -1887,6 +2033,7 @@
             },
             {
               "id": 23888,
+              "league_entry_id": 46518,
               "name": "Herrenberg Wanderers",
               "club": {
                 "id": 411,
@@ -1898,6 +2045,7 @@
             },
             {
               "id": 23914,
+              "league_entry_id": 46519,
               "name": "Bretten Kangaroos",
               "club": {
                 "id": 398,
@@ -1909,6 +2057,7 @@
             },
             {
               "id": 23923,
+              "league_entry_id": 46520,
               "name": "Ravensburg Leprechauns",
               "club": {
                 "id": 619,
@@ -1920,6 +2069,7 @@
             },
             {
               "id": 23942,
+              "league_entry_id": 46521,
               "name": "Gammertingen Royals",
               "club": {
                 "id": 404,
@@ -1931,6 +2081,7 @@
             },
             {
               "id": 23955,
+              "league_entry_id": 46522,
               "name": "Bühl Blackwoods",
               "club": {
                 "id": 805,
@@ -1942,6 +2093,7 @@
             },
             {
               "id": 23958,
+              "league_entry_id": 46523,
               "name": "Freiberg Brewers",
               "club": {
                 "id": 402,
@@ -1953,6 +2105,7 @@
             },
             {
               "id": 24003,
+              "league_entry_id": 46524,
               "name": "Reutlingen Woodpeckers",
               "club": {
                 "id": 425,
@@ -1964,6 +2117,7 @@
             },
             {
               "id": 24053,
+              "league_entry_id": 46525,
               "name": "Heidelberg Hedgehogs",
               "club": {
                 "id": 407,
@@ -1975,6 +2129,7 @@
             },
             {
               "id": 24062,
+              "league_entry_id": 46526,
               "name": "Nagold Mohawks",
               "club": {
                 "id": 421,
@@ -1986,6 +2141,7 @@
             },
             {
               "id": 24080,
+              "league_entry_id": 46527,
               "name": "Tübingen Hawks",
               "club": {
                 "id": 437,
@@ -1997,6 +2153,7 @@
             },
             {
               "id": 24102,
+              "league_entry_id": 46528,
               "name": "Falcons Ulm",
               "club": {
                 "id": 540,
@@ -2008,6 +2165,7 @@
             },
             {
               "id": 24112,
+              "league_entry_id": 46529,
               "name": "Karlsruhe Cougars",
               "club": {
                 "id": 414,
@@ -2019,6 +2177,7 @@
             },
             {
               "id": 24120,
+              "league_entry_id": 46530,
               "name": "Ladenburg Romans",
               "club": {
                 "id": 416,
@@ -2030,6 +2189,7 @@
             },
             {
               "id": 24138,
+              "league_entry_id": 46531,
               "name": "Freiburg Knights",
               "club": {
                 "id": 403,
@@ -2041,6 +2201,7 @@
             },
             {
               "id": 24164,
+              "league_entry_id": 46532,
               "name": "Mannheim Tornados",
               "club": {
                 "id": 419,
@@ -2052,6 +2213,7 @@
             },
             {
               "id": 24184,
+              "league_entry_id": 46533,
               "name": "Ellwangen Elks",
               "club": {
                 "id": 439,
@@ -2063,6 +2225,7 @@
             },
             {
               "id": 24208,
+              "league_entry_id": 46534,
               "name": "Aichelberg Indians",
               "club": {
                 "id": 440,
@@ -2074,6 +2237,7 @@
             },
             {
               "id": 24220,
+              "league_entry_id": 46535,
               "name": "Green Sox Göppingen",
               "club": {
                 "id": 406,
@@ -2085,6 +2249,7 @@
             },
             {
               "id": 24273,
+              "league_entry_id": 46536,
               "name": "Heilbronn Pirates",
               "club": {
                 "id": 410,
@@ -2096,6 +2261,7 @@
             },
             {
               "id": 24274,
+              "league_entry_id": 46537,
               "name": "Taínos Arawak Esslingen",
               "club": {
                 "id": 843,
@@ -2113,6 +2279,7 @@
           "teams": [
             {
               "id": 23956,
+              "league_entry_id": 46423,
               "name": "Bühl Blackwoods",
               "club": {
                 "id": 805,
@@ -2124,6 +2291,7 @@
             },
             {
               "id": 24026,
+              "league_entry_id": 46424,
               "name": "Neuenburg Atomics 2",
               "club": {
                 "id": 422,
@@ -2135,6 +2303,7 @@
             },
             {
               "id": 24048,
+              "league_entry_id": 46425,
               "name": "Heidelberg Hedgehogs 2",
               "club": {
                 "id": 407,
@@ -2146,6 +2315,7 @@
             },
             {
               "id": 24060,
+              "league_entry_id": 46426,
               "name": "Nagold Mohawks",
               "club": {
                 "id": 421,
@@ -2157,6 +2327,7 @@
             },
             {
               "id": 24115,
+              "league_entry_id": 46427,
               "name": "Karlsruhe Cougars 2",
               "club": {
                 "id": 414,
@@ -2168,6 +2339,7 @@
             },
             {
               "id": 24134,
+              "league_entry_id": 46428,
               "name": "Freiburg Knights",
               "club": {
                 "id": 403,
@@ -2185,6 +2357,7 @@
           "teams": [
             {
               "id": 24021,
+              "league_entry_id": 46505,
               "name": "Gammertingen Royals",
               "club": {
                 "id": 404,
@@ -2196,6 +2369,7 @@
             },
             {
               "id": 24034,
+              "league_entry_id": 46506,
               "name": "Schriesheim Raubritter",
               "club": {
                 "id": 435,
@@ -2207,6 +2381,7 @@
             },
             {
               "id": 24110,
+              "league_entry_id": 46507,
               "name": "Karlsruhe Cougars",
               "club": {
                 "id": 414,
@@ -2218,6 +2393,7 @@
             },
             {
               "id": 24133,
+              "league_entry_id": 46508,
               "name": "Tübingen Hawks",
               "club": {
                 "id": 437,
@@ -2235,6 +2411,7 @@
           "teams": [
             {
               "id": 24027,
+              "league_entry_id": 46511,
               "name": "Green Sox Göppingen",
               "club": {
                 "id": 406,
@@ -2246,6 +2423,7 @@
             },
             {
               "id": 24081,
+              "league_entry_id": 46512,
               "name": "Tübingen Hawks",
               "club": {
                 "id": 437,
@@ -2257,6 +2435,7 @@
             },
             {
               "id": 24111,
+              "league_entry_id": 46513,
               "name": "Karlsruhe Cougars",
               "club": {
                 "id": 414,
@@ -2268,6 +2447,7 @@
             },
             {
               "id": 24116,
+              "league_entry_id": 46514,
               "name": "Mannheim Tornados",
               "club": {
                 "id": 419,
@@ -2279,6 +2459,7 @@
             },
             {
               "id": 24140,
+              "league_entry_id": 46515,
               "name": "Freiburg Knights",
               "club": {
                 "id": 403,
@@ -2296,6 +2477,7 @@
           "teams": [
             {
               "id": 23866,
+              "league_entry_id": 46538,
               "name": "Bad Mergentheim Warriors",
               "club": {
                 "id": 397,
@@ -2307,6 +2489,7 @@
             },
             {
               "id": 23889,
+              "league_entry_id": 46539,
               "name": "Herrenberg Wanderers",
               "club": {
                 "id": 411,
@@ -2318,6 +2501,7 @@
             },
             {
               "id": 23939,
+              "league_entry_id": 46540,
               "name": "Schriesheim Raubritter",
               "club": {
                 "id": 435,
@@ -2329,6 +2513,7 @@
             },
             {
               "id": 23943,
+              "league_entry_id": 46541,
               "name": "Gammertingen Royals",
               "club": {
                 "id": 404,
@@ -2340,6 +2525,7 @@
             },
             {
               "id": 24096,
+              "league_entry_id": 46542,
               "name": "Tübingen Hawks",
               "club": {
                 "id": 437,
@@ -2351,6 +2537,7 @@
             },
             {
               "id": 24103,
+              "league_entry_id": 46543,
               "name": "Falcons Ulm",
               "club": {
                 "id": 540,
@@ -2362,6 +2549,7 @@
             },
             {
               "id": 24121,
+              "league_entry_id": 46544,
               "name": "Ladenburg Romans",
               "club": {
                 "id": 416,
@@ -2373,6 +2561,7 @@
             },
             {
               "id": 24139,
+              "league_entry_id": 46545,
               "name": "Freiburg Knights",
               "club": {
                 "id": 403,
@@ -2395,6 +2584,7 @@
           "teams": [
             {
               "id": 23859,
+              "league_entry_id": 46594,
               "name": "Mavericks Rheine",
               "club": {
                 "id": 372,
@@ -2406,6 +2596,7 @@
             },
             {
               "id": 23874,
+              "league_entry_id": 46595,
               "name": "Bochum Barflies",
               "club": {
                 "id": 310,
@@ -2417,6 +2608,7 @@
             },
             {
               "id": 23897,
+              "league_entry_id": 46596,
               "name": "Hagen Chipmunks",
               "club": {
                 "id": 333,
@@ -2428,6 +2620,7 @@
             },
             {
               "id": 23905,
+              "league_entry_id": 46597,
               "name": "Dortmund Rhinos",
               "club": {
                 "id": 858,
@@ -2439,6 +2632,7 @@
             },
             {
               "id": 23940,
+              "league_entry_id": 46598,
               "name": "Minden Millers/Maniacs",
               "club": {
                 "id": 354,
@@ -2450,6 +2644,7 @@
             },
             {
               "id": 23945,
+              "league_entry_id": 46599,
               "name": "Untouchables Paderborn 3",
               "club": {
                 "id": 365,
@@ -2461,6 +2656,7 @@
             },
             {
               "id": 23986,
+              "league_entry_id": 46600,
               "name": "Marl Sly Dogs",
               "club": {
                 "id": 358,
@@ -2472,6 +2668,7 @@
             },
             {
               "id": 24005,
+              "league_entry_id": 46601,
               "name": "Lippstadt Ochmoneks",
               "club": {
                 "id": 350,
@@ -2489,6 +2686,7 @@
           "teams": [
             {
               "id": 23740,
+              "league_entry_id": 46602,
               "name": "Hochdahl Neandertaler",
               "club": {
                 "id": 576,
@@ -2500,6 +2698,7 @@
             },
             {
               "id": 23780,
+              "league_entry_id": 46603,
               "name": "Cologne Cardinals 4",
               "club": {
                 "id": 316,
@@ -2511,6 +2710,7 @@
             },
             {
               "id": 23795,
+              "league_entry_id": 46604,
               "name": "Aachen Greyhounds",
               "club": {
                 "id": 305,
@@ -2522,6 +2722,7 @@
             },
             {
               "id": 23821,
+              "league_entry_id": 46605,
               "name": "Mönchengladbach Blackcaps",
               "club": {
                 "id": 795,
@@ -2533,6 +2734,7 @@
             },
             {
               "id": 23912,
+              "league_entry_id": 46606,
               "name": "Solingen Alligators 2",
               "club": {
                 "id": 378,
@@ -2544,6 +2746,7 @@
             },
             {
               "id": 23982,
+              "league_entry_id": 46607,
               "name": "Bonn Capitals 2",
               "club": {
                 "id": 311,
@@ -2555,6 +2758,7 @@
             },
             {
               "id": 23993,
+              "league_entry_id": 46608,
               "name": "Zülpich Eagles",
               "club": {
                 "id": 391,
@@ -2566,6 +2770,7 @@
             },
             {
               "id": 24144,
+              "league_entry_id": 46609,
               "name": "Ratingen Goose-Necks 2",
               "club": {
                 "id": 371,
@@ -2583,6 +2788,7 @@
           "teams": [
             {
               "id": 23729,
+              "league_entry_id": 46577,
               "name": "Witten Kaker Lakers",
               "club": {
                 "id": 389,
@@ -2594,6 +2800,7 @@
             },
             {
               "id": 23770,
+              "league_entry_id": 46578,
               "name": "Verl/Gütersloh Yaks 2",
               "club": {
                 "id": 383,
@@ -2605,6 +2812,7 @@
             },
             {
               "id": 23898,
+              "league_entry_id": 46579,
               "name": "SG Hagen Chipmunks 2/Dortmund Wanderers 4",
               "clubs": [
                 {
@@ -2625,6 +2833,7 @@
             },
             {
               "id": 23906,
+              "league_entry_id": 46580,
               "name": "Dortmund Rhinos 2",
               "club": {
                 "id": 858,
@@ -2636,6 +2845,7 @@
             },
             {
               "id": 23987,
+              "league_entry_id": 46581,
               "name": "SG Marl Sly Dogs 2/Bochum Barflies 2",
               "clubs": [
                 {
@@ -2662,6 +2872,7 @@
           "teams": [
             {
               "id": 23733,
+              "league_entry_id": 46570,
               "name": "Wesseling Vermins 2",
               "club": {
                 "id": 387,
@@ -2673,6 +2884,7 @@
             },
             {
               "id": 23772,
+              "league_entry_id": 46571,
               "name": "Verl/Gütersloh Yaks",
               "club": {
                 "id": 383,
@@ -2684,6 +2896,7 @@
             },
             {
               "id": 23790,
+              "league_entry_id": 46572,
               "name": "Cologne Cardinals 2",
               "club": {
                 "id": 316,
@@ -2695,6 +2908,7 @@
             },
             {
               "id": 23822,
+              "league_entry_id": 46573,
               "name": "Witten Kaker Lakers",
               "club": {
                 "id": 389,
@@ -2706,6 +2920,7 @@
             },
             {
               "id": 23855,
+              "league_entry_id": 46574,
               "name": "Dortmund Wanderers",
               "club": {
                 "id": 322,
@@ -2717,6 +2932,7 @@
             },
             {
               "id": 23933,
+              "league_entry_id": 46575,
               "name": "Neunkirchen Nightmares 2",
               "club": {
                 "id": 363,
@@ -2728,6 +2944,7 @@
             },
             {
               "id": 23984,
+              "league_entry_id": 46576,
               "name": "Bonn Capitals",
               "club": {
                 "id": 311,
@@ -2745,6 +2962,7 @@
           "teams": [
             {
               "id": 23731,
+              "league_entry_id": 46550,
               "name": "SG Mönchengladbach Blackcaps/Cologne Cardinals 2",
               "clubs": [
                 {
@@ -2765,6 +2983,7 @@
             },
             {
               "id": 23856,
+              "league_entry_id": 46551,
               "name": "SG Dortmund Wanderers/Bottrop Blackjacks",
               "clubs": [
                 {
@@ -2785,6 +3004,7 @@
             },
             {
               "id": 23966,
+              "league_entry_id": 46552,
               "name": "Ratingen Goose-Necks",
               "club": {
                 "id": 371,
@@ -2796,6 +3016,7 @@
             },
             {
               "id": 24006,
+              "league_entry_id": 46553,
               "name": "Lippstadt Ochmoneks",
               "club": {
                 "id": 350,
@@ -2813,6 +3034,7 @@
           "teams": [
             {
               "id": 23728,
+              "league_entry_id": 46396,
               "name": "Witten Kaker Lakers",
               "club": {
                 "id": 389,
@@ -2824,6 +3046,7 @@
             },
             {
               "id": 23769,
+              "league_entry_id": 46397,
               "name": "Verl/Gütersloh Yaks",
               "club": {
                 "id": 383,
@@ -2835,6 +3058,7 @@
             },
             {
               "id": 23857,
+              "league_entry_id": 46398,
               "name": "SG Dortmund Wanderers/Bottrop Blackjacks",
               "clubs": [
                 {
@@ -2855,6 +3079,7 @@
             },
             {
               "id": 23907,
+              "league_entry_id": 46399,
               "name": "SG Dortmund Rhinos/Bochum Barflies",
               "clubs": [
                 {
@@ -2875,6 +3100,7 @@
             },
             {
               "id": 23948,
+              "league_entry_id": 46400,
               "name": "Untouchables Paderborn 2",
               "club": {
                 "id": 365,
@@ -2886,6 +3112,7 @@
             },
             {
               "id": 23990,
+              "league_entry_id": 46401,
               "name": "Marl Sly Dogs",
               "club": {
                 "id": 358,
@@ -2903,6 +3130,7 @@
           "teams": [
             {
               "id": 23778,
+              "league_entry_id": 46356,
               "name": "SG Mönchengladbach Blackcaps/Kapellen Turtles",
               "clubs": [
                 {
@@ -2923,6 +3151,7 @@
             },
             {
               "id": 23824,
+              "league_entry_id": 46357,
               "name": "Wuppertal Stingrays",
               "club": {
                 "id": 390,
@@ -2934,6 +3163,7 @@
             },
             {
               "id": 23852,
+              "league_entry_id": 46358,
               "name": "Wassenberg Squirrels ",
               "club": {
                 "id": 386,
@@ -2945,6 +3175,7 @@
             },
             {
               "id": 23910,
+              "league_entry_id": 46359,
               "name": "Solingen Alligators 2",
               "club": {
                 "id": 378,
@@ -2956,6 +3187,7 @@
             },
             {
               "id": 23917,
+              "league_entry_id": 46360,
               "name": "SG Düsseldorf Senators/Krefeld Crows",
               "clubs": [
                 {
@@ -2982,6 +3214,7 @@
           "teams": [
             {
               "id": 23771,
+              "league_entry_id": 46610,
               "name": "Verl/Gütersloh Yaks",
               "club": {
                 "id": 383,
@@ -2993,6 +3226,7 @@
             },
             {
               "id": 23779,
+              "league_entry_id": 46611,
               "name": "Cologne Cardinals 3",
               "club": {
                 "id": 316,
@@ -3004,6 +3238,7 @@
             },
             {
               "id": 23853,
+              "league_entry_id": 46612,
               "name": "Dortmund Wanderers 2",
               "club": {
                 "id": 322,
@@ -3015,6 +3250,7 @@
             },
             {
               "id": 23964,
+              "league_entry_id": 46613,
               "name": "Ratingen Goose-Necks",
               "club": {
                 "id": 371,
@@ -3026,6 +3262,7 @@
             },
             {
               "id": 24087,
+              "league_entry_id": 46614,
               "name": "Wuppertal Stingrays 2",
               "club": {
                 "id": 390,
@@ -3043,6 +3280,7 @@
           "teams": [
             {
               "id": 23913,
+              "league_entry_id": 46566,
               "name": "SG Solingen Alligators/Ennepetal Raccoons",
               "clubs": [
                 {
@@ -3063,6 +3301,7 @@
             },
             {
               "id": 23946,
+              "league_entry_id": 46567,
               "name": "Untouchables Paderborn 2",
               "club": {
                 "id": 365,
@@ -3074,6 +3313,7 @@
             },
             {
               "id": 23971,
+              "league_entry_id": 46568,
               "name": "Ratingen Goose-Necks 2",
               "club": {
                 "id": 371,
@@ -3085,6 +3325,7 @@
             },
             {
               "id": 23991,
+              "league_entry_id": 46569,
               "name": "Marl Sly Dogs",
               "club": {
                 "id": 358,
@@ -3102,6 +3343,7 @@
           "teams": [
             {
               "id": 23742,
+              "league_entry_id": 46561,
               "name": "Düsseldorf Senators",
               "club": {
                 "id": 325,
@@ -3113,6 +3355,7 @@
             },
             {
               "id": 23745,
+              "league_entry_id": 46562,
               "name": "Jülich Duchess",
               "club": {
                 "id": 340,
@@ -3124,6 +3367,7 @@
             },
             {
               "id": 23775,
+              "league_entry_id": 46563,
               "name": "Krefeld Crows",
               "club": {
                 "id": 344,
@@ -3135,6 +3379,7 @@
             },
             {
               "id": 23791,
+              "league_entry_id": 46564,
               "name": "Cologne Cardinals 3",
               "club": {
                 "id": 316,
@@ -3146,6 +3391,7 @@
             },
             {
               "id": 23796,
+              "league_entry_id": 46565,
               "name": "Aachen Greyhounds",
               "club": {
                 "id": 305,
@@ -3163,6 +3409,7 @@
           "teams": [
             {
               "id": 23726,
+              "league_entry_id": 46582,
               "name": "Wassenberg Squirrels",
               "club": {
                 "id": 386,
@@ -3174,6 +3421,7 @@
             },
             {
               "id": 23730,
+              "league_entry_id": 46583,
               "name": "Kapellen Turtles",
               "club": {
                 "id": 342,
@@ -3185,6 +3433,7 @@
             },
             {
               "id": 23741,
+              "league_entry_id": 46584,
               "name": "Düsseldorf Senators 2",
               "club": {
                 "id": 325,
@@ -3196,6 +3445,7 @@
             },
             {
               "id": 23774,
+              "league_entry_id": 46585,
               "name": "Krefeld Crows",
               "club": {
                 "id": 344,
@@ -3207,6 +3457,7 @@
             },
             {
               "id": 23840,
+              "league_entry_id": 46586,
               "name": "Duisburg Flying Bats e.V.",
               "club": {
                 "id": 324,
@@ -3218,6 +3469,7 @@
             },
             {
               "id": 23854,
+              "league_entry_id": 46587,
               "name": "Dortmund Wanderers 3",
               "club": {
                 "id": 322,
@@ -3229,6 +3481,7 @@
             },
             {
               "id": 23894,
+              "league_entry_id": 46588,
               "name": "Neunkirchen Nightmares 3",
               "club": {
                 "id": 363,
@@ -3246,6 +3499,7 @@
           "teams": [
             {
               "id": 23739,
+              "league_entry_id": 46386,
               "name": "Solingen Alligators",
               "club": {
                 "id": 378,
@@ -3257,6 +3511,7 @@
             },
             {
               "id": 23786,
+              "league_entry_id": 46387,
               "name": "Cologne Cardinals",
               "club": {
                 "id": 316,
@@ -3268,6 +3523,7 @@
             },
             {
               "id": 23949,
+              "league_entry_id": 46388,
               "name": "Untouchables Paderborn",
               "club": {
                 "id": 365,
@@ -3279,6 +3535,7 @@
             },
             {
               "id": 23969,
+              "league_entry_id": 46389,
               "name": "Ratingen Goose-Necks",
               "club": {
                 "id": 371,
@@ -3290,6 +3547,7 @@
             },
             {
               "id": 23975,
+              "league_entry_id": 46390,
               "name": "Bonn Capitals",
               "club": {
                 "id": 311,
@@ -3307,6 +3565,7 @@
           "teams": [
             {
               "id": 23781,
+              "league_entry_id": 46589,
               "name": "Cologne Cardinals 5",
               "club": {
                 "id": 316,
@@ -3318,6 +3577,7 @@
             },
             {
               "id": 23839,
+              "league_entry_id": 46590,
               "name": "Jülich Dukes",
               "club": {
                 "id": 340,
@@ -3329,6 +3589,7 @@
             },
             {
               "id": 23979,
+              "league_entry_id": 46591,
               "name": "Kottenforst Saints",
               "club": {
                 "id": 311,
@@ -3340,6 +3601,7 @@
             },
             {
               "id": 23983,
+              "league_entry_id": 46592,
               "name": "Bonn Capitals 3",
               "club": {
                 "id": 311,
@@ -3351,6 +3613,7 @@
             },
             {
               "id": 24143,
+              "league_entry_id": 46593,
               "name": "Neunkirchen Nightmares 2",
               "club": {
                 "id": 363,
@@ -3368,6 +3631,7 @@
           "teams": [
             {
               "id": 23782,
+              "league_entry_id": 46554,
               "name": "Cologne Cardinals",
               "club": {
                 "id": 316,
@@ -3379,6 +3643,7 @@
             },
             {
               "id": 23944,
+              "league_entry_id": 46555,
               "name": "Untouchables Paderborn",
               "club": {
                 "id": 365,
@@ -3390,6 +3655,7 @@
             },
             {
               "id": 23978,
+              "league_entry_id": 46556,
               "name": "Bonn Capitals",
               "club": {
                 "id": 311,
@@ -3407,6 +3673,7 @@
           "teams": [
             {
               "id": 23785,
+              "league_entry_id": 46391,
               "name": "Cologne Cardinals 2",
               "club": {
                 "id": 316,
@@ -3418,6 +3685,7 @@
             },
             {
               "id": 23823,
+              "league_entry_id": 46392,
               "name": "Wuppertal Stingrays",
               "club": {
                 "id": 390,
@@ -3429,6 +3697,7 @@
             },
             {
               "id": 23911,
+              "league_entry_id": 46393,
               "name": "Solingen Alligators",
               "club": {
                 "id": 378,
@@ -3440,6 +3709,7 @@
             },
             {
               "id": 23967,
+              "league_entry_id": 46394,
               "name": "Ratingen Goose-Necks",
               "club": {
                 "id": 371,
@@ -3451,6 +3721,7 @@
             },
             {
               "id": 23992,
+              "league_entry_id": 46395,
               "name": "Krefeld Crows",
               "club": {
                 "id": 344,
@@ -3468,6 +3739,7 @@
           "teams": [
             {
               "id": 23727,
+              "league_entry_id": 46351,
               "name": "Witten Kaker Lakers",
               "club": {
                 "id": 389,
@@ -3479,6 +3751,7 @@
             },
             {
               "id": 23768,
+              "league_entry_id": 46352,
               "name": "Verl/Gütersloh Yaks",
               "club": {
                 "id": 383,
@@ -3490,6 +3763,7 @@
             },
             {
               "id": 23899,
+              "league_entry_id": 46353,
               "name": "Hagen Chipmunks",
               "club": {
                 "id": 333,
@@ -3501,6 +3775,7 @@
             },
             {
               "id": 23908,
+              "league_entry_id": 46354,
               "name": "SG Dortmund Rhinos/Bochum Barflies",
               "clubs": [
                 {
@@ -3521,6 +3796,7 @@
             },
             {
               "id": 23989,
+              "league_entry_id": 46355,
               "name": "Marl Sly Dogs U12",
               "club": {
                 "id": 358,
@@ -3538,6 +3814,7 @@
           "teams": [
             {
               "id": 23736,
+              "league_entry_id": 46361,
               "name": "Wesseling Vermins",
               "club": {
                 "id": 387,
@@ -3549,6 +3826,7 @@
             },
             {
               "id": 23787,
+              "league_entry_id": 46362,
               "name": "Cologne Cardinals 2",
               "club": {
                 "id": 316,
@@ -3560,6 +3838,7 @@
             },
             {
               "id": 23892,
+              "league_entry_id": 46363,
               "name": "Neunkirchen Nightmares",
               "club": {
                 "id": 363,
@@ -3571,6 +3850,7 @@
             },
             {
               "id": 23974,
+              "league_entry_id": 46364,
               "name": "Bonn Capitals 2",
               "club": {
                 "id": 311,
@@ -3582,6 +3862,7 @@
             },
             {
               "id": 23981,
+              "league_entry_id": 46365,
               "name": "Kottenforst Saints",
               "club": {
                 "id": 311,
@@ -3599,6 +3880,7 @@
           "teams": [
             {
               "id": 23738,
+              "league_entry_id": 46340,
               "name": "Solingen Alligators",
               "club": {
                 "id": 378,
@@ -3610,6 +3892,7 @@
             },
             {
               "id": 23767,
+              "league_entry_id": 46341,
               "name": "Verl/Gütersloh Yaks",
               "club": {
                 "id": 383,
@@ -3621,6 +3904,7 @@
             },
             {
               "id": 23950,
+              "league_entry_id": 46342,
               "name": "Untouchables Paderborn",
               "club": {
                 "id": 365,
@@ -3632,6 +3916,7 @@
             },
             {
               "id": 23970,
+              "league_entry_id": 46343,
               "name": "Ratingen Goose-Necks",
               "club": {
                 "id": 371,
@@ -3643,6 +3928,7 @@
             },
             {
               "id": 23988,
+              "league_entry_id": 46344,
               "name": "SG Marl Sly Dogs/Bochum Barflies",
               "clubs": [
                 {
@@ -3669,6 +3955,7 @@
           "teams": [
             {
               "id": 23734,
+              "league_entry_id": 46557,
               "name": "Wesseling Vermins",
               "club": {
                 "id": 387,
@@ -3680,6 +3967,7 @@
             },
             {
               "id": 23792,
+              "league_entry_id": 46558,
               "name": "Cologne Cardinals",
               "club": {
                 "id": 316,
@@ -3691,6 +3979,7 @@
             },
             {
               "id": 23934,
+              "league_entry_id": 46559,
               "name": "Neunkirchen Nightmares",
               "club": {
                 "id": 363,
@@ -3702,6 +3991,7 @@
             },
             {
               "id": 23985,
+              "league_entry_id": 46560,
               "name": "Bonn Capitals",
               "club": {
                 "id": 311,
@@ -3719,6 +4009,7 @@
           "teams": [
             {
               "id": 23784,
+              "league_entry_id": 46547,
               "name": "Cologne Cardinals",
               "club": {
                 "id": 316,
@@ -3730,6 +4021,7 @@
             },
             {
               "id": 23947,
+              "league_entry_id": 46548,
               "name": "Untouchables Paderborn",
               "club": {
                 "id": 365,
@@ -3741,6 +4033,7 @@
             },
             {
               "id": 23976,
+              "league_entry_id": 46549,
               "name": "Bonn Capitals",
               "club": {
                 "id": 311,
@@ -3758,6 +4051,7 @@
           "teams": [
             {
               "id": 23893,
+              "league_entry_id": 46402,
               "name": "Neunkirchen Nightmares",
               "club": {
                 "id": 363,
@@ -3769,6 +4063,7 @@
             },
             {
               "id": 23968,
+              "league_entry_id": 46407,
               "name": "Ratingen Goose-Necks 2",
               "club": {
                 "id": 371,
@@ -3780,6 +4075,7 @@
             },
             {
               "id": 23977,
+              "league_entry_id": 46404,
               "name": "Bonn Capitals 2",
               "club": {
                 "id": 311,
@@ -3791,6 +4087,7 @@
             },
             {
               "id": 23980,
+              "league_entry_id": 46405,
               "name": "Kottenforst Saints",
               "club": {
                 "id": 311,
@@ -3802,6 +4099,7 @@
             },
             {
               "id": 23994,
+              "league_entry_id": 46406,
               "name": "Zülpich Eagles",
               "club": {
                 "id": 391,
@@ -3819,6 +4117,7 @@
           "teams": [
             {
               "id": 23732,
+              "league_entry_id": 46345,
               "name": "Wesseling Vermins",
               "club": {
                 "id": 387,
@@ -3830,6 +4129,7 @@
             },
             {
               "id": 23743,
+              "league_entry_id": 46346,
               "name": "SG Düsseldorf Senators/Hochdahl Neandertaler/Krefeld Crows",
               "clubs": [
                 {
@@ -3857,6 +4157,7 @@
             },
             {
               "id": 23788,
+              "league_entry_id": 46347,
               "name": "Cologne Cardinals 1",
               "club": {
                 "id": 316,
@@ -3868,6 +4169,7 @@
             },
             {
               "id": 23789,
+              "league_entry_id": 46348,
               "name": "Cologne Cardinals 2",
               "club": {
                 "id": 316,
@@ -3879,6 +4181,7 @@
             },
             {
               "id": 23941,
+              "league_entry_id": 46349,
               "name": "Neunkirchen Nightmares",
               "club": {
                 "id": 363,
@@ -3890,6 +4193,7 @@
             },
             {
               "id": 23973,
+              "league_entry_id": 46350,
               "name": "Bonn Capitals",
               "club": {
                 "id": 311,
@@ -3912,6 +4216,7 @@
           "teams": [
             {
               "id": 23860,
+              "league_entry_id": 46094,
               "name": "Roosters",
               "club": {
                 "id": 491,
@@ -3923,6 +4228,7 @@
             },
             {
               "id": 23925,
+              "league_entry_id": 46099,
               "name": "Sluggers 2",
               "club": {
                 "id": 492,
@@ -3934,6 +4240,7 @@
             },
             {
               "id": 23929,
+              "league_entry_id": 46095,
               "name": "Eagles",
               "club": {
                 "id": 603,
@@ -3945,6 +4252,7 @@
             },
             {
               "id": 23951,
+              "league_entry_id": 46096,
               "name": "Sliders",
               "club": {
                 "id": 495,
@@ -3956,6 +4264,7 @@
             },
             {
               "id": 24009,
+              "league_entry_id": 46100,
               "name": "Wizards 2",
               "club": {
                 "id": 494,
@@ -3967,6 +4276,7 @@
             },
             {
               "id": 24018,
+              "league_entry_id": 46097,
               "name": "Skylarks 3",
               "club": {
                 "id": 485,
@@ -3978,6 +4288,7 @@
             },
             {
               "id": 24032,
+              "league_entry_id": 46101,
               "name": "Challengers",
               "club": {
                 "id": 486,
@@ -3989,6 +4300,7 @@
             },
             {
               "id": 24040,
+              "league_entry_id": 46102,
               "name": "Porcupines 2",
               "club": {
                 "id": 498,
@@ -4000,6 +4312,7 @@
             },
             {
               "id": 24092,
+              "league_entry_id": 46098,
               "name": "Roadrunners 2",
               "club": {
                 "id": 502,
@@ -4011,6 +4324,7 @@
             },
             {
               "id": 24127,
+              "league_entry_id": 46103,
               "name": "Flamingos 2",
               "club": {
                 "id": 604,
@@ -4028,6 +4342,7 @@
           "teams": [
             {
               "id": 23925,
+              "league_entry_id": 46099,
               "name": "Sluggers 2",
               "club": {
                 "id": 492,
@@ -4039,6 +4354,7 @@
             },
             {
               "id": 24009,
+              "league_entry_id": 46100,
               "name": "Wizards 2",
               "club": {
                 "id": 494,
@@ -4050,6 +4366,7 @@
             },
             {
               "id": 24032,
+              "league_entry_id": 46101,
               "name": "Challengers",
               "club": {
                 "id": 486,
@@ -4061,6 +4378,7 @@
             },
             {
               "id": 24040,
+              "league_entry_id": 46102,
               "name": "Porcupines 2",
               "club": {
                 "id": 498,
@@ -4072,6 +4390,7 @@
             },
             {
               "id": 24127,
+              "league_entry_id": 46103,
               "name": "Flamingos 2",
               "club": {
                 "id": 604,
@@ -4089,6 +4408,7 @@
           "teams": [
             {
               "id": 24031,
+              "league_entry_id": 46069,
               "name": "Challengers",
               "club": {
                 "id": 486,
@@ -4100,6 +4420,7 @@
             },
             {
               "id": 24141,
+              "league_entry_id": 46070,
               "name": "Ravens",
               "club": {
                 "id": 491,
@@ -4117,6 +4438,7 @@
           "teams": [
             {
               "id": 23931,
+              "league_entry_id": 46104,
               "name": "Eagles",
               "club": {
                 "id": 603,
@@ -4128,6 +4450,7 @@
             },
             {
               "id": 24015,
+              "league_entry_id": 46105,
               "name": "Wizards 2",
               "club": {
                 "id": 494,
@@ -4139,6 +4462,7 @@
             },
             {
               "id": 24033,
+              "league_entry_id": 46106,
               "name": "SG Sliders/Challengers",
               "clubs": [
                 {
@@ -4159,6 +4483,7 @@
             },
             {
               "id": 24091,
+              "league_entry_id": 46107,
               "name": "Roadrunners",
               "club": {
                 "id": 502,
@@ -4170,6 +4495,7 @@
             },
             {
               "id": 24130,
+              "league_entry_id": 46108,
               "name": "Flamingos 2",
               "club": {
                 "id": 604,
@@ -4187,6 +4513,7 @@
           "teams": [
             {
               "id": 23996,
+              "league_entry_id": 46080,
               "name": "Skylarks",
               "club": {
                 "id": 485,
@@ -4198,6 +4525,7 @@
             },
             {
               "id": 24013,
+              "league_entry_id": 46081,
               "name": "Wizards",
               "club": {
                 "id": 494,
@@ -4209,6 +4537,7 @@
             },
             {
               "id": 24041,
+              "league_entry_id": 46082,
               "name": "Porcupines",
               "club": {
                 "id": 498,
@@ -4220,6 +4549,7 @@
             },
             {
               "id": 24129,
+              "league_entry_id": 46083,
               "name": "Flamingos",
               "club": {
                 "id": 604,
@@ -4237,6 +4567,7 @@
           "teams": [
             {
               "id": 23926,
+              "league_entry_id": 46051,
               "name": "Sluggers",
               "club": {
                 "id": 492,
@@ -4248,6 +4579,7 @@
             },
             {
               "id": 23932,
+              "league_entry_id": 46052,
               "name": "Eagles",
               "club": {
                 "id": 603,
@@ -4259,6 +4591,7 @@
             },
             {
               "id": 23995,
+              "league_entry_id": 46053,
               "name": "Skylarks",
               "club": {
                 "id": 485,
@@ -4270,6 +4603,7 @@
             },
             {
               "id": 24014,
+              "league_entry_id": 46054,
               "name": "Wizards",
               "club": {
                 "id": 494,
@@ -4281,6 +4615,7 @@
             },
             {
               "id": 24037,
+              "league_entry_id": 46055,
               "name": "Wallbreakers",
               "club": {
                 "id": 249,
@@ -4292,6 +4627,7 @@
             },
             {
               "id": 24088,
+              "league_entry_id": 46056,
               "name": "Roadrunners",
               "club": {
                 "id": 502,
@@ -4303,6 +4639,7 @@
             },
             {
               "id": 24132,
+              "league_entry_id": 46057,
               "name": "Flamingos",
               "club": {
                 "id": 604,
@@ -4320,6 +4657,7 @@
           "teams": [
             {
               "id": 24019,
+              "league_entry_id": 46089,
               "name": "Wizards",
               "club": {
                 "id": 494,
@@ -4331,6 +4669,7 @@
             },
             {
               "id": 24029,
+              "league_entry_id": 46090,
               "name": "Challengers 2",
               "club": {
                 "id": 486,
@@ -4342,6 +4681,7 @@
             },
             {
               "id": 24039,
+              "league_entry_id": 46091,
               "name": "Porcupines",
               "club": {
                 "id": 498,
@@ -4353,6 +4693,7 @@
             },
             {
               "id": 24131,
+              "league_entry_id": 46092,
               "name": "Flamingos",
               "club": {
                 "id": 604,
@@ -4364,6 +4705,7 @@
             },
             {
               "id": 24142,
+              "league_entry_id": 46093,
               "name": "Ravens 2",
               "club": {
                 "id": 491,
@@ -4381,6 +4723,7 @@
           "teams": [
             {
               "id": 23930,
+              "league_entry_id": 46058,
               "name": "SG Porcupines/Eagles",
               "clubs": [
                 {
@@ -4401,6 +4744,7 @@
             },
             {
               "id": 23959,
+              "league_entry_id": 46059,
               "name": "SG Sliders/Challengers",
               "clubs": [
                 {
@@ -4421,6 +4765,7 @@
             },
             {
               "id": 23997,
+              "league_entry_id": 46060,
               "name": "Skylarks",
               "club": {
                 "id": 485,
@@ -4432,6 +4777,7 @@
             },
             {
               "id": 24011,
+              "league_entry_id": 46061,
               "name": "Wizards",
               "club": {
                 "id": 494,
@@ -4443,6 +4789,7 @@
             },
             {
               "id": 24090,
+              "league_entry_id": 46062,
               "name": "Roadrunners",
               "club": {
                 "id": 502,
@@ -4454,6 +4801,7 @@
             },
             {
               "id": 24105,
+              "league_entry_id": 46063,
               "name": "R´s",
               "club": {
                 "id": 491,
@@ -4465,6 +4813,7 @@
             },
             {
               "id": 24128,
+              "league_entry_id": 46064,
               "name": "Flamingos",
               "club": {
                 "id": 604,
@@ -4482,6 +4831,7 @@
           "teams": [
             {
               "id": 23924,
+              "league_entry_id": 46084,
               "name": "Sluggers",
               "club": {
                 "id": 492,
@@ -4493,6 +4843,7 @@
             },
             {
               "id": 24008,
+              "league_entry_id": 46085,
               "name": "Wizards",
               "club": {
                 "id": 494,
@@ -4504,6 +4855,7 @@
             },
             {
               "id": 24017,
+              "league_entry_id": 46086,
               "name": "Skylarks 2",
               "club": {
                 "id": 485,
@@ -4515,6 +4867,7 @@
             },
             {
               "id": 24036,
+              "league_entry_id": 46087,
               "name": "Wallbreakers",
               "club": {
                 "id": 249,
@@ -4526,6 +4879,7 @@
             },
             {
               "id": 24038,
+              "league_entry_id": 46088,
               "name": "Porcupines",
               "club": {
                 "id": 498,
@@ -4543,6 +4897,7 @@
           "teams": [
             {
               "id": 24010,
+              "league_entry_id": 46065,
               "name": "Wizards",
               "club": {
                 "id": 494,
@@ -4554,6 +4909,7 @@
             },
             {
               "id": 24028,
+              "league_entry_id": 46066,
               "name": "SG Porcupines/Eagles",
               "clubs": [
                 {
@@ -4574,6 +4930,7 @@
             },
             {
               "id": 24089,
+              "league_entry_id": 46068,
               "name": "Roadrunners",
               "club": {
                 "id": 502,
@@ -4606,6 +4963,7 @@
           "teams": [
             {
               "id": 23642,
+              "league_entry_id": 45506,
               "name": "Augsburg Gators",
               "club": {
                 "id": 20,
@@ -4617,6 +4975,7 @@
             },
             {
               "id": 23643,
+              "league_entry_id": 45507,
               "name": "Disciples München-Haar 2",
               "club": {
                 "id": 35,
@@ -4628,6 +4987,7 @@
             },
             {
               "id": 23646,
+              "league_entry_id": 45508,
               "name": "Gröbenzell Bandits",
               "club": {
                 "id": 32,
@@ -4639,6 +4999,7 @@
             },
             {
               "id": 23653,
+              "league_entry_id": 45509,
               "name": "Schwaig Red Lions 2",
               "club": {
                 "id": 555,
@@ -4650,6 +5011,7 @@
             },
             {
               "id": 23654,
+              "league_entry_id": 45510,
               "name": "Guggenberger Legionäre 3",
               "club": {
                 "id": 14,
@@ -4661,6 +5023,7 @@
             },
             {
               "id": 23656,
+              "league_entry_id": 45511,
               "name": "München Caribes 2",
               "club": {
                 "id": 46,
@@ -4678,6 +5041,7 @@
           "teams": [
             {
               "id": 23702,
+              "league_entry_id": 46689,
               "name": "Freising Grizzlies",
               "club": {
                 "id": 59,
@@ -4689,6 +5053,7 @@
             },
             {
               "id": 24201,
+              "league_entry_id": 46690,
               "name": "Guggenberger Legionäre",
               "club": {
                 "id": 14,
@@ -4700,6 +5065,7 @@
             },
             {
               "id": 24217,
+              "league_entry_id": 46691,
               "name": "SG Ingolstadt/Penzberg",
               "clubs": [
                 {
@@ -4720,6 +5086,7 @@
             },
             {
               "id": 24243,
+              "league_entry_id": 46692,
               "name": "Gauting Indians",
               "club": {
                 "id": 30,
@@ -4731,6 +5098,7 @@
             },
             {
               "id": 24245,
+              "league_entry_id": 46693,
               "name": "Gauting Indians 2",
               "club": {
                 "id": 30,
@@ -4748,6 +5116,7 @@
           "teams": [
             {
               "id": 23663,
+              "league_entry_id": 46922,
               "name": "SG Füssen/Haar/Ingolstadt/Augsburg",
               "clubs": [
                 {
@@ -4782,6 +5151,7 @@
             },
             {
               "id": 23704,
+              "league_entry_id": 46923,
               "name": "Freising Grizzlies",
               "club": {
                 "id": 59,
@@ -4793,6 +5163,7 @@
             },
             {
               "id": 24207,
+              "league_entry_id": 46924,
               "name": "Guggenberger Legionäre",
               "club": {
                 "id": 14,
@@ -4810,6 +5181,7 @@
           "teams": [
             {
               "id": 23644,
+              "league_entry_id": 45500,
               "name": "Erlangen White Sox",
               "club": {
                 "id": 6,
@@ -4821,6 +5193,7 @@
             },
             {
               "id": 23645,
+              "league_entry_id": 45501,
               "name": "Fürth Pirates",
               "club": {
                 "id": 4,
@@ -4832,6 +5205,7 @@
             },
             {
               "id": 23647,
+              "league_entry_id": 45502,
               "name": "Laufer Wölfe",
               "club": {
                 "id": 8,
@@ -4843,6 +5217,7 @@
             },
             {
               "id": 23648,
+              "league_entry_id": 45503,
               "name": "Memmelsdorf Barons",
               "club": {
                 "id": 41,
@@ -4854,6 +5229,7 @@
             },
             {
               "id": 23649,
+              "league_entry_id": 45504,
               "name": "Schweinfurt Giants",
               "club": {
                 "id": 611,
@@ -4865,6 +5241,7 @@
             },
             {
               "id": 23655,
+              "league_entry_id": 45505,
               "name": "Kronach Royals",
               "club": {
                 "id": 37,
@@ -4882,6 +5259,7 @@
           "teams": [
             {
               "id": 23700,
+              "league_entry_id": 45711,
               "name": "Franken Rebels",
               "club": {
                 "id": 559,
@@ -4893,6 +5271,7 @@
             },
             {
               "id": 23710,
+              "league_entry_id": 45712,
               "name": "Laufer Wölfe 2",
               "club": {
                 "id": 8,
@@ -4904,6 +5283,7 @@
             },
             {
               "id": 23717,
+              "league_entry_id": 45713,
               "name": "Schweinfurt Giants 2",
               "club": {
                 "id": 611,
@@ -4915,6 +5295,7 @@
             },
             {
               "id": 23720,
+              "league_entry_id": 45714,
               "name": "Fürth Pirates 2",
               "club": {
                 "id": 4,
@@ -4926,6 +5307,7 @@
             },
             {
               "id": 23721,
+              "league_entry_id": 45715,
               "name": "Guggenberger Legionäre 4",
               "club": {
                 "id": 14,
@@ -4937,6 +5319,7 @@
             },
             {
               "id": 23723,
+              "league_entry_id": 45716,
               "name": "Laub Raiders",
               "club": {
                 "id": 629,
@@ -4954,6 +5337,7 @@
           "teams": [
             {
               "id": 23698,
+              "league_entry_id": 45723,
               "name": "Ingolstadt Schanzer 2",
               "club": {
                 "id": 36,
@@ -4965,6 +5349,7 @@
             },
             {
               "id": 23714,
+              "league_entry_id": 45724,
               "name": "Altdorf Icesharks",
               "club": {
                 "id": 851,
@@ -4976,6 +5361,7 @@
             },
             {
               "id": 23722,
+              "league_entry_id": 45725,
               "name": "Unterwurmbach Red Sox",
               "club": {
                 "id": 5,
@@ -4987,6 +5373,7 @@
             },
             {
               "id": 23794,
+              "league_entry_id": 45726,
               "name": "Memmelsdorf Barons 2",
               "club": {
                 "id": 41,
@@ -4998,6 +5385,7 @@
             },
             {
               "id": 23820,
+              "league_entry_id": 45727,
               "name": "Erlangen White Sox 2",
               "club": {
                 "id": 6,
@@ -5015,6 +5403,7 @@
           "teams": [
             {
               "id": 23713,
+              "league_entry_id": 45728,
               "name": "Augsburg Gators 3",
               "club": {
                 "id": 20,
@@ -5026,6 +5415,7 @@
             },
             {
               "id": 23760,
+              "league_entry_id": 45729,
               "name": "Landsberg Crusaders",
               "club": {
                 "id": 38,
@@ -5037,6 +5427,7 @@
             },
             {
               "id": 23761,
+              "league_entry_id": 45730,
               "name": "Grünwald Jesters",
               "club": {
                 "id": 33,
@@ -5048,6 +5439,7 @@
             },
             {
               "id": 23798,
+              "league_entry_id": 45731,
               "name": "Gauting Indians 3",
               "club": {
                 "id": 30,
@@ -5065,6 +5457,7 @@
           "teams": [
             {
               "id": 23716,
+              "league_entry_id": 45732,
               "name": "SG Ingolstadt/Gröbenzell/Haar 2",
               "clubs": [
                 {
@@ -5092,6 +5485,7 @@
             },
             {
               "id": 23750,
+              "league_entry_id": 45733,
               "name": "Guggenberger Legionäre 3",
               "club": {
                 "id": 14,
@@ -5103,6 +5497,7 @@
             },
             {
               "id": 23751,
+              "league_entry_id": 45734,
               "name": "München Caribes",
               "club": {
                 "id": 46,
@@ -5114,6 +5509,7 @@
             },
             {
               "id": 23762,
+              "league_entry_id": 45735,
               "name": "SG Erlangen/Lauf",
               "clubs": [
                 {
@@ -5134,6 +5530,7 @@
             },
             {
               "id": 23763,
+              "league_entry_id": 45736,
               "name": "Freising Grizzlies 3",
               "club": {
                 "id": 59,
@@ -5151,6 +5548,7 @@
           "teams": [
             {
               "id": 23703,
+              "league_entry_id": 46767,
               "name": "Freising Grizzlies",
               "club": {
                 "id": 59,
@@ -5162,6 +5560,7 @@
             },
             {
               "id": 24267,
+              "league_entry_id": 46768,
               "name": "SG Füssen/Haar/Ingolstadt/Augsburg",
               "clubs": [
                 {
@@ -5202,6 +5601,7 @@
           "teams": [
             {
               "id": 23695,
+              "league_entry_id": 45717,
               "name": "SG Erding/Garching 2",
               "clubs": [
                 {
@@ -5222,6 +5622,7 @@
             },
             {
               "id": 23696,
+              "league_entry_id": 45718,
               "name": "Baldham Boars",
               "club": {
                 "id": 22,
@@ -5233,6 +5634,7 @@
             },
             {
               "id": 23697,
+              "league_entry_id": 45719,
               "name": "Ingolstadt Schanzer",
               "club": {
                 "id": 36,
@@ -5244,6 +5646,7 @@
             },
             {
               "id": 23718,
+              "league_entry_id": 45720,
               "name": "Allershausen Fireballs",
               "club": {
                 "id": 549,
@@ -5255,6 +5658,7 @@
             },
             {
               "id": 23765,
+              "league_entry_id": 45721,
               "name": "SG Rosenheim/Bad Aibling 89ers",
               "clubs": [
                 {
@@ -5275,6 +5679,7 @@
             },
             {
               "id": 23804,
+              "league_entry_id": 45722,
               "name": "Passau Beavers",
               "club": {
                 "id": 244,
@@ -5292,6 +5697,7 @@
           "teams": [
             {
               "id": 23701,
+              "league_entry_id": 46662,
               "name": "Freising Grizzlies ",
               "club": {
                 "id": 59,
@@ -5303,6 +5709,7 @@
             },
             {
               "id": 24199,
+              "league_entry_id": 46663,
               "name": "Guggenberger Legionäre",
               "club": {
                 "id": 14,
@@ -5314,6 +5721,7 @@
             },
             {
               "id": 24213,
+              "league_entry_id": 46664,
               "name": "Ingolstadt Schanzer",
               "club": {
                 "id": 36,
@@ -5325,6 +5733,7 @@
             },
             {
               "id": 24221,
+              "league_entry_id": 46665,
               "name": "Franken United",
               "clubs": [
                 {
@@ -5345,6 +5754,7 @@
             },
             {
               "id": 24224,
+              "league_entry_id": 46666,
               "name": "Schwaig Red Lions",
               "club": {
                 "id": 555,
@@ -5356,6 +5766,7 @@
             },
             {
               "id": 24237,
+              "league_entry_id": 46667,
               "name": "Gauting Indians",
               "club": {
                 "id": 30,
@@ -5373,6 +5784,7 @@
           "teams": [
             {
               "id": 23715,
+              "league_entry_id": 46668,
               "name": "Altdorf Icesharks",
               "club": {
                 "id": 851,
@@ -5384,6 +5796,7 @@
             },
             {
               "id": 24056,
+              "league_entry_id": 46669,
               "name": "Erlangen White Sox 2",
               "club": {
                 "id": 6,
@@ -5395,6 +5808,7 @@
             },
             {
               "id": 24147,
+              "league_entry_id": 46670,
               "name": "Fürth Pirates",
               "club": {
                 "id": 4,
@@ -5406,6 +5820,7 @@
             },
             {
               "id": 24211,
+              "league_entry_id": 46671,
               "name": "SG Memmelsdorf/Schweinfurt",
               "clubs": [
                 {
@@ -5426,6 +5841,7 @@
             },
             {
               "id": 24269,
+              "league_entry_id": 46672,
               "name": "Laufer Wölfe 2",
               "club": {
                 "id": 8,
@@ -5443,6 +5859,7 @@
           "teams": [
             {
               "id": 24159,
+              "league_entry_id": 46685,
               "name": "Baldham Boars",
               "club": {
                 "id": 22,
@@ -5454,6 +5871,7 @@
             },
             {
               "id": 24174,
+              "league_entry_id": 46898,
               "name": "Dachau Tigers",
               "club": {
                 "id": 25,
@@ -5465,6 +5883,7 @@
             },
             {
               "id": 24175,
+              "league_entry_id": 46896,
               "name": "Dachau Tigers 2",
               "club": {
                 "id": 25,
@@ -5476,6 +5895,7 @@
             },
             {
               "id": 24200,
+              "league_entry_id": 46674,
               "name": "Guggenberger Legionäre 2",
               "club": {
                 "id": 14,
@@ -5487,6 +5907,7 @@
             },
             {
               "id": 24230,
+              "league_entry_id": 46676,
               "name": "SG Garching/Erding",
               "clubs": [
                 {
@@ -5507,6 +5928,7 @@
             },
             {
               "id": 24232,
+              "league_entry_id": 46766,
               "name": "SG Gröbenzell/Indersdorf",
               "clubs": [
                 {
@@ -5527,6 +5949,7 @@
             },
             {
               "id": 24252,
+              "league_entry_id": 46683,
               "name": "SG Steinheim/Landsberg",
               "clubs": [
                 {
@@ -5547,6 +5970,7 @@
             },
             {
               "id": 24258,
+              "league_entry_id": 46897,
               "name": "München Caribes",
               "club": {
                 "id": 46,
@@ -5564,6 +5988,7 @@
           "teams": [
             {
               "id": 23660,
+              "league_entry_id": 46678,
               "name": "Füssen Royal Bavarians",
               "club": {
                 "id": 28,
@@ -5575,6 +6000,7 @@
             },
             {
               "id": 24157,
+              "league_entry_id": 46684,
               "name": "Disciples München-Haar",
               "club": {
                 "id": 35,
@@ -5586,6 +6012,7 @@
             },
             {
               "id": 24159,
+              "league_entry_id": 46685,
               "name": "Baldham Boars",
               "club": {
                 "id": 22,
@@ -5597,6 +6024,7 @@
             },
             {
               "id": 24174,
+              "league_entry_id": 46898,
               "name": "Dachau Tigers",
               "club": {
                 "id": 25,
@@ -5608,6 +6036,7 @@
             },
             {
               "id": 24235,
+              "league_entry_id": 46681,
               "name": "Augsburg Gators",
               "club": {
                 "id": 20,
@@ -5619,6 +6048,7 @@
             },
             {
               "id": 24238,
+              "league_entry_id": 46682,
               "name": "Gauting Indians 2",
               "club": {
                 "id": 30,
@@ -5630,6 +6060,7 @@
             },
             {
               "id": 24250,
+              "league_entry_id": 46899,
               "name": "Freising Grizzlies 2",
               "club": {
                 "id": 59,
@@ -5641,6 +6072,7 @@
             },
             {
               "id": 24252,
+              "league_entry_id": 46683,
               "name": "SG Steinheim/Landsberg",
               "clubs": [
                 {
@@ -5661,6 +6093,7 @@
             },
             {
               "id": 24271,
+              "league_entry_id": 46688,
               "name": "Grünwald Jesters",
               "club": {
                 "id": 33,
@@ -5678,6 +6111,7 @@
           "teams": [
             {
               "id": 23699,
+              "league_entry_id": 46694,
               "name": "Franken Rebels",
               "club": {
                 "id": 559,
@@ -5689,6 +6123,7 @@
             },
             {
               "id": 24055,
+              "league_entry_id": 46695,
               "name": "Erlangen White Sox",
               "club": {
                 "id": 6,
@@ -5700,6 +6135,7 @@
             },
             {
               "id": 24146,
+              "league_entry_id": 46696,
               "name": "Fürth Pirates",
               "club": {
                 "id": 4,
@@ -5711,6 +6147,7 @@
             },
             {
               "id": 24212,
+              "league_entry_id": 46697,
               "name": "SG Memmelsdorf/Schweinfurt",
               "clubs": [
                 {
@@ -5731,6 +6168,7 @@
             },
             {
               "id": 24263,
+              "league_entry_id": 46698,
               "name": "Kronach Royals",
               "club": {
                 "id": 37,
@@ -5742,6 +6180,7 @@
             },
             {
               "id": 24268,
+              "league_entry_id": 46699,
               "name": "Laufer Wölfe",
               "club": {
                 "id": 8,
@@ -5759,6 +6198,7 @@
           "teams": [
             {
               "id": 23709,
+              "league_entry_id": 46700,
               "name": "Straubing Thunderbirds",
               "club": {
                 "id": 861,
@@ -5770,6 +6210,7 @@
             },
             {
               "id": 24166,
+              "league_entry_id": 46709,
               "name": "SG Haar/Gröbenzell",
               "clubs": [
                 {
@@ -5790,6 +6231,7 @@
             },
             {
               "id": 24202,
+              "league_entry_id": 46701,
               "name": "Guggenberger Legionäre 2",
               "club": {
                 "id": 14,
@@ -5801,6 +6243,7 @@
             },
             {
               "id": 24203,
+              "league_entry_id": 46702,
               "name": "Guggenberger Legionäre 3",
               "club": {
                 "id": 14,
@@ -5812,6 +6255,7 @@
             },
             {
               "id": 24226,
+              "league_entry_id": 46703,
               "name": "Schwaig Red Lions",
               "club": {
                 "id": 555,
@@ -5823,6 +6267,7 @@
             },
             {
               "id": 24229,
+              "league_entry_id": 46714,
               "name": "SG Garching/Erding",
               "clubs": [
                 {
@@ -5843,6 +6288,7 @@
             },
             {
               "id": 24254,
+              "league_entry_id": 46704,
               "name": "SG Allershausen/Indersdorf",
               "clubs": [
                 {
@@ -5863,6 +6309,7 @@
             },
             {
               "id": 24255,
+              "league_entry_id": 46705,
               "name": "Freising Grizzlies 2",
               "club": {
                 "id": 59,
@@ -5874,6 +6321,7 @@
             },
             {
               "id": 24260,
+              "league_entry_id": 46715,
               "name": "München Caribes",
               "club": {
                 "id": 46,
@@ -5885,6 +6333,7 @@
             },
             {
               "id": 24265,
+              "league_entry_id": 46706,
               "name": "Mühldorf Cubs",
               "club": {
                 "id": 857,
@@ -5902,6 +6351,7 @@
           "teams": [
             {
               "id": 23661,
+              "league_entry_id": 46707,
               "name": "Füssen Royal Bavarians",
               "club": {
                 "id": 28,
@@ -5913,6 +6363,7 @@
             },
             {
               "id": 24075,
+              "league_entry_id": 46708,
               "name": "Dachau Tigers",
               "club": {
                 "id": 25,
@@ -5924,6 +6375,7 @@
             },
             {
               "id": 24161,
+              "league_entry_id": 46712,
               "name": "Baldham Boars",
               "club": {
                 "id": 22,
@@ -5935,6 +6387,7 @@
             },
             {
               "id": 24166,
+              "league_entry_id": 46709,
               "name": "SG Haar/Gröbenzell",
               "clubs": [
                 {
@@ -5955,6 +6408,7 @@
             },
             {
               "id": 24223,
+              "league_entry_id": 46713,
               "name": "Kufstein Vikings",
               "club": {
                 "id": 622,
@@ -5966,6 +6420,7 @@
             },
             {
               "id": 24229,
+              "league_entry_id": 46714,
               "name": "SG Garching/Erding",
               "clubs": [
                 {
@@ -5986,6 +6441,7 @@
             },
             {
               "id": 24246,
+              "league_entry_id": 46710,
               "name": "Gauting Indians 3",
               "club": {
                 "id": 30,
@@ -5997,6 +6453,7 @@
             },
             {
               "id": 24253,
+              "league_entry_id": 46711,
               "name": "SG Steinheim/Landsberg",
               "clubs": [
                 {
@@ -6017,6 +6474,7 @@
             },
             {
               "id": 24260,
+              "league_entry_id": 46715,
               "name": "München Caribes",
               "club": {
                 "id": 46,
@@ -6028,6 +6486,7 @@
             },
             {
               "id": 24272,
+              "league_entry_id": 46716,
               "name": "Grünwald Jesters",
               "club": {
                 "id": 33,
@@ -6045,6 +6504,7 @@
           "teams": [
             {
               "id": 24077,
+              "league_entry_id": 46729,
               "name": "Dachau Tigers",
               "club": {
                 "id": 25,
@@ -6056,6 +6516,7 @@
             },
             {
               "id": 24163,
+              "league_entry_id": 46722,
               "name": "Baldham Boars",
               "club": {
                 "id": 22,
@@ -6067,6 +6528,7 @@
             },
             {
               "id": 24227,
+              "league_entry_id": 46724,
               "name": "Schwaig Red Lions",
               "club": {
                 "id": 555,
@@ -6078,6 +6540,7 @@
             },
             {
               "id": 24228,
+              "league_entry_id": 46725,
               "name": "SG Garching/Erding",
               "clubs": [
                 {
@@ -6098,6 +6561,7 @@
             },
             {
               "id": 24234,
+              "league_entry_id": 46731,
               "name": "Augsburg Gators",
               "club": {
                 "id": 20,
@@ -6109,6 +6573,7 @@
             },
             {
               "id": 24251,
+              "league_entry_id": 46726,
               "name": "Freising Grizzlies",
               "club": {
                 "id": 59,
@@ -6120,6 +6585,7 @@
             },
             {
               "id": 24262,
+              "league_entry_id": 46733,
               "name": "München Caribes",
               "club": {
                 "id": 46,
@@ -6131,6 +6597,7 @@
             },
             {
               "id": 24264,
+              "league_entry_id": 46727,
               "name": "Mühldorf Cubs",
               "club": {
                 "id": 857,
@@ -6148,6 +6615,7 @@
           "teams": [
             {
               "id": 23662,
+              "league_entry_id": 46728,
               "name": "Füssen Royal Bavarians",
               "club": {
                 "id": 28,
@@ -6159,6 +6627,7 @@
             },
             {
               "id": 24077,
+              "league_entry_id": 46729,
               "name": "Dachau Tigers",
               "club": {
                 "id": 25,
@@ -6170,6 +6639,7 @@
             },
             {
               "id": 24218,
+              "league_entry_id": 46730,
               "name": "Penzberg Panthers",
               "club": {
                 "id": 848,
@@ -6181,6 +6651,7 @@
             },
             {
               "id": 24234,
+              "league_entry_id": 46731,
               "name": "Augsburg Gators",
               "club": {
                 "id": 20,
@@ -6192,6 +6663,7 @@
             },
             {
               "id": 24248,
+              "league_entry_id": 46732,
               "name": "Gauting Indians",
               "club": {
                 "id": 30,
@@ -6203,6 +6675,7 @@
             },
             {
               "id": 24262,
+              "league_entry_id": 46733,
               "name": "München Caribes",
               "club": {
                 "id": 46,
@@ -6220,6 +6693,7 @@
           "teams": [
             {
               "id": 24216,
+              "league_entry_id": 46734,
               "name": "Guggenberger Legionäre",
               "club": {
                 "id": 14,
@@ -6231,6 +6705,7 @@
             },
             {
               "id": 24219,
+              "league_entry_id": 46735,
               "name": "Penzberg Panthers",
               "club": {
                 "id": 848,
@@ -6242,6 +6717,7 @@
             },
             {
               "id": 24231,
+              "league_entry_id": 46736,
               "name": "Schwaig Red Lions",
               "club": {
                 "id": 555,
@@ -6253,6 +6729,7 @@
             },
             {
               "id": 24249,
+              "league_entry_id": 46737,
               "name": "Gauting Indians",
               "club": {
                 "id": 30,
@@ -6270,6 +6747,7 @@
           "teams": [
             {
               "id": 23658,
+              "league_entry_id": 45706,
               "name": "Steinheim Red Phantoms",
               "club": {
                 "id": 56,
@@ -6281,6 +6759,7 @@
             },
             {
               "id": 23659,
+              "league_entry_id": 45707,
               "name": "Füssen Royal Bavarians 2",
               "club": {
                 "id": 28,
@@ -6292,6 +6771,7 @@
             },
             {
               "id": 23708,
+              "league_entry_id": 45708,
               "name": "München Caribes 3",
               "club": {
                 "id": 46,
@@ -6303,6 +6783,7 @@
             },
             {
               "id": 23711,
+              "league_entry_id": 45709,
               "name": "Gundelfingen Moskitos",
               "club": {
                 "id": 34,
@@ -6314,6 +6795,7 @@
             },
             {
               "id": 23712,
+              "league_entry_id": 45710,
               "name": "Augsburg Gators 2",
               "club": {
                 "id": 20,
@@ -6331,6 +6813,7 @@
           "teams": [
             {
               "id": 23719,
+              "league_entry_id": 46717,
               "name": "Altdorf Icesharks",
               "club": {
                 "id": 851,
@@ -6342,6 +6825,7 @@
             },
             {
               "id": 24077,
+              "league_entry_id": 46729,
               "name": "Dachau Tigers",
               "club": {
                 "id": 25,
@@ -6353,6 +6837,7 @@
             },
             {
               "id": 24145,
+              "league_entry_id": 46718,
               "name": "Fürth Pirates",
               "club": {
                 "id": 4,
@@ -6364,6 +6849,7 @@
             },
             {
               "id": 24204,
+              "league_entry_id": 46799,
               "name": "Guggenberger Legionäre",
               "club": {
                 "id": 14,
@@ -6375,6 +6861,7 @@
             },
             {
               "id": 24214,
+              "league_entry_id": 46720,
               "name": "Ingolstadt Schanzer",
               "club": {
                 "id": 36,
@@ -6386,6 +6873,7 @@
             },
             {
               "id": 24251,
+              "league_entry_id": 46726,
               "name": "Freising Grizzlies",
               "club": {
                 "id": 59,
@@ -6397,6 +6885,7 @@
             },
             {
               "id": 24264,
+              "league_entry_id": 46727,
               "name": "Mühldorf Cubs",
               "club": {
                 "id": 857,
@@ -6408,6 +6897,7 @@
             },
             {
               "id": 24270,
+              "league_entry_id": 46721,
               "name": "Laufer Wölfe",
               "club": {
                 "id": 8,
@@ -6425,6 +6915,7 @@
           "teams": [
             {
               "id": 24158,
+              "league_entry_id": 46659,
               "name": "Disciples München-Haar",
               "club": {
                 "id": 35,
@@ -6436,6 +6927,7 @@
             },
             {
               "id": 24236,
+              "league_entry_id": 46660,
               "name": "Gauting Indians",
               "club": {
                 "id": 30,
@@ -6447,6 +6939,7 @@
             },
             {
               "id": 24257,
+              "league_entry_id": 46661,
               "name": "Freising Grizzlies",
               "club": {
                 "id": 59,
@@ -6464,6 +6957,7 @@
           "teams": [
             {
               "id": 24161,
+              "league_entry_id": 46712,
               "name": "Baldham Boars",
               "club": {
                 "id": 22,
@@ -6475,6 +6969,7 @@
             },
             {
               "id": 24223,
+              "league_entry_id": 46713,
               "name": "Kufstein Vikings",
               "club": {
                 "id": 622,
@@ -6486,6 +6981,7 @@
             },
             {
               "id": 24229,
+              "league_entry_id": 46714,
               "name": "SG Garching/Erding",
               "clubs": [
                 {
@@ -6506,6 +7002,7 @@
             },
             {
               "id": 24260,
+              "league_entry_id": 46715,
               "name": "München Caribes",
               "club": {
                 "id": 46,
@@ -6517,6 +7014,7 @@
             },
             {
               "id": 24272,
+              "league_entry_id": 46716,
               "name": "Grünwald Jesters",
               "club": {
                 "id": 33,
@@ -6534,6 +7032,7 @@
           "teams": [
             {
               "id": 23650,
+              "league_entry_id": 45703,
               "name": "Disciples München-Haar",
               "club": {
                 "id": 35,
@@ -6545,6 +7044,7 @@
             },
             {
               "id": 23651,
+              "league_entry_id": 45704,
               "name": "Freising Grizzlies 2",
               "club": {
                 "id": 59,
@@ -6556,6 +7056,7 @@
             },
             {
               "id": 23652,
+              "league_entry_id": 45705,
               "name": "Guggenberger Legionäre 2",
               "club": {
                 "id": 14,
@@ -6573,6 +7074,7 @@
           "teams": [
             {
               "id": 24157,
+              "league_entry_id": 46684,
               "name": "Disciples München-Haar",
               "club": {
                 "id": 35,
@@ -6584,6 +7086,7 @@
             },
             {
               "id": 24159,
+              "league_entry_id": 46685,
               "name": "Baldham Boars",
               "club": {
                 "id": 22,
@@ -6595,6 +7098,7 @@
             },
             {
               "id": 24222,
+              "league_entry_id": 46686,
               "name": "Kufstein Vikings",
               "club": {
                 "id": 622,
@@ -6606,6 +7110,7 @@
             },
             {
               "id": 24250,
+              "league_entry_id": 46899,
               "name": "Freising Grizzlies 2",
               "club": {
                 "id": 59,
@@ -6617,6 +7122,7 @@
             },
             {
               "id": 24271,
+              "league_entry_id": 46688,
               "name": "Grünwald Jesters",
               "club": {
                 "id": 33,
@@ -6634,6 +7140,7 @@
           "teams": [
             {
               "id": 23705,
+              "league_entry_id": 46925,
               "name": "Freising Grizzlies",
               "club": {
                 "id": 59,
@@ -6645,6 +7152,7 @@
             },
             {
               "id": 24206,
+              "league_entry_id": 46926,
               "name": "Guggenberger Legionäre",
               "club": {
                 "id": 14,
@@ -6662,6 +7170,7 @@
           "teams": [
             {
               "id": 24076,
+              "league_entry_id": 46628,
               "name": "Dachau Tigers",
               "club": {
                 "id": 25,
@@ -6673,6 +7182,7 @@
             },
             {
               "id": 24162,
+              "league_entry_id": 46629,
               "name": "Baldham Boars",
               "club": {
                 "id": 22,
@@ -6684,6 +7194,7 @@
             },
             {
               "id": 24167,
+              "league_entry_id": 46630,
               "name": "SG Haar/Gröbenzell",
               "clubs": [
                 {
@@ -6704,6 +7215,7 @@
             },
             {
               "id": 24210,
+              "league_entry_id": 46631,
               "name": "Guggenberger Legionäre 2",
               "club": {
                 "id": 14,
@@ -6715,6 +7227,7 @@
             },
             {
               "id": 24247,
+              "league_entry_id": 46632,
               "name": "Gauting Indians 3",
               "club": {
                 "id": 30,
@@ -6726,6 +7239,7 @@
             },
             {
               "id": 24256,
+              "league_entry_id": 46633,
               "name": "Freising Grizzlies 2",
               "club": {
                 "id": 59,
@@ -6737,6 +7251,7 @@
             },
             {
               "id": 24261,
+              "league_entry_id": 46634,
               "name": "München Caribes",
               "club": {
                 "id": 46,
@@ -6748,6 +7263,7 @@
             },
             {
               "id": 24277,
+              "league_entry_id": 46635,
               "name": "Fürth Pirates",
               "club": {
                 "id": 4,
@@ -6759,6 +7275,7 @@
             },
             {
               "id": 24280,
+              "league_entry_id": 46636,
               "name": "Garching Atomics",
               "club": {
                 "id": 29,
@@ -6770,6 +7287,7 @@
             },
             {
               "id": 24283,
+              "league_entry_id": 46637,
               "name": "Guggenberger Legionäre 3",
               "club": {
                 "id": 14,
@@ -6787,6 +7305,7 @@
           "teams": [
             {
               "id": 24160,
+              "league_entry_id": 46617,
               "name": "Baldham Boars",
               "club": {
                 "id": 22,
@@ -6798,6 +7317,7 @@
             },
             {
               "id": 24209,
+              "league_entry_id": 46618,
               "name": "Guggenberger Legionäre 2",
               "club": {
                 "id": 14,
@@ -6809,6 +7329,7 @@
             },
             {
               "id": 24233,
+              "league_entry_id": 46619,
               "name": "Dachau Tigers",
               "club": {
                 "id": 25,
@@ -6820,6 +7341,7 @@
             },
             {
               "id": 24244,
+              "league_entry_id": 46620,
               "name": "Gauting Indians 2",
               "club": {
                 "id": 30,
@@ -6831,6 +7353,7 @@
             },
             {
               "id": 24259,
+              "league_entry_id": 46621,
               "name": "München Caribes",
               "club": {
                 "id": 46,
@@ -6842,6 +7365,7 @@
             },
             {
               "id": 24266,
+              "league_entry_id": 46622,
               "name": "Freising Grizzlies 2",
               "club": {
                 "id": 59,
@@ -6853,6 +7377,7 @@
             },
             {
               "id": 24276,
+              "league_entry_id": 46623,
               "name": "Fürth Pirates",
               "club": {
                 "id": 4,
@@ -6864,6 +7389,7 @@
             },
             {
               "id": 24278,
+              "league_entry_id": 46624,
               "name": "Disciples München-Haar",
               "club": {
                 "id": 35,
@@ -6875,6 +7401,7 @@
             },
             {
               "id": 24279,
+              "league_entry_id": 46625,
               "name": "SG Garching/Erding",
               "clubs": [
                 {
@@ -6895,6 +7422,7 @@
             },
             {
               "id": 24281,
+              "league_entry_id": 46626,
               "name": "SG Gröbenzell/Indersdorf",
               "clubs": [
                 {
@@ -6915,6 +7443,7 @@
             },
             {
               "id": 24284,
+              "league_entry_id": 46627,
               "name": "Augsburg Gators",
               "club": {
                 "id": 20,
@@ -6932,6 +7461,7 @@
           "teams": [
             {
               "id": 24375,
+              "league_entry_id": 46943,
               "name": "Altdorf Raptors",
               "club": {
                 "id": 851,
@@ -6943,6 +7473,7 @@
             },
             {
               "id": 24376,
+              "league_entry_id": 46944,
               "name": "Fürth Pirates",
               "club": {
                 "id": 4,
@@ -6954,6 +7485,7 @@
             },
             {
               "id": 24377,
+              "league_entry_id": 46945,
               "name": "Franken Rebels",
               "club": {
                 "id": 559,
@@ -6965,6 +7497,7 @@
             },
             {
               "id": 24378,
+              "league_entry_id": 46946,
               "name": "Regensburg Crazy Bones",
               "club": {
                 "id": 14,
@@ -6982,6 +7515,7 @@
           "teams": [
             {
               "id": 24063,
+              "league_entry_id": 46937,
               "name": "Schwaig Red Lions",
               "club": {
                 "id": 555,
@@ -6993,6 +7527,7 @@
             },
             {
               "id": 24380,
+              "league_entry_id": 46938,
               "name": "Freising Grizzlies",
               "club": {
                 "id": 59,
@@ -7004,6 +7539,7 @@
             },
             {
               "id": 24381,
+              "league_entry_id": 46939,
               "name": "Baldham Boars",
               "club": {
                 "id": 22,
@@ -7015,6 +7551,7 @@
             },
             {
               "id": 24382,
+              "league_entry_id": 46940,
               "name": "Grünwald Jesters",
               "club": {
                 "id": 33,
@@ -7026,6 +7563,7 @@
             },
             {
               "id": 24383,
+              "league_entry_id": 46941,
               "name": "Dachau Tigers",
               "club": {
                 "id": 25,
@@ -7037,6 +7575,7 @@
             },
             {
               "id": 24384,
+              "league_entry_id": 46942,
               "name": "Disciples München-Haar",
               "club": {
                 "id": 35,
@@ -7059,6 +7598,7 @@
           "teams": [
             {
               "id": 24327,
+              "league_entry_id": 46808,
               "name": "Fulda Blackhorses",
               "club": {
                 "id": 196,
@@ -7070,6 +7610,7 @@
             },
             {
               "id": 24328,
+              "league_entry_id": 46809,
               "name": "Kassel Herkules",
               "club": {
                 "id": 208,
@@ -7081,6 +7622,7 @@
             },
             {
               "id": 24329,
+              "league_entry_id": 46810,
               "name": "Rüsselsheim Moskitos",
               "club": {
                 "id": 216,
@@ -7092,6 +7634,7 @@
             },
             {
               "id": 24330,
+              "league_entry_id": 46811,
               "name": "Friedberg Braves",
               "club": {
                 "id": 193,
@@ -7103,6 +7646,7 @@
             },
             {
               "id": 24331,
+              "league_entry_id": 46812,
               "name": "Frankfurt 1860",
               "club": {
                 "id": 192,
@@ -7114,6 +7658,7 @@
             },
             {
               "id": 24332,
+              "league_entry_id": 46813,
               "name": "Main-Taunus Redwings",
               "club": {
                 "id": 211,
@@ -7125,6 +7670,7 @@
             },
             {
               "id": 24333,
+              "league_entry_id": 46814,
               "name": "Darmstadt Whippets 2",
               "club": {
                 "id": 188,
@@ -7136,6 +7682,7 @@
             },
             {
               "id": 24334,
+              "league_entry_id": 46815,
               "name": "Bad Homburg Hornets 2",
               "club": {
                 "id": 206,
@@ -7153,6 +7700,7 @@
           "teams": [
             {
               "id": 24335,
+              "league_entry_id": 46824,
               "name": "Wiesbaden Flyers",
               "club": {
                 "id": 220,
@@ -7164,6 +7712,7 @@
             },
             {
               "id": 24336,
+              "league_entry_id": 46825,
               "name": "Pilots Rhein Main",
               "club": {
                 "id": 838,
@@ -7175,6 +7724,7 @@
             },
             {
               "id": 24337,
+              "league_entry_id": 46826,
               "name": "Main-Taunus Redwings 2",
               "club": {
                 "id": 211,
@@ -7186,6 +7736,7 @@
             },
             {
               "id": 24338,
+              "league_entry_id": 46827,
               "name": "Darmstadt Whippets 3",
               "club": {
                 "id": 188,
@@ -7197,6 +7748,7 @@
             },
             {
               "id": 24339,
+              "league_entry_id": 46828,
               "name": "Erbach Grasshoppers",
               "club": {
                 "id": 190,
@@ -7208,6 +7760,7 @@
             },
             {
               "id": 24340,
+              "league_entry_id": 46829,
               "name": "Frankfurt 1860 2",
               "club": {
                 "id": 192,
@@ -7219,6 +7772,7 @@
             },
             {
               "id": 24341,
+              "league_entry_id": 46830,
               "name": "Giessen Busters",
               "club": {
                 "id": 199,
@@ -7230,6 +7784,7 @@
             },
             {
               "id": 24342,
+              "league_entry_id": 46831,
               "name": "Hünstetten STORM 2",
               "club": {
                 "id": 207,
@@ -7247,6 +7802,7 @@
           "teams": [
             {
               "id": 24355,
+              "league_entry_id": 46860,
               "name": "Main-Taunus Redwings",
               "club": {
                 "id": 211,
@@ -7258,6 +7814,7 @@
             },
             {
               "id": 24356,
+              "league_entry_id": 46861,
               "name": "Darmstadt Whippets",
               "club": {
                 "id": 188,
@@ -7269,6 +7826,7 @@
             },
             {
               "id": 24357,
+              "league_entry_id": 46862,
               "name": "Frankfurt 1860",
               "club": {
                 "id": 192,
@@ -7280,6 +7838,7 @@
             },
             {
               "id": 24358,
+              "league_entry_id": 46863,
               "name": "Bad Homburg Hornets",
               "club": {
                 "id": 206,
@@ -7297,6 +7856,7 @@
           "teams": [
             {
               "id": 24359,
+              "league_entry_id": 46868,
               "name": "Main-Taunus Redwings 2",
               "club": {
                 "id": 211,
@@ -7308,6 +7868,7 @@
             },
             {
               "id": 24360,
+              "league_entry_id": 46869,
               "name": "Darmstadt Whippets 2",
               "club": {
                 "id": 188,
@@ -7319,6 +7880,7 @@
             },
             {
               "id": 24361,
+              "league_entry_id": 46870,
               "name": "Hünstetten STORM",
               "club": {
                 "id": 207,
@@ -7330,6 +7892,7 @@
             },
             {
               "id": 24362,
+              "league_entry_id": 46871,
               "name": "SG Giessen Busters/Friedberg Braves",
               "clubs": [
                 {
@@ -7356,6 +7919,7 @@
           "teams": [
             {
               "id": 24369,
+              "league_entry_id": 46890,
               "name": "Darmstadt Whippets",
               "club": {
                 "id": 188,
@@ -7367,6 +7931,7 @@
             },
             {
               "id": 24370,
+              "league_entry_id": 46891,
               "name": "Main-Taunus Redwings",
               "club": {
                 "id": 211,
@@ -7378,6 +7943,7 @@
             },
             {
               "id": 24371,
+              "league_entry_id": 46892,
               "name": "Mainz Athletics",
               "club": {
                 "id": 1,
@@ -7389,6 +7955,7 @@
             },
             {
               "id": 24372,
+              "league_entry_id": 46893,
               "name": "Dreieich Vultures",
               "club": {
                 "id": 189,
@@ -7400,6 +7967,7 @@
             },
             {
               "id": 24373,
+              "league_entry_id": 46894,
               "name": "SG Frankfurt 1860/Hünstetten STORM",
               "clubs": [
                 {
@@ -7420,6 +7988,7 @@
             },
             {
               "id": 24374,
+              "league_entry_id": 46895,
               "name": "SG Bad Homburg Hornets/Friedberg Braves",
               "clubs": [
                 {
@@ -7446,6 +8015,7 @@
           "teams": [
             {
               "id": 24349,
+              "league_entry_id": 46850,
               "name": "Offenbach Twins",
               "club": {
                 "id": 595,
@@ -7457,6 +8027,7 @@
             },
             {
               "id": 24350,
+              "league_entry_id": 46851,
               "name": "SG Darmstadt Whippets/Dreieich Vultures",
               "clubs": [
                 {
@@ -7477,6 +8048,7 @@
             },
             {
               "id": 24351,
+              "league_entry_id": 46852,
               "name": "Hünstetten STORM",
               "club": {
                 "id": 207,
@@ -7488,6 +8060,7 @@
             },
             {
               "id": 24352,
+              "league_entry_id": 46853,
               "name": "Bad Homburg Hornets",
               "club": {
                 "id": 206,
@@ -7499,6 +8072,7 @@
             },
             {
               "id": 24353,
+              "league_entry_id": 46854,
               "name": "SG Giessen Busters/Frankfurt 1860",
               "clubs": [
                 {
@@ -7519,6 +8093,7 @@
             },
             {
               "id": 24354,
+              "league_entry_id": 46855,
               "name": "Main-Taunus Redwings",
               "club": {
                 "id": 211,
@@ -7536,6 +8111,7 @@
           "teams": [
             {
               "id": 24363,
+              "league_entry_id": 46878,
               "name": "Mainz Athletics",
               "club": {
                 "id": 1,
@@ -7547,6 +8123,7 @@
             },
             {
               "id": 24364,
+              "league_entry_id": 46879,
               "name": "Main-Taunus Redwings",
               "club": {
                 "id": 211,
@@ -7558,6 +8135,7 @@
             },
             {
               "id": 24365,
+              "league_entry_id": 46880,
               "name": "Darmstadt Whippets",
               "club": {
                 "id": 188,
@@ -7569,6 +8147,7 @@
             },
             {
               "id": 24366,
+              "league_entry_id": 46881,
               "name": "Erbach Grasshoppers",
               "club": {
                 "id": 190,
@@ -7580,6 +8159,7 @@
             },
             {
               "id": 24367,
+              "league_entry_id": 46882,
               "name": "Friedberg Braves",
               "club": {
                 "id": 193,
@@ -7591,6 +8171,7 @@
             },
             {
               "id": 24368,
+              "league_entry_id": 46883,
               "name": "Hünstetten STORM",
               "club": {
                 "id": 207,
@@ -7608,6 +8189,7 @@
           "teams": [
             {
               "id": 24343,
+              "league_entry_id": 46836,
               "name": "Frankfurt 1860",
               "club": {
                 "id": 192,
@@ -7619,6 +8201,7 @@
             },
             {
               "id": 24344,
+              "league_entry_id": 46837,
               "name": "Mainz Athletics",
               "club": {
                 "id": 1,
@@ -7630,6 +8213,7 @@
             },
             {
               "id": 24345,
+              "league_entry_id": 46838,
               "name": "Main-Taunus Redwings",
               "club": {
                 "id": 211,
@@ -7641,6 +8225,7 @@
             },
             {
               "id": 24346,
+              "league_entry_id": 46839,
               "name": "Saarlouis Hornets",
               "club": {
                 "id": 237,
@@ -7658,6 +8243,7 @@
           "teams": [
             {
               "id": 24347,
+              "league_entry_id": 46842,
               "name": "Main-Taunus Redwings",
               "club": {
                 "id": 211,
@@ -7669,6 +8255,7 @@
             },
             {
               "id": 24348,
+              "league_entry_id": 46843,
               "name": "Darmstadt Whippets",
               "club": {
                 "id": 188,
@@ -7691,6 +8278,7 @@
           "teams": [
             {
               "id": 24286,
+              "league_entry_id": 46745,
               "name": "Cyndicates Chemnitz",
               "club": {
                 "id": 797,
@@ -7702,6 +8290,7 @@
             },
             {
               "id": 24287,
+              "league_entry_id": 46746,
               "name": "Dresden Dukes",
               "club": {
                 "id": 245,
@@ -7713,6 +8302,7 @@
             },
             {
               "id": 24288,
+              "league_entry_id": 46747,
               "name": "Leipzig Wallbreakers 2",
               "club": {
                 "id": 249,
@@ -7724,6 +8314,7 @@
             },
             {
               "id": 24289,
+              "league_entry_id": 46748,
               "name": "Magdeburg Poor Pigs",
               "club": {
                 "id": 84,
@@ -7735,6 +8326,7 @@
             },
             {
               "id": 24290,
+              "league_entry_id": 46749,
               "name": "Thuringian Woodpeckers",
               "clubs": [
                 {
@@ -7761,6 +8353,7 @@
           "teams": [
             {
               "id": 24291,
+              "league_entry_id": 46750,
               "name": "Dresden Dukes",
               "club": {
                 "id": 245,
@@ -7772,6 +8365,7 @@
             },
             {
               "id": 24292,
+              "league_entry_id": 46751,
               "name": "SG Leipzig Wallbreakers/Magdeburg Poor Pigs",
               "clubs": [
                 {
@@ -7798,6 +8392,7 @@
           "teams": [
             {
               "id": 24297,
+              "league_entry_id": 46763,
               "name": "Leipzig Wallbreakers 3",
               "club": {
                 "id": 249,
@@ -7809,6 +8404,7 @@
             },
             {
               "id": 24298,
+              "league_entry_id": 46764,
               "name": "Dresden Dukes 2",
               "club": {
                 "id": 245,
@@ -7820,6 +8416,7 @@
             },
             {
               "id": 24299,
+              "league_entry_id": 46765,
               "name": "Los Caballos Döbeln ",
               "club": {
                 "id": 862,
@@ -7837,6 +8434,7 @@
           "teams": [
             {
               "id": 24293,
+              "league_entry_id": 46756,
               "name": "Dresden Dukes",
               "club": {
                 "id": 245,
@@ -7848,6 +8446,7 @@
             },
             {
               "id": 24294,
+              "league_entry_id": 46757,
               "name": "Magdeburg Poor Pigs",
               "club": {
                 "id": 84,
@@ -7859,6 +8458,7 @@
             },
             {
               "id": 24295,
+              "league_entry_id": 46758,
               "name": "Leipzig Wallbreakers",
               "club": {
                 "id": 249,
@@ -7870,6 +8470,7 @@
             },
             {
               "id": 24296,
+              "league_entry_id": 46759,
               "name": "SG Chemnitz/Erfurt",
               "clubs": [
                 {
@@ -7901,6 +8502,7 @@
           "teams": [
             {
               "id": 23664,
+              "league_entry_id": 45528,
               "name": "SG Alfeld/Bückeburg/Minden",
               "clubs": [
                 {
@@ -7928,6 +8530,7 @@
             },
             {
               "id": 23665,
+              "league_entry_id": 45529,
               "name": "Wolfsburg Blackbirds",
               "club": {
                 "id": 817,
@@ -7939,6 +8542,7 @@
             },
             {
               "id": 23666,
+              "league_entry_id": 45530,
               "name": "Hannover Regents",
               "club": {
                 "id": 463,
@@ -7950,6 +8554,7 @@
             },
             {
               "id": 23667,
+              "league_entry_id": 45531,
               "name": "Braunschweig 89ers 1",
               "club": {
                 "id": 447,
@@ -7961,6 +8566,7 @@
             },
             {
               "id": 23668,
+              "league_entry_id": 45532,
               "name": "Braunschweig 89ers 2",
               "club": {
                 "id": 447,
@@ -7972,6 +8578,7 @@
             },
             {
               "id": 23669,
+              "league_entry_id": 45533,
               "name": "Hamburg Stealers 1",
               "club": {
                 "id": 503,
@@ -7983,6 +8590,7 @@
             },
             {
               "id": 23670,
+              "league_entry_id": 45534,
               "name": "Hamburg Stealers 2",
               "club": {
                 "id": 503,
@@ -7994,6 +8602,7 @@
             },
             {
               "id": 23671,
+              "league_entry_id": 45535,
               "name": "Bremen Dockers",
               "club": {
                 "id": 445,
@@ -8005,6 +8614,7 @@
             },
             {
               "id": 23672,
+              "league_entry_id": 45536,
               "name": "SG Lüneburg/Goslar",
               "clubs": [
                 {
@@ -8025,6 +8635,7 @@
             },
             {
               "id": 23673,
+              "league_entry_id": 45537,
               "name": "Dohren Wild Farmers",
               "club": {
                 "id": 453,
@@ -8042,6 +8653,7 @@
           "teams": [
             {
               "id": 23674,
+              "league_entry_id": 45547,
               "name": "SG Alfeld/Minden",
               "clubs": [
                 {
@@ -8062,6 +8674,7 @@
             },
             {
               "id": 23675,
+              "league_entry_id": 45548,
               "name": "Wolfsburg Blackbirds",
               "club": {
                 "id": 817,
@@ -8073,6 +8686,7 @@
             },
             {
               "id": 23676,
+              "league_entry_id": 45549,
               "name": "Hamburg Stealers 1",
               "club": {
                 "id": 503,
@@ -8084,6 +8698,7 @@
             },
             {
               "id": 23677,
+              "league_entry_id": 45550,
               "name": "Hamburg Stealers 2",
               "club": {
                 "id": 503,
@@ -8095,6 +8710,7 @@
             },
             {
               "id": 23678,
+              "league_entry_id": 45551,
               "name": "Braunschweig 89ers",
               "club": {
                 "id": 447,
@@ -8106,6 +8722,7 @@
             },
             {
               "id": 23680,
+              "league_entry_id": 45552,
               "name": "Hannover Regents",
               "club": {
                 "id": 463,
@@ -8117,6 +8734,7 @@
             },
             {
               "id": 23681,
+              "league_entry_id": 45553,
               "name": "Dohren Wild Farmers",
               "club": {
                 "id": 453,
@@ -8128,6 +8746,7 @@
             },
             {
               "id": 23682,
+              "league_entry_id": 45554,
               "name": "SG Bremen/Lüneburg",
               "clubs": [
                 {
@@ -8154,6 +8773,7 @@
           "teams": [
             {
               "id": 24168,
+              "league_entry_id": 46147,
               "name": "Bremen Dockers 3",
               "club": {
                 "id": 445,
@@ -8165,6 +8785,7 @@
             },
             {
               "id": 24169,
+              "league_entry_id": 46148,
               "name": "Dohren Wild Farmers 3",
               "club": {
                 "id": 453,
@@ -8176,6 +8797,7 @@
             },
             {
               "id": 24170,
+              "league_entry_id": 46149,
               "name": "SG Jemgum/Wilhelmshaven",
               "clubs": [
                 {
@@ -8196,6 +8818,7 @@
             },
             {
               "id": 24171,
+              "league_entry_id": 46150,
               "name": "Oldenburg Hornets",
               "club": {
                 "id": 470,
@@ -8207,6 +8830,7 @@
             },
             {
               "id": 24172,
+              "league_entry_id": 46151,
               "name": "SG Bremerhaven/Stade",
               "clubs": [
                 {
@@ -8227,6 +8851,7 @@
             },
             {
               "id": 24173,
+              "league_entry_id": 46152,
               "name": "Lüneburg Woodlarks",
               "club": {
                 "id": 467,
@@ -8244,6 +8869,7 @@
           "teams": [
             {
               "id": 24176,
+              "league_entry_id": 46163,
               "name": "Braunschweig 89ers 4",
               "club": {
                 "id": 447,
@@ -8255,6 +8881,7 @@
             },
             {
               "id": 24177,
+              "league_entry_id": 46164,
               "name": "Göttingen Allstars",
               "club": {
                 "id": 175,
@@ -8266,6 +8893,7 @@
             },
             {
               "id": 24178,
+              "league_entry_id": 46167,
               "name": "Hannover Regents 3",
               "club": {
                 "id": 463,
@@ -8277,6 +8905,7 @@
             },
             {
               "id": 24179,
+              "league_entry_id": 46165,
               "name": "SG Alfeld/Bückeburg",
               "clubs": [
                 {
@@ -8297,6 +8926,7 @@
             },
             {
               "id": 24180,
+              "league_entry_id": 46168,
               "name": "Wolfsburg Blackbirds 2",
               "club": {
                 "id": 817,
@@ -8308,6 +8938,7 @@
             },
             {
               "id": 24181,
+              "league_entry_id": 46166,
               "name": "Hannover Regents 2",
               "club": {
                 "id": 463,
@@ -8319,6 +8950,7 @@
             },
             {
               "id": 24182,
+              "league_entry_id": 46169,
               "name": "SG Alfeld 2/Bückeburg 2",
               "clubs": [
                 {
@@ -8339,6 +8971,7 @@
             },
             {
               "id": 24183,
+              "league_entry_id": 46170,
               "name": "Braunschweig 89ers 5",
               "club": {
                 "id": 447,
@@ -8356,6 +8989,7 @@
           "teams": [
             {
               "id": 24148,
+              "league_entry_id": 46123,
               "name": "Braunschweig 89ers 2",
               "club": {
                 "id": 447,
@@ -8367,6 +9001,7 @@
             },
             {
               "id": 24149,
+              "league_entry_id": 46124,
               "name": "Braunschweig 89ers 3",
               "club": {
                 "id": 447,
@@ -8378,6 +9013,7 @@
             },
             {
               "id": 24150,
+              "league_entry_id": 46125,
               "name": "Bremen Dockers 2",
               "club": {
                 "id": 445,
@@ -8389,6 +9025,7 @@
             },
             {
               "id": 24151,
+              "league_entry_id": 46126,
               "name": "Dohren Wild Farmers 2",
               "club": {
                 "id": 453,
@@ -8400,6 +9037,7 @@
             },
             {
               "id": 24152,
+              "league_entry_id": 46127,
               "name": "Hannover Regents",
               "club": {
                 "id": 463,
@@ -8411,6 +9049,7 @@
             },
             {
               "id": 24153,
+              "league_entry_id": 46128,
               "name": "SG Hänigsen/Sehnde",
               "clubs": [
                 {
@@ -8437,6 +9076,7 @@
           "teams": [
             {
               "id": 24178,
+              "league_entry_id": 46167,
               "name": "Hannover Regents 3",
               "club": {
                 "id": 463,
@@ -8448,6 +9088,7 @@
             },
             {
               "id": 24180,
+              "league_entry_id": 46168,
               "name": "Wolfsburg Blackbirds 2",
               "club": {
                 "id": 817,
@@ -8459,6 +9100,7 @@
             },
             {
               "id": 24182,
+              "league_entry_id": 46169,
               "name": "SG Alfeld 2/Bückeburg 2",
               "clubs": [
                 {
@@ -8479,6 +9121,7 @@
             },
             {
               "id": 24183,
+              "league_entry_id": 46170,
               "name": "Braunschweig 89ers 5",
               "club": {
                 "id": 447,
@@ -8496,6 +9139,7 @@
           "teams": [
             {
               "id": 24154,
+              "league_entry_id": 46134,
               "name": "Hannover Regents",
               "club": {
                 "id": 463,
@@ -8507,6 +9151,7 @@
             },
             {
               "id": 24155,
+              "league_entry_id": 46135,
               "name": "SG Lüneburg/Braunschweig/Wolfsburg",
               "clubs": [
                 {
@@ -8534,6 +9179,7 @@
             },
             {
               "id": 24156,
+              "league_entry_id": 46136,
               "name": "SG Bremen/Dohren",
               "clubs": [
                 {
@@ -8560,6 +9206,7 @@
           "teams": [
             {
               "id": 24185,
+              "league_entry_id": 46183,
               "name": "Braunschweig 89ers",
               "club": {
                 "id": 447,
@@ -8571,6 +9218,7 @@
             },
             {
               "id": 24186,
+              "league_entry_id": 46184,
               "name": "Dohren Wild Farmers",
               "club": {
                 "id": 453,
@@ -8582,6 +9230,7 @@
             },
             {
               "id": 24188,
+              "league_entry_id": 46185,
               "name": "Hannover Regents",
               "club": {
                 "id": 463,
@@ -8593,6 +9242,7 @@
             },
             {
               "id": 24189,
+              "league_entry_id": 46186,
               "name": "Wolfsburg Blackbirds",
               "club": {
                 "id": 817,
@@ -8604,6 +9254,7 @@
             },
             {
               "id": 24195,
+              "league_entry_id": 46187,
               "name": "SG Aurich/Bremen/Lüneburg",
               "clubs": [
                 {
@@ -8637,6 +9288,7 @@
           "teams": [
             {
               "id": 24190,
+              "league_entry_id": 46191,
               "name": "Braunschweig 89ers",
               "club": {
                 "id": 447,
@@ -8648,6 +9300,7 @@
             },
             {
               "id": 24191,
+              "league_entry_id": 46192,
               "name": "Dohren Wild Farmers",
               "club": {
                 "id": 453,
@@ -8659,6 +9312,7 @@
             },
             {
               "id": 24192,
+              "league_entry_id": 46193,
               "name": "Hannover Regents",
               "club": {
                 "id": 463,
@@ -8670,6 +9324,7 @@
             },
             {
               "id": 24193,
+              "league_entry_id": 46194,
               "name": "Bremen Dockers",
               "club": {
                 "id": 445,
@@ -8681,6 +9336,7 @@
             },
             {
               "id": 24194,
+              "league_entry_id": 46195,
               "name": "Wolfsburg Blackbirds",
               "club": {
                 "id": 817,
@@ -8692,6 +9348,7 @@
             },
             {
               "id": 24196,
+              "league_entry_id": 46196,
               "name": "SG Alfeld/Bückeburg",
               "clubs": [
                 {
@@ -8712,6 +9369,7 @@
             },
             {
               "id": 24197,
+              "league_entry_id": 46197,
               "name": "SG Hänigsen/Sehnde",
               "clubs": [
                 {
@@ -8732,6 +9390,7 @@
             },
             {
               "id": 24198,
+              "league_entry_id": 46198,
               "name": "SG Lüneburg/Goslar",
               "clubs": [
                 {
@@ -8793,6 +9452,7 @@
           "teams": [
             {
               "id": 23810,
+              "league_entry_id": 46239,
               "name": "Hamburg Knights",
               "club": {
                 "id": 254,
@@ -8804,6 +9464,7 @@
             },
             {
               "id": 23869,
+              "league_entry_id": 46240,
               "name": "Hamburg Stealers",
               "club": {
                 "id": 503,
@@ -8821,6 +9482,7 @@
           "teams": [
             {
               "id": 23806,
+              "league_entry_id": 46251,
               "name": "Hamburg Knights 2",
               "club": {
                 "id": 254,
@@ -8832,6 +9494,7 @@
             },
             {
               "id": 23827,
+              "league_entry_id": 46252,
               "name": "Elmshorn Alligators",
               "club": {
                 "id": 83,
@@ -8843,6 +9506,7 @@
             },
             {
               "id": 23829,
+              "league_entry_id": 46253,
               "name": "Holm Westend 69'ers 2",
               "club": {
                 "id": 166,
@@ -8854,6 +9518,7 @@
             },
             {
               "id": 23835,
+              "league_entry_id": 46254,
               "name": "SG Lakers/Marines",
               "clubs": [
                 {
@@ -8874,6 +9539,7 @@
             },
             {
               "id": 23871,
+              "league_entry_id": 46255,
               "name": "Hamburg Stealers 2",
               "club": {
                 "id": 503,
@@ -8891,6 +9557,7 @@
           "teams": [
             {
               "id": 23805,
+              "league_entry_id": 46241,
               "name": "Hamburg Knights",
               "club": {
                 "id": 254,
@@ -8902,6 +9569,7 @@
             },
             {
               "id": 23826,
+              "league_entry_id": 46242,
               "name": "Elmshorn Alligators",
               "club": {
                 "id": 83,
@@ -8913,6 +9581,7 @@
             },
             {
               "id": 23858,
+              "league_entry_id": 46243,
               "name": "Hamburg Marines",
               "club": {
                 "id": 257,
@@ -8924,6 +9593,7 @@
             },
             {
               "id": 23872,
+              "league_entry_id": 46244,
               "name": "Hamburg Stealers 1",
               "club": {
                 "id": 503,
@@ -8935,6 +9605,7 @@
             },
             {
               "id": 23873,
+              "league_entry_id": 46245,
               "name": "Hamburg Stealers 2",
               "club": {
                 "id": 503,
@@ -8946,6 +9617,7 @@
             },
             {
               "id": 23903,
+              "league_entry_id": 46246,
               "name": "Kiel Seahawks (Baseball)",
               "club": {
                 "id": 167,
@@ -8963,6 +9635,7 @@
           "teams": [
             {
               "id": 23757,
+              "league_entry_id": 46256,
               "name": "Holm Westend 69'ers",
               "club": {
                 "id": 166,
@@ -8974,6 +9647,7 @@
             },
             {
               "id": 23777,
+              "league_entry_id": 46257,
               "name": "Hamburg Stealers",
               "club": {
                 "id": 503,
@@ -8985,6 +9659,7 @@
             },
             {
               "id": 23808,
+              "league_entry_id": 46258,
               "name": "Hamburg Knights",
               "club": {
                 "id": 254,
@@ -8996,6 +9671,7 @@
             },
             {
               "id": 23902,
+              "league_entry_id": 46259,
               "name": "Kiel Seahawks (Baseball)",
               "club": {
                 "id": 167,
@@ -9013,6 +9689,7 @@
           "teams": [
             {
               "id": 23803,
+              "league_entry_id": 46220,
               "name": "Hamburg Knights 2",
               "club": {
                 "id": 254,
@@ -9024,6 +9701,7 @@
             },
             {
               "id": 23836,
+              "league_entry_id": 46221,
               "name": "Hamburg Marines 2",
               "club": {
                 "id": 257,
@@ -9035,6 +9713,7 @@
             },
             {
               "id": 23838,
+              "league_entry_id": 46222,
               "name": "Lübeck Lizards",
               "club": {
                 "id": 150,
@@ -9046,6 +9725,7 @@
             },
             {
               "id": 23841,
+              "league_entry_id": 46223,
               "name": "Flensburg Baltics",
               "club": {
                 "id": 169,
@@ -9057,6 +9737,7 @@
             },
             {
               "id": 23868,
+              "league_entry_id": 46224,
               "name": "Hamburg Stealers 4",
               "club": {
                 "id": 503,
@@ -9068,6 +9749,7 @@
             },
             {
               "id": 23960,
+              "league_entry_id": 46225,
               "name": "Schwerin Diamonds 1",
               "club": {
                 "id": 803,
@@ -9085,6 +9767,7 @@
           "teams": [
             {
               "id": 23756,
+              "league_entry_id": 46247,
               "name": "Holm Westend 69'ers 1",
               "club": {
                 "id": 166,
@@ -9096,6 +9779,7 @@
             },
             {
               "id": 23807,
+              "league_entry_id": 46248,
               "name": "Hamburg Knights 1",
               "club": {
                 "id": 254,
@@ -9107,6 +9791,7 @@
             },
             {
               "id": 23870,
+              "league_entry_id": 46249,
               "name": "Hamburg Stealers 1",
               "club": {
                 "id": 503,
@@ -9118,6 +9803,7 @@
             },
             {
               "id": 23904,
+              "league_entry_id": 46250,
               "name": "Kiel Seahawks (Baseball)",
               "club": {
                 "id": 167,
@@ -9135,6 +9821,7 @@
           "teams": [
             {
               "id": 23753,
+              "league_entry_id": 46226,
               "name": "Holm Westend 69'ers 2",
               "club": {
                 "id": 166,
@@ -9146,6 +9833,7 @@
             },
             {
               "id": 23811,
+              "league_entry_id": 46227,
               "name": "Rostock Bucaneros",
               "club": {
                 "id": 584,
@@ -9157,6 +9845,7 @@
             },
             {
               "id": 23828,
+              "league_entry_id": 46228,
               "name": "Elmshorn Alligators",
               "club": {
                 "id": 83,
@@ -9168,6 +9857,7 @@
             },
             {
               "id": 23843,
+              "league_entry_id": 46229,
               "name": "Kiel Seahawks (Baseball) 3",
               "club": {
                 "id": 167,
@@ -9179,6 +9869,7 @@
             },
             {
               "id": 23877,
+              "league_entry_id": 46230,
               "name": "Greifswald Baltic Mariners",
               "club": {
                 "id": 801,
@@ -9190,6 +9881,7 @@
             },
             {
               "id": 23918,
+              "league_entry_id": 46231,
               "name": "SG Hanseatics/Knights 3",
               "clubs": [
                 {
@@ -9210,6 +9902,7 @@
             },
             {
               "id": 23999,
+              "league_entry_id": 46232,
               "name": "Schwerin Diamonds 2",
               "club": {
                 "id": 803,
@@ -9221,6 +9914,7 @@
             },
             {
               "id": 24215,
+              "league_entry_id": 46233,
               "name": "Hamburg Dragoons",
               "club": {
                 "id": 800,
@@ -9238,6 +9932,7 @@
           "teams": [
             {
               "id": 23755,
+              "league_entry_id": 46234,
               "name": "Holm Westend 69'ers",
               "club": {
                 "id": 166,
@@ -9249,6 +9944,7 @@
             },
             {
               "id": 23801,
+              "league_entry_id": 46235,
               "name": "Kiel Seahawks (Softball)",
               "club": {
                 "id": 796,
@@ -9260,6 +9956,7 @@
             },
             {
               "id": 23802,
+              "league_entry_id": 46236,
               "name": "SG Lizards/Wildcats",
               "clubs": [
                 {
@@ -9280,6 +9977,7 @@
             },
             {
               "id": 23813,
+              "league_entry_id": 46237,
               "name": "Hamburg Knights 2",
               "club": {
                 "id": 254,
@@ -9291,6 +9989,7 @@
             },
             {
               "id": 23814,
+              "league_entry_id": 46238,
               "name": "Hamburg Knights 3",
               "club": {
                 "id": 254,
@@ -9308,6 +10007,7 @@
           "teams": [
             {
               "id": 23752,
+              "league_entry_id": 46216,
               "name": "Holm Westend 69'ers",
               "club": {
                 "id": 166,
@@ -9319,6 +10019,7 @@
             },
             {
               "id": 23834,
+              "league_entry_id": 46217,
               "name": "Lütjensee Lakers",
               "club": {
                 "id": 574,
@@ -9330,6 +10031,7 @@
             },
             {
               "id": 23842,
+              "league_entry_id": 46218,
               "name": "Kiel Seahawks (Baseball) 2",
               "club": {
                 "id": 167,
@@ -9341,6 +10043,7 @@
             },
             {
               "id": 23867,
+              "league_entry_id": 46219,
               "name": "Hamburg Stealers 3",
               "club": {
                 "id": 503,
@@ -9358,6 +10061,7 @@
           "teams": [
             {
               "id": 23758,
+              "league_entry_id": 46260,
               "name": "Holm Westend 69'ers",
               "club": {
                 "id": 166,
@@ -9369,6 +10073,7 @@
             },
             {
               "id": 23776,
+              "league_entry_id": 46261,
               "name": "Hamburg Stealers",
               "club": {
                 "id": 503,
@@ -9380,6 +10085,7 @@
             },
             {
               "id": 23809,
+              "league_entry_id": 46262,
               "name": "SG Knights/Alligators",
               "clubs": [
                 {
@@ -9400,6 +10106,7 @@
             },
             {
               "id": 23901,
+              "league_entry_id": 46263,
               "name": "Kiel Seahawks (Baseball)",
               "club": {
                 "id": 167,
@@ -9432,6 +10139,7 @@
           "teams": [
             {
               "id": 24300,
+              "league_entry_id": 46900,
               "name": "Speyer Turtles",
               "club": {
                 "id": 238,
@@ -9443,6 +10151,7 @@
             },
             {
               "id": 24301,
+              "league_entry_id": 46901,
               "name": "St. Ingbert Devils",
               "club": {
                 "id": 226,
@@ -9454,6 +10163,7 @@
             },
             {
               "id": 24302,
+              "league_entry_id": 46905,
               "name": "Worms Cannibals",
               "club": {
                 "id": 240,
@@ -9465,6 +10175,7 @@
             },
             {
               "id": 24316,
+              "league_entry_id": 46902,
               "name": "Neuwied Racoons",
               "club": {
                 "id": 863,
@@ -9476,6 +10187,7 @@
             },
             {
               "id": 24317,
+              "league_entry_id": 46903,
               "name": "Bad Dürkheim Barrels",
               "club": {
                 "id": 864,
@@ -9487,6 +10199,7 @@
             },
             {
               "id": 24318,
+              "league_entry_id": 46904,
               "name": "Mainz Athletics 4",
               "club": {
                 "id": 1,
@@ -9504,6 +10217,7 @@
           "teams": [
             {
               "id": 24313,
+              "league_entry_id": 46792,
               "name": "Mainz Athletics",
               "club": {
                 "id": 1,
@@ -9515,6 +10229,7 @@
             },
             {
               "id": 24314,
+              "league_entry_id": 46793,
               "name": "SG Darmstadt Whippets/Frankfurt 1860",
               "clubs": [
                 {
@@ -9535,6 +10250,7 @@
             },
             {
               "id": 24315,
+              "league_entry_id": 46794,
               "name": "Speyer Turtles",
               "club": {
                 "id": 238,
@@ -9546,6 +10262,7 @@
             },
             {
               "id": 24323,
+              "league_entry_id": 46906,
               "name": "SG Dreieich Vultures/Hünstetten STORM",
               "clubs": [
                 {
@@ -9566,6 +10283,7 @@
             },
             {
               "id": 24324,
+              "league_entry_id": 46907,
               "name": "Darmstadt Rockets",
               "club": {
                 "id": 187,
@@ -9577,6 +10295,7 @@
             },
             {
               "id": 24325,
+              "league_entry_id": 46908,
               "name": "SG Coblenz Raptors/Bad Kreuznach Cobras",
               "clubs": [
                 {
@@ -9597,6 +10316,7 @@
             },
             {
               "id": 24326,
+              "league_entry_id": 46909,
               "name": "SG Bad Homburg Hornets/Giessen Busters",
               "clubs": [
                 {
@@ -9623,6 +10343,7 @@
           "teams": [
             {
               "id": 24303,
+              "league_entry_id": 46910,
               "name": "K-Town Bears",
               "club": {
                 "id": 228,
@@ -9634,6 +10355,7 @@
             },
             {
               "id": 24304,
+              "league_entry_id": 46911,
               "name": "Mainz Athletics 3",
               "club": {
                 "id": 1,
@@ -9645,6 +10367,7 @@
             },
             {
               "id": 24305,
+              "league_entry_id": 46912,
               "name": "Saarlouis Hornets 2",
               "club": {
                 "id": 237,
@@ -9656,6 +10379,7 @@
             },
             {
               "id": 24306,
+              "league_entry_id": 46913,
               "name": "Trier Cardinals",
               "club": {
                 "id": 239,
@@ -9667,6 +10391,7 @@
             },
             {
               "id": 24319,
+              "league_entry_id": 46914,
               "name": "Beckerich Hedgehogs",
               "club": {
                 "id": 570,
@@ -9684,6 +10409,7 @@
           "teams": [
             {
               "id": 24310,
+              "league_entry_id": 46918,
               "name": "Mainz Athletics",
               "club": {
                 "id": 1,
@@ -9695,6 +10421,7 @@
             },
             {
               "id": 24311,
+              "league_entry_id": 46919,
               "name": "Saarlouis Hornets",
               "club": {
                 "id": 237,
@@ -9706,6 +10433,7 @@
             },
             {
               "id": 24312,
+              "league_entry_id": 46920,
               "name": "Trier Cardinals",
               "club": {
                 "id": 239,
@@ -9717,6 +10445,7 @@
             },
             {
               "id": 24322,
+              "league_entry_id": 46921,
               "name": "K-Town Bears",
               "club": {
                 "id": 228,
@@ -9734,6 +10463,7 @@
           "teams": [
             {
               "id": 24308,
+              "league_entry_id": 46915,
               "name": "Mainz Athletics",
               "club": {
                 "id": 1,
@@ -9745,6 +10475,7 @@
             },
             {
               "id": 24309,
+              "league_entry_id": 46916,
               "name": "Saarlouis Hornets",
               "club": {
                 "id": 237,
@@ -9756,6 +10487,7 @@
             },
             {
               "id": 24321,
+              "league_entry_id": 46917,
               "name": "K-Town Bears",
               "club": {
                 "id": 228,
@@ -9771,7 +10503,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-04-15T04:47:39.910187",
+    "generated_at": "2026-04-15T10:33:25.196581",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
