@@ -8009,6 +8009,36 @@
             }
           ]
         },
+        "6421": {
+          "id": 6421,
+          "name": "Juniorinnen Verbandsliga Softball",
+          "teams": [
+            {
+              "id": 24409,
+              "league_entry_id": 47010,
+              "name": "Main-Taunus Redwings",
+              "club": {
+                "id": 211,
+                "name": "Redwings",
+                "acronym": "MTR",
+                "short_name": "Main-Taunus Redwings",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/211/thumb/RW_logo_rund_3D.jpg?1587225008"
+              }
+            },
+            {
+              "id": 24410,
+              "league_entry_id": 47011,
+              "name": "Mainz Athletics",
+              "club": {
+                "id": 1,
+                "name": "Athletics",
+                "acronym": "MAI",
+                "short_name": "Mainz Athletics",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/001/thumb/as_logo.png?1587224970"
+              }
+            }
+          ]
+        },
         "6406": {
           "id": 6406,
           "name": "Jugend Verbandsliga Baseball",
@@ -10503,7 +10533,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-04-17T04:51:04.000373",
+    "generated_at": "2026-04-18T04:34:23.266432",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
