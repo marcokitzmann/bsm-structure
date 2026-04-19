@@ -7850,69 +7850,6 @@
             }
           ]
         },
-        "6410": {
-          "id": 6410,
-          "name": "Schüler Landesliga Baseball",
-          "teams": [
-            {
-              "id": 24359,
-              "league_entry_id": 46868,
-              "name": "Main-Taunus Redwings 2",
-              "club": {
-                "id": 211,
-                "name": "Redwings",
-                "acronym": "MTR",
-                "short_name": "Main-Taunus Redwings",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/211/thumb/RW_logo_rund_3D.jpg?1587225008"
-              }
-            },
-            {
-              "id": 24360,
-              "league_entry_id": 46869,
-              "name": "Darmstadt Whippets 2",
-              "club": {
-                "id": 188,
-                "name": "Whippets",
-                "acronym": "DAW",
-                "short_name": "Darmstadt Whippets",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/188/thumb/whippets.png?1587224998"
-              }
-            },
-            {
-              "id": 24361,
-              "league_entry_id": 46870,
-              "name": "Hünstetten STORM",
-              "club": {
-                "id": 207,
-                "name": "STORM",
-                "acronym": "HUN",
-                "short_name": "Hünstetten STORM",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/207/thumb/2023_CharacterCloud_quad-200x200-wei%C3%9F.png?1677681168"
-              }
-            },
-            {
-              "id": 24362,
-              "league_entry_id": 46871,
-              "name": "SG Giessen Busters/Friedberg Braves",
-              "clubs": [
-                {
-                  "id": 199,
-                  "name": "Giessen Busters",
-                  "acronym": "GIE",
-                  "short_name": "Giessen Busters",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/199/thumb/Busters-Logo.png?1587224999"
-                },
-                {
-                  "id": 193,
-                  "name": "Braves",
-                  "acronym": "FRI",
-                  "short_name": "Friedberg Braves",
-                  "logo_url": null
-                }
-              ]
-            }
-          ]
-        },
         "6414": {
           "id": 6414,
           "name": "T-Ball Baseball",
@@ -8264,6 +8201,69 @@
                 "short_name": "Saarlouis Hornets",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/237/thumb/Logo_Hornets_Akzent_09_2021.png?1687501902"
               }
+            }
+          ]
+        },
+        "6410": {
+          "id": 6410,
+          "name": "Schüler Landesliga Baseball",
+          "teams": [
+            {
+              "id": 24359,
+              "league_entry_id": 46868,
+              "name": "Main-Taunus Redwings 2",
+              "club": {
+                "id": 211,
+                "name": "Redwings",
+                "acronym": "MTR",
+                "short_name": "Main-Taunus Redwings",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/211/thumb/RW_logo_rund_3D.jpg?1587225008"
+              }
+            },
+            {
+              "id": 24360,
+              "league_entry_id": 46869,
+              "name": "Darmstadt Whippets 2",
+              "club": {
+                "id": 188,
+                "name": "Whippets",
+                "acronym": "DAW",
+                "short_name": "Darmstadt Whippets",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/188/thumb/whippets.png?1587224998"
+              }
+            },
+            {
+              "id": 24361,
+              "league_entry_id": 46870,
+              "name": "Hünstetten STORM",
+              "club": {
+                "id": 207,
+                "name": "STORM",
+                "acronym": "HUN",
+                "short_name": "Hünstetten STORM",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/207/thumb/2023_CharacterCloud_quad-200x200-wei%C3%9F.png?1677681168"
+              }
+            },
+            {
+              "id": 24362,
+              "league_entry_id": 46871,
+              "name": "SG Giessen Busters/Friedberg Braves",
+              "clubs": [
+                {
+                  "id": 199,
+                  "name": "Giessen Busters",
+                  "acronym": "GIE",
+                  "short_name": "Giessen Busters",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/199/thumb/Busters-Logo.png?1587224999"
+                },
+                {
+                  "id": 193,
+                  "name": "Braves",
+                  "acronym": "FRI",
+                  "short_name": "Friedberg Braves",
+                  "logo_url": null
+                }
+              ]
             }
           ]
         },
@@ -10533,7 +10533,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-04-18T04:34:23.266432",
+    "generated_at": "2026-04-19T04:52:48.800218",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
