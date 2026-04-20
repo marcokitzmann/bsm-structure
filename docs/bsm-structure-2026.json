@@ -5451,6 +5451,117 @@
             }
           ]
         },
+        "6186": {
+          "id": 6186,
+          "name": "Schüler Coach Pitch Mitte (U10) - R1",
+          "teams": [
+            {
+              "id": 24077,
+              "league_entry_id": 46729,
+              "name": "Dachau Tigers",
+              "club": {
+                "id": 25,
+                "name": "Tigers",
+                "acronym": "DAC",
+                "short_name": "Dachau Tigers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/025/thumb/avatar.png?1675289058"
+              }
+            },
+            {
+              "id": 24163,
+              "league_entry_id": 46722,
+              "name": "Baldham Boars",
+              "club": {
+                "id": 22,
+                "name": "Boars",
+                "acronym": "BAL",
+                "short_name": "Baldham Boars",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/022/thumb/Boars_Logo_Badge_RGB_White_Circle_BG.png?1748957783"
+              }
+            },
+            {
+              "id": 24227,
+              "league_entry_id": 46724,
+              "name": "Schwaig Red Lions",
+              "club": {
+                "id": 555,
+                "name": "Red Lions",
+                "acronym": "SRL",
+                "short_name": "Schwaig Red Lions",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/555/thumb/Logo_Red_Lions_auf_schwarz_100_DPI.png?1587225078"
+              }
+            },
+            {
+              "id": 24228,
+              "league_entry_id": 46725,
+              "name": "SG Garching/Erding",
+              "clubs": [
+                {
+                  "id": 29,
+                  "name": "Atomics",
+                  "acronym": "GAR",
+                  "short_name": "Garching Atomics",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/029/thumb/00003024.png?1587224980"
+                },
+                {
+                  "id": 243,
+                  "name": "Mallards",
+                  "acronym": "ERD",
+                  "short_name": "Erding Mallards",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/243/thumb/logo_separiert_neue_Farben_2019_1920w.png?1587225021"
+                }
+              ]
+            },
+            {
+              "id": 24234,
+              "league_entry_id": 46731,
+              "name": "Augsburg Gators",
+              "club": {
+                "id": 20,
+                "name": "Gators",
+                "acronym": "AUG",
+                "short_name": "Augsburg Gators",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/020/thumb/Gators-Logo-Q.png?1703758339"
+              }
+            },
+            {
+              "id": 24251,
+              "league_entry_id": 46726,
+              "name": "Freising Grizzlies",
+              "club": {
+                "id": 59,
+                "name": "Grizzlies",
+                "acronym": "FRE",
+                "short_name": "Freising Grizzlies",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
+              }
+            },
+            {
+              "id": 24262,
+              "league_entry_id": 46733,
+              "name": "München Caribes",
+              "club": {
+                "id": 46,
+                "name": "Caribes",
+                "acronym": "MUC",
+                "short_name": "München Caribes",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/046/thumb/MC_logo_palme_aufweiss_7C.jpg?1587224985"
+              }
+            },
+            {
+              "id": 24264,
+              "league_entry_id": 46727,
+              "name": "Mühldorf Cubs",
+              "club": {
+                "id": 857,
+                "name": "Cubs",
+                "acronym": "MDC",
+                "short_name": "Mühldorf Cubs",
+                "logo_url": null
+              }
+            }
+          ]
+        },
         "6156": {
           "id": 6156,
           "name": "Landesliga Softball",
@@ -6494,117 +6605,6 @@
                 "acronym": "GRU",
                 "short_name": "Grünwald Jesters",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/00003004.png?1587224982"
-              }
-            }
-          ]
-        },
-        "6186": {
-          "id": 6186,
-          "name": "Schüler Coach Pitch Mitte (U10) - R1",
-          "teams": [
-            {
-              "id": 24077,
-              "league_entry_id": 46729,
-              "name": "Dachau Tigers",
-              "club": {
-                "id": 25,
-                "name": "Tigers",
-                "acronym": "DAC",
-                "short_name": "Dachau Tigers",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/025/thumb/avatar.png?1675289058"
-              }
-            },
-            {
-              "id": 24163,
-              "league_entry_id": 46722,
-              "name": "Baldham Boars",
-              "club": {
-                "id": 22,
-                "name": "Boars",
-                "acronym": "BAL",
-                "short_name": "Baldham Boars",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/022/thumb/Boars_Logo_Badge_RGB_White_Circle_BG.png?1748957783"
-              }
-            },
-            {
-              "id": 24227,
-              "league_entry_id": 46724,
-              "name": "Schwaig Red Lions",
-              "club": {
-                "id": 555,
-                "name": "Red Lions",
-                "acronym": "SRL",
-                "short_name": "Schwaig Red Lions",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/555/thumb/Logo_Red_Lions_auf_schwarz_100_DPI.png?1587225078"
-              }
-            },
-            {
-              "id": 24228,
-              "league_entry_id": 46725,
-              "name": "SG Garching/Erding",
-              "clubs": [
-                {
-                  "id": 29,
-                  "name": "Atomics",
-                  "acronym": "GAR",
-                  "short_name": "Garching Atomics",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/029/thumb/00003024.png?1587224980"
-                },
-                {
-                  "id": 243,
-                  "name": "Mallards",
-                  "acronym": "ERD",
-                  "short_name": "Erding Mallards",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/243/thumb/logo_separiert_neue_Farben_2019_1920w.png?1587225021"
-                }
-              ]
-            },
-            {
-              "id": 24234,
-              "league_entry_id": 46731,
-              "name": "Augsburg Gators",
-              "club": {
-                "id": 20,
-                "name": "Gators",
-                "acronym": "AUG",
-                "short_name": "Augsburg Gators",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/020/thumb/Gators-Logo-Q.png?1703758339"
-              }
-            },
-            {
-              "id": 24251,
-              "league_entry_id": 46726,
-              "name": "Freising Grizzlies",
-              "club": {
-                "id": 59,
-                "name": "Grizzlies",
-                "acronym": "FRE",
-                "short_name": "Freising Grizzlies",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
-              }
-            },
-            {
-              "id": 24262,
-              "league_entry_id": 46733,
-              "name": "München Caribes",
-              "club": {
-                "id": 46,
-                "name": "Caribes",
-                "acronym": "MUC",
-                "short_name": "München Caribes",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/046/thumb/MC_logo_palme_aufweiss_7C.jpg?1587224985"
-              }
-            },
-            {
-              "id": 24264,
-              "league_entry_id": 46727,
-              "name": "Mühldorf Cubs",
-              "club": {
-                "id": 857,
-                "name": "Cubs",
-                "acronym": "MDC",
-                "short_name": "Mühldorf Cubs",
-                "logo_url": null
               }
             }
           ]
@@ -10533,7 +10533,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-04-20T05:15:21.966153",
+    "generated_at": "2026-04-20T18:32:12.549911",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
