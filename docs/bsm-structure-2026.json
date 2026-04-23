@@ -3874,6 +3874,129 @@
             }
           ]
         },
+        "6258": {
+          "id": 6258,
+          "name": "BBQ-Liga",
+          "teams": [
+            {
+              "id": 23737,
+              "league_entry_id": 47012,
+              "name": "Wesseling Vermins 5",
+              "club": {
+                "id": 387,
+                "name": "Vermins",
+                "acronym": "WES",
+                "short_name": "Wesseling Vermins",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/387/thumb/Wesseling_logo.jpg?1587225044"
+              }
+            },
+            {
+              "id": 23744,
+              "league_entry_id": 47013,
+              "name": "Hausdülmen Thunderducks",
+              "club": {
+                "id": 860,
+                "name": "Thunderducks",
+                "acronym": "HTD",
+                "short_name": "Hausdülmen Thunderducks",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 23764,
+              "league_entry_id": 47014,
+              "name": "Cologne Cardinals",
+              "club": {
+                "id": 316,
+                "name": "Cardinals",
+                "acronym": "COC",
+                "short_name": "Cologne Cardinals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/316/thumb/COC.jpeg?1707934291"
+              }
+            },
+            {
+              "id": 23837,
+              "league_entry_id": 47015,
+              "name": "Bottrop Blackjacks",
+              "club": {
+                "id": 840,
+                "name": "Blackjacks",
+                "acronym": "BOT",
+                "short_name": "Bottrop Blackjacks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/840/thumb/Blackjacks_Logo_V3.png?1658000109"
+              }
+            },
+            {
+              "id": 23845,
+              "league_entry_id": 47016,
+              "name": "Duisburg Flying Bats e.V. 2",
+              "club": {
+                "id": 324,
+                "name": "Flying Bats",
+                "acronym": "DUI",
+                "short_name": "Duisburg Flying Bats",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/324/thumb/Flying_Bats_Logo_klein.png?1590917868"
+              }
+            },
+            {
+              "id": 23851,
+              "league_entry_id": 47017,
+              "name": "Untouchables Paderborn",
+              "club": {
+                "id": 365,
+                "name": "Untouchables",
+                "acronym": "UNT",
+                "short_name": "Untouchables Paderborn",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/365/thumb/Ball_auf_wei%C3%9F-1.jpg?1587225040"
+              }
+            },
+            {
+              "id": 23909,
+              "league_entry_id": 47018,
+              "name": "SG Ennepetal Raccoons/Dortmund Rhinos",
+              "clubs": [
+                {
+                  "id": 858,
+                  "name": "Rhinos",
+                  "acronym": "DOR",
+                  "short_name": "Dortmund Rhinos",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/858/thumb/Rhino_Logo.png?1735819847"
+                },
+                {
+                  "id": 327,
+                  "name": "Raccoons",
+                  "acronym": "ENE",
+                  "short_name": "Ennepetal Raccoons",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/327/thumb/Raccoons-Logo-Detail.jpg?1587225035"
+                }
+              ]
+            },
+            {
+              "id": 23963,
+              "league_entry_id": 47019,
+              "name": "Herne Lizards",
+              "club": {
+                "id": 336,
+                "name": "Lizards",
+                "acronym": "HEL",
+                "short_name": "Herne Lizards",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/336/thumb/ls.png?1587225037"
+              }
+            },
+            {
+              "id": 24000,
+              "league_entry_id": 47020,
+              "name": "BSC Hickory",
+              "club": {
+                "id": 828,
+                "name": "Hickory recreanten",
+                "acronym": "HWI",
+                "short_name": "BSC Hickory",
+                "logo_url": null
+              }
+            }
+          ]
+        },
         "6248": {
           "id": 6248,
           "name": "Toss Ball Liga U10 1",
@@ -7988,7 +8111,7 @@
                 "id": 595,
                 "name": "Twins",
                 "acronym": "OFT",
-                "short_name": "Offenbach Twins",
+                "short_name": "Offenbach Twins Baseball Club e.V.",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/595/thumb/Twins_logo_jpg.jpg?1587225081"
               }
             },
@@ -10533,7 +10656,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-04-22T04:48:27.098518",
+    "generated_at": "2026-04-23T04:52:18.303880",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
