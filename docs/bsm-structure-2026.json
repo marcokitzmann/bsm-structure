@@ -7149,48 +7149,6 @@
             }
           ]
         },
-        "6154": {
-          "id": 6154,
-          "name": "Bayernliga Softball",
-          "teams": [
-            {
-              "id": 23650,
-              "league_entry_id": 45703,
-              "name": "Disciples München-Haar",
-              "club": {
-                "id": 35,
-                "name": "Disciples",
-                "acronym": "HAA",
-                "short_name": "Disciples München-Haar",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/035/thumb/00003009.png?1587224982"
-              }
-            },
-            {
-              "id": 23651,
-              "league_entry_id": 45704,
-              "name": "Freising Grizzlies 2",
-              "club": {
-                "id": 59,
-                "name": "Grizzlies",
-                "acronym": "FRE",
-                "short_name": "Freising Grizzlies",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
-              }
-            },
-            {
-              "id": 23652,
-              "league_entry_id": 45705,
-              "name": "Guggenberger Legionäre 2",
-              "club": {
-                "id": 14,
-                "name": "Legionäre",
-                "acronym": "REG",
-                "short_name": "Guggenberger Legionäre",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/014/thumb/Legion%C3%A4re_SCRIPT_Logo_GUGGENBERGER_L_CoB.png?1646045867"
-              }
-            }
-          ]
-        },
         "6176": {
           "id": 6176,
           "name": "Jugend Baseball Landesliga Südost (U15) - R1",
@@ -7412,6 +7370,48 @@
               "id": 24283,
               "league_entry_id": 46637,
               "name": "Guggenberger Legionäre 3",
+              "club": {
+                "id": 14,
+                "name": "Legionäre",
+                "acronym": "REG",
+                "short_name": "Guggenberger Legionäre",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/014/thumb/Legion%C3%A4re_SCRIPT_Logo_GUGGENBERGER_L_CoB.png?1646045867"
+              }
+            }
+          ]
+        },
+        "6154": {
+          "id": 6154,
+          "name": "Bayernliga Softball",
+          "teams": [
+            {
+              "id": 23650,
+              "league_entry_id": 45703,
+              "name": "Disciples München-Haar",
+              "club": {
+                "id": 35,
+                "name": "Disciples",
+                "acronym": "HAA",
+                "short_name": "Disciples München-Haar",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/035/thumb/00003009.png?1587224982"
+              }
+            },
+            {
+              "id": 23651,
+              "league_entry_id": 45704,
+              "name": "Freising Grizzlies 2",
+              "club": {
+                "id": 59,
+                "name": "Grizzlies",
+                "acronym": "FRE",
+                "short_name": "Freising Grizzlies",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
+              }
+            },
+            {
+              "id": 23652,
+              "league_entry_id": 45705,
+              "name": "Guggenberger Legionäre 2",
               "club": {
                 "id": 14,
                 "name": "Legionäre",
@@ -10656,7 +10656,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-04-24T04:56:40.946096",
+    "generated_at": "2026-04-25T04:38:16.467379",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
