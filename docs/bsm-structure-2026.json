@@ -8111,7 +8111,7 @@
                 "id": 595,
                 "name": "Twins",
                 "acronym": "OFT",
-                "short_name": "Offenbach Twins Baseball Club e.V.",
+                "short_name": "Offenbach Twins",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/595/thumb/Twins_logo_jpg.jpg?1587225081"
               }
             },
@@ -10656,7 +10656,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-04-26T05:14:03.978049",
+    "generated_at": "2026-04-27T05:26:52.366996",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
