@@ -2405,6 +2405,96 @@
             }
           ]
         },
+        "6346": {
+          "id": 6346,
+          "name": "Softball Schüler",
+          "teams": [
+            {
+              "id": 23831,
+              "league_entry_id": 46408,
+              "name": "Remchingen Racoons",
+              "club": {
+                "id": 842,
+                "name": "Racoons",
+                "acronym": "REM",
+                "short_name": "Remchingen Racoons",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/842/thumb/RACOONS_LOGO_PURPEL_klein.png?1764143666"
+              }
+            },
+            {
+              "id": 23846,
+              "league_entry_id": 46409,
+              "name": "Gammertingen Royals",
+              "club": {
+                "id": 404,
+                "name": "Royals",
+                "acronym": "GAM",
+                "short_name": "Gammertingen Royals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/404/thumb/RoyalsLogoFinal.png?1709819032"
+              }
+            },
+            {
+              "id": 23879,
+              "league_entry_id": 46410,
+              "name": "Bretten Kangaroos",
+              "club": {
+                "id": 398,
+                "name": "Kangaroos",
+                "acronym": "BRK",
+                "short_name": "Bretten Kangaroos",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/398/thumb/Oldschool_Vector_MIX_002_transpar.png?1713003060"
+              }
+            },
+            {
+              "id": 23881,
+              "league_entry_id": 46411,
+              "name": "Herrenberg Wanderers",
+              "club": {
+                "id": 411,
+                "name": "Wanderers",
+                "acronym": "HER",
+                "short_name": "Herrenberg Wanderers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/411/thumb/Wanderers-Logo.jpg?1587225051"
+              }
+            },
+            {
+              "id": 24065,
+              "league_entry_id": 46414,
+              "name": "Stuttgart Reds",
+              "club": {
+                "id": 436,
+                "name": "Reds",
+                "acronym": "STU",
+                "short_name": "Stuttgart Reds",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/Stuttgart_Reds.png?1772970751"
+              }
+            },
+            {
+              "id": 24282,
+              "league_entry_id": 47023,
+              "name": "Main-Taunus Redwings",
+              "club": {
+                "id": 211,
+                "name": "Redwings",
+                "acronym": "MTR",
+                "short_name": "Main-Taunus Redwings",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/211/thumb/RW_logo_rund_3D.jpg?1587225008"
+              }
+            },
+            {
+              "id": 24285,
+              "league_entry_id": 47024,
+              "name": "Schriesheim Raubritter",
+              "club": {
+                "id": 435,
+                "name": "Raubritter",
+                "acronym": "SRR",
+                "short_name": "Schriesheim Raubritter",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/435/thumb/Logo_bsm.jpg?1740661932"
+              }
+            }
+          ]
+        },
         "6365": {
           "id": 6365,
           "name": "Softball Mixed",
@@ -10656,7 +10746,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-04-27T05:26:52.366996",
+    "generated_at": "2026-04-28T05:33:27.417938",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
