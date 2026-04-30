@@ -4082,7 +4082,7 @@
                 "name": "Hickory recreanten",
                 "acronym": "HWI",
                 "short_name": "BSC Hickory",
-                "logo_url": null
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/828/thumb/breder-Hickory-Logo-op-Wit-HQ.png?1777391649"
               }
             }
           ]
@@ -10746,7 +10746,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-04-29T05:28:48.728309",
+    "generated_at": "2026-04-30T05:32:46.371170",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
