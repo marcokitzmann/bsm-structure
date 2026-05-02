@@ -808,6 +808,77 @@
             }
           ]
         },
+        "6418": {
+          "id": 6418,
+          "name": "LP U18 BB Gruppe A",
+          "teams": [
+            {
+              "id": 24398,
+              "league_entry_id": 46982,
+              "name": "Nordrhein-Westfalen",
+              "club": {
+                "id": 867,
+                "name": null,
+                "acronym": "BSVNRW",
+                "short_name": "Nordrhein-Westfalen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/867/thumb/BSVNRW.jpg?1774871352"
+              }
+            },
+            {
+              "id": 24399,
+              "league_entry_id": 46983,
+              "name": "Baden-Württemberg",
+              "club": {
+                "id": 868,
+                "name": null,
+                "acronym": "BWBSV",
+                "short_name": "Baden-Württemberg",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/868/thumb/BWBSV_Logo.png?1774871488"
+              }
+            },
+            {
+              "id": 24400,
+              "league_entry_id": 46984,
+              "name": "Berlin-Brandenburg",
+              "club": {
+                "id": 866,
+                "name": null,
+                "acronym": "BSVBB",
+                "short_name": "Berlin-Brandenburg",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/866/thumb/BSVBB.jpg?1774871231"
+              }
+            },
+            {
+              "id": 24401,
+              "league_entry_id": 46985,
+              "name": "Niedersachsen",
+              "club": {
+                "id": 873,
+                "name": null,
+                "acronym": "NBSV",
+                "short_name": "Niedersachsen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/873/thumb/NBSV_Logo.jpg?1774873276"
+              }
+            },
+            {
+              "id": 24402,
+              "league_entry_id": 46986,
+              "name": "Südwest",
+              "club": {
+                "id": 874,
+                "name": null,
+                "acronym": "SWBSV",
+                "short_name": "Südwest",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/874/thumb/SWBSV-Final-CMYK_square.jpg?1774873474"
+              }
+            }
+          ]
+        },
+        "6419": {
+          "id": 6419,
+          "name": "LP U18 BB Play-offs",
+          "teams": []
+        },
         "6228": {
           "id": 6228,
           "name": "DBL Interleague",
@@ -10746,7 +10817,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-05-01T05:44:08.033752",
+    "generated_at": "2026-05-02T05:13:33.803088",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
