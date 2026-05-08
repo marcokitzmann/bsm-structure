@@ -2850,6 +2850,18 @@
               }
             },
             {
+              "id": 24059,
+              "league_entry_id": 46413,
+              "name": "Nagold Mohawks",
+              "club": {
+                "id": 421,
+                "name": "Mohawks",
+                "acronym": "NAG",
+                "short_name": "Nagold Mohawks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/421/thumb/Mohawks_official_400.png?1587225053"
+              }
+            },
+            {
               "id": 24065,
               "league_entry_id": 46414,
               "name": "Stuttgart Reds",
@@ -2859,6 +2871,30 @@
                 "acronym": "STU",
                 "short_name": "Stuttgart Reds",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/Stuttgart_Reds.png?1772970751"
+              }
+            },
+            {
+              "id": 24114,
+              "league_entry_id": 46415,
+              "name": "Karlsruhe Cougars 3",
+              "club": {
+                "id": 414,
+                "name": "Cougars",
+                "acronym": "KAR",
+                "short_name": "Karlsruhe Cougars",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/414/thumb/Cougars-Favicon-Blue-Transparent-640px.png?1587225051"
+              }
+            },
+            {
+              "id": 24275,
+              "league_entry_id": 46416,
+              "name": "Tübingen Hawks",
+              "club": {
+                "id": 437,
+                "name": "Hawks",
+                "acronym": "TUB",
+                "short_name": "Tübingen Hawks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/437/thumb/20150301_Logo_Hawks_CMYK.png?1587225063"
               }
             },
             {
@@ -2883,6 +2919,18 @@
                 "acronym": "SRR",
                 "short_name": "Schriesheim Raubritter",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/435/thumb/Logo_bsm.jpg?1740661932"
+              }
+            },
+            {
+              "id": 24424,
+              "league_entry_id": 47050,
+              "name": "Freising Grizzlies 2",
+              "club": {
+                "id": 59,
+                "name": "Grizzlies",
+                "acronym": "FRE",
+                "short_name": "Freising Grizzlies",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
               }
             }
           ]
@@ -11138,7 +11186,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-05-07T05:34:27.018694",
+    "generated_at": "2026-05-08T04:54:47.411313",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
