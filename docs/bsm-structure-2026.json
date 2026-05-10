@@ -8110,7 +8110,7 @@
         },
         "6416": {
           "id": 6416,
-          "name": "BBQ Slowpitch-Mixed Softball",
+          "name": "BBQ Slowpitch-Mixed Softball, Gruppe Nord",
           "teams": [
             {
               "id": 24375,
@@ -8164,7 +8164,7 @@
         },
         "6415": {
           "id": 6415,
-          "name": "BBQ Slowpitch-Mixed Softball",
+          "name": "BBQ Slowpitch-Mixed Softball, Gruppe Süd",
           "teams": [
             {
               "id": 24063,
@@ -11186,7 +11186,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-05-09T05:24:06.364714",
+    "generated_at": "2026-05-10T05:39:28.176341",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
