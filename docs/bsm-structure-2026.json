@@ -8110,7 +8110,7 @@
         },
         "6416": {
           "id": 6416,
-          "name": "BBQ Slowpitch-Mixed Softball, Gruppe Nord",
+          "name": "BBQ Slowpitch-Mixed Softball Nord",
           "teams": [
             {
               "id": 24375,
@@ -8164,7 +8164,7 @@
         },
         "6415": {
           "id": 6415,
-          "name": "BBQ Slowpitch-Mixed Softball, Gruppe Süd",
+          "name": "BBQ Slowpitch-Mixed Softball Süd",
           "teams": [
             {
               "id": 24063,
@@ -9193,7 +9193,7 @@
                   "name": "Greenhorns",
                   "acronym": "ALF",
                   "short_name": "Alfeld Greenhorns",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/161/thumb/logo.png?1587224993"
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/161/thumb/Logo_LS_V2_RZ_4C.png?1778236773"
                 },
                 {
                   "id": 543,
@@ -9344,7 +9344,7 @@
                   "name": "Greenhorns",
                   "acronym": "ALF",
                   "short_name": "Alfeld Greenhorns",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/161/thumb/logo.png?1587224993"
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/161/thumb/Logo_LS_V2_RZ_4C.png?1778236773"
                 },
                 {
                   "id": 354,
@@ -9596,7 +9596,7 @@
                   "name": "Greenhorns",
                   "acronym": "ALF",
                   "short_name": "Alfeld Greenhorns",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/161/thumb/logo.png?1587224993"
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/161/thumb/Logo_LS_V2_RZ_4C.png?1778236773"
                 },
                 {
                   "id": 543,
@@ -9641,7 +9641,7 @@
                   "name": "Greenhorns",
                   "acronym": "ALF",
                   "short_name": "Alfeld Greenhorns",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/161/thumb/logo.png?1587224993"
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/161/thumb/Logo_LS_V2_RZ_4C.png?1778236773"
                 },
                 {
                   "id": 543,
@@ -9791,7 +9791,7 @@
                   "name": "Greenhorns",
                   "acronym": "ALF",
                   "short_name": "Alfeld Greenhorns",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/161/thumb/logo.png?1587224993"
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/161/thumb/Logo_LS_V2_RZ_4C.png?1778236773"
                 },
                 {
                   "id": 543,
@@ -10039,7 +10039,7 @@
                   "name": "Greenhorns",
                   "acronym": "ALF",
                   "short_name": "Alfeld Greenhorns",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/161/thumb/logo.png?1587224993"
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/161/thumb/Logo_LS_V2_RZ_4C.png?1778236773"
                 },
                 {
                   "id": 543,
@@ -11186,7 +11186,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-05-10T05:39:28.176341",
+    "generated_at": "2026-05-11T06:01:29.576522",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
