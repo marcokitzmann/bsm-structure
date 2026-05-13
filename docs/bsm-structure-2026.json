@@ -1240,84 +1240,6 @@
     "BWBSV": {
       "id": "organization_7",
       "leagues": {
-        "6339": {
-          "id": 6339,
-          "name": "Coach-Pitch-Liga",
-          "teams": [
-            {
-              "id": 23833,
-              "league_entry_id": 46326,
-              "name": "Remchingen Racoons 2",
-              "club": {
-                "id": 842,
-                "name": "Racoons",
-                "acronym": "REM",
-                "short_name": "Remchingen Racoons",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/842/thumb/RACOONS_LOGO_PURPEL_klein.png?1764143666"
-              }
-            },
-            {
-              "id": 23848,
-              "league_entry_id": 46327,
-              "name": "Gammertingen Royals",
-              "club": {
-                "id": 404,
-                "name": "Royals",
-                "acronym": "GAM",
-                "short_name": "Gammertingen Royals",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/404/thumb/RoyalsLogoFinal.png?1709819032"
-              }
-            },
-            {
-              "id": 23883,
-              "league_entry_id": 46329,
-              "name": "Herrenberg Wanderers",
-              "club": {
-                "id": 411,
-                "name": "Wanderers",
-                "acronym": "HER",
-                "short_name": "Herrenberg Wanderers",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/411/thumb/Wanderers-Logo.jpg?1587225051"
-              }
-            },
-            {
-              "id": 24068,
-              "league_entry_id": 46335,
-              "name": "Stuttgart Reds",
-              "club": {
-                "id": 436,
-                "name": "Reds",
-                "acronym": "STU",
-                "short_name": "Stuttgart Reds",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/Stuttgart_Reds.png?1772970751"
-              }
-            },
-            {
-              "id": 24078,
-              "league_entry_id": 46336,
-              "name": "Tübingen Hawks",
-              "club": {
-                "id": 437,
-                "name": "Hawks",
-                "acronym": "TUB",
-                "short_name": "Tübingen Hawks",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/437/thumb/20150301_Logo_Hawks_CMYK.png?1587225063"
-              }
-            },
-            {
-              "id": 24094,
-              "league_entry_id": 46338,
-              "name": "Falcons Ulm",
-              "club": {
-                "id": 540,
-                "name": "Falcons",
-                "acronym": "ULM",
-                "short_name": "Falcons Ulm",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/540/thumb/Logo.jpg?1725647417"
-              }
-            }
-          ]
-        },
         "6347": {
           "id": 6347,
           "name": "Verbandsliga Herren",
@@ -3177,6 +3099,84 @@
                 "acronym": "FRK",
                 "short_name": "Freiburg Knights",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/403/thumb/Knights_Logo_2020.png?1626179640"
+              }
+            }
+          ]
+        },
+        "6339": {
+          "id": 6339,
+          "name": "Coach-Pitch-Liga",
+          "teams": [
+            {
+              "id": 23833,
+              "league_entry_id": 46326,
+              "name": "Remchingen Racoons 2",
+              "club": {
+                "id": 842,
+                "name": "Racoons",
+                "acronym": "REM",
+                "short_name": "Remchingen Racoons",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/842/thumb/RACOONS_LOGO_PURPEL_klein.png?1764143666"
+              }
+            },
+            {
+              "id": 23848,
+              "league_entry_id": 46327,
+              "name": "Gammertingen Royals",
+              "club": {
+                "id": 404,
+                "name": "Royals",
+                "acronym": "GAM",
+                "short_name": "Gammertingen Royals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/404/thumb/RoyalsLogoFinal.png?1709819032"
+              }
+            },
+            {
+              "id": 23883,
+              "league_entry_id": 46329,
+              "name": "Herrenberg Wanderers",
+              "club": {
+                "id": 411,
+                "name": "Wanderers",
+                "acronym": "HER",
+                "short_name": "Herrenberg Wanderers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/411/thumb/Wanderers-Logo.jpg?1587225051"
+              }
+            },
+            {
+              "id": 24068,
+              "league_entry_id": 46335,
+              "name": "Stuttgart Reds",
+              "club": {
+                "id": 436,
+                "name": "Reds",
+                "acronym": "STU",
+                "short_name": "Stuttgart Reds",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/Stuttgart_Reds.png?1772970751"
+              }
+            },
+            {
+              "id": 24078,
+              "league_entry_id": 46336,
+              "name": "Tübingen Hawks",
+              "club": {
+                "id": 437,
+                "name": "Hawks",
+                "acronym": "TUB",
+                "short_name": "Tübingen Hawks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/437/thumb/20150301_Logo_Hawks_CMYK.png?1587225063"
+              }
+            },
+            {
+              "id": 24094,
+              "league_entry_id": 46338,
+              "name": "Falcons Ulm",
+              "club": {
+                "id": 540,
+                "name": "Falcons",
+                "acronym": "ULM",
+                "short_name": "Falcons Ulm",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/540/thumb/Logo.jpg?1725647417"
               }
             }
           ]
@@ -11264,7 +11264,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-05-12T05:40:26.261546",
+    "generated_at": "2026-05-13T05:51:15.002666",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
