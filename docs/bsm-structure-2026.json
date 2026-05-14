@@ -3180,6 +3180,69 @@
               }
             }
           ]
+        },
+        "6343": {
+          "id": 6343,
+          "name": "T-Ball",
+          "teams": [
+            {
+              "id": 24022,
+              "league_entry_id": 46376,
+              "name": "Green Sox Göppingen",
+              "club": {
+                "id": 406,
+                "name": "Green Sox",
+                "acronym": "GOP",
+                "short_name": "Green Sox Göppingen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/406/thumb/Greensox_1991_Logo_.png?1587225049"
+              }
+            },
+            {
+              "id": 24045,
+              "league_entry_id": 46377,
+              "name": "Schriesheim Raubritter",
+              "club": {
+                "id": 435,
+                "name": "Raubritter",
+                "acronym": "SRR",
+                "short_name": "Schriesheim Raubritter",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/435/thumb/Logo_bsm.jpg?1740661932"
+              }
+            },
+            {
+              "id": 24067,
+              "league_entry_id": 46380,
+              "name": "Stuttgart Reds",
+              "club": {
+                "id": 436,
+                "name": "Reds",
+                "acronym": "STU",
+                "short_name": "Stuttgart Reds",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/Stuttgart_Reds.png?1772970751"
+              }
+            },
+            {
+              "id": 24085,
+              "league_entry_id": 46381,
+              "name": "SG Aalen Strikers/Heubach Hunters",
+              "clubs": [
+                {
+                  "id": 395,
+                  "name": "Strikers",
+                  "acronym": "AAL",
+                  "short_name": "Aalen Strikers",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/395/thumb/asa_logo-baseball-4c-pos.jpeg?1587225046"
+                },
+                {
+                  "id": 413,
+                  "name": "Hunters",
+                  "acronym": "HEU",
+                  "short_name": "Heubach Hunters",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/413/thumb/Hunters_Emblem_f_200x156.png?1612947467"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -11264,7 +11327,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-05-13T05:51:15.002666",
+    "generated_at": "2026-05-14T05:50:23.283328",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
