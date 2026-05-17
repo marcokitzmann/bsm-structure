@@ -8300,6 +8300,39 @@
                 "short_name": "Guggenberger Legionäre",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/014/thumb/Legion%C3%A4re_SCRIPT_Logo_GUGGENBERGER_L_CoB.png?1646045867"
               }
+            },
+            {
+              "id": 24379,
+              "league_entry_id": 46947,
+              "name": "SG Lauf/Ingolstadt",
+              "clubs": [
+                {
+                  "id": 8,
+                  "name": "Wölfe",
+                  "acronym": "LAU",
+                  "short_name": "Laufer Wölfe",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/008/thumb/LW_logo_W_4C.jpg?1587224973"
+                },
+                {
+                  "id": 36,
+                  "name": "Schanzer",
+                  "acronym": "ING",
+                  "short_name": "Ingolstadt Schanzer",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/036/thumb/00003015.png?1587224983"
+                }
+              ]
+            },
+            {
+              "id": 24438,
+              "league_entry_id": 47065,
+              "name": "Amberg Brewers",
+              "club": {
+                "id": 846,
+                "name": "Brewers",
+                "acronym": "AMB",
+                "short_name": "Amberg Brewers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/846/thumb/IMG_2029.jpeg?1778624009"
+              }
             }
           ]
         },
@@ -11327,7 +11360,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-05-16T05:29:20.967009",
+    "generated_at": "2026-05-17T05:51:03.722221",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
