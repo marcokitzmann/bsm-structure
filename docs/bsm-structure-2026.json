@@ -8456,7 +8456,7 @@
                 "name": "Moskitos",
                 "acronym": "RUS",
                 "short_name": "Rüsselsheim Moskitos",
-                "logo_url": null
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/216/thumb/Moskito_Logo-286x300.png?1779094681"
               }
             },
             {
@@ -11360,7 +11360,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-05-20T06:11:11.924149",
+    "generated_at": "2026-05-21T06:12:54.452056",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
