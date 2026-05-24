@@ -1188,7 +1188,110 @@
         "6338": {
           "id": 6338,
           "name": "U13SB Play-offs",
-          "teams": []
+          "teams": [
+            {
+              "id": 24403,
+              "league_entry_id": 47043,
+              "name": "Nordrhein-Westfalen",
+              "club": {
+                "id": 867,
+                "name": null,
+                "acronym": "BSVNRW",
+                "short_name": "Nordrhein-Westfalen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/867/thumb/BSVNRW.jpg?1774871352"
+              }
+            },
+            {
+              "id": 24404,
+              "league_entry_id": 47044,
+              "name": "Cologne Cardinals",
+              "clubs": [
+                {
+                  "id": 316,
+                  "name": "Cardinals",
+                  "acronym": "COC",
+                  "short_name": "Cologne Cardinals",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/316/thumb/COC.jpeg?1707934291"
+                },
+                {
+                  "id": 486,
+                  "name": "SCC Challengers",
+                  "acronym": "BEC",
+                  "short_name": "SCC e.V.",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/486/thumb/challengers_Logo_NEW.jpg?1587225071"
+                },
+                {
+                  "id": 491,
+                  "name": "Ravens / Roosters",
+                  "acronym": "BER",
+                  "short_name": "NSF Berlin Ravens / Roosters",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/491/thumb/logo-baseballworld-website.png?1587225072"
+                },
+                {
+                  "id": 311,
+                  "name": "Capitals",
+                  "acronym": "BON",
+                  "short_name": "Bonn Capitals",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/311/thumb/BonnCapitals.png?1587225033"
+                },
+                {
+                  "id": 421,
+                  "name": "Mohawks",
+                  "acronym": "NAG",
+                  "short_name": "Nagold Mohawks",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/421/thumb/Mohawks_official_400.png?1587225053"
+                }
+              ]
+            },
+            {
+              "id": 24405,
+              "league_entry_id": 47045,
+              "name": "Stuttgart Reds",
+              "club": {
+                "id": 436,
+                "name": "Reds",
+                "acronym": "STU",
+                "short_name": "Stuttgart Reds",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/Stuttgart_Reds.png?1772970751"
+              }
+            },
+            {
+              "id": 24406,
+              "league_entry_id": 47046,
+              "name": "Freising Grizzlies",
+              "club": {
+                "id": 59,
+                "name": "Grizzlies",
+                "acronym": "FRE",
+                "short_name": "Freising Grizzlies",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
+              }
+            },
+            {
+              "id": 24407,
+              "league_entry_id": 47047,
+              "name": "Bavarians",
+              "club": {
+                "id": 865,
+                "name": null,
+                "acronym": "BBSV",
+                "short_name": "Bayern",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/865/thumb/Logo_BBSV.jpg?1774870977"
+              }
+            },
+            {
+              "id": 24408,
+              "league_entry_id": 47048,
+              "name": "Baden-Württemberg",
+              "club": {
+                "id": 868,
+                "name": null,
+                "acronym": "BWBSV",
+                "short_name": "Baden-Württemberg",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/868/thumb/BWBSV_Logo.png?1774871488"
+              }
+            }
+          ]
         },
         "6334": {
           "id": 6334,
@@ -11360,7 +11463,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-05-23T05:41:27.235700",
+    "generated_at": "2026-05-24T06:04:22.610986",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
