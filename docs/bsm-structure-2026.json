@@ -1183,7 +1183,113 @@
         "6330": {
           "id": 6330,
           "name": "LP U12 BB Play-offs",
-          "teams": []
+          "teams": [
+            {
+              "id": 24385,
+              "league_entry_id": 46964,
+              "name": "Südwest",
+              "club": {
+                "id": 874,
+                "name": null,
+                "acronym": "SWBSV",
+                "short_name": "Südwest",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/874/thumb/SWBSV-Final-CMYK_square.jpg?1774873474"
+              }
+            },
+            {
+              "id": 24386,
+              "league_entry_id": 46965,
+              "name": "Bayern",
+              "club": {
+                "id": 865,
+                "name": null,
+                "acronym": "BBSV",
+                "short_name": "Bayern",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/865/thumb/Logo_BBSV.jpg?1774870977"
+              }
+            },
+            {
+              "id": 24387,
+              "league_entry_id": 46966,
+              "name": "Niedersachsen",
+              "club": {
+                "id": 873,
+                "name": null,
+                "acronym": "NBSV",
+                "short_name": "Niedersachsen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/873/thumb/NBSV_Logo.jpg?1774873276"
+              }
+            },
+            {
+              "id": 24388,
+              "league_entry_id": 46967,
+              "name": "Hamburg/Schleswig-Holstein",
+              "clubs": [
+                {
+                  "id": 870,
+                  "name": null,
+                  "acronym": "HBV",
+                  "short_name": "Hamburg",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/870/thumb/hbv-neu.png?1774872969"
+                },
+                {
+                  "id": 871,
+                  "name": null,
+                  "acronym": "SHBV",
+                  "short_name": "Schleswig-Holstein",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/871/thumb/SHBV-Logo-Neu.jpg?1774873067"
+                }
+              ]
+            },
+            {
+              "id": 24389,
+              "league_entry_id": 46968,
+              "name": "Baden-Württemberg",
+              "club": {
+                "id": 868,
+                "name": null,
+                "acronym": "BWBSV",
+                "short_name": "Baden-Württemberg",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/868/thumb/BWBSV_Logo.png?1774871488"
+              }
+            },
+            {
+              "id": 24390,
+              "league_entry_id": 46969,
+              "name": "Berlin-Brandenburg",
+              "club": {
+                "id": 866,
+                "name": null,
+                "acronym": "BSVBB",
+                "short_name": "Berlin-Brandenburg",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/866/thumb/BSVBB.jpg?1774871231"
+              }
+            },
+            {
+              "id": 24391,
+              "league_entry_id": 46970,
+              "name": "Nordrhein-Westfalen",
+              "club": {
+                "id": 867,
+                "name": null,
+                "acronym": "BSVNRW",
+                "short_name": "Nordrhein-Westfalen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/867/thumb/BSVNRW.jpg?1774871352"
+              }
+            },
+            {
+              "id": 24392,
+              "league_entry_id": 46971,
+              "name": "Hessen",
+              "club": {
+                "id": 869,
+                "name": null,
+                "acronym": "HBSV",
+                "short_name": "Hessen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/869/thumb/hbsv.png?1774871719"
+              }
+            }
+          ]
         },
         "6338": {
           "id": 6338,
@@ -1296,12 +1402,110 @@
         "6334": {
           "id": 6334,
           "name": "LP U19 SB Play-offs",
-          "teams": []
+          "teams": [
+            {
+              "id": 24393,
+              "league_entry_id": 46997,
+              "name": "Nordrhein-Westfalen",
+              "club": {
+                "id": 867,
+                "name": null,
+                "acronym": "BSVNRW",
+                "short_name": "Nordrhein-Westfalen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/867/thumb/BSVNRW.jpg?1774871352"
+              }
+            },
+            {
+              "id": 24394,
+              "league_entry_id": 46998,
+              "name": "Baden-Württemberg",
+              "club": {
+                "id": 868,
+                "name": null,
+                "acronym": "BWBSV",
+                "short_name": "Baden-Württemberg",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/868/thumb/BWBSV_Logo.png?1774871488"
+              }
+            },
+            {
+              "id": 24395,
+              "league_entry_id": 46999,
+              "name": "Bayern",
+              "club": {
+                "id": 865,
+                "name": null,
+                "acronym": "BBSV",
+                "short_name": "Bayern",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/865/thumb/Logo_BBSV.jpg?1774870977"
+              }
+            },
+            {
+              "id": 24396,
+              "league_entry_id": 47000,
+              "name": "Berlin-Brandenburg",
+              "club": {
+                "id": 866,
+                "name": null,
+                "acronym": "BSVBB",
+                "short_name": "Berlin-Brandenburg",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/866/thumb/BSVBB.jpg?1774871231"
+              }
+            }
+          ]
         },
         "6419": {
           "id": 6419,
           "name": "LP U18 BB Play-offs",
-          "teams": []
+          "teams": [
+            {
+              "id": 24398,
+              "league_entry_id": 46987,
+              "name": "Nordrhein-Westfalen",
+              "club": {
+                "id": 867,
+                "name": null,
+                "acronym": "BSVNRW",
+                "short_name": "Nordrhein-Westfalen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/867/thumb/BSVNRW.jpg?1774871352"
+              }
+            },
+            {
+              "id": 24399,
+              "league_entry_id": 46988,
+              "name": "Baden-Württemberg",
+              "club": {
+                "id": 868,
+                "name": null,
+                "acronym": "BWBSV",
+                "short_name": "Baden-Württemberg",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/868/thumb/BWBSV_Logo.png?1774871488"
+              }
+            },
+            {
+              "id": 24401,
+              "league_entry_id": 46990,
+              "name": "Niedersachsen",
+              "club": {
+                "id": 873,
+                "name": null,
+                "acronym": "NBSV",
+                "short_name": "Niedersachsen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/873/thumb/NBSV_Logo.jpg?1774873276"
+              }
+            },
+            {
+              "id": 24402,
+              "league_entry_id": 46991,
+              "name": "Südwest",
+              "club": {
+                "id": 874,
+                "name": null,
+                "acronym": "SWBSV",
+                "short_name": "Südwest",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/874/thumb/SWBSV-Final-CMYK_square.jpg?1774873474"
+              }
+            }
+          ]
         },
         "6228": {
           "id": 6228,
@@ -11463,7 +11667,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-05-24T06:04:22.610986",
+    "generated_at": "2026-05-25T06:38:15.918641",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
