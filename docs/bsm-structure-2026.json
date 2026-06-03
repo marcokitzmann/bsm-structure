@@ -3493,6 +3493,18 @@
           "name": "T-Ball",
           "teams": [
             {
+              "id": 23832,
+              "league_entry_id": 46370,
+              "name": "Remchingen Racoons",
+              "club": {
+                "id": 842,
+                "name": "Racoons",
+                "acronym": "REM",
+                "short_name": "Remchingen Racoons",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/842/thumb/RACOONS_LOGO_PURPEL_klein.png?1764143666"
+              }
+            },
+            {
               "id": 24022,
               "league_entry_id": 46376,
               "name": "Green Sox Göppingen",
@@ -3514,6 +3526,18 @@
                 "acronym": "SRR",
                 "short_name": "Schriesheim Raubritter",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/435/thumb/Logo_bsm.jpg?1740661932"
+              }
+            },
+            {
+              "id": 24057,
+              "league_entry_id": 46379,
+              "name": "Nagold Mohawks",
+              "club": {
+                "id": 421,
+                "name": "Mohawks",
+                "acronym": "NAG",
+                "short_name": "Nagold Mohawks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/421/thumb/Mohawks_official_400.png?1587225053"
               }
             },
             {
@@ -11682,7 +11706,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-06-02T06:44:16.362152",
+    "generated_at": "2026-06-03T06:55:42.929592",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
