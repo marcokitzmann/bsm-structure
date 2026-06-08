@@ -11324,7 +11324,44 @@
         "6281": {
           "id": 6281,
           "name": "Schülerliga 1",
-          "teams": []
+          "teams": [
+            {
+              "id": 23826,
+              "league_entry_id": 47072,
+              "name": "Elmshorn Alligators",
+              "club": {
+                "id": 83,
+                "name": "Alligators",
+                "acronym": "ELM",
+                "short_name": "Elmshorn Alligators",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/083/thumb/alligators.jpg?1587224988"
+              }
+            },
+            {
+              "id": 23872,
+              "league_entry_id": 47073,
+              "name": "Hamburg Stealers 1",
+              "club": {
+                "id": 503,
+                "name": "Stealers",
+                "acronym": "HHS",
+                "short_name": "Hamburg Stealers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
+              }
+            },
+            {
+              "id": 23903,
+              "league_entry_id": 47074,
+              "name": "Kiel Seahawks (Baseball)",
+              "club": {
+                "id": 167,
+                "name": "Seahawks",
+                "acronym": "KIL",
+                "short_name": "Kiel Seahawks (Baseball)",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/167/thumb/seahawks_bb.jpg?1587224994"
+              }
+            }
+          ]
         },
         "6282": {
           "id": 6282,
@@ -11706,7 +11743,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-06-07T06:27:19.296113",
+    "generated_at": "2026-06-08T06:47:38.841018",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
