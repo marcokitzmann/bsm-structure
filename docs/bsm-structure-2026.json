@@ -11366,7 +11366,44 @@
         "6282": {
           "id": 6282,
           "name": "Schülerliga 2",
-          "teams": []
+          "teams": [
+            {
+              "id": 23805,
+              "league_entry_id": 47075,
+              "name": "Hamburg Knights",
+              "club": {
+                "id": 254,
+                "name": "Knights",
+                "acronym": "HHK",
+                "short_name": "Hamburg Knights",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/254/thumb/knights.jpg?1587225027"
+              }
+            },
+            {
+              "id": 23858,
+              "league_entry_id": 47076,
+              "name": "Hamburg Marines",
+              "club": {
+                "id": 257,
+                "name": "Marines",
+                "acronym": "HHM",
+                "short_name": "Hamburg Marines",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/257/thumb/marines.png?1683930199"
+              }
+            },
+            {
+              "id": 23873,
+              "league_entry_id": 47077,
+              "name": "Hamburg Stealers 2",
+              "club": {
+                "id": 503,
+                "name": "Stealers",
+                "acronym": "HHS",
+                "short_name": "Hamburg Stealers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
+              }
+            }
+          ]
         }
       }
     },
@@ -11743,7 +11780,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-06-08T06:47:38.841018",
+    "generated_at": "2026-06-09T06:12:01.403538",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
