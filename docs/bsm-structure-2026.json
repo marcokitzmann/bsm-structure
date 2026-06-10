@@ -1507,6 +1507,179 @@
             }
           ]
         },
+        "6431": {
+          "id": 6431,
+          "name": "DM Coach Pitch U10 Gruppe A",
+          "teams": [
+            {
+              "id": 24426,
+              "league_entry_id": 47078,
+              "name": "Cologne Cardinals",
+              "club": {
+                "id": 316,
+                "name": "Cardinals",
+                "acronym": "COC",
+                "short_name": "Cologne Cardinals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/316/thumb/COC.jpeg?1707934291"
+              }
+            },
+            {
+              "id": 24427,
+              "league_entry_id": 47079,
+              "name": "Schriesheim Raubritter",
+              "club": {
+                "id": 435,
+                "name": "Raubritter",
+                "acronym": "SRR",
+                "short_name": "Schriesheim Raubritter",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/435/thumb/Logo_bsm.jpg?1740661932"
+              }
+            },
+            {
+              "id": 24428,
+              "league_entry_id": 47080,
+              "name": "Berlin Skylarks",
+              "club": {
+                "id": 485,
+                "name": "Skylarks",
+                "acronym": "BEA",
+                "short_name": "Berlin Skylarks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/485/thumb/Skylarks_Logo-Rondell_200px.png?1608387861"
+              }
+            }
+          ]
+        },
+        "6432": {
+          "id": 6432,
+          "name": "DM Coach Pitch U10 Gruppe B",
+          "teams": [
+            {
+              "id": 24429,
+              "league_entry_id": 47081,
+              "name": "Untouchables Paderborn",
+              "club": {
+                "id": 365,
+                "name": "Untouchables",
+                "acronym": "UNT",
+                "short_name": "Untouchables Paderborn",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/365/thumb/Ball_auf_wei%C3%9F-1.jpg?1587225040"
+              }
+            },
+            {
+              "id": 24430,
+              "league_entry_id": 47082,
+              "name": "Falcons Ulm",
+              "club": {
+                "id": 540,
+                "name": "Falcons",
+                "acronym": "ULM",
+                "short_name": "Falcons Ulm",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/540/thumb/Logo.jpg?1725647417"
+              }
+            },
+            {
+              "id": 24431,
+              "league_entry_id": 47083,
+              "name": "Mainz Athletics",
+              "club": {
+                "id": 1,
+                "name": "Athletics",
+                "acronym": "MAI",
+                "short_name": "Mainz Athletics",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/001/thumb/as_logo.png?1587224970"
+              }
+            }
+          ]
+        },
+        "6433": {
+          "id": 6433,
+          "name": "DM Coach Pitch U10 Gruppe C",
+          "teams": [
+            {
+              "id": 24432,
+              "league_entry_id": 47084,
+              "name": "Heidelberg Hedgehogs",
+              "club": {
+                "id": 407,
+                "name": "Hedgehogs",
+                "acronym": "HEH",
+                "short_name": "Heidelberg Hedgehogs",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/407/thumb/hedgehogs_logo_rot_schwarz_3D.png?1587225049"
+              }
+            },
+            {
+              "id": 24433,
+              "league_entry_id": 47085,
+              "name": "Freising Grizzlies",
+              "club": {
+                "id": 59,
+                "name": "Grizzlies",
+                "acronym": "FRE",
+                "short_name": "Freising Grizzlies",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
+              }
+            },
+            {
+              "id": 24434,
+              "league_entry_id": 47086,
+              "name": "Hamburg Stealers",
+              "club": {
+                "id": 503,
+                "name": "Stealers",
+                "acronym": "HHS",
+                "short_name": "Hamburg Stealers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
+              }
+            }
+          ]
+        },
+        "6434": {
+          "id": 6434,
+          "name": "DM Coach Pitch U10 Gruppe D",
+          "teams": [
+            {
+              "id": 24435,
+              "league_entry_id": 47087,
+              "name": "Darmstadt Whippets",
+              "club": {
+                "id": 188,
+                "name": "Whippets",
+                "acronym": "DAW",
+                "short_name": "Darmstadt Whippets",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/188/thumb/whippets.png?1587224998"
+              }
+            },
+            {
+              "id": 24436,
+              "league_entry_id": 47088,
+              "name": "Gauting Indians",
+              "club": {
+                "id": 30,
+                "name": "Indians",
+                "acronym": "GAU",
+                "short_name": "Gauting Indians",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/030/thumb/GI_Logo_I_Blue-Red-Otline_RGB.jpg?1681803869"
+              }
+            },
+            {
+              "id": 24437,
+              "league_entry_id": 47089,
+              "name": "Leipzig Wallbreakers",
+              "club": {
+                "id": 249,
+                "name": "Wallbreakers",
+                "acronym": "LWA",
+                "short_name": "Leipzig Wallbreakers",
+                "logo_url": null
+              }
+            }
+          ]
+        },
+        "6435": {
+          "id": 6435,
+          "name": "DM Coach Pitch U10 Play-offs",
+          "teams": []
+        },
         "6228": {
           "id": 6228,
           "name": "DBL Interleague",
@@ -11780,7 +11953,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-06-09T06:12:01.403538",
+    "generated_at": "2026-06-10T06:26:41.159011",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
