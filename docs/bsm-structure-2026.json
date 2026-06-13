@@ -3624,6 +3624,18 @@
               }
             },
             {
+              "id": 24058,
+              "league_entry_id": 46334,
+              "name": "Nagold Mohawks",
+              "club": {
+                "id": 421,
+                "name": "Mohawks",
+                "acronym": "NAG",
+                "short_name": "Nagold Mohawks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/421/thumb/Mohawks_official_400.png?1587225053"
+              }
+            },
+            {
               "id": 24068,
               "league_entry_id": 46335,
               "name": "Stuttgart Reds",
@@ -3675,6 +3687,30 @@
                 "acronym": "REM",
                 "short_name": "Remchingen Racoons",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/842/thumb/RACOONS_LOGO_PURPEL_klein.png?1764143666"
+              }
+            },
+            {
+              "id": 23847,
+              "league_entry_id": 46371,
+              "name": "Gammertingen Royals",
+              "club": {
+                "id": 404,
+                "name": "Royals",
+                "acronym": "GAM",
+                "short_name": "Gammertingen Royals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/404/thumb/RoyalsLogoFinal.png?1709819032"
+              }
+            },
+            {
+              "id": 23882,
+              "league_entry_id": 46373,
+              "name": "Herrenberg Wanderers",
+              "club": {
+                "id": 411,
+                "name": "Wanderers",
+                "acronym": "HER",
+                "short_name": "Herrenberg Wanderers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/411/thumb/Wanderers-Logo.jpg?1587225051"
               }
             },
             {
@@ -3745,6 +3781,18 @@
                   "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/413/thumb/Hunters_Emblem_f_200x156.png?1612947467"
                 }
               ]
+            },
+            {
+              "id": 24093,
+              "league_entry_id": 46382,
+              "name": "Falcons Ulm",
+              "club": {
+                "id": 540,
+                "name": "Falcons",
+                "acronym": "ULM",
+                "short_name": "Falcons Ulm",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/540/thumb/Logo.jpg?1725647417"
+              }
             }
           ]
         }
@@ -11794,7 +11842,7 @@
             {
               "id": 24303,
               "league_entry_id": 46910,
-              "name": "K-Town Bears",
+              "name": "K-Town Bears (a.K.)",
               "club": {
                 "id": 228,
                 "name": "Bears",
@@ -11953,7 +12001,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-06-12T06:44:44.040209",
+    "generated_at": "2026-06-13T06:19:50.934520",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
