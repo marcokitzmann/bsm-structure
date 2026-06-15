@@ -1828,12 +1828,80 @@
         "6228": {
           "id": 6228,
           "name": "DBL Interleague",
-          "teams": []
+          "teams": [
+            {
+              "id": 23580,
+              "league_entry_id": 47106,
+              "name": "Bonn Capitals",
+              "club": {
+                "id": 311,
+                "name": "Capitals",
+                "acronym": "BON",
+                "short_name": "Bonn Capitals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/311/thumb/BonnCapitals.png?1587225033"
+              }
+            }
+          ]
         },
         "6229": {
           "id": 6229,
-          "name": "DBL Wild Card Race",
-          "teams": []
+          "name": "DBL Wild Card Race Nord",
+          "teams": [
+            {
+              "id": 23586,
+              "league_entry_id": 47103,
+              "name": "Hünstetten STORM",
+              "club": {
+                "id": 207,
+                "name": "STORM",
+                "acronym": "HUN",
+                "short_name": "Hünstetten STORM",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/207/thumb/2023_CharacterCloud_quad-200x200-wei%C3%9F.png?1677681168"
+              }
+            },
+            {
+              "id": 23635,
+              "league_entry_id": 47105,
+              "name": "Dortmund Wanderers",
+              "club": {
+                "id": 322,
+                "name": "Wanderers",
+                "acronym": "DOW",
+                "short_name": "Dortmund Wanderers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/322/thumb/IMG_20211218_150516.png?1701341213"
+              }
+            }
+          ]
+        },
+        "6436": {
+          "id": 6436,
+          "name": "DBL Wild Card Race Süd",
+          "teams": [
+            {
+              "id": 23582,
+              "league_entry_id": 47110,
+              "name": "Gauting Indians",
+              "club": {
+                "id": 30,
+                "name": "Indians",
+                "acronym": "GAU",
+                "short_name": "Gauting Indians",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/030/thumb/GI_Logo_I_Blue-Red-Otline_RGB.jpg?1681803869"
+              }
+            },
+            {
+              "id": 23588,
+              "league_entry_id": 47111,
+              "name": "München-Haar Disciples",
+              "club": {
+                "id": 35,
+                "name": "Disciples",
+                "acronym": "HAA",
+                "short_name": "Disciples München-Haar",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/035/thumb/00003009.png?1587224982"
+              }
+            }
+          ]
         },
         "6129": {
           "id": 6129,
@@ -12146,7 +12214,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-06-14T06:44:05.929613",
+    "generated_at": "2026-06-15T07:23:54.991557",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
