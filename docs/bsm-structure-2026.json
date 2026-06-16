@@ -11922,6 +11922,72 @@
             }
           ]
         },
+        "6389": {
+          "id": 6389,
+          "name": "Verbandsliga Baseball",
+          "teams": [
+            {
+              "id": 24303,
+              "league_entry_id": 46910,
+              "name": "K-Town Bears (a.K.)",
+              "club": {
+                "id": 228,
+                "name": "Bears",
+                "acronym": "KSL",
+                "short_name": "K-Town Bears",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24304,
+              "league_entry_id": 46911,
+              "name": "Mainz Athletics 3",
+              "club": {
+                "id": 1,
+                "name": "Athletics",
+                "acronym": "MAI",
+                "short_name": "Mainz Athletics",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/001/thumb/as_logo.png?1587224970"
+              }
+            },
+            {
+              "id": 24305,
+              "league_entry_id": 46912,
+              "name": "Saarlouis Hornets 2",
+              "club": {
+                "id": 237,
+                "name": "Hornets",
+                "acronym": "SLS",
+                "short_name": "Saarlouis Hornets",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/237/thumb/Logo_Hornets_Akzent_09_2021.png?1687501902"
+              }
+            },
+            {
+              "id": 24306,
+              "league_entry_id": 46913,
+              "name": "Trier Cardinals",
+              "club": {
+                "id": 239,
+                "name": "Cardinals",
+                "acronym": "TRI",
+                "short_name": "Trier Cardinals",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24319,
+              "league_entry_id": 46914,
+              "name": "Beckerich Hedgehogs",
+              "club": {
+                "id": 570,
+                "name": "Hedgehogs",
+                "acronym": "BHH",
+                "short_name": "Beckerich Hedgehogs",
+                "logo_url": null
+              }
+            }
+          ]
+        },
         "6396": {
           "id": 6396,
           "name": "Mixed Softball",
@@ -12048,72 +12114,6 @@
             }
           ]
         },
-        "6389": {
-          "id": 6389,
-          "name": "Verbandsliga Baseball",
-          "teams": [
-            {
-              "id": 24303,
-              "league_entry_id": 46910,
-              "name": "K-Town Bears (a.K.)",
-              "club": {
-                "id": 228,
-                "name": "Bears",
-                "acronym": "KSL",
-                "short_name": "K-Town Bears",
-                "logo_url": null
-              }
-            },
-            {
-              "id": 24304,
-              "league_entry_id": 46911,
-              "name": "Mainz Athletics 3",
-              "club": {
-                "id": 1,
-                "name": "Athletics",
-                "acronym": "MAI",
-                "short_name": "Mainz Athletics",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/001/thumb/as_logo.png?1587224970"
-              }
-            },
-            {
-              "id": 24305,
-              "league_entry_id": 46912,
-              "name": "Saarlouis Hornets 2",
-              "club": {
-                "id": 237,
-                "name": "Hornets",
-                "acronym": "SLS",
-                "short_name": "Saarlouis Hornets",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/237/thumb/Logo_Hornets_Akzent_09_2021.png?1687501902"
-              }
-            },
-            {
-              "id": 24306,
-              "league_entry_id": 46913,
-              "name": "Trier Cardinals",
-              "club": {
-                "id": 239,
-                "name": "Cardinals",
-                "acronym": "TRI",
-                "short_name": "Trier Cardinals",
-                "logo_url": null
-              }
-            },
-            {
-              "id": 24319,
-              "league_entry_id": 46914,
-              "name": "Beckerich Hedgehogs",
-              "club": {
-                "id": 570,
-                "name": "Hedgehogs",
-                "acronym": "BHH",
-                "short_name": "Beckerich Hedgehogs",
-                "logo_url": null
-              }
-            }
-          ]
-        },
         "6392": {
           "id": 6392,
           "name": "Jugendliga",
@@ -12214,7 +12214,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-06-15T07:23:54.991557",
+    "generated_at": "2026-06-16T07:30:04.159551",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
