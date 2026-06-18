@@ -4008,6 +4008,36 @@
               }
             }
           ]
+        },
+        "6364": {
+          "id": 6364,
+          "name": "Softball Jugend",
+          "teams": [
+            {
+              "id": 24035,
+              "league_entry_id": 46509,
+              "name": "Schriesheim Raubritter",
+              "club": {
+                "id": 435,
+                "name": "Raubritter",
+                "acronym": "SRR",
+                "short_name": "Schriesheim Raubritter",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/435/thumb/Logo_bsm.jpg?1740661932"
+              }
+            },
+            {
+              "id": 24066,
+              "league_entry_id": 46510,
+              "name": "Stuttgart Reds",
+              "club": {
+                "id": 436,
+                "name": "Reds",
+                "acronym": "STU",
+                "short_name": "Stuttgart Reds",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/Stuttgart_Reds.png?1772970751"
+              }
+            }
+          ]
         }
       }
     },
@@ -12214,7 +12244,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-06-17T07:13:35.942509",
+    "generated_at": "2026-06-18T06:55:15.165591",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
