@@ -1840,6 +1840,42 @@
                 "short_name": "Bonn Capitals",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/311/thumb/BonnCapitals.png?1587225033"
               }
+            },
+            {
+              "id": 23583,
+              "league_entry_id": 47107,
+              "name": "Guggenberger Legionäre",
+              "club": {
+                "id": 14,
+                "name": "Legionäre",
+                "acronym": "REG",
+                "short_name": "Guggenberger Legionäre",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/014/thumb/Legion%C3%A4re_SCRIPT_Logo_GUGGENBERGER_L_CoB.png?1646045867"
+              }
+            },
+            {
+              "id": 23585,
+              "league_entry_id": 47109,
+              "name": "Heidenheim Heideköpfe",
+              "club": {
+                "id": 408,
+                "name": "Heideköpfe",
+                "acronym": "HDH",
+                "short_name": "Heidenheim Heideköpfe",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/408/thumb/Heidekopf_Logo2018_clipped_rev_1.png?1773132925"
+              }
+            },
+            {
+              "id": 23587,
+              "league_entry_id": 47115,
+              "name": "Mainz Athletics",
+              "club": {
+                "id": 1,
+                "name": "Athletics",
+                "acronym": "MAI",
+                "short_name": "Mainz Athletics",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/001/thumb/as_logo.png?1587224970"
+              }
             }
           ]
         },
@@ -1899,6 +1935,18 @@
                 "acronym": "HAA",
                 "short_name": "Disciples München-Haar",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/035/thumb/00003009.png?1587224982"
+              }
+            },
+            {
+              "id": 23589,
+              "league_entry_id": 47116,
+              "name": "Stuttgart Reds",
+              "club": {
+                "id": 436,
+                "name": "Reds",
+                "acronym": "STU",
+                "short_name": "Stuttgart Reds",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/Stuttgart_Reds.png?1772970751"
               }
             }
           ]
@@ -12244,7 +12292,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-06-19T07:10:22.730112",
+    "generated_at": "2026-06-20T06:23:59.055629",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
