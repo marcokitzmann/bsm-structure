@@ -1854,6 +1854,18 @@
               }
             },
             {
+              "id": 23584,
+              "league_entry_id": 47118,
+              "name": "Hamburg Stealers",
+              "club": {
+                "id": 503,
+                "name": "Stealers",
+                "acronym": "HHS",
+                "short_name": "Hamburg Stealers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
+              }
+            },
+            {
               "id": 23585,
               "league_entry_id": 47109,
               "name": "Heidenheim Heideköpfe",
@@ -1876,35 +1888,17 @@
                 "short_name": "Mainz Athletics",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/001/thumb/as_logo.png?1587224970"
               }
-            }
-          ]
-        },
-        "6229": {
-          "id": 6229,
-          "name": "DBL Wild Card Race Nord",
-          "teams": [
-            {
-              "id": 23586,
-              "league_entry_id": 47103,
-              "name": "Hünstetten STORM",
-              "club": {
-                "id": 207,
-                "name": "STORM",
-                "acronym": "HUN",
-                "short_name": "Hünstetten STORM",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/207/thumb/2023_CharacterCloud_quad-200x200-wei%C3%9F.png?1677681168"
-              }
             },
             {
-              "id": 23635,
-              "league_entry_id": 47105,
-              "name": "Dortmund Wanderers",
+              "id": 23590,
+              "league_entry_id": 47119,
+              "name": "Untouchables Paderborn",
               "club": {
-                "id": 322,
-                "name": "Wanderers",
-                "acronym": "DOW",
-                "short_name": "Dortmund Wanderers",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/322/thumb/IMG_20211218_150516.png?1701341213"
+                "id": 365,
+                "name": "Untouchables",
+                "acronym": "UNT",
+                "short_name": "Untouchables Paderborn",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/365/thumb/Ball_auf_wei%C3%9F-1.jpg?1587225040"
               }
             }
           ]
@@ -1947,6 +1941,48 @@
                 "acronym": "STU",
                 "short_name": "Stuttgart Reds",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/Stuttgart_Reds.png?1772970751"
+              }
+            }
+          ]
+        },
+        "6229": {
+          "id": 6229,
+          "name": "DBL Wild Card Race Nord",
+          "teams": [
+            {
+              "id": 23581,
+              "league_entry_id": 47120,
+              "name": "Cologne Cardinals",
+              "club": {
+                "id": 316,
+                "name": "Cardinals",
+                "acronym": "COC",
+                "short_name": "Cologne Cardinals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/316/thumb/COC.jpeg?1707934291"
+              }
+            },
+            {
+              "id": 23586,
+              "league_entry_id": 47103,
+              "name": "Hünstetten STORM",
+              "club": {
+                "id": 207,
+                "name": "STORM",
+                "acronym": "HUN",
+                "short_name": "Hünstetten STORM",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/207/thumb/2023_CharacterCloud_quad-200x200-wei%C3%9F.png?1677681168"
+              }
+            },
+            {
+              "id": 23635,
+              "league_entry_id": 47105,
+              "name": "Dortmund Wanderers",
+              "club": {
+                "id": 322,
+                "name": "Wanderers",
+                "acronym": "DOW",
+                "short_name": "Dortmund Wanderers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/322/thumb/IMG_20211218_150516.png?1701341213"
               }
             }
           ]
@@ -12292,7 +12328,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-06-21T06:53:35.775542",
+    "generated_at": "2026-06-22T07:27:31.916006",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
