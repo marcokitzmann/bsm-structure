@@ -4090,6 +4090,18 @@
                 "short_name": "Falcons Ulm",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/540/thumb/Logo.jpg?1725647417"
               }
+            },
+            {
+              "id": 24106,
+              "league_entry_id": 46384,
+              "name": "Karlsruhe Cougars",
+              "club": {
+                "id": 414,
+                "name": "Cougars",
+                "acronym": "KAR",
+                "short_name": "Karlsruhe Cougars",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/414/thumb/Cougars-Favicon-Blue-Transparent-640px.png?1587225051"
+              }
             }
           ]
         },
@@ -12328,7 +12340,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-06-23T06:09:53.843294",
+    "generated_at": "2026-06-24T06:09:21.498843",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
