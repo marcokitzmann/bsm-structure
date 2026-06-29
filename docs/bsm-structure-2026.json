@@ -9313,7 +9313,20 @@
         "6430": {
           "id": 6430,
           "name": "Schüler Live Pitch Bayernliga (U12) - Bay. Meisterschaft",
-          "teams": []
+          "teams": [
+            {
+              "id": 24243,
+              "league_entry_id": 47122,
+              "name": "Gauting Indians",
+              "club": {
+                "id": 30,
+                "name": "Indians",
+                "acronym": "GAU",
+                "short_name": "Gauting Indians",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/030/thumb/GI_Logo_I_Blue-Red-Otline_RGB.jpg?1681803869"
+              }
+            }
+          ]
         },
         "6429": {
           "id": 6429,
@@ -12340,7 +12353,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-06-28T06:21:28.397512",
+    "generated_at": "2026-06-29T06:51:38.005391",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
