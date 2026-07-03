@@ -7357,7 +7357,7 @@
             {
               "id": 24267,
               "league_entry_id": 46768,
-              "name": "SG Füssen/Haar/Ingolstadt/Augsburg",
+              "name": "SG Füssen/Haar/Augsburg",
               "clubs": [
                 {
                   "id": 28,
@@ -7372,13 +7372,6 @@
                   "acronym": "HAA",
                   "short_name": "Disciples München-Haar",
                   "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/035/thumb/00003009.png?1587224982"
-                },
-                {
-                  "id": 36,
-                  "name": "Schanzer",
-                  "acronym": "ING",
-                  "short_name": "Ingolstadt Schanzer",
-                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/036/thumb/00003015.png?1587224983"
                 },
                 {
                   "id": 20,
@@ -12353,7 +12346,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-07-02T06:02:16.748926",
+    "generated_at": "2026-07-03T05:56:14.658460",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
