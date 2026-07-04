@@ -4035,6 +4035,18 @@
               }
             },
             {
+              "id": 24052,
+              "league_entry_id": 46378,
+              "name": "Heidelberg Hedgehogs",
+              "club": {
+                "id": 407,
+                "name": "Hedgehogs",
+                "acronym": "HEH",
+                "short_name": "Heidelberg Hedgehogs",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/407/thumb/hedgehogs_logo_rot_schwarz_3D.png?1587225049"
+              }
+            },
+            {
               "id": 24057,
               "league_entry_id": 46379,
               "name": "Nagold Mohawks",
@@ -4101,6 +4113,18 @@
                 "acronym": "KAR",
                 "short_name": "Karlsruhe Cougars",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/414/thumb/Cougars-Favicon-Blue-Transparent-640px.png?1587225051"
+              }
+            },
+            {
+              "id": 24119,
+              "league_entry_id": 46385,
+              "name": "Ladenburg Romans",
+              "club": {
+                "id": 416,
+                "name": "Romans",
+                "acronym": "LAD",
+                "short_name": "Ladenburg Romans",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/416/thumb/Logo400x400.png?1713448561"
               }
             }
           ]
@@ -12346,7 +12370,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-07-03T05:56:14.658460",
+    "generated_at": "2026-07-04T05:48:45.332075",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
