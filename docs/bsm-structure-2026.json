@@ -9325,7 +9325,32 @@
         "6428": {
           "id": 6428,
           "name": "Junioren Baseball (U18) - Bay. Meisterschaft",
-          "teams": []
+          "teams": [
+            {
+              "id": 24236,
+              "league_entry_id": 47124,
+              "name": "Gauting Indians",
+              "club": {
+                "id": 30,
+                "name": "Indians",
+                "acronym": "GAU",
+                "short_name": "Gauting Indians",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/030/thumb/GI_Logo_I_Blue-Red-Otline_RGB.jpg?1681803869"
+              }
+            },
+            {
+              "id": 24257,
+              "league_entry_id": 47125,
+              "name": "Freising Grizzlies",
+              "club": {
+                "id": 59,
+                "name": "Grizzlies",
+                "acronym": "FRE",
+                "short_name": "Freising Grizzlies",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
+              }
+            }
+          ]
         },
         "6430": {
           "id": 6430,
@@ -12370,7 +12395,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-07-05T06:08:01.905680",
+    "generated_at": "2026-07-06T06:39:10.471282",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
