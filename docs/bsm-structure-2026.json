@@ -4108,6 +4108,18 @@
               }
             },
             {
+              "id": 23953,
+              "league_entry_id": 46332,
+              "name": "Heidenheim Heideköpfe U10",
+              "club": {
+                "id": 408,
+                "name": "Heideköpfe",
+                "acronym": "HDH",
+                "short_name": "Heidenheim Heideköpfe",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/408/thumb/Heidekopf_Logo2018_clipped_rev_1.png?1773132925"
+              }
+            },
+            {
               "id": 24058,
               "league_entry_id": 46334,
               "name": "Nagold Mohawks",
@@ -12595,7 +12607,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-07-09T06:08:01.177122",
+    "generated_at": "2026-07-10T06:06:46.756619",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
