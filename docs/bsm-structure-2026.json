@@ -9584,6 +9584,18 @@
                 "short_name": "Freising Grizzlies",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
               }
+            },
+            {
+              "id": 24237,
+              "league_entry_id": 47163,
+              "name": "Gauting Indians",
+              "club": {
+                "id": 30,
+                "name": "Indians",
+                "acronym": "GAU",
+                "short_name": "Gauting Indians",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/030/thumb/GI_Logo_I_Blue-Red-Otline_RGB.jpg?1681803869"
+              }
             }
           ]
         }
@@ -12607,7 +12619,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-07-11T05:15:47.992091",
+    "generated_at": "2026-07-12T05:31:35.132416",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
