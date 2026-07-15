@@ -4198,6 +4198,18 @@
               }
             },
             {
+              "id": 23875,
+              "league_entry_id": 46372,
+              "name": "Bretten Kangaroos",
+              "club": {
+                "id": 398,
+                "name": "Kangaroos",
+                "acronym": "BRK",
+                "short_name": "Bretten Kangaroos",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/398/thumb/Oldschool_Vector_MIX_002_transpar.png?1713003060"
+              }
+            },
+            {
               "id": 23882,
               "league_entry_id": 46373,
               "name": "Herrenberg Wanderers",
@@ -12339,8 +12351,8 @@
                 "id": 228,
                 "name": "Bears",
                 "acronym": "KSL",
-                "short_name": "K-Town Bears",
-                "logo_url": null
+                "short_name": "Kaiserslautern Bears",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/228/thumb/bears_%281%29.png?1783940680"
               }
             },
             {
@@ -12555,8 +12567,8 @@
                 "id": 228,
                 "name": "Bears",
                 "acronym": "KSL",
-                "short_name": "K-Town Bears",
-                "logo_url": null
+                "short_name": "Kaiserslautern Bears",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/228/thumb/bears_%281%29.png?1783940680"
               }
             }
           ]
@@ -12619,7 +12631,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-07-14T04:53:17.115874",
+    "generated_at": "2026-07-15T04:53:37.300288",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
