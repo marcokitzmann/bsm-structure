@@ -9568,6 +9568,18 @@
           "name": "Schüler Live Pitch Bayernliga (U12) - Bay. Meisterschaft",
           "teams": [
             {
+              "id": 24201,
+              "league_entry_id": 47176,
+              "name": "Guggenberger Legionäre",
+              "club": {
+                "id": 14,
+                "name": "Legionäre",
+                "acronym": "REG",
+                "short_name": "Guggenberger Legionäre",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/014/thumb/Legion%C3%A4re_SCRIPT_Logo_GUGGENBERGER_L_CoB.png?1646045867"
+              }
+            },
+            {
               "id": 24243,
               "league_entry_id": 47122,
               "name": "Gauting Indians",
@@ -12631,7 +12643,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-07-19T05:24:25.156709",
+    "generated_at": "2026-07-20T05:42:09.474354",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
