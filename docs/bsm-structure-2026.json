@@ -2088,7 +2088,32 @@
         "6133": {
           "id": 6133,
           "name": "Softball-Bundesliga Play-offs",
-          "teams": []
+          "teams": [
+            {
+              "id": 23596,
+              "league_entry_id": 47187,
+              "name": "Neunkirchen Nightmares",
+              "club": {
+                "id": 363,
+                "name": "Nightmares",
+                "acronym": "NKN",
+                "short_name": "Neunkirchen Nightmares",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/363/thumb/Nightmares-Kralle-transparent.png?1587225039"
+              }
+            },
+            {
+              "id": 23600,
+              "league_entry_id": 47189,
+              "name": "Stuttgart Reds",
+              "club": {
+                "id": 436,
+                "name": "Reds",
+                "acronym": "STU",
+                "short_name": "Stuttgart Reds",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/Stuttgart_Reds.png?1772970751"
+              }
+            }
+          ]
         },
         "6443": {
           "id": 6443,
@@ -2108,7 +2133,32 @@
         "6134": {
           "id": 6134,
           "name": "Deutschlandpokal Softball",
-          "teams": []
+          "teams": [
+            {
+              "id": 23595,
+              "league_entry_id": 47196,
+              "name": "Karlsruhe Cougars",
+              "club": {
+                "id": 414,
+                "name": "Cougars",
+                "acronym": "KAR",
+                "short_name": "Karlsruhe Cougars",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/414/thumb/Cougars-Favicon-Blue-Transparent-640px.png?1587225051"
+              }
+            },
+            {
+              "id": 23601,
+              "league_entry_id": 47201,
+              "name": "Tübingen Hawks",
+              "club": {
+                "id": 437,
+                "name": "Hawks",
+                "acronym": "TUB",
+                "short_name": "Tübingen Hawks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/437/thumb/20150301_Logo_Hawks_CMYK.png?1587225063"
+              }
+            }
+          ]
         },
         "6445": {
           "id": 6445,
@@ -12643,7 +12693,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-07-21T05:22:56.455649",
+    "generated_at": "2026-07-22T05:21:45.704610",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
