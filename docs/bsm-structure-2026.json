@@ -9672,6 +9672,177 @@
               }
             }
           ]
+        },
+        "6447": {
+          "id": 6447,
+          "name": "Landesliga Baseball Playoffs",
+          "teams": [
+            {
+              "id": 23658,
+              "league_entry_id": 47170,
+              "name": "Steinheim Red Phantoms",
+              "club": {
+                "id": 56,
+                "name": "Red Phantoms",
+                "acronym": "STE",
+                "short_name": "Steinheim Red Phantoms",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/056/thumb/17_Logo_Red_Phantoms_Kopie.jpg?1646866452"
+              }
+            },
+            {
+              "id": 23659,
+              "league_entry_id": 47171,
+              "name": "Füssen Royal Bavarians 2",
+              "club": {
+                "id": 28,
+                "name": "Royal Bavarians",
+                "acronym": "FUS",
+                "short_name": "Füssen Royal Bavarians",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/028/thumb/RB_Royal_Bavarians_Primary_Logo_4c_web.png?1587224979"
+              }
+            },
+            {
+              "id": 23697,
+              "league_entry_id": 47172,
+              "name": "Ingolstadt Schanzer",
+              "club": {
+                "id": 36,
+                "name": "Schanzer",
+                "acronym": "ING",
+                "short_name": "Ingolstadt Schanzer",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/036/thumb/00003015.png?1587224983"
+              }
+            },
+            {
+              "id": 23718,
+              "league_entry_id": 47173,
+              "name": "Allershausen Fireballs",
+              "club": {
+                "id": 549,
+                "name": "Fireballs",
+                "acronym": "ALL",
+                "short_name": "Allershausen Fireballs",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/549/thumb/00003046.png?1587225075"
+              }
+            },
+            {
+              "id": 23721,
+              "league_entry_id": 47174,
+              "name": "Guggenberger Legionäre 4",
+              "club": {
+                "id": 14,
+                "name": "Legionäre",
+                "acronym": "REG",
+                "short_name": "Guggenberger Legionäre",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/014/thumb/Legion%C3%A4re_SCRIPT_Logo_GUGGENBERGER_L_CoB.png?1646045867"
+              }
+            },
+            {
+              "id": 23723,
+              "league_entry_id": 47175,
+              "name": "Laub Raiders",
+              "club": {
+                "id": 629,
+                "name": "Raiders",
+                "acronym": "LUR",
+                "short_name": "Laub Raiders",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/629/thumb/LR_purple_facebook_profilepic.jpg?1587225087"
+              }
+            }
+          ]
+        },
+        "6449": {
+          "id": 6449,
+          "name": "Landesliga Baseball Süd (Herbstrunde)",
+          "teams": [
+            {
+              "id": 23695,
+              "league_entry_id": 47180,
+              "name": "SG Erding/Garching 2",
+              "clubs": [
+                {
+                  "id": 29,
+                  "name": "Atomics",
+                  "acronym": "GAR",
+                  "short_name": "Garching Atomics",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/029/thumb/00003024.png?1587224980"
+                },
+                {
+                  "id": 243,
+                  "name": "Mallards",
+                  "acronym": "ERD",
+                  "short_name": "Erding Mallards",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/243/thumb/logo_separiert_neue_Farben_2019_1920w.png?1587225021"
+                }
+              ]
+            },
+            {
+              "id": 23696,
+              "league_entry_id": 47181,
+              "name": "Baldham Boars",
+              "club": {
+                "id": 22,
+                "name": "Boars",
+                "acronym": "BAL",
+                "short_name": "Baldham Boars",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/022/thumb/Boars_Logo_Badge_RGB_White_Circle_BG.png?1748957783"
+              }
+            },
+            {
+              "id": 23708,
+              "league_entry_id": 47182,
+              "name": "München Caribes 3",
+              "club": {
+                "id": 46,
+                "name": "Caribes",
+                "acronym": "MUC",
+                "short_name": "München Caribes",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/046/thumb/MC_logo_palme_aufweiss_7C.jpg?1587224985"
+              }
+            },
+            {
+              "id": 23712,
+              "league_entry_id": 47183,
+              "name": "Augsburg Gators 2",
+              "club": {
+                "id": 20,
+                "name": "Gators",
+                "acronym": "AUG",
+                "short_name": "Augsburg Gators",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/020/thumb/Gators-Logo-Q.png?1703758339"
+              }
+            }
+          ]
+        },
+        "6448": {
+          "id": 6448,
+          "name": "Landesliga Baseball Nord (Herbstrunde)",
+          "teams": [
+            {
+              "id": 23710,
+              "league_entry_id": 47178,
+              "name": "Laufer Wölfe 2",
+              "club": {
+                "id": 8,
+                "name": "Wölfe",
+                "acronym": "LAU",
+                "short_name": "Laufer Wölfe",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/008/thumb/LW_logo_W_4C.jpg?1587224973"
+              }
+            },
+            {
+              "id": 23717,
+              "league_entry_id": 47179,
+              "name": "Schweinfurt Giants 2",
+              "club": {
+                "id": 611,
+                "name": "Giants",
+                "acronym": "SWF",
+                "short_name": "Schweinfurt Giants",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/611/thumb/SW_black___green_%28best%29.png?1702466653"
+              }
+            }
+          ]
         }
       }
     },
@@ -12693,7 +12864,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-07-22T05:21:45.704610",
+    "generated_at": "2026-07-23T05:27:45.568486",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
