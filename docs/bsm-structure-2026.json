@@ -9673,6 +9673,84 @@
             }
           ]
         },
+        "6439": {
+          "id": 6439,
+          "name": "Bayernliga Baseball Playdowns",
+          "teams": [
+            {
+              "id": 23644,
+              "league_entry_id": 47208,
+              "name": "Erlangen White Sox",
+              "club": {
+                "id": 6,
+                "name": "White Sox",
+                "acronym": "ERL",
+                "short_name": "Erlangen White Sox",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/006/thumb/logo_circle2025_2025-05-21_04_40_37.png?1747837456"
+              }
+            },
+            {
+              "id": 23646,
+              "league_entry_id": 47128,
+              "name": "Gröbenzell Bandits",
+              "club": {
+                "id": 32,
+                "name": "Bandits",
+                "acronym": "GRO",
+                "short_name": "Gröbenzell Bandits",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/032/thumb/00003003.png?1587224981"
+              }
+            },
+            {
+              "id": 23649,
+              "league_entry_id": 47129,
+              "name": "Schweinfurt Giants",
+              "club": {
+                "id": 611,
+                "name": "Giants",
+                "acronym": "SWF",
+                "short_name": "Schweinfurt Giants",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/611/thumb/SW_black___green_%28best%29.png?1702466653"
+              }
+            },
+            {
+              "id": 23654,
+              "league_entry_id": 47165,
+              "name": "Guggenberger Legionäre 3",
+              "club": {
+                "id": 14,
+                "name": "Legionäre",
+                "acronym": "REG",
+                "short_name": "Guggenberger Legionäre",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/014/thumb/Legion%C3%A4re_SCRIPT_Logo_GUGGENBERGER_L_CoB.png?1646045867"
+              }
+            },
+            {
+              "id": 23655,
+              "league_entry_id": 47209,
+              "name": "Kronach Royals",
+              "club": {
+                "id": 37,
+                "name": "Royals",
+                "acronym": "KCR",
+                "short_name": "Kronach Royals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/037/thumb/Logo2_neu.jpg?1587224984"
+              }
+            },
+            {
+              "id": 23656,
+              "league_entry_id": 47166,
+              "name": "München Caribes 2",
+              "club": {
+                "id": 46,
+                "name": "Caribes",
+                "acronym": "MUC",
+                "short_name": "München Caribes",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/046/thumb/MC_logo_palme_aufweiss_7C.jpg?1587224985"
+              }
+            }
+          ]
+        },
         "6447": {
           "id": 6447,
           "name": "Landesliga Baseball Playoffs",
@@ -9810,6 +9888,84 @@
                 "acronym": "AUG",
                 "short_name": "Augsburg Gators",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/020/thumb/Gators-Logo-Q.png?1703758339"
+              }
+            }
+          ]
+        },
+        "6438": {
+          "id": 6438,
+          "name": "Bayernliga Baseball Playoffs",
+          "teams": [
+            {
+              "id": 23642,
+              "league_entry_id": 47126,
+              "name": "Augsburg Gators",
+              "club": {
+                "id": 20,
+                "name": "Gators",
+                "acronym": "AUG",
+                "short_name": "Augsburg Gators",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/020/thumb/Gators-Logo-Q.png?1703758339"
+              }
+            },
+            {
+              "id": 23643,
+              "league_entry_id": 47164,
+              "name": "Disciples München-Haar 2",
+              "club": {
+                "id": 35,
+                "name": "Disciples",
+                "acronym": "HAA",
+                "short_name": "Disciples München-Haar",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/035/thumb/00003009.png?1587224982"
+              }
+            },
+            {
+              "id": 23645,
+              "league_entry_id": 47205,
+              "name": "Fürth Pirates",
+              "club": {
+                "id": 4,
+                "name": "Pirates",
+                "acronym": "FUR",
+                "short_name": "Fürth Pirates",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/004/thumb/FuerthPirates.jpg?1702023686"
+              }
+            },
+            {
+              "id": 23647,
+              "league_entry_id": 47206,
+              "name": "Laufer Wölfe",
+              "club": {
+                "id": 8,
+                "name": "Wölfe",
+                "acronym": "LAU",
+                "short_name": "Laufer Wölfe",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/008/thumb/LW_logo_W_4C.jpg?1587224973"
+              }
+            },
+            {
+              "id": 23648,
+              "league_entry_id": 47207,
+              "name": "Memmelsdorf Barons",
+              "club": {
+                "id": 41,
+                "name": "Barons",
+                "acronym": "MEM",
+                "short_name": "Memmelsdorf Barons",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/041/thumb/Barons_Logo_Neu_2.png?1672048031"
+              }
+            },
+            {
+              "id": 23653,
+              "league_entry_id": 47127,
+              "name": "Schwaig Red Lions 2",
+              "club": {
+                "id": 555,
+                "name": "Red Lions",
+                "acronym": "SRL",
+                "short_name": "Schwaig Red Lions",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/555/thumb/Logo_Red_Lions_auf_schwarz_100_DPI.png?1587225078"
               }
             }
           ]
@@ -12864,7 +13020,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-07-26T05:36:47.290733",
+    "generated_at": "2026-07-27T05:53:04.095298",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
