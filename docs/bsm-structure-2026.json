@@ -1990,7 +1990,20 @@
         "6129": {
           "id": 6129,
           "name": "Deutsche Baseball Liga Play-offs",
-          "teams": []
+          "teams": [
+            {
+              "id": 23587,
+              "league_entry_id": 47215,
+              "name": "Mainz Athletics",
+              "club": {
+                "id": 1,
+                "name": "Athletics",
+                "acronym": "MAI",
+                "short_name": "Mainz Athletics",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/001/thumb/as_logo.png?1587224970"
+              }
+            }
+          ]
         },
         "6441": {
           "id": 6441,
@@ -13020,7 +13033,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-07-29T05:24:31.642625",
+    "generated_at": "2026-07-30T05:11:26.412718",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
