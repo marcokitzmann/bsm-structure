@@ -11078,6 +11078,11 @@
               ]
             }
           ]
+        },
+        "6378": {
+          "id": 6378,
+          "name": "Mitteldeutsche Verbandsliga Baseball Playoffs",
+          "teams": []
         }
       }
     },
@@ -13165,7 +13170,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-08-10T03:58:34.280527",
+    "generated_at": "2026-08-11T03:46:58.507514",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
