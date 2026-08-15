@@ -2273,7 +2273,92 @@
         "6143": {
           "id": 6143,
           "name": "2. Baseball-Bundesliga Süd Play-offs",
-          "teams": []
+          "teams": [
+            {
+              "id": 23604,
+              "league_entry_id": 47313,
+              "name": "Bayerische Baseball Academy",
+              "club": {
+                "id": 841,
+                "name": "Academy",
+                "acronym": "BBA",
+                "short_name": "Bayerische Baseball Academy",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/841/thumb/Legion%C3%A4re_ACADEMY_BRIDGE_CoW.png?1681371274"
+              }
+            },
+            {
+              "id": 23615,
+              "league_entry_id": 47314,
+              "name": "Füssen Royal Bavarians",
+              "club": {
+                "id": 28,
+                "name": "Royal Bavarians",
+                "acronym": "FUS",
+                "short_name": "Füssen Royal Bavarians",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/028/thumb/RB_Royal_Bavarians_Primary_Logo_4c_web.png?1587224979"
+              }
+            },
+            {
+              "id": 23621,
+              "league_entry_id": 47315,
+              "name": "Heidenheim Heideköpfe 2",
+              "club": {
+                "id": 408,
+                "name": "Heideköpfe",
+                "acronym": "HDH",
+                "short_name": "Heidenheim Heideköpfe",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/408/thumb/Heidekopf_Logo2018_clipped_rev_1.png?1773132925"
+              }
+            },
+            {
+              "id": 23624,
+              "league_entry_id": 47316,
+              "name": "Mannheim Tornados",
+              "club": {
+                "id": 419,
+                "name": "Mannheim Tornados",
+                "acronym": "MAT",
+                "short_name": "Mannheim Tornados",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/419/thumb/tornadosrundbbsb723cm.jpg?1587225052"
+              }
+            },
+            {
+              "id": 23625,
+              "league_entry_id": 47317,
+              "name": "München Caribes",
+              "club": {
+                "id": 46,
+                "name": "Caribes",
+                "acronym": "MUC",
+                "short_name": "München Caribes",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/046/thumb/MC_logo_palme_aufweiss_7C.jpg?1587224985"
+              }
+            },
+            {
+              "id": 23626,
+              "league_entry_id": 47318,
+              "name": "Neuenburg Atomics",
+              "club": {
+                "id": 422,
+                "name": "Atomics",
+                "acronym": "NAT",
+                "short_name": "Neuenburg Atomics",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/422/thumb/Atomics_A.jpg?1587225054"
+              }
+            },
+            {
+              "id": 23628,
+              "league_entry_id": 47319,
+              "name": "Saarlouis Hornets",
+              "club": {
+                "id": 237,
+                "name": "Hornets",
+                "acronym": "SLS",
+                "short_name": "Saarlouis Hornets",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/237/thumb/Logo_Hornets_Akzent_09_2021.png?1687501902"
+              }
+            }
+          ]
         },
         "6134": {
           "id": 6134,
@@ -14429,7 +14514,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-08-14T04:10:24.473868",
+    "generated_at": "2026-08-15T02:53:24.070013",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
