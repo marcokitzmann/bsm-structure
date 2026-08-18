@@ -2235,6 +2235,18 @@
               }
             },
             {
+              "id": 23599,
+              "league_entry_id": 47188,
+              "name": "SCC Berlin Challengers",
+              "club": {
+                "id": 486,
+                "name": "SCC Challengers",
+                "acronym": "BEC",
+                "short_name": "SCC e.V.",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/486/thumb/challengers_Logo_NEW.jpg?1587225071"
+              }
+            },
+            {
               "id": 23600,
               "league_entry_id": 47189,
               "name": "Stuttgart Reds",
@@ -2257,6 +2269,18 @@
                 "short_name": "Wesseling Vermins",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/387/thumb/Wesseling_logo.jpg?1587225044"
               }
+            },
+            {
+              "id": 23636,
+              "league_entry_id": 47191,
+              "name": "Untouchables Paderborn",
+              "club": {
+                "id": 365,
+                "name": "Untouchables",
+                "acronym": "UNT",
+                "short_name": "Untouchables Paderborn",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/365/thumb/Ball_auf_wei%C3%9F-1.jpg?1587225040"
+              }
             }
           ]
         },
@@ -2268,7 +2292,56 @@
         "6142": {
           "id": 6142,
           "name": "2. Baseball-Bundesliga Nord Play-offs",
-          "teams": []
+          "teams": [
+            {
+              "id": 23606,
+              "league_entry_id": 47320,
+              "name": "Berlin Flamingos",
+              "club": {
+                "id": 604,
+                "name": "Flamingos",
+                "acronym": "FLA",
+                "short_name": "Berlin Flamingos",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/604/thumb/flalogo_big_freigestellt.png?1625524563"
+              }
+            },
+            {
+              "id": 23610,
+              "league_entry_id": 47322,
+              "name": "Bremen Dockers",
+              "club": {
+                "id": 445,
+                "name": "Dockers",
+                "acronym": "BRE",
+                "short_name": "Bremen Dockers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/445/thumb/Dockers_Logo_neu_2018.jpg?1587225065"
+              }
+            },
+            {
+              "id": 23613,
+              "league_entry_id": 47323,
+              "name": "Dohren Wild Farmers",
+              "club": {
+                "id": 453,
+                "name": "Wild Farmers",
+                "acronym": "DWF",
+                "short_name": "Dohren Wild Farmers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/453/thumb/DohrenWildFarmers.jpg?1587225067"
+              }
+            },
+            {
+              "id": 23630,
+              "league_entry_id": 47326,
+              "name": "Solingen Alligators",
+              "club": {
+                "id": 378,
+                "name": "Alligators",
+                "acronym": "SOL",
+                "short_name": "Solingen Alligators",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/378/thumb/AS-Gr%C3%BCn_200x200px.png?1733997493"
+              }
+            }
+          ]
         },
         "6143": {
           "id": 6143,
@@ -2374,6 +2447,18 @@
                 "acronym": "KAR",
                 "short_name": "Karlsruhe Cougars",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/414/thumb/Cougars-Favicon-Blue-Transparent-640px.png?1587225051"
+              }
+            },
+            {
+              "id": 23598,
+              "league_entry_id": 47198,
+              "name": "Ratingen Goose-Necks",
+              "club": {
+                "id": 371,
+                "name": "Goose-Necks",
+                "acronym": "RAT",
+                "short_name": "Ratingen Goose-Necks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/371/thumb/150px-GooseNecks-R.png?1747212060"
               }
             },
             {
@@ -11488,6 +11573,36 @@
               }
             }
           ]
+        },
+        "6464": {
+          "id": 6464,
+          "name": "Landesklasse Baseball Playoffs",
+          "teams": [
+            {
+              "id": 23713,
+              "league_entry_id": 47330,
+              "name": "Augsburg Gators 3",
+              "club": {
+                "id": 20,
+                "name": "Gators",
+                "acronym": "AUG",
+                "short_name": "Augsburg Gators",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/020/thumb/Gators-Logo-Q.png?1703758339"
+              }
+            },
+            {
+              "id": 23798,
+              "league_entry_id": 47329,
+              "name": "Gauting Indians 3",
+              "club": {
+                "id": 30,
+                "name": "Indians",
+                "acronym": "GAU",
+                "short_name": "Gauting Indians",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/030/thumb/GI_Logo_I_Blue-Red-Otline_RGB.jpg?1681803869"
+              }
+            }
+          ]
         }
       }
     },
@@ -14514,7 +14629,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-08-17T03:01:45.327330",
+    "generated_at": "2026-08-18T02:57:14.100954",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
