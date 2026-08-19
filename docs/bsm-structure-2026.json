@@ -808,72 +808,6 @@
             }
           ]
         },
-        "6418": {
-          "id": 6418,
-          "name": "LP U18 BB Gruppe A",
-          "teams": [
-            {
-              "id": 24398,
-              "league_entry_id": 46982,
-              "name": "Nordrhein-Westfalen",
-              "club": {
-                "id": 867,
-                "name": null,
-                "acronym": "BSVNRW",
-                "short_name": "Nordrhein-Westfalen",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/867/thumb/BSVNRW.jpg?1774871352"
-              }
-            },
-            {
-              "id": 24399,
-              "league_entry_id": 46983,
-              "name": "Baden-Württemberg",
-              "club": {
-                "id": 868,
-                "name": null,
-                "acronym": "BWBSV",
-                "short_name": "Baden-Württemberg",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/868/thumb/BWBSV_Logo.png?1774871488"
-              }
-            },
-            {
-              "id": 24400,
-              "league_entry_id": 46984,
-              "name": "Berlin-Brandenburg",
-              "club": {
-                "id": 866,
-                "name": null,
-                "acronym": "BSVBB",
-                "short_name": "Berlin-Brandenburg",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/866/thumb/BSVBB.jpg?1774871231"
-              }
-            },
-            {
-              "id": 24401,
-              "league_entry_id": 46985,
-              "name": "Niedersachsen",
-              "club": {
-                "id": 873,
-                "name": null,
-                "acronym": "NBSV",
-                "short_name": "Niedersachsen",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/873/thumb/NBSV_Logo.jpg?1774873276"
-              }
-            },
-            {
-              "id": 24402,
-              "league_entry_id": 46986,
-              "name": "Südwest",
-              "club": {
-                "id": 874,
-                "name": null,
-                "acronym": "SWBSV",
-                "short_name": "Südwest",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/874/thumb/SWBSV-Final-CMYK_square.jpg?1774873474"
-              }
-            }
-          ]
-        },
         "6328": {
           "id": 6328,
           "name": "LP U12 BB Gruppe A",
@@ -1101,6 +1035,72 @@
                 "acronym": "BWBSV",
                 "short_name": "Baden-Württemberg",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/868/thumb/BWBSV_Logo.png?1774871488"
+              }
+            }
+          ]
+        },
+        "6418": {
+          "id": 6418,
+          "name": "LP U18 BB Gruppe A",
+          "teams": [
+            {
+              "id": 24398,
+              "league_entry_id": 46982,
+              "name": "Nordrhein-Westfalen",
+              "club": {
+                "id": 867,
+                "name": null,
+                "acronym": "BSVNRW",
+                "short_name": "Nordrhein-Westfalen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/867/thumb/BSVNRW.jpg?1774871352"
+              }
+            },
+            {
+              "id": 24399,
+              "league_entry_id": 46983,
+              "name": "Baden-Württemberg",
+              "club": {
+                "id": 868,
+                "name": null,
+                "acronym": "BWBSV",
+                "short_name": "Baden-Württemberg",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/868/thumb/BWBSV_Logo.png?1774871488"
+              }
+            },
+            {
+              "id": 24400,
+              "league_entry_id": 46984,
+              "name": "Berlin-Brandenburg",
+              "club": {
+                "id": 866,
+                "name": null,
+                "acronym": "BSVBB",
+                "short_name": "Berlin-Brandenburg",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/866/thumb/BSVBB.jpg?1774871231"
+              }
+            },
+            {
+              "id": 24401,
+              "league_entry_id": 46985,
+              "name": "Niedersachsen",
+              "club": {
+                "id": 873,
+                "name": null,
+                "acronym": "NBSV",
+                "short_name": "Niedersachsen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/873/thumb/NBSV_Logo.jpg?1774873276"
+              }
+            },
+            {
+              "id": 24402,
+              "league_entry_id": 46986,
+              "name": "Südwest",
+              "club": {
+                "id": 874,
+                "name": null,
+                "acronym": "SWBSV",
+                "short_name": "Südwest",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/874/thumb/SWBSV-Final-CMYK_square.jpg?1774873474"
               }
             }
           ]
@@ -2089,48 +2089,6 @@
             }
           ]
         },
-        "6441": {
-          "id": 6441,
-          "name": "LP U15 BB Gruppe A",
-          "teams": [
-            {
-              "id": 24446,
-              "league_entry_id": 47136,
-              "name": "Baden-Württemberg",
-              "club": {
-                "id": 868,
-                "name": null,
-                "acronym": "BWBSV",
-                "short_name": "Baden-Württemberg",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/868/thumb/BWBSV_Logo.png?1774871488"
-              }
-            },
-            {
-              "id": 24448,
-              "league_entry_id": 47137,
-              "name": "Südwest",
-              "club": {
-                "id": 874,
-                "name": null,
-                "acronym": "SWBSV",
-                "short_name": "Südwest",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/874/thumb/SWBSV-Final-CMYK_square.jpg?1774873474"
-              }
-            },
-            {
-              "id": 24450,
-              "league_entry_id": 47138,
-              "name": "Niedersachsen",
-              "club": {
-                "id": 873,
-                "name": null,
-                "acronym": "NBSV",
-                "short_name": "Niedersachsen",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/873/thumb/NBSV_Logo.jpg?1774873276"
-              }
-            }
-          ]
-        },
         "6442": {
           "id": 6442,
           "name": "LP U15 BB Gruppe B",
@@ -2179,6 +2137,48 @@
                   "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/871/thumb/SHBV-Logo-Neu.jpg?1774873067"
                 }
               ]
+            }
+          ]
+        },
+        "6441": {
+          "id": 6441,
+          "name": "LP U15 BB Gruppe A",
+          "teams": [
+            {
+              "id": 24446,
+              "league_entry_id": 47136,
+              "name": "Baden-Württemberg",
+              "club": {
+                "id": 868,
+                "name": null,
+                "acronym": "BWBSV",
+                "short_name": "Baden-Württemberg",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/868/thumb/BWBSV_Logo.png?1774871488"
+              }
+            },
+            {
+              "id": 24448,
+              "league_entry_id": 47137,
+              "name": "Südwest",
+              "club": {
+                "id": 874,
+                "name": null,
+                "acronym": "SWBSV",
+                "short_name": "Südwest",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/874/thumb/SWBSV-Final-CMYK_square.jpg?1774873474"
+              }
+            },
+            {
+              "id": 24450,
+              "league_entry_id": 47138,
+              "name": "Niedersachsen",
+              "club": {
+                "id": 873,
+                "name": null,
+                "acronym": "NBSV",
+                "short_name": "Niedersachsen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/873/thumb/NBSV_Logo.jpg?1774873276"
+              }
             }
           ]
         },
@@ -3724,6 +3724,84 @@
             }
           ]
         },
+        "6348": {
+          "id": 6348,
+          "name": "Landesliga Herren",
+          "teams": [
+            {
+              "id": 23956,
+              "league_entry_id": 46423,
+              "name": "Bühl Blackwoods",
+              "club": {
+                "id": 805,
+                "name": "Blackwoods",
+                "acronym": "BBW",
+                "short_name": "Bühl Blackwoods",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/805/thumb/TVB_BB_Emblem.jpg?1587225091"
+              }
+            },
+            {
+              "id": 24026,
+              "league_entry_id": 46424,
+              "name": "Neuenburg Atomics 2",
+              "club": {
+                "id": 422,
+                "name": "Atomics",
+                "acronym": "NAT",
+                "short_name": "Neuenburg Atomics",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/422/thumb/Atomics_A.jpg?1587225054"
+              }
+            },
+            {
+              "id": 24048,
+              "league_entry_id": 46425,
+              "name": "Heidelberg Hedgehogs 2",
+              "club": {
+                "id": 407,
+                "name": "Hedgehogs",
+                "acronym": "HEH",
+                "short_name": "Heidelberg Hedgehogs",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/407/thumb/hedgehogs_logo_rot_schwarz_3D.png?1587225049"
+              }
+            },
+            {
+              "id": 24060,
+              "league_entry_id": 46426,
+              "name": "Nagold Mohawks",
+              "club": {
+                "id": 421,
+                "name": "Mohawks",
+                "acronym": "NAG",
+                "short_name": "Nagold Mohawks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/421/thumb/Mohawks_official_400.png?1587225053"
+              }
+            },
+            {
+              "id": 24115,
+              "league_entry_id": 46427,
+              "name": "Karlsruhe Cougars 2",
+              "club": {
+                "id": 414,
+                "name": "Cougars",
+                "acronym": "KAR",
+                "short_name": "Karlsruhe Cougars",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/414/thumb/Cougars-Favicon-Blue-Transparent-640px.png?1587225051"
+              }
+            },
+            {
+              "id": 24134,
+              "league_entry_id": 46428,
+              "name": "Freiburg Knights",
+              "club": {
+                "id": 403,
+                "name": "Knights",
+                "acronym": "FRK",
+                "short_name": "Freiburg Knights",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/403/thumb/Knights_Logo_2020.png?1626179640"
+              }
+            }
+          ]
+        },
         "6366": {
           "id": 6366,
           "name": "Baseball Pokal",
@@ -3990,84 +4068,6 @@
                 "acronym": "ESS",
                 "short_name": "Taínos Arawak Esslingen",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/843/thumb/logo_klein.jpg?1673785100"
-              }
-            }
-          ]
-        },
-        "6348": {
-          "id": 6348,
-          "name": "Landesliga Herren",
-          "teams": [
-            {
-              "id": 23956,
-              "league_entry_id": 46423,
-              "name": "Bühl Blackwoods",
-              "club": {
-                "id": 805,
-                "name": "Blackwoods",
-                "acronym": "BBW",
-                "short_name": "Bühl Blackwoods",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/805/thumb/TVB_BB_Emblem.jpg?1587225091"
-              }
-            },
-            {
-              "id": 24026,
-              "league_entry_id": 46424,
-              "name": "Neuenburg Atomics 2",
-              "club": {
-                "id": 422,
-                "name": "Atomics",
-                "acronym": "NAT",
-                "short_name": "Neuenburg Atomics",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/422/thumb/Atomics_A.jpg?1587225054"
-              }
-            },
-            {
-              "id": 24048,
-              "league_entry_id": 46425,
-              "name": "Heidelberg Hedgehogs 2",
-              "club": {
-                "id": 407,
-                "name": "Hedgehogs",
-                "acronym": "HEH",
-                "short_name": "Heidelberg Hedgehogs",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/407/thumb/hedgehogs_logo_rot_schwarz_3D.png?1587225049"
-              }
-            },
-            {
-              "id": 24060,
-              "league_entry_id": 46426,
-              "name": "Nagold Mohawks",
-              "club": {
-                "id": 421,
-                "name": "Mohawks",
-                "acronym": "NAG",
-                "short_name": "Nagold Mohawks",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/421/thumb/Mohawks_official_400.png?1587225053"
-              }
-            },
-            {
-              "id": 24115,
-              "league_entry_id": 46427,
-              "name": "Karlsruhe Cougars 2",
-              "club": {
-                "id": 414,
-                "name": "Cougars",
-                "acronym": "KAR",
-                "short_name": "Karlsruhe Cougars",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/414/thumb/Cougars-Favicon-Blue-Transparent-640px.png?1587225051"
-              }
-            },
-            {
-              "id": 24134,
-              "league_entry_id": 46428,
-              "name": "Freiburg Knights",
-              "club": {
-                "id": 403,
-                "name": "Knights",
-                "acronym": "FRK",
-                "short_name": "Freiburg Knights",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/403/thumb/Knights_Logo_2020.png?1626179640"
               }
             }
           ]
@@ -6495,6 +6495,72 @@
     "BSVBB": {
       "id": "organization_9",
       "leagues": {
+        "6209": {
+          "id": 6209,
+          "name": "Landesliga Baseball",
+          "teams": [
+            {
+              "id": 23925,
+              "league_entry_id": 46099,
+              "name": "Sluggers 2",
+              "club": {
+                "id": 492,
+                "name": "Sluggers",
+                "acronym": "BES",
+                "short_name": "Berlin Sluggers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/492/thumb/SluggersLogo2011Fin_dklrot_kl.png?1587225072"
+              }
+            },
+            {
+              "id": 24009,
+              "league_entry_id": 46100,
+              "name": "Wizards 2",
+              "club": {
+                "id": 494,
+                "name": "Wizards",
+                "acronym": "BEW",
+                "short_name": "Berlin Wizards",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/494/thumb/Wizards-Logo-200x200.png?1741764774"
+              }
+            },
+            {
+              "id": 24032,
+              "league_entry_id": 46101,
+              "name": "Challengers",
+              "club": {
+                "id": 486,
+                "name": "SCC Challengers",
+                "acronym": "BEC",
+                "short_name": "SCC e.V.",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/486/thumb/challengers_Logo_NEW.jpg?1587225071"
+              }
+            },
+            {
+              "id": 24040,
+              "league_entry_id": 46102,
+              "name": "Porcupines 2",
+              "club": {
+                "id": 498,
+                "name": "Porcupines",
+                "acronym": "POT",
+                "short_name": "Potsdam Porcupines",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24127,
+              "league_entry_id": 46103,
+              "name": "Flamingos 2",
+              "club": {
+                "id": 604,
+                "name": "Flamingos",
+                "acronym": "FLA",
+                "short_name": "Berlin Flamingos",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/604/thumb/flalogo_big_freigestellt.png?1625524563"
+              }
+            }
+          ]
+        },
         "6208": {
           "id": 6208,
           "name": "Landesliga Baseball",
@@ -6621,72 +6687,6 @@
             }
           ]
         },
-        "6209": {
-          "id": 6209,
-          "name": "Landesliga Baseball",
-          "teams": [
-            {
-              "id": 23925,
-              "league_entry_id": 46099,
-              "name": "Sluggers 2",
-              "club": {
-                "id": 492,
-                "name": "Sluggers",
-                "acronym": "BES",
-                "short_name": "Berlin Sluggers",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/492/thumb/SluggersLogo2011Fin_dklrot_kl.png?1587225072"
-              }
-            },
-            {
-              "id": 24009,
-              "league_entry_id": 46100,
-              "name": "Wizards 2",
-              "club": {
-                "id": 494,
-                "name": "Wizards",
-                "acronym": "BEW",
-                "short_name": "Berlin Wizards",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/494/thumb/Wizards-Logo-200x200.png?1741764774"
-              }
-            },
-            {
-              "id": 24032,
-              "league_entry_id": 46101,
-              "name": "Challengers",
-              "club": {
-                "id": 486,
-                "name": "SCC Challengers",
-                "acronym": "BEC",
-                "short_name": "SCC e.V.",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/486/thumb/challengers_Logo_NEW.jpg?1587225071"
-              }
-            },
-            {
-              "id": 24040,
-              "league_entry_id": 46102,
-              "name": "Porcupines 2",
-              "club": {
-                "id": 498,
-                "name": "Porcupines",
-                "acronym": "POT",
-                "short_name": "Potsdam Porcupines",
-                "logo_url": null
-              }
-            },
-            {
-              "id": 24127,
-              "league_entry_id": 46103,
-              "name": "Flamingos 2",
-              "club": {
-                "id": 604,
-                "name": "Flamingos",
-                "acronym": "FLA",
-                "short_name": "Berlin Flamingos",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/604/thumb/flalogo_big_freigestellt.png?1625524563"
-              }
-            }
-          ]
-        },
         "6224": {
           "id": 6224,
           "name": "Junorinnenliga Softball",
@@ -6713,6 +6713,60 @@
                 "acronym": "BER",
                 "short_name": "NSF Berlin Ravens / Roosters",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/491/thumb/logo-baseballworld-website.png?1587225072"
+              }
+            }
+          ]
+        },
+        "6218": {
+          "id": 6218,
+          "name": "Schülerliga Baseball",
+          "teams": [
+            {
+              "id": 23996,
+              "league_entry_id": 46080,
+              "name": "Skylarks",
+              "club": {
+                "id": 485,
+                "name": "Skylarks",
+                "acronym": "BEA",
+                "short_name": "Berlin Skylarks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/485/thumb/Skylarks_Logo-Rondell_200px.png?1608387861"
+              }
+            },
+            {
+              "id": 24013,
+              "league_entry_id": 46081,
+              "name": "Wizards",
+              "club": {
+                "id": 494,
+                "name": "Wizards",
+                "acronym": "BEW",
+                "short_name": "Berlin Wizards",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/494/thumb/Wizards-Logo-200x200.png?1741764774"
+              }
+            },
+            {
+              "id": 24041,
+              "league_entry_id": 46082,
+              "name": "Porcupines",
+              "club": {
+                "id": 498,
+                "name": "Porcupines",
+                "acronym": "POT",
+                "short_name": "Potsdam Porcupines",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24129,
+              "league_entry_id": 46083,
+              "name": "Flamingos",
+              "club": {
+                "id": 604,
+                "name": "Flamingos",
+                "acronym": "FLA",
+                "short_name": "Berlin Flamingos",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/604/thumb/flalogo_big_freigestellt.png?1625524563"
               }
             }
           ]
@@ -6782,60 +6836,6 @@
               "id": 24130,
               "league_entry_id": 46108,
               "name": "Flamingos 2",
-              "club": {
-                "id": 604,
-                "name": "Flamingos",
-                "acronym": "FLA",
-                "short_name": "Berlin Flamingos",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/604/thumb/flalogo_big_freigestellt.png?1625524563"
-              }
-            }
-          ]
-        },
-        "6218": {
-          "id": 6218,
-          "name": "Schülerliga Baseball",
-          "teams": [
-            {
-              "id": 23996,
-              "league_entry_id": 46080,
-              "name": "Skylarks",
-              "club": {
-                "id": 485,
-                "name": "Skylarks",
-                "acronym": "BEA",
-                "short_name": "Berlin Skylarks",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/485/thumb/Skylarks_Logo-Rondell_200px.png?1608387861"
-              }
-            },
-            {
-              "id": 24013,
-              "league_entry_id": 46081,
-              "name": "Wizards",
-              "club": {
-                "id": 494,
-                "name": "Wizards",
-                "acronym": "BEW",
-                "short_name": "Berlin Wizards",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/494/thumb/Wizards-Logo-200x200.png?1741764774"
-              }
-            },
-            {
-              "id": 24041,
-              "league_entry_id": 46082,
-              "name": "Porcupines",
-              "club": {
-                "id": 498,
-                "name": "Porcupines",
-                "acronym": "POT",
-                "short_name": "Potsdam Porcupines",
-                "logo_url": null
-              }
-            },
-            {
-              "id": 24129,
-              "league_entry_id": 46083,
-              "name": "Flamingos",
               "club": {
                 "id": 604,
                 "name": "Flamingos",
@@ -7002,6 +7002,72 @@
             }
           ]
         },
+        "6205": {
+          "id": 6205,
+          "name": "Verbandsliga Baseball",
+          "teams": [
+            {
+              "id": 23924,
+              "league_entry_id": 46084,
+              "name": "Sluggers",
+              "club": {
+                "id": 492,
+                "name": "Sluggers",
+                "acronym": "BES",
+                "short_name": "Berlin Sluggers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/492/thumb/SluggersLogo2011Fin_dklrot_kl.png?1587225072"
+              }
+            },
+            {
+              "id": 24008,
+              "league_entry_id": 46085,
+              "name": "Wizards",
+              "club": {
+                "id": 494,
+                "name": "Wizards",
+                "acronym": "BEW",
+                "short_name": "Berlin Wizards",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/494/thumb/Wizards-Logo-200x200.png?1741764774"
+              }
+            },
+            {
+              "id": 24017,
+              "league_entry_id": 46086,
+              "name": "Skylarks 2",
+              "club": {
+                "id": 485,
+                "name": "Skylarks",
+                "acronym": "BEA",
+                "short_name": "Berlin Skylarks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/485/thumb/Skylarks_Logo-Rondell_200px.png?1608387861"
+              }
+            },
+            {
+              "id": 24036,
+              "league_entry_id": 46087,
+              "name": "Wallbreakers",
+              "club": {
+                "id": 249,
+                "name": "Wallbreakers",
+                "acronym": "LWA",
+                "short_name": "Leipzig Wallbreakers",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24038,
+              "league_entry_id": 46088,
+              "name": "Porcupines",
+              "club": {
+                "id": 498,
+                "name": "Porcupines",
+                "acronym": "POT",
+                "short_name": "Potsdam Porcupines",
+                "logo_url": null
+              }
+            }
+          ]
+        },
         "6214": {
           "id": 6214,
           "name": "Jugend-Landesliga Baseball",
@@ -7106,72 +7172,6 @@
                 "acronym": "FLA",
                 "short_name": "Berlin Flamingos",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/604/thumb/flalogo_big_freigestellt.png?1625524563"
-              }
-            }
-          ]
-        },
-        "6205": {
-          "id": 6205,
-          "name": "Verbandsliga Baseball",
-          "teams": [
-            {
-              "id": 23924,
-              "league_entry_id": 46084,
-              "name": "Sluggers",
-              "club": {
-                "id": 492,
-                "name": "Sluggers",
-                "acronym": "BES",
-                "short_name": "Berlin Sluggers",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/492/thumb/SluggersLogo2011Fin_dklrot_kl.png?1587225072"
-              }
-            },
-            {
-              "id": 24008,
-              "league_entry_id": 46085,
-              "name": "Wizards",
-              "club": {
-                "id": 494,
-                "name": "Wizards",
-                "acronym": "BEW",
-                "short_name": "Berlin Wizards",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/494/thumb/Wizards-Logo-200x200.png?1741764774"
-              }
-            },
-            {
-              "id": 24017,
-              "league_entry_id": 46086,
-              "name": "Skylarks 2",
-              "club": {
-                "id": 485,
-                "name": "Skylarks",
-                "acronym": "BEA",
-                "short_name": "Berlin Skylarks",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/485/thumb/Skylarks_Logo-Rondell_200px.png?1608387861"
-              }
-            },
-            {
-              "id": 24036,
-              "league_entry_id": 46087,
-              "name": "Wallbreakers",
-              "club": {
-                "id": 249,
-                "name": "Wallbreakers",
-                "acronym": "LWA",
-                "short_name": "Leipzig Wallbreakers",
-                "logo_url": null
-              }
-            },
-            {
-              "id": 24038,
-              "league_entry_id": 46088,
-              "name": "Porcupines",
-              "club": {
-                "id": 498,
-                "name": "Porcupines",
-                "acronym": "POT",
-                "short_name": "Potsdam Porcupines",
-                "logo_url": null
               }
             }
           ]
@@ -13463,15 +13463,40 @@
             }
           ]
         },
-        "6310": {
-          "id": 6310,
-          "name": "NBSV Schüler Finale  2026",
-          "teams": []
-        },
         "6296": {
           "id": 6296,
           "name": "NBSV Finale Verbandsliga 2026",
           "teams": []
+        },
+        "6310": {
+          "id": 6310,
+          "name": "NBSV Schüler Finale  2026",
+          "teams": [
+            {
+              "id": 24190,
+              "league_entry_id": 47331,
+              "name": "Braunschweig 89ers",
+              "club": {
+                "id": 447,
+                "name": "89ers",
+                "acronym": "BSK",
+                "short_name": "Braunschweig 89ers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/447/thumb/logo_Braunschweig89ers_Wappen.png?1587225066"
+              }
+            },
+            {
+              "id": 24191,
+              "league_entry_id": 47332,
+              "name": "Dohren Wild Farmers",
+              "club": {
+                "id": 453,
+                "name": "Wild Farmers",
+                "acronym": "DWF",
+                "short_name": "Dohren Wild Farmers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/453/thumb/DohrenWildFarmers.jpg?1587225067"
+              }
+            }
+          ]
         },
         "6305": {
           "id": 6305,
@@ -13524,6 +13549,84 @@
                 "acronym": "HHS",
                 "short_name": "Hamburg Stealers",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
+              }
+            }
+          ]
+        },
+        "6262": {
+          "id": 6262,
+          "name": "Baseball Landesliga",
+          "teams": [
+            {
+              "id": 23803,
+              "league_entry_id": 46220,
+              "name": "Hamburg Knights 2",
+              "club": {
+                "id": 254,
+                "name": "Knights",
+                "acronym": "HHK",
+                "short_name": "Hamburg Knights",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/254/thumb/knights.jpg?1587225027"
+              }
+            },
+            {
+              "id": 23836,
+              "league_entry_id": 46221,
+              "name": "Hamburg Marines 2",
+              "club": {
+                "id": 257,
+                "name": "Marines",
+                "acronym": "HHM",
+                "short_name": "Hamburg Marines",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/257/thumb/marines.png?1683930199"
+              }
+            },
+            {
+              "id": 23838,
+              "league_entry_id": 46222,
+              "name": "Lübeck Lizards",
+              "club": {
+                "id": 150,
+                "name": "Lizards",
+                "acronym": "LUB",
+                "short_name": "Lübeck Lizards",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/150/thumb/lizards.jpg?1587224989"
+              }
+            },
+            {
+              "id": 23841,
+              "league_entry_id": 46223,
+              "name": "Flensburg Baltics",
+              "club": {
+                "id": 169,
+                "name": "Baltics",
+                "acronym": "FLK",
+                "short_name": "Flensburg Baltics",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/169/thumb/flb.jpg?1587224995"
+              }
+            },
+            {
+              "id": 23868,
+              "league_entry_id": 46224,
+              "name": "Hamburg Stealers 4",
+              "club": {
+                "id": 503,
+                "name": "Stealers",
+                "acronym": "HHS",
+                "short_name": "Hamburg Stealers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
+              }
+            },
+            {
+              "id": 23960,
+              "league_entry_id": 46225,
+              "name": "Schwerin Diamonds 1",
+              "club": {
+                "id": 803,
+                "name": "Diamonds",
+                "acronym": "SND",
+                "short_name": "Schwerin Diamonds",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/803/thumb/Logo_Schweriner_Diamonds1.png?1699268965"
               }
             }
           ]
@@ -13735,138 +13838,6 @@
             }
           ]
         },
-        "6262": {
-          "id": 6262,
-          "name": "Baseball Landesliga",
-          "teams": [
-            {
-              "id": 23803,
-              "league_entry_id": 46220,
-              "name": "Hamburg Knights 2",
-              "club": {
-                "id": 254,
-                "name": "Knights",
-                "acronym": "HHK",
-                "short_name": "Hamburg Knights",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/254/thumb/knights.jpg?1587225027"
-              }
-            },
-            {
-              "id": 23836,
-              "league_entry_id": 46221,
-              "name": "Hamburg Marines 2",
-              "club": {
-                "id": 257,
-                "name": "Marines",
-                "acronym": "HHM",
-                "short_name": "Hamburg Marines",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/257/thumb/marines.png?1683930199"
-              }
-            },
-            {
-              "id": 23838,
-              "league_entry_id": 46222,
-              "name": "Lübeck Lizards",
-              "club": {
-                "id": 150,
-                "name": "Lizards",
-                "acronym": "LUB",
-                "short_name": "Lübeck Lizards",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/150/thumb/lizards.jpg?1587224989"
-              }
-            },
-            {
-              "id": 23841,
-              "league_entry_id": 46223,
-              "name": "Flensburg Baltics",
-              "club": {
-                "id": 169,
-                "name": "Baltics",
-                "acronym": "FLK",
-                "short_name": "Flensburg Baltics",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/169/thumb/flb.jpg?1587224995"
-              }
-            },
-            {
-              "id": 23868,
-              "league_entry_id": 46224,
-              "name": "Hamburg Stealers 4",
-              "club": {
-                "id": 503,
-                "name": "Stealers",
-                "acronym": "HHS",
-                "short_name": "Hamburg Stealers",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
-              }
-            },
-            {
-              "id": 23960,
-              "league_entry_id": 46225,
-              "name": "Schwerin Diamonds 1",
-              "club": {
-                "id": 803,
-                "name": "Diamonds",
-                "acronym": "SND",
-                "short_name": "Schwerin Diamonds",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/803/thumb/Logo_Schweriner_Diamonds1.png?1699268965"
-              }
-            }
-          ]
-        },
-        "6278": {
-          "id": 6278,
-          "name": "Baseball Jugendliga 1",
-          "teams": [
-            {
-              "id": 23756,
-              "league_entry_id": 46247,
-              "name": "Holm Westend 69'ers 1",
-              "club": {
-                "id": 166,
-                "name": "Westend 69'ers",
-                "acronym": "HWS",
-                "short_name": "Holm Westend 69'ers",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/166/thumb/W_Logo.jpg?1621371994"
-              }
-            },
-            {
-              "id": 23807,
-              "league_entry_id": 46248,
-              "name": "Hamburg Knights 1",
-              "club": {
-                "id": 254,
-                "name": "Knights",
-                "acronym": "HHK",
-                "short_name": "Hamburg Knights",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/254/thumb/knights.jpg?1587225027"
-              }
-            },
-            {
-              "id": 23870,
-              "league_entry_id": 46249,
-              "name": "Hamburg Stealers 1",
-              "club": {
-                "id": 503,
-                "name": "Stealers",
-                "acronym": "HHS",
-                "short_name": "Hamburg Stealers",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
-              }
-            },
-            {
-              "id": 23904,
-              "league_entry_id": 46250,
-              "name": "Kiel Seahawks (Baseball)",
-              "club": {
-                "id": 167,
-                "name": "Seahawks",
-                "acronym": "KIL",
-                "short_name": "Kiel Seahawks (Baseball)",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/167/thumb/seahawks_bb.jpg?1587224994"
-              }
-            }
-          ]
-        },
         "6264": {
           "id": 6264,
           "name": "Baseball Bezirksliga",
@@ -13974,6 +13945,60 @@
                 "acronym": "HDR",
                 "short_name": "Hamburg Dragoons",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/800/thumb/dragoons.png?1683930143"
+              }
+            }
+          ]
+        },
+        "6278": {
+          "id": 6278,
+          "name": "Baseball Jugendliga 1",
+          "teams": [
+            {
+              "id": 23756,
+              "league_entry_id": 46247,
+              "name": "Holm Westend 69'ers 1",
+              "club": {
+                "id": 166,
+                "name": "Westend 69'ers",
+                "acronym": "HWS",
+                "short_name": "Holm Westend 69'ers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/166/thumb/W_Logo.jpg?1621371994"
+              }
+            },
+            {
+              "id": 23807,
+              "league_entry_id": 46248,
+              "name": "Hamburg Knights 1",
+              "club": {
+                "id": 254,
+                "name": "Knights",
+                "acronym": "HHK",
+                "short_name": "Hamburg Knights",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/254/thumb/knights.jpg?1587225027"
+              }
+            },
+            {
+              "id": 23870,
+              "league_entry_id": 46249,
+              "name": "Hamburg Stealers 1",
+              "club": {
+                "id": 503,
+                "name": "Stealers",
+                "acronym": "HHS",
+                "short_name": "Hamburg Stealers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
+              }
+            },
+            {
+              "id": 23904,
+              "league_entry_id": 46250,
+              "name": "Kiel Seahawks (Baseball)",
+              "club": {
+                "id": 167,
+                "name": "Seahawks",
+                "acronym": "KIL",
+                "short_name": "Kiel Seahawks (Baseball)",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/167/thumb/seahawks_bb.jpg?1587224994"
               }
             }
           ]
@@ -14251,6 +14276,96 @@
                 "short_name": "Hamburg Stealers",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
               }
+            }
+          ]
+        },
+        "6427": {
+          "id": 6427,
+          "name": "S/HBV-Allstar-Game",
+          "teams": [
+            {
+              "id": 24440,
+              "league_entry_id": 47070,
+              "name": "Allstars Nordost",
+              "clubs": [
+                {
+                  "id": 871,
+                  "name": null,
+                  "acronym": "SHBV",
+                  "short_name": "Schleswig-Holstein",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/871/thumb/SHBV-Logo-Neu.jpg?1774873067"
+                },
+                {
+                  "id": 870,
+                  "name": null,
+                  "acronym": "HBV",
+                  "short_name": "Hamburg",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/870/thumb/hbv-neu.png?1774872969"
+                }
+              ]
+            },
+            {
+              "id": 24441,
+              "league_entry_id": 47071,
+              "name": "Allstars Südost",
+              "clubs": [
+                {
+                  "id": 871,
+                  "name": null,
+                  "acronym": "SHBV",
+                  "short_name": "Schleswig-Holstein",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/871/thumb/SHBV-Logo-Neu.jpg?1774873067"
+                },
+                {
+                  "id": 870,
+                  "name": null,
+                  "acronym": "HBV",
+                  "short_name": "Hamburg",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/870/thumb/hbv-neu.png?1774872969"
+                }
+              ]
+            },
+            {
+              "id": 24474,
+              "league_entry_id": 47339,
+              "name": "Allstars Nord",
+              "clubs": [
+                {
+                  "id": 871,
+                  "name": null,
+                  "acronym": "SHBV",
+                  "short_name": "Schleswig-Holstein",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/871/thumb/SHBV-Logo-Neu.jpg?1774873067"
+                },
+                {
+                  "id": 870,
+                  "name": null,
+                  "acronym": "HBV",
+                  "short_name": "Hamburg",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/870/thumb/hbv-neu.png?1774872969"
+                }
+              ]
+            },
+            {
+              "id": 24475,
+              "league_entry_id": 47340,
+              "name": "Allstars Süd",
+              "clubs": [
+                {
+                  "id": 871,
+                  "name": null,
+                  "acronym": "SHBV",
+                  "short_name": "Schleswig-Holstein",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/871/thumb/SHBV-Logo-Neu.jpg?1774873067"
+                },
+                {
+                  "id": 870,
+                  "name": null,
+                  "acronym": "HBV",
+                  "short_name": "Hamburg",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/870/thumb/hbv-neu.png?1774872969"
+                }
+              ]
             }
           ]
         }
@@ -14629,7 +14744,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-08-18T02:57:14.100954",
+    "generated_at": "2026-08-19T02:58:56.649219",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
