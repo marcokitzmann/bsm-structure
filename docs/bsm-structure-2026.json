@@ -2330,6 +2330,18 @@
               }
             },
             {
+              "id": 23622,
+              "league_entry_id": 47324,
+              "name": "Kiel Seahawks",
+              "club": {
+                "id": 167,
+                "name": "Seahawks",
+                "acronym": "KIL",
+                "short_name": "Kiel Seahawks (Baseball)",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/167/thumb/seahawks_bb.jpg?1587224994"
+              }
+            },
+            {
               "id": 23630,
               "league_entry_id": 47326,
               "name": "Solingen Alligators",
@@ -2437,6 +2449,18 @@
           "id": 6134,
           "name": "Deutschlandpokal Softball",
           "teams": [
+            {
+              "id": 23594,
+              "league_entry_id": 47195,
+              "name": "Hamburg Knights",
+              "club": {
+                "id": 254,
+                "name": "Knights",
+                "acronym": "HHK",
+                "short_name": "Hamburg Knights",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/254/thumb/knights.jpg?1587225027"
+              }
+            },
             {
               "id": 23595,
               "league_entry_id": 47196,
@@ -14744,7 +14768,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-08-23T03:04:18.392510",
+    "generated_at": "2026-08-24T03:05:05.776614",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
