@@ -11603,6 +11603,18 @@
           "name": "Landesklasse Baseball Playoffs",
           "teams": [
             {
+              "id": 23698,
+              "league_entry_id": 47328,
+              "name": "Ingolstadt Schanzer 2",
+              "club": {
+                "id": 36,
+                "name": "Schanzer",
+                "acronym": "ING",
+                "short_name": "Ingolstadt Schanzer",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/036/thumb/00003015.png?1587224983"
+              }
+            },
+            {
               "id": 23713,
               "league_entry_id": 47330,
               "name": "Augsburg Gators 3",
@@ -14768,7 +14780,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-08-25T03:00:19.183184",
+    "generated_at": "2026-08-26T03:07:10.922117",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
