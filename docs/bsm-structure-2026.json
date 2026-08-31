@@ -2592,6 +2592,18 @@
               }
             },
             {
+              "id": 23593,
+              "league_entry_id": 47194,
+              "name": "Guggenberger Legionäre",
+              "club": {
+                "id": 14,
+                "name": "Legionäre",
+                "acronym": "REG",
+                "short_name": "Guggenberger Legionäre",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/014/thumb/Legion%C3%A4re_SCRIPT_Logo_GUGGENBERGER_L_CoB.png?1646045867"
+              }
+            },
+            {
               "id": 23594,
               "league_entry_id": 47195,
               "name": "Hamburg Knights",
@@ -2649,6 +2661,18 @@
                 "acronym": "TUB",
                 "short_name": "Tübingen Hawks",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/437/thumb/20150301_Logo_Hawks_CMYK.png?1587225063"
+              }
+            },
+            {
+              "id": 23636,
+              "league_entry_id": 47203,
+              "name": "Untouchables Paderborn",
+              "club": {
+                "id": 365,
+                "name": "Untouchables",
+                "acronym": "UNT",
+                "short_name": "Untouchables Paderborn",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/365/thumb/Ball_auf_wei%C3%9F-1.jpg?1587225040"
               }
             }
           ]
@@ -14934,7 +14958,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-08-30T08:01:41.368043",
+    "generated_at": "2026-08-31T08:18:27.955830",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
