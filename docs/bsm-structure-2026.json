@@ -11872,7 +11872,7 @@
                 "name": "Braves",
                 "acronym": "FRI",
                 "short_name": "Friedberg Braves",
-                "logo_url": null
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/193/thumb/WhatsApp_Image_2026-08-31_at_17.53.52.jpeg?1788197233"
               }
             },
             {
@@ -12171,7 +12171,7 @@
                   "name": "Braves",
                   "acronym": "FRI",
                   "short_name": "Friedberg Braves",
-                  "logo_url": null
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/193/thumb/WhatsApp_Image_2026-08-31_at_17.53.52.jpeg?1788197233"
                 }
               ]
             }
@@ -12364,7 +12364,7 @@
                 "name": "Braves",
                 "acronym": "FRI",
                 "short_name": "Friedberg Braves",
-                "logo_url": null
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/193/thumb/WhatsApp_Image_2026-08-31_at_17.53.52.jpeg?1788197233"
               }
             },
             {
@@ -12492,7 +12492,7 @@
                   "name": "Braves",
                   "acronym": "FRI",
                   "short_name": "Friedberg Braves",
-                  "logo_url": null
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/193/thumb/WhatsApp_Image_2026-08-31_at_17.53.52.jpeg?1788197233"
                 }
               ]
             }
@@ -13677,11 +13677,6 @@
             }
           ]
         },
-        "6296": {
-          "id": 6296,
-          "name": "NBSV Finale Verbandsliga 2026",
-          "teams": []
-        },
         "6310": {
           "id": 6310,
           "name": "NBSV Schüler Finale  2026",
@@ -13715,6 +13710,11 @@
         "6308": {
           "id": 6308,
           "name": "NBSV Jugend Liga Finale 2026",
+          "teams": []
+        },
+        "6296": {
+          "id": 6296,
+          "name": "NBSV Finale Verbandsliga 2026",
           "teams": []
         },
         "6305": {
@@ -14983,7 +14983,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-02T06:55:05.260933",
+    "generated_at": "2026-09-03T06:58:57.032885",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
