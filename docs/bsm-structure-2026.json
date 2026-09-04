@@ -2741,7 +2741,7 @@
             {
               "id": 24456,
               "league_entry_id": 47157,
-              "name": "Berlin-Brandenburg/Niedersachsen",
+              "name": "SG Berlin-Brandenburg/Niedersachsen",
               "clubs": [
                 {
                   "id": 866,
@@ -14525,7 +14525,7 @@
             {
               "id": 24440,
               "league_entry_id": 47070,
-              "name": "Allstars Nordost",
+              "name": "Allstars Nordost (LL/BZL)",
               "clubs": [
                 {
                   "id": 871,
@@ -14546,7 +14546,7 @@
             {
               "id": 24441,
               "league_entry_id": 47071,
-              "name": "Allstars Südost",
+              "name": "Allstars Südost (LL/BZL)",
               "clubs": [
                 {
                   "id": 871,
@@ -14567,7 +14567,7 @@
             {
               "id": 24474,
               "league_entry_id": 47339,
-              "name": "Allstars Nord",
+              "name": "Allstars Nord (VL/LL)",
               "clubs": [
                 {
                   "id": 871,
@@ -14588,7 +14588,7 @@
             {
               "id": 24475,
               "league_entry_id": 47340,
-              "name": "Allstars Süd",
+              "name": "Allstars Süd (VL/LL)",
               "clubs": [
                 {
                   "id": 871,
@@ -14983,7 +14983,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-03T06:58:57.032885",
+    "generated_at": "2026-09-04T07:02:49.498650",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
