@@ -2756,6 +2756,13 @@
                   "acronym": "NBSV",
                   "short_name": "Niedersachsen",
                   "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/873/thumb/NBSV_Logo.jpg?1774873276"
+                },
+                {
+                  "id": 870,
+                  "name": null,
+                  "acronym": "HBV",
+                  "short_name": "Hamburg",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/870/thumb/hbv-neu.png?1774872969"
                 }
               ]
             }
@@ -14983,7 +14990,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-04T07:02:49.498650",
+    "generated_at": "2026-09-05T06:46:40.396662",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
