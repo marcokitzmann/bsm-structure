@@ -4694,6 +4694,18 @@
               }
             },
             {
+              "id": 24051,
+              "league_entry_id": 46333,
+              "name": "Heidelberg Hedgehogs",
+              "club": {
+                "id": 407,
+                "name": "Hedgehogs",
+                "acronym": "HEH",
+                "short_name": "Heidelberg Hedgehogs",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/407/thumb/hedgehogs_logo_rot_schwarz_3D.png?1587225049"
+              }
+            },
+            {
               "id": 24058,
               "league_entry_id": 46334,
               "name": "Nagold Mohawks",
@@ -13717,7 +13729,32 @@
         "6308": {
           "id": 6308,
           "name": "NBSV Jugend Liga Finale 2026",
-          "teams": []
+          "teams": [
+            {
+              "id": 24185,
+              "league_entry_id": 47357,
+              "name": "Braunschweig 89ers",
+              "club": {
+                "id": 447,
+                "name": "89ers",
+                "acronym": "BSK",
+                "short_name": "Braunschweig 89ers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/447/thumb/logo_Braunschweig89ers_Wappen.png?1587225066"
+              }
+            },
+            {
+              "id": 24186,
+              "league_entry_id": 47358,
+              "name": "Dohren Wild Farmers",
+              "club": {
+                "id": 453,
+                "name": "Wild Farmers",
+                "acronym": "DWF",
+                "short_name": "Dohren Wild Farmers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/453/thumb/DohrenWildFarmers.jpg?1587225067"
+              }
+            }
+          ]
         },
         "6296": {
           "id": 6296,
@@ -14990,7 +15027,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-05T06:46:40.396662",
+    "generated_at": "2026-09-06T06:57:11.599196",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
