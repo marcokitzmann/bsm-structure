@@ -11824,6 +11824,18 @@
               }
             },
             {
+              "id": 23714,
+              "league_entry_id": 47359,
+              "name": "Altdorf Icesharks",
+              "club": {
+                "id": 851,
+                "name": "Icesharks",
+                "acronym": "ALT",
+                "short_name": "Altdorf Icesharks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/851/thumb/IMG_7190.jpeg?1707337033"
+              }
+            },
+            {
               "id": 23798,
               "league_entry_id": 47329,
               "name": "Gauting Indians 3",
@@ -13759,7 +13771,56 @@
         "6296": {
           "id": 6296,
           "name": "NBSV Finale Verbandsliga 2026",
-          "teams": []
+          "teams": [
+            {
+              "id": 24148,
+              "league_entry_id": 47360,
+              "name": "Braunschweig 89ers 2",
+              "club": {
+                "id": 447,
+                "name": "89ers",
+                "acronym": "BSK",
+                "short_name": "Braunschweig 89ers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/447/thumb/logo_Braunschweig89ers_Wappen.png?1587225066"
+              }
+            },
+            {
+              "id": 24150,
+              "league_entry_id": 47361,
+              "name": "Bremen Dockers 2",
+              "club": {
+                "id": 445,
+                "name": "Dockers",
+                "acronym": "BRE",
+                "short_name": "Bremen Dockers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/445/thumb/Dockers_Logo_neu_2018.jpg?1587225065"
+              }
+            },
+            {
+              "id": 24151,
+              "league_entry_id": 47362,
+              "name": "Dohren Wild Farmers 2",
+              "club": {
+                "id": 453,
+                "name": "Wild Farmers",
+                "acronym": "DWF",
+                "short_name": "Dohren Wild Farmers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/453/thumb/DohrenWildFarmers.jpg?1587225067"
+              }
+            },
+            {
+              "id": 24152,
+              "league_entry_id": 47363,
+              "name": "Hannover Regents",
+              "club": {
+                "id": 463,
+                "name": "Regents",
+                "acronym": "HRG",
+                "short_name": "Hannover Regents",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/463/thumb/hannover3.png?1587225068"
+              }
+            }
+          ]
         },
         "6305": {
           "id": 6305,
@@ -15027,7 +15088,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-06T06:57:11.599196",
+    "generated_at": "2026-09-07T07:07:16.367094",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
