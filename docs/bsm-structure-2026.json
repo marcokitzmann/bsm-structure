@@ -7451,7 +7451,32 @@
         "6210": {
           "id": 6210,
           "name": "Landesliga Baseball",
-          "teams": []
+          "teams": [
+            {
+              "id": 23925,
+              "league_entry_id": 46644,
+              "name": "Sluggers 2",
+              "club": {
+                "id": 492,
+                "name": "Sluggers",
+                "acronym": "BES",
+                "short_name": "Berlin Sluggers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/492/thumb/SluggersLogo2011Fin_dklrot_kl.png?1587225072"
+              }
+            },
+            {
+              "id": 24092,
+              "league_entry_id": 46651,
+              "name": "Roadrunners 2",
+              "club": {
+                "id": 502,
+                "name": "Roadrunners",
+                "acronym": "BWP",
+                "short_name": "Berlin Ausbau Roadrunners",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/502/thumb/path35.png?1587225073"
+              }
+            }
+          ]
         },
         "6206": {
           "id": 6206,
@@ -15088,7 +15113,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-09T07:10:30.449107",
+    "generated_at": "2026-09-10T07:07:05.319239",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
