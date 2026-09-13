@@ -2592,6 +2592,18 @@
               }
             },
             {
+              "id": 23592,
+              "league_entry_id": 47193,
+              "name": "Freising Grizzlies",
+              "club": {
+                "id": 59,
+                "name": "Grizzlies",
+                "acronym": "FRE",
+                "short_name": "Freising Grizzlies",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
+              }
+            },
+            {
               "id": 23593,
               "league_entry_id": 47194,
               "name": "Guggenberger Legionäre",
@@ -2661,6 +2673,18 @@
                 "acronym": "TUB",
                 "short_name": "Tübingen Hawks",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/437/thumb/20150301_Logo_Hawks_CMYK.png?1587225063"
+              }
+            },
+            {
+              "id": 23602,
+              "league_entry_id": 47202,
+              "name": "Wesseling Vermins",
+              "club": {
+                "id": 387,
+                "name": "Vermins",
+                "acronym": "WES",
+                "short_name": "Wesseling Vermins",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/387/thumb/Wesseling_logo.jpg?1587225044"
               }
             },
             {
@@ -15113,7 +15137,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-12T06:58:57.771044",
+    "generated_at": "2026-09-13T07:17:02.528166",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
