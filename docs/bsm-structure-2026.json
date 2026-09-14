@@ -7489,6 +7489,18 @@
               }
             },
             {
+              "id": 23951,
+              "league_entry_id": 46646,
+              "name": "Sliders",
+              "club": {
+                "id": 495,
+                "name": "Sliders",
+                "acronym": "SLI",
+                "short_name": "Berlin Sliders",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/495/thumb/Logo-Berlin-Sliders.png?1636040006"
+              }
+            },
+            {
               "id": 24092,
               "league_entry_id": 46651,
               "name": "Roadrunners 2",
@@ -7498,6 +7510,18 @@
                 "acronym": "BWP",
                 "short_name": "Berlin Ausbau Roadrunners",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/502/thumb/path35.png?1587225073"
+              }
+            },
+            {
+              "id": 24127,
+              "league_entry_id": 46652,
+              "name": "Flamingos 2",
+              "club": {
+                "id": 604,
+                "name": "Flamingos",
+                "acronym": "FLA",
+                "short_name": "Berlin Flamingos",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/604/thumb/flalogo_big_freigestellt.png?1625524563"
               }
             }
           ]
@@ -13184,7 +13208,7 @@
                   "name": "Bandits",
                   "acronym": "BGB",
                   "short_name": "Bremerhaven Bandits",
-                  "logo_url": null
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/807/thumb/IFCE0816.JPG?1789200866"
                 },
                 {
                   "id": 474,
@@ -15137,7 +15161,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-13T07:17:02.528166",
+    "generated_at": "2026-09-14T07:41:17.937514",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
