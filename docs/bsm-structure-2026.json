@@ -12172,6 +12172,84 @@
               }
             }
           ]
+        },
+        "6467": {
+          "id": 6467,
+          "name": "BBQ Slowpitch-Mixed Softball",
+          "teams": [
+            {
+              "id": 24375,
+              "league_entry_id": 47403,
+              "name": "Altdorf Raptors",
+              "club": {
+                "id": 851,
+                "name": "Icesharks",
+                "acronym": "ALT",
+                "short_name": "Altdorf Icesharks",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/851/thumb/IMG_7190.jpeg?1707337033"
+              }
+            },
+            {
+              "id": 24376,
+              "league_entry_id": 47404,
+              "name": "Fürth Pirates",
+              "club": {
+                "id": 4,
+                "name": "Pirates",
+                "acronym": "FUR",
+                "short_name": "Fürth Pirates",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/004/thumb/FuerthPirates.jpg?1702023686"
+              }
+            },
+            {
+              "id": 24380,
+              "league_entry_id": 47405,
+              "name": "Freising Grizzlies",
+              "club": {
+                "id": 59,
+                "name": "Grizzlies",
+                "acronym": "FRE",
+                "short_name": "Freising Grizzlies",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
+              }
+            },
+            {
+              "id": 24382,
+              "league_entry_id": 47406,
+              "name": "Grünwald Jesters",
+              "club": {
+                "id": 33,
+                "name": "Jesters",
+                "acronym": "GRU",
+                "short_name": "Grünwald Jesters",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/00003004.png?1587224982"
+              }
+            },
+            {
+              "id": 24384,
+              "league_entry_id": 47407,
+              "name": "Disciples München-Haar",
+              "club": {
+                "id": 35,
+                "name": "Disciples",
+                "acronym": "HAA",
+                "short_name": "Disciples München-Haar",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/035/thumb/00003009.png?1587224982"
+              }
+            },
+            {
+              "id": 24438,
+              "league_entry_id": 47408,
+              "name": "Amberg Brewers",
+              "club": {
+                "id": 846,
+                "name": "Brewers",
+                "acronym": "AMB",
+                "short_name": "Amberg Brewers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/846/thumb/IMG_2029.jpeg?1778624009"
+              }
+            }
+          ]
         }
       }
     },
@@ -15412,7 +15490,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-15T07:24:45.639076",
+    "generated_at": "2026-09-16T07:23:48.199055",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
