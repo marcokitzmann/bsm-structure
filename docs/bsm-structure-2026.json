@@ -8264,7 +8264,7 @@
                 "name": "Jesters",
                 "acronym": "GRU",
                 "short_name": "Grünwald Jesters",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/jesters_logo_01.jpg?1789557877"
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/jesters_logo_01.png?1789558491"
               }
             },
             {
@@ -9427,7 +9427,7 @@
                 "name": "Jesters",
                 "acronym": "GRU",
                 "short_name": "Grünwald Jesters",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/jesters_logo_01.jpg?1789557877"
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/jesters_logo_01.png?1789558491"
               }
             }
           ]
@@ -9844,7 +9844,7 @@
                 "name": "Jesters",
                 "acronym": "GRU",
                 "short_name": "Grünwald Jesters",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/jesters_logo_01.jpg?1789557877"
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/033/thumb/jesters_logo_01.png?1789558491"
               }
             }
           ]
@@ -15490,7 +15490,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-18T07:11:16.543229",
+    "generated_at": "2026-09-19T07:08:25.806575",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
