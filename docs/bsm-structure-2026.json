@@ -2920,7 +2920,104 @@
         "6317": {
           "id": 6317,
           "name": "DM Junioren Play-offs",
-          "teams": []
+          "teams": [
+            {
+              "id": 24476,
+              "league_entry_id": 47377,
+              "name": "Untouchables Paderborn",
+              "club": {
+                "id": 365,
+                "name": "Untouchables",
+                "acronym": "UNT",
+                "short_name": "Untouchables Paderborn",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/365/thumb/Ball_auf_wei%C3%9F-1.jpg?1587225040"
+              }
+            },
+            {
+              "id": 24477,
+              "league_entry_id": 47378,
+              "name": "Berlin Wizards",
+              "club": {
+                "id": 494,
+                "name": "Wizards",
+                "acronym": "BEW",
+                "short_name": "Berlin Wizards",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/494/thumb/Wizards-Logo-200x200.png?1741764774"
+              }
+            },
+            {
+              "id": 24478,
+              "league_entry_id": 47379,
+              "name": "Main-Taunus Redwings",
+              "club": {
+                "id": 211,
+                "name": "Redwings",
+                "acronym": "MTR",
+                "short_name": "Main-Taunus Redwings",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/211/thumb/RW_logo_rund_3D.jpg?1587225008"
+              }
+            },
+            {
+              "id": 24479,
+              "league_entry_id": 47380,
+              "name": "Bonn Capitals",
+              "club": {
+                "id": 311,
+                "name": "Capitals",
+                "acronym": "BON",
+                "short_name": "Bonn Capitals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/311/thumb/BonnCapitals.png?1587225033"
+              }
+            },
+            {
+              "id": 24480,
+              "league_entry_id": 47381,
+              "name": "Mainz Athletics",
+              "club": {
+                "id": 1,
+                "name": "Athletics",
+                "acronym": "MAI",
+                "short_name": "Mainz Athletics",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/001/thumb/as_logo.png?1587224970"
+              }
+            },
+            {
+              "id": 24481,
+              "league_entry_id": 47382,
+              "name": "Hamburg Stealers",
+              "club": {
+                "id": 503,
+                "name": "Stealers",
+                "acronym": "HHS",
+                "short_name": "Hamburg Stealers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
+              }
+            },
+            {
+              "id": 24482,
+              "league_entry_id": 47383,
+              "name": "Gauting Indians",
+              "club": {
+                "id": 30,
+                "name": "Indians",
+                "acronym": "GAU",
+                "short_name": "Gauting Indians",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/030/thumb/GI_Logo_I_Blue-Red-Otline_RGB.jpg?1681803869"
+              }
+            },
+            {
+              "id": 24490,
+              "league_entry_id": 47384,
+              "name": "Stuttgart Reds",
+              "club": {
+                "id": 436,
+                "name": "Reds",
+                "acronym": "STU",
+                "short_name": "Stuttgart Reds",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/Stuttgart_Reds.png?1772970751"
+              }
+            }
+          ]
         },
         "6321": {
           "id": 6321,
@@ -15490,7 +15587,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-19T07:08:25.806575",
+    "generated_at": "2026-09-20T07:33:23.730056",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
