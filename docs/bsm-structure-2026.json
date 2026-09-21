@@ -3022,7 +3022,104 @@
         "6321": {
           "id": 6321,
           "name": "DM Schüler Play-offs",
-          "teams": []
+          "teams": [
+            {
+              "id": 24483,
+              "league_entry_id": 47393,
+              "name": "Mainz Athletics",
+              "club": {
+                "id": 1,
+                "name": "Athletics",
+                "acronym": "MAI",
+                "short_name": "Mainz Athletics",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/001/thumb/as_logo.png?1587224970"
+              }
+            },
+            {
+              "id": 24484,
+              "league_entry_id": 47394,
+              "name": "Darmstadt Whippets",
+              "club": {
+                "id": 188,
+                "name": "Whippets",
+                "acronym": "DAW",
+                "short_name": "Darmstadt Whippets",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/188/thumb/whippets.png?1587224998"
+              }
+            },
+            {
+              "id": 24485,
+              "league_entry_id": 47395,
+              "name": "Untouchables Paderborn",
+              "club": {
+                "id": 365,
+                "name": "Untouchables",
+                "acronym": "UNT",
+                "short_name": "Untouchables Paderborn",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/365/thumb/Ball_auf_wei%C3%9F-1.jpg?1587225040"
+              }
+            },
+            {
+              "id": 24486,
+              "league_entry_id": 47396,
+              "name": "Guggenberger Legionäre",
+              "club": {
+                "id": 14,
+                "name": "Legionäre",
+                "acronym": "REG",
+                "short_name": "Guggenberger Legionäre",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/014/thumb/Legion%C3%A4re_SCRIPT_Logo_GUGGENBERGER_L_CoB.png?1646045867"
+              }
+            },
+            {
+              "id": 24487,
+              "league_entry_id": 47397,
+              "name": "Gauting Indians",
+              "club": {
+                "id": 30,
+                "name": "Indians",
+                "acronym": "GAU",
+                "short_name": "Gauting Indians",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/030/thumb/GI_Logo_I_Blue-Red-Otline_RGB.jpg?1681803869"
+              }
+            },
+            {
+              "id": 24488,
+              "league_entry_id": 47398,
+              "name": "Berlin Wizards",
+              "club": {
+                "id": 494,
+                "name": "Wizards",
+                "acronym": "BEW",
+                "short_name": "Berlin Wizards",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/494/thumb/Wizards-Logo-200x200.png?1741764774"
+              }
+            },
+            {
+              "id": 24489,
+              "league_entry_id": 47399,
+              "name": "Hamburg Stealers",
+              "club": {
+                "id": 503,
+                "name": "Stealers",
+                "acronym": "HHS",
+                "short_name": "Hamburg Stealers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
+              }
+            },
+            {
+              "id": 24491,
+              "league_entry_id": 47400,
+              "name": "Stuttgart Reds",
+              "club": {
+                "id": 436,
+                "name": "Reds",
+                "acronym": "STU",
+                "short_name": "Stuttgart Reds",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/Stuttgart_Reds.png?1772970751"
+              }
+            }
+          ]
         },
         "6445": {
           "id": 6445,
@@ -13285,7 +13382,56 @@
         "6378": {
           "id": 6378,
           "name": "Mitteldeutsche Verbandsliga Baseball Playoffs",
-          "teams": []
+          "teams": [
+            {
+              "id": 24286,
+              "league_entry_id": 47410,
+              "name": "Cyndicates Chemnitz",
+              "club": {
+                "id": 797,
+                "name": "Cyndicates",
+                "acronym": "CHE",
+                "short_name": "Cyndicates Chemnitz",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/797/thumb/cyndicates_500px.png?1587225090"
+              }
+            },
+            {
+              "id": 24287,
+              "league_entry_id": 47411,
+              "name": "Dresden Dukes",
+              "club": {
+                "id": 245,
+                "name": "Dukes",
+                "acronym": "DDU",
+                "short_name": "Dresden Dukes",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24288,
+              "league_entry_id": 47412,
+              "name": "Leipzig Wallbreakers 2",
+              "club": {
+                "id": 249,
+                "name": "Wallbreakers",
+                "acronym": "LWA",
+                "short_name": "Leipzig Wallbreakers",
+                "logo_url": null
+              }
+            },
+            {
+              "id": 24289,
+              "league_entry_id": 47413,
+              "name": "Magdeburg Poor Pigs",
+              "club": {
+                "id": 84,
+                "name": "Poor Pigs",
+                "acronym": "MPP",
+                "short_name": "Magdeburg Poor Pigs",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/084/thumb/mpp-logo-ball-small-square.png?1587224989"
+              }
+            }
+          ]
         }
       }
     },
@@ -15587,7 +15733,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-20T07:33:23.730056",
+    "generated_at": "2026-09-21T07:45:09.898498",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
