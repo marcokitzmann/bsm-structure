@@ -14505,7 +14505,41 @@
         "6301": {
           "id": 6301,
           "name": "NBSV Landesliga Finale 2026",
-          "teams": []
+          "teams": [
+            {
+              "id": 24172,
+              "league_entry_id": 47414,
+              "name": "SG Bremerhaven/Stade",
+              "clubs": [
+                {
+                  "id": 807,
+                  "name": "Bandits",
+                  "acronym": "BGB",
+                  "short_name": "Bremerhaven Bandits",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/807/thumb/IFCE0816.JPG?1789200866"
+                },
+                {
+                  "id": 474,
+                  "name": "Black Sox",
+                  "acronym": "STA",
+                  "short_name": "Stade Black Sox",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/474/thumb/IMG_0409.JPG?1587225071"
+                }
+              ]
+            },
+            {
+              "id": 24176,
+              "league_entry_id": 47415,
+              "name": "Braunschweig 89ers 4",
+              "club": {
+                "id": 447,
+                "name": "89ers",
+                "acronym": "BSK",
+                "short_name": "Braunschweig 89ers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/447/thumb/logo_Braunschweig89ers_Wappen.png?1587225066"
+              }
+            }
+          ]
         }
       }
     },
@@ -15733,7 +15767,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-21T07:45:09.898498",
+    "generated_at": "2026-09-22T07:28:11.449341",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
