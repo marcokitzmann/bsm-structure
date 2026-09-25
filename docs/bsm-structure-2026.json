@@ -11524,84 +11524,6 @@
             }
           ]
         },
-        "6456": {
-          "id": 6456,
-          "name": "Schüler Live Pitch Landesliga Nord (U12) - R2",
-          "teams": [
-            {
-              "id": 23699,
-              "league_entry_id": 47260,
-              "name": "Franken Rebels",
-              "club": {
-                "id": 559,
-                "name": "Franken Rebels",
-                "acronym": "FRR",
-                "short_name": "Franken Rebels",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/559/thumb/Logo_2020_red_bg_white_claim.png?1595857875"
-              }
-            },
-            {
-              "id": 24055,
-              "league_entry_id": 47261,
-              "name": "Erlangen White Sox",
-              "club": {
-                "id": 6,
-                "name": "White Sox",
-                "acronym": "ERL",
-                "short_name": "Erlangen White Sox",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/006/thumb/logo_circle2025_2025-05-21_04_40_37.png?1747837456"
-              }
-            },
-            {
-              "id": 24146,
-              "league_entry_id": 47262,
-              "name": "Fürth Pirates",
-              "club": {
-                "id": 4,
-                "name": "Pirates",
-                "acronym": "FUR",
-                "short_name": "Fürth Pirates",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/004/thumb/FuerthPirates.jpg?1702023686"
-              }
-            },
-            {
-              "id": 24202,
-              "league_entry_id": 47263,
-              "name": "Guggenberger Legionäre 2",
-              "club": {
-                "id": 14,
-                "name": "Legionäre",
-                "acronym": "REG",
-                "short_name": "Guggenberger Legionäre",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/014/thumb/Legion%C3%A4re_SCRIPT_Logo_GUGGENBERGER_L_CoB.png?1646045867"
-              }
-            },
-            {
-              "id": 24263,
-              "league_entry_id": 47264,
-              "name": "Kronach Royals",
-              "club": {
-                "id": 37,
-                "name": "Royals",
-                "acronym": "KCR",
-                "short_name": "Kronach Royals",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/037/thumb/Logo2_neu.jpg?1587224984"
-              }
-            },
-            {
-              "id": 24268,
-              "league_entry_id": 47265,
-              "name": "Laufer Wölfe",
-              "club": {
-                "id": 8,
-                "name": "Wölfe",
-                "acronym": "LAU",
-                "short_name": "Laufer Wölfe",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/008/thumb/LW_logo_W_4C.jpg?1587224973"
-              }
-            }
-          ]
-        },
         "6457": {
           "id": 6457,
           "name": "Schüler Live Pitch Landesliga Südwest (U12) - R2",
@@ -12309,6 +12231,84 @@
                 "acronym": "MUC",
                 "short_name": "München Caribes",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/046/thumb/MC_logo_palme_aufweiss_7C.jpg?1587224985"
+              }
+            }
+          ]
+        },
+        "6456": {
+          "id": 6456,
+          "name": "Schüler Live Pitch Landesliga Nord (U12) - R2",
+          "teams": [
+            {
+              "id": 23699,
+              "league_entry_id": 47260,
+              "name": "Franken Rebels",
+              "club": {
+                "id": 559,
+                "name": "Franken Rebels",
+                "acronym": "FRR",
+                "short_name": "Franken Rebels",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/559/thumb/Logo_2020_red_bg_white_claim.png?1595857875"
+              }
+            },
+            {
+              "id": 24055,
+              "league_entry_id": 47261,
+              "name": "Erlangen White Sox",
+              "club": {
+                "id": 6,
+                "name": "White Sox",
+                "acronym": "ERL",
+                "short_name": "Erlangen White Sox",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/006/thumb/logo_circle2025_2025-05-21_04_40_37.png?1747837456"
+              }
+            },
+            {
+              "id": 24146,
+              "league_entry_id": 47262,
+              "name": "Fürth Pirates",
+              "club": {
+                "id": 4,
+                "name": "Pirates",
+                "acronym": "FUR",
+                "short_name": "Fürth Pirates",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/004/thumb/FuerthPirates.jpg?1702023686"
+              }
+            },
+            {
+              "id": 24202,
+              "league_entry_id": 47263,
+              "name": "Guggenberger Legionäre 2",
+              "club": {
+                "id": 14,
+                "name": "Legionäre",
+                "acronym": "REG",
+                "short_name": "Guggenberger Legionäre",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/014/thumb/Legion%C3%A4re_SCRIPT_Logo_GUGGENBERGER_L_CoB.png?1646045867"
+              }
+            },
+            {
+              "id": 24263,
+              "league_entry_id": 47264,
+              "name": "Kronach Royals",
+              "club": {
+                "id": 37,
+                "name": "Royals",
+                "acronym": "KCR",
+                "short_name": "Kronach Royals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/037/thumb/Logo2_neu.jpg?1587224984"
+              }
+            },
+            {
+              "id": 24268,
+              "league_entry_id": 47265,
+              "name": "Laufer Wölfe",
+              "club": {
+                "id": 8,
+                "name": "Wölfe",
+                "acronym": "LAU",
+                "short_name": "Laufer Wölfe",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/008/thumb/LW_logo_W_4C.jpg?1587224973"
               }
             }
           ]
@@ -15767,7 +15767,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-24T07:23:44.685670",
+    "generated_at": "2026-09-25T07:18:36.190949",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
