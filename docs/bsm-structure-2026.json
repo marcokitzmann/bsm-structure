@@ -2664,6 +2664,18 @@
               }
             },
             {
+              "id": 23600,
+              "league_entry_id": 47200,
+              "name": "Stuttgart Reds",
+              "club": {
+                "id": 436,
+                "name": "Reds",
+                "acronym": "STU",
+                "short_name": "Stuttgart Reds",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/436/thumb/Stuttgart_Reds.png?1772970751"
+              }
+            },
+            {
               "id": 23601,
               "league_entry_id": 47201,
               "name": "Tübingen Hawks",
@@ -15767,7 +15779,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-26T07:14:15.475842",
+    "generated_at": "2026-09-27T07:46:15.202222",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
