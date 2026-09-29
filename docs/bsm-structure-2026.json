@@ -10481,6 +10481,18 @@
                 "short_name": "Augsburg Gators",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/020/thumb/Gators-Logo-Q.png?1703758339"
               }
+            },
+            {
+              "id": 24524,
+              "league_entry_id": 47446,
+              "name": "Füssen Royal Bavarians",
+              "club": {
+                "id": 28,
+                "name": "Royal Bavarians",
+                "acronym": "FUS",
+                "short_name": "Füssen Royal Bavarians",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/028/thumb/RB_Royal_Bavarians_Primary_Logo_4c_web.png?1587224979"
+              }
             }
           ]
         },
@@ -15779,7 +15791,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-28T08:24:12.891969",
+    "generated_at": "2026-09-29T08:03:10.475934",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
