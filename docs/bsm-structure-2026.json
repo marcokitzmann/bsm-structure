@@ -3228,6 +3228,147 @@
           "id": 6446,
           "name": "LP U16 SB Play-offs",
           "teams": []
+        },
+        "6474": {
+          "id": 6474,
+          "name": "DM Jugend BB Gruppe A",
+          "teams": [
+            {
+              "id": 24499,
+              "league_entry_id": 47447,
+              "name": "Untouchables Paderborn",
+              "club": {
+                "id": 365,
+                "name": "Untouchables",
+                "acronym": "UNT",
+                "short_name": "Untouchables Paderborn",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/365/thumb/Ball_auf_wei%C3%9F-1.jpg?1587225040"
+              }
+            },
+            {
+              "id": 24501,
+              "league_entry_id": 47448,
+              "name": "Kaiserslautern Bears",
+              "club": {
+                "id": 228,
+                "name": "Bears",
+                "acronym": "KSL",
+                "short_name": "Kaiserslautern Bears",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/228/thumb/bears_%281%29.png?1783940680"
+              }
+            },
+            {
+              "id": 24504,
+              "league_entry_id": 47449,
+              "name": "Hamburg Stealers",
+              "club": {
+                "id": 503,
+                "name": "Stealers",
+                "acronym": "HHS",
+                "short_name": "Hamburg Stealers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
+              }
+            }
+          ]
+        },
+        "6476": {
+          "id": 6476,
+          "name": "DM Jugend BB Gruppe C",
+          "teams": [
+            {
+              "id": 24496,
+              "league_entry_id": 47453,
+              "name": "Berlin Wizards",
+              "club": {
+                "id": 494,
+                "name": "Wizards",
+                "acronym": "BEW",
+                "short_name": "Berlin Wizards",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/494/thumb/Wizards-Logo-200x200.png?1741764774"
+              }
+            },
+            {
+              "id": 24498,
+              "league_entry_id": 47454,
+              "name": "Mainz Athletics",
+              "club": {
+                "id": 1,
+                "name": "Athletics",
+                "acronym": "MAI",
+                "short_name": "Mainz Athletics",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/001/thumb/as_logo.png?1587224970"
+              }
+            },
+            {
+              "id": 24503,
+              "league_entry_id": 47455,
+              "name": "Braunschweig 89ers",
+              "club": {
+                "id": 447,
+                "name": "89ers",
+                "acronym": "BSK",
+                "short_name": "Braunschweig 89ers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/447/thumb/logo_Braunschweig89ers_Wappen.png?1587225066"
+              }
+            }
+          ]
+        },
+        "6475": {
+          "id": 6475,
+          "name": "DM Jugend BB Gruppe B",
+          "teams": [
+            {
+              "id": 24497,
+              "league_entry_id": 47450,
+              "name": "Main-Taunus Redwings",
+              "club": {
+                "id": 211,
+                "name": "Redwings",
+                "acronym": "MTR",
+                "short_name": "Main-Taunus Redwings",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/211/thumb/RW_logo_rund_3D.jpg?1587225008"
+              }
+            },
+            {
+              "id": 24500,
+              "league_entry_id": 47451,
+              "name": "Freising Grizzlies",
+              "club": {
+                "id": 59,
+                "name": "Grizzlies",
+                "acronym": "FRE",
+                "short_name": "Freising Grizzlies",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
+              }
+            },
+            {
+              "id": 24502,
+              "league_entry_id": 47452,
+              "name": "Ladenburg Romans",
+              "club": {
+                "id": 416,
+                "name": "Romans",
+                "acronym": "LAD",
+                "short_name": "Ladenburg Romans",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/416/thumb/Logo400x400.png?1713448561"
+              }
+            }
+          ]
+        },
+        "6478": {
+          "id": 6478,
+          "name": "DM Jugend BB Zwischenrunde",
+          "teams": []
+        },
+        "6479": {
+          "id": 6479,
+          "name": "DM Jugend BB Platzierungsrunde",
+          "teams": []
+        },
+        "6477": {
+          "id": 6477,
+          "name": "DM Jugend BB Play-offs",
+          "teams": []
         }
       }
     },
@@ -15791,7 +15932,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-09-29T08:03:10.475934",
+    "generated_at": "2026-09-30T08:10:16.998669",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
