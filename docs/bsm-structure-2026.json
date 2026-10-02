@@ -3477,6 +3477,11 @@
           "id": 6477,
           "name": "DM Jugend BB Play-offs",
           "teams": []
+        },
+        "6326": {
+          "id": 6326,
+          "name": "DM Juniorinnen Play-offs",
+          "teams": []
         }
       }
     },
@@ -16040,7 +16045,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-10-01T08:31:04.969948",
+    "generated_at": "2026-10-02T08:06:30.069601",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
