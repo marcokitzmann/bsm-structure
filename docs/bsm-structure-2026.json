@@ -3482,6 +3482,16 @@
           "id": 6326,
           "name": "DM Juniorinnen Play-offs",
           "teams": []
+        },
+        "6473": {
+          "id": 6473,
+          "name": "DM Jugend SB Play-offs",
+          "teams": []
+        },
+        "6480": {
+          "id": 6480,
+          "name": "DM Jugend SB Platzierungsrunde",
+          "teams": []
         }
       }
     },
@@ -16045,7 +16055,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-10-02T08:06:30.069601",
+    "generated_at": "2026-10-03T07:45:51.871705",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
