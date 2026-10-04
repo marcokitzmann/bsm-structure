@@ -3197,7 +3197,7 @@
             {
               "id": 24456,
               "league_entry_id": 47157,
-              "name": "SG Berlin-Brandenburg/Niedersachsen",
+              "name": "Berlin-Brandenburg/Niedersachsen",
               "clubs": [
                 {
                   "id": 866,
@@ -16055,7 +16055,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-10-03T07:45:51.871705",
+    "generated_at": "2026-10-04T07:55:09.059707",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
