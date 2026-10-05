@@ -3227,7 +3227,72 @@
         "6446": {
           "id": 6446,
           "name": "LP U16 SB Play-offs",
-          "teams": []
+          "teams": [
+            {
+              "id": 24452,
+              "league_entry_id": 47158,
+              "name": "Baden-Württemberg",
+              "club": {
+                "id": 868,
+                "name": null,
+                "acronym": "BWBSV",
+                "short_name": "Baden-Württemberg",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/868/thumb/BWBSV_Logo.png?1774871488"
+              }
+            },
+            {
+              "id": 24453,
+              "league_entry_id": 47159,
+              "name": "Nordrhein-Westfalen",
+              "club": {
+                "id": 867,
+                "name": null,
+                "acronym": "BSVNRW",
+                "short_name": "Nordrhein-Westfalen",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/867/thumb/BSVNRW.jpg?1774871352"
+              }
+            },
+            {
+              "id": 24454,
+              "league_entry_id": 47160,
+              "name": "Bayern",
+              "club": {
+                "id": 865,
+                "name": null,
+                "acronym": "BBSV",
+                "short_name": "Bayern",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/865/thumb/Logo_BBSV.jpg?1774870977"
+              }
+            },
+            {
+              "id": 24456,
+              "league_entry_id": 47162,
+              "name": "Berlin-Brandenburg/Niedersachsen",
+              "clubs": [
+                {
+                  "id": 866,
+                  "name": null,
+                  "acronym": "BSVBB",
+                  "short_name": "Berlin-Brandenburg",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/866/thumb/BSVBB.jpg?1774871231"
+                },
+                {
+                  "id": 873,
+                  "name": null,
+                  "acronym": "NBSV",
+                  "short_name": "Niedersachsen",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/873/thumb/NBSV_Logo.jpg?1774873276"
+                },
+                {
+                  "id": 870,
+                  "name": null,
+                  "acronym": "HBV",
+                  "short_name": "Hamburg",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/870/thumb/hbv-neu.png?1774872969"
+                }
+              ]
+            }
+          ]
         },
         "6474": {
           "id": 6474,
@@ -16055,7 +16120,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-10-04T07:55:09.059707",
+    "generated_at": "2026-10-05T08:36:33.317272",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
