@@ -3536,6 +3536,11 @@
           "name": "DM Juniorinnen Play-offs",
           "teams": []
         },
+        "6485": {
+          "id": 6485,
+          "name": "DM Juniorinnen Platzierungsrunde",
+          "teams": []
+        },
         "6470": {
           "id": 6470,
           "name": "DM Jugend SB Gruppe A",
@@ -3567,7 +3572,7 @@
             {
               "id": 24510,
               "league_entry_id": 47484,
-              "name": "SG Untouchables Paderborn/Verl/Gütersloh Yaks",
+              "name": "SG Untouchables Paderborn/Verl/Gütersloh Yaks/Hamburg Knights",
               "clubs": [
                 {
                   "id": 365,
@@ -3582,6 +3587,13 @@
                   "acronym": "VER",
                   "short_name": "Verl/Gütersloh Yaks",
                   "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/383/thumb/VerlG%C3%BCtersloh_Yaks_%281%29.png?1731409651"
+                },
+                {
+                  "id": 254,
+                  "name": "Knights",
+                  "acronym": "HHK",
+                  "short_name": "Hamburg Knights",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/254/thumb/knights.jpg?1587225027"
                 }
               ]
             }
@@ -16317,7 +16329,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-10-07T08:17:28.601406",
+    "generated_at": "2026-10-08T08:33:33.459015",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
