@@ -3425,6 +3425,48 @@
           "name": "DM Jugend BB Zwischenrunde",
           "teams": []
         },
+        "6324": {
+          "id": 6324,
+          "name": "DM Juniorinnen Gruppe A",
+          "teams": [
+            {
+              "id": 24516,
+              "league_entry_id": 47456,
+              "name": "Gammertingen Royals",
+              "club": {
+                "id": 404,
+                "name": "Royals",
+                "acronym": "GAM",
+                "short_name": "Gammertingen Royals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/404/thumb/RoyalsLogoFinal.png?1709819032"
+              }
+            },
+            {
+              "id": 24519,
+              "league_entry_id": 47457,
+              "name": "Neunkirchen Nightmares",
+              "club": {
+                "id": 363,
+                "name": "Nightmares",
+                "acronym": "NKN",
+                "short_name": "Neunkirchen Nightmares",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/363/thumb/Nightmares-Kralle-transparent.png?1587225039"
+              }
+            },
+            {
+              "id": 24522,
+              "league_entry_id": 47458,
+              "name": "Disciples München-Haar",
+              "club": {
+                "id": 35,
+                "name": "Disciples",
+                "acronym": "HAA",
+                "short_name": "Disciples München-Haar",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/035/thumb/00003009.png?1587224982"
+              }
+            }
+          ]
+        },
         "6325": {
           "id": 6325,
           "name": "DM Juniorinnen Gruppe B",
@@ -3475,48 +3517,6 @@
                 "acronym": "KAR",
                 "short_name": "Karlsruhe Cougars",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/414/thumb/Cougars-Favicon-Blue-Transparent-640px.png?1587225051"
-              }
-            }
-          ]
-        },
-        "6324": {
-          "id": 6324,
-          "name": "DM Juniorinnen Gruppe A",
-          "teams": [
-            {
-              "id": 24516,
-              "league_entry_id": 47456,
-              "name": "Gammertingen Royals",
-              "club": {
-                "id": 404,
-                "name": "Royals",
-                "acronym": "GAM",
-                "short_name": "Gammertingen Royals",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/404/thumb/RoyalsLogoFinal.png?1709819032"
-              }
-            },
-            {
-              "id": 24519,
-              "league_entry_id": 47457,
-              "name": "Neunkirchen Nightmares",
-              "club": {
-                "id": 363,
-                "name": "Nightmares",
-                "acronym": "NKN",
-                "short_name": "Neunkirchen Nightmares",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/363/thumb/Nightmares-Kralle-transparent.png?1587225039"
-              }
-            },
-            {
-              "id": 24522,
-              "league_entry_id": 47458,
-              "name": "Disciples München-Haar",
-              "club": {
-                "id": 35,
-                "name": "Disciples",
-                "acronym": "HAA",
-                "short_name": "Disciples München-Haar",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/035/thumb/00003009.png?1587224982"
               }
             }
           ]
@@ -16329,7 +16329,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-10-08T08:33:33.459015",
+    "generated_at": "2026-10-09T08:38:08.867977",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
