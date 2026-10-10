@@ -3714,13 +3714,22 @@
               "id": 24511,
               "league_entry_id": 47486,
               "name": "Wesseling Vermins",
-              "club": {
-                "id": 387,
-                "name": "Vermins",
-                "acronym": "WES",
-                "short_name": "Wesseling Vermins",
-                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/387/thumb/Wesseling_logo.jpg?1587225044"
-              }
+              "clubs": [
+                {
+                  "id": 387,
+                  "name": "Vermins",
+                  "acronym": "WES",
+                  "short_name": "Wesseling Vermins",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/387/thumb/Wesseling_logo.jpg?1587225044"
+                },
+                {
+                  "id": 389,
+                  "name": "Kaker Lakers",
+                  "acronym": "WIT",
+                  "short_name": "Witten Kaker Lakers",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/389/thumb/kl_logo522.png?1587225044"
+                }
+              ]
             },
             {
               "id": 24514,
@@ -16329,7 +16338,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-10-09T08:38:08.867977",
+    "generated_at": "2026-10-10T08:13:14.996926",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
