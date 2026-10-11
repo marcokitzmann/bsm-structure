@@ -3423,7 +3423,44 @@
         "6478": {
           "id": 6478,
           "name": "DM Jugend BB Zwischenrunde",
-          "teams": []
+          "teams": [
+            {
+              "id": 24502,
+              "league_entry_id": 47517,
+              "name": "Ladenburg Romans",
+              "club": {
+                "id": 416,
+                "name": "Romans",
+                "acronym": "LAD",
+                "short_name": "Ladenburg Romans",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/416/thumb/Logo400x400.png?1713448561"
+              }
+            },
+            {
+              "id": 24503,
+              "league_entry_id": 47515,
+              "name": "Braunschweig 89ers",
+              "club": {
+                "id": 447,
+                "name": "89ers",
+                "acronym": "BSK",
+                "short_name": "Braunschweig 89ers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/447/thumb/logo_Braunschweig89ers_Wappen.png?1587225066"
+              }
+            },
+            {
+              "id": 24504,
+              "league_entry_id": 47514,
+              "name": "Hamburg Stealers",
+              "club": {
+                "id": 503,
+                "name": "Stealers",
+                "acronym": "HHS",
+                "short_name": "Hamburg Stealers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
+              }
+            }
+          ]
         },
         "6324": {
           "id": 6324,
@@ -3524,22 +3561,158 @@
         "6479": {
           "id": 6479,
           "name": "DM Jugend BB Platzierungsrunde",
-          "teams": []
+          "teams": [
+            {
+              "id": 24496,
+              "league_entry_id": 47516,
+              "name": "Berlin Wizards",
+              "club": {
+                "id": 494,
+                "name": "Wizards",
+                "acronym": "BEW",
+                "short_name": "Berlin Wizards",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/494/thumb/Wizards-Logo-200x200.png?1741764774"
+              }
+            },
+            {
+              "id": 24497,
+              "league_entry_id": 47518,
+              "name": "Main-Taunus Redwings",
+              "club": {
+                "id": 211,
+                "name": "Redwings",
+                "acronym": "MTR",
+                "short_name": "Main-Taunus Redwings",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/211/thumb/RW_logo_rund_3D.jpg?1587225008"
+              }
+            },
+            {
+              "id": 24501,
+              "league_entry_id": 47513,
+              "name": "Kaiserslautern Bears",
+              "club": {
+                "id": 228,
+                "name": "Bears",
+                "acronym": "KSL",
+                "short_name": "Kaiserslautern Bears",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/228/thumb/bears_%281%29.png?1783940680"
+              }
+            }
+          ]
         },
         "6477": {
           "id": 6477,
           "name": "DM Jugend BB Play-offs",
-          "teams": []
+          "teams": [
+            {
+              "id": 24498,
+              "league_entry_id": 47506,
+              "name": "Mainz Athletics",
+              "club": {
+                "id": 1,
+                "name": "Athletics",
+                "acronym": "MAI",
+                "short_name": "Mainz Athletics",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/001/thumb/as_logo.png?1587224970"
+              }
+            },
+            {
+              "id": 24499,
+              "league_entry_id": 47507,
+              "name": "Untouchables Paderborn",
+              "club": {
+                "id": 365,
+                "name": "Untouchables",
+                "acronym": "UNT",
+                "short_name": "Untouchables Paderborn",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/365/thumb/Ball_auf_wei%C3%9F-1.jpg?1587225040"
+              }
+            },
+            {
+              "id": 24500,
+              "league_entry_id": 47508,
+              "name": "Freising Grizzlies",
+              "club": {
+                "id": 59,
+                "name": "Grizzlies",
+                "acronym": "FRE",
+                "short_name": "Freising Grizzlies",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
+              }
+            }
+          ]
         },
         "6326": {
           "id": 6326,
           "name": "DM Juniorinnen Play-offs",
-          "teams": []
+          "teams": [
+            {
+              "id": 24516,
+              "league_entry_id": 47464,
+              "name": "Gammertingen Royals",
+              "club": {
+                "id": 404,
+                "name": "Royals",
+                "acronym": "GAM",
+                "short_name": "Gammertingen Royals",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/404/thumb/RoyalsLogoFinal.png?1709819032"
+              }
+            },
+            {
+              "id": 24517,
+              "league_entry_id": 47465,
+              "name": "Wesseling Vermins",
+              "club": {
+                "id": 387,
+                "name": "Vermins",
+                "acronym": "WES",
+                "short_name": "Wesseling Vermins",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/387/thumb/Wesseling_logo.jpg?1587225044"
+              }
+            },
+            {
+              "id": 24519,
+              "league_entry_id": 47467,
+              "name": "Neunkirchen Nightmares",
+              "club": {
+                "id": 363,
+                "name": "Nightmares",
+                "acronym": "NKN",
+                "short_name": "Neunkirchen Nightmares",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/363/thumb/Nightmares-Kralle-transparent.png?1587225039"
+              }
+            }
+          ]
         },
         "6485": {
           "id": 6485,
           "name": "DM Juniorinnen Platzierungsrunde",
-          "teams": []
+          "teams": [
+            {
+              "id": 24520,
+              "league_entry_id": 47519,
+              "name": "Main-Taunus Redwings",
+              "club": {
+                "id": 211,
+                "name": "Redwings",
+                "acronym": "MTR",
+                "short_name": "Main-Taunus Redwings",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/211/thumb/RW_logo_rund_3D.jpg?1587225008"
+              }
+            },
+            {
+              "id": 24522,
+              "league_entry_id": 47520,
+              "name": "Disciples München-Haar",
+              "club": {
+                "id": 35,
+                "name": "Disciples",
+                "acronym": "HAA",
+                "short_name": "Disciples München-Haar",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/035/thumb/00003009.png?1587224982"
+              }
+            }
+          ]
         },
         "6470": {
           "id": 6470,
@@ -16338,7 +16511,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-10-10T08:13:14.996926",
+    "generated_at": "2026-10-11T08:27:22.673261",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
