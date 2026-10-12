@@ -3639,6 +3639,42 @@
                 "short_name": "Freising Grizzlies",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
               }
+            },
+            {
+              "id": 24502,
+              "league_entry_id": 47510,
+              "name": "Ladenburg Romans",
+              "club": {
+                "id": 416,
+                "name": "Romans",
+                "acronym": "LAD",
+                "short_name": "Ladenburg Romans",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/416/thumb/Logo400x400.png?1713448561"
+              }
+            },
+            {
+              "id": 24503,
+              "league_entry_id": 47511,
+              "name": "Braunschweig 89ers",
+              "club": {
+                "id": 447,
+                "name": "89ers",
+                "acronym": "BSK",
+                "short_name": "Braunschweig 89ers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/447/thumb/logo_Braunschweig89ers_Wappen.png?1587225066"
+              }
+            },
+            {
+              "id": 24504,
+              "league_entry_id": 47512,
+              "name": "Hamburg Stealers",
+              "club": {
+                "id": 503,
+                "name": "Stealers",
+                "acronym": "HHS",
+                "short_name": "Hamburg Stealers",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/503/thumb/stealers.jpg?1587225073"
+              }
             }
           ]
         },
@@ -3671,6 +3707,18 @@
               }
             },
             {
+              "id": 24518,
+              "league_entry_id": 47466,
+              "name": "Freising Grizzlies",
+              "club": {
+                "id": 59,
+                "name": "Grizzlies",
+                "acronym": "FRE",
+                "short_name": "Freising Grizzlies",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
+              }
+            },
+            {
               "id": 24519,
               "league_entry_id": 47467,
               "name": "Neunkirchen Nightmares",
@@ -3698,6 +3746,18 @@
                 "acronym": "MTR",
                 "short_name": "Main-Taunus Redwings",
                 "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/211/thumb/RW_logo_rund_3D.jpg?1587225008"
+              }
+            },
+            {
+              "id": 24521,
+              "league_entry_id": 47521,
+              "name": "Karlsruhe Cougars",
+              "club": {
+                "id": 414,
+                "name": "Cougars",
+                "acronym": "KAR",
+                "short_name": "Karlsruhe Cougars",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/414/thumb/Cougars-Favicon-Blue-Transparent-640px.png?1587225051"
               }
             },
             {
@@ -16511,7 +16571,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-10-11T08:27:22.673261",
+    "generated_at": "2026-10-12T08:48:34.609154",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
