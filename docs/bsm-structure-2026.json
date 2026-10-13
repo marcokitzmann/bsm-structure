@@ -13248,6 +13248,148 @@
               }
             }
           ]
+        },
+        "6482": {
+          "id": 6482,
+          "name": "Schüler Coach Pitch - Bay. Meisterschaft, Gruppe B",
+          "teams": [
+            {
+              "id": 24442,
+              "league_entry_id": 47477,
+              "name": "Baldham Boars",
+              "club": {
+                "id": 22,
+                "name": "Boars",
+                "acronym": "BAL",
+                "short_name": "Baldham Boars",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/022/thumb/Boars_Logo_Badge_RGB_White_Circle_BG.png?1748957783"
+              }
+            },
+            {
+              "id": 24444,
+              "league_entry_id": 47478,
+              "name": "Guggenberger Legionäre",
+              "club": {
+                "id": 14,
+                "name": "Legionäre",
+                "acronym": "REG",
+                "short_name": "Guggenberger Legionäre",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/014/thumb/Legion%C3%A4re_SCRIPT_Logo_GUGGENBERGER_L_CoB.png?1646045867"
+              }
+            },
+            {
+              "id": 24445,
+              "league_entry_id": 47479,
+              "name": "Ingolstadt Schanzer",
+              "club": {
+                "id": 36,
+                "name": "Schanzer",
+                "acronym": "ING",
+                "short_name": "Ingolstadt Schanzer",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/036/thumb/00003015.png?1587224983"
+              }
+            },
+            {
+              "id": 24458,
+              "league_entry_id": 47480,
+              "name": "Füssen Royal Bavarians",
+              "club": {
+                "id": 28,
+                "name": "Royal Bavarians",
+                "acronym": "FUS",
+                "short_name": "Füssen Royal Bavarians",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/028/thumb/RB_Royal_Bavarians_Primary_Logo_4c_web.png?1587224979"
+              }
+            },
+            {
+              "id": 24495,
+              "league_entry_id": 47481,
+              "name": "München Caribes",
+              "club": {
+                "id": 46,
+                "name": "Caribes",
+                "acronym": "MUC",
+                "short_name": "München Caribes",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/046/thumb/MC_logo_palme_aufweiss_7C.jpg?1587224985"
+              }
+            }
+          ]
+        },
+        "6481": {
+          "id": 6481,
+          "name": "Schüler Coach Pitch - Bay. Meisterschaft, Gruppe A",
+          "teams": [
+            {
+              "id": 24443,
+              "league_entry_id": 47472,
+              "name": "Laufer Wölfe",
+              "club": {
+                "id": 8,
+                "name": "Wölfe",
+                "acronym": "LAU",
+                "short_name": "Laufer Wölfe",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/008/thumb/LW_logo_W_4C.jpg?1587224973"
+              }
+            },
+            {
+              "id": 24463,
+              "league_entry_id": 47473,
+              "name": "Schwaig Red Lions",
+              "club": {
+                "id": 555,
+                "name": "Red Lions",
+                "acronym": "SRL",
+                "short_name": "Schwaig Red Lions",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/555/thumb/Logo_Red_Lions_auf_schwarz_100_DPI.png?1587225078"
+              }
+            },
+            {
+              "id": 24464,
+              "league_entry_id": 47474,
+              "name": "Gauting Indians",
+              "club": {
+                "id": 30,
+                "name": "Indians",
+                "acronym": "GAU",
+                "short_name": "Gauting Indians",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/030/thumb/GI_Logo_I_Blue-Red-Otline_RGB.jpg?1681803869"
+              }
+            },
+            {
+              "id": 24493,
+              "league_entry_id": 47475,
+              "name": "Freising Grizzlies",
+              "club": {
+                "id": 59,
+                "name": "Grizzlies",
+                "acronym": "FRE",
+                "short_name": "Freising Grizzlies",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
+              }
+            },
+            {
+              "id": 24494,
+              "league_entry_id": 47476,
+              "name": "Freising Grizzlies 2",
+              "club": {
+                "id": 59,
+                "name": "Grizzlies",
+                "acronym": "FRE",
+                "short_name": "Freising Grizzlies",
+                "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/059/thumb/00003001.png?1587224987"
+              }
+            }
+          ]
+        },
+        "6484": {
+          "id": 6484,
+          "name": "Schüler Coach Pitch - Bay. Meisterschaft, Playoffs",
+          "teams": []
+        },
+        "6483": {
+          "id": 6483,
+          "name": "Schüler Coach Pitch - Bay. Meisterschaft, Platzierungsrunde",
+          "teams": []
         }
       }
     },
@@ -16571,7 +16713,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-10-12T08:48:34.609154",
+    "generated_at": "2026-10-13T09:05:45.405359",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
