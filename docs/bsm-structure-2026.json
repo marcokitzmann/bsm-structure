@@ -3899,6 +3899,13 @@
                   "acronym": "BER",
                   "short_name": "NSF Berlin Ravens / Roosters",
                   "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/491/thumb/logo-baseballworld-website.png?1587225072"
+                },
+                {
+                  "id": 435,
+                  "name": "Raubritter",
+                  "acronym": "SRR",
+                  "short_name": "Schriesheim Raubritter",
+                  "logo_url": "https://bsm.baseball-softball.de/system/clubs/logos/000/000/435/thumb/Logo_bsm.jpg?1740661932"
                 }
               ]
             }
@@ -16713,7 +16720,7 @@
     }
   },
   "metadata": {
-    "generated_at": "2026-10-14T07:15:30.303218",
+    "generated_at": "2026-10-15T07:07:05.858413",
     "total_organizations": 10,
     "successful_organizations": 10,
     "failed_organizations": 0
