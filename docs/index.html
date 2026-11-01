@@ -1,26 +1,38 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>BSM Structure Data</title>
 </head>
 <body>
     <h1>BSM Structure Data</h1>
-    <p>JSON-Dateien sind verfügbar unter:</p>
+    <p>Liga- und Team-Strukturen des DBV und seiner Landesverbände (nur Liga-Betrieb), je Saison als JSON:</p>
     <ul id="file-list"></ul>
+    <p><a href="https://github.com/marcokitzmann/bsm-structure">Dokumentation und Quellcode</a></p>
     <script>
-        // Liste der verfügbaren JSON-Dateien anzeigen
-        fetch('./bsm-structure-2025.json')
-            .then(response => {
-                if (response.ok) {
-                    const list = document.getElementById('file-list');
-                    const li = document.createElement('li');
-                    li.innerHTML = '<a href="./bsm-structure-2025.json">bsm-structure-2025.json</a>';
-                    list.appendChild(li);
-                }
-            })
-            .catch(() => {});
+        // Verfügbare Jahre ab 2024 bis zum Folgejahr prüfen und absteigend auflisten
+        const firstYear = 2024;
+        const lastYear = new Date().getFullYear() + 1;
+        const years = [];
+        for (let year = lastYear; year >= firstYear; year--) years.push(year);
+
+        Promise.all(years.map((year) => {
+            const file = `bsm-structure-${year}.json`;
+            return fetch(`./${file}`, { method: 'HEAD' })
+                .then((response) => (response.ok ? file : null))
+                .catch(() => null);
+        })).then((files) => {
+            const list = document.getElementById('file-list');
+            files.filter(Boolean).forEach((file) => {
+                const item = document.createElement('li');
+                const link = document.createElement('a');
+                link.href = `./${file}`;
+                link.textContent = file;
+                item.appendChild(link);
+                list.appendChild(item);
+            });
+        });
     </script>
 </body>
 </html>
-

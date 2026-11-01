@@ -10,11 +10,13 @@ Die Daten werden in der Saison (März–Oktober) täglich und in der Off-Season 
 
 **Daten abrufen:**
 
-```
-https://marcokitzmann.github.io/bsm-structure/bsm-structure-YYYY.json
-```
+- Übersichtsseite: [marcokitzmann.github.io/bsm-structure](https://marcokitzmann.github.io/bsm-structure/)
+- Je Saison:
+  - [`bsm-structure-2024.json`](https://marcokitzmann.github.io/bsm-structure/bsm-structure-2024.json)
+  - [`bsm-structure-2025.json`](https://marcokitzmann.github.io/bsm-structure/bsm-structure-2025.json)
+  - [`bsm-structure-2026.json`](https://marcokitzmann.github.io/bsm-structure/bsm-structure-2026.json)
 
-Verfügbar sind die Saisons ab 2024 (z. B. [`bsm-structure-2026.json`](https://marcokitzmann.github.io/bsm-structure/bsm-structure-2026.json)).
+Allgemein: `https://marcokitzmann.github.io/bsm-structure/bsm-structure-YYYY.json`. Ein neues Jahr kommt automatisch hinzu, sobald der Workflow im Januar das erste Mal für dieses Jahr läuft.
 
 ## Funktionsweise
 
