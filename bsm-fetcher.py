@@ -2,16 +2,31 @@ import argparse
 import requests
 import json
 import os
+import re
 import time
 import sys
 from datetime import datetime
-from typing import Dict, Any, Optional
+from typing import Dict, Any, List, Optional
 
 # Konfiguration
 MAX_RETRIES = 3
 RETRY_DELAY = 10  # Sekunden zwischen Retries
 REQUEST_DELAY = 2  # Sekunden zwischen verschiedenen API-Requests
 TIMEOUT = 30  # Sekunden für API-Timeout
+
+# Nur Liga-Betrieb wird ausgegeben (inkl. Play-offs, Playdowns, Runden). Turniere, Meisterschaften,
+# Pokale, Finalspiele und Auswahl-Wettbewerbe werden aussortiert. BSM liefert dafür kein Typ-Feld
+# (league.type ist immer "League"), daher Erkennung über den Namen und über Landesauswahl-Teams.
+COMPETITION_OVERRIDES_PATH = 'config/competition-overrides.json'
+TOURNAMENT_NAME_PATTERNS = [
+    (re.compile(r'(^|\s)DM(\s|$)'), 'Deutsche Meisterschaft'),
+    (re.compile(r'^LP\s'), 'Länderpokal'),
+    (re.compile(r'meisterschaft', re.IGNORECASE), 'Meisterschaft'),
+    (re.compile(r'pokal', re.IGNORECASE), 'Pokal'),
+    (re.compile(r'finale', re.IGNORECASE), 'Finale'),
+    (re.compile(r'all-?star', re.IGNORECASE), 'All-Star'),
+    (re.compile(r'slowpitch', re.IGNORECASE), 'Slowpitch-Turnier'),
+]
 
 def parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:
     """
@@ -293,6 +308,83 @@ def get_structure_by_organization(org_name: str, org_id: str, year: int) -> Dict
     
     return {'leagues': leagues_dict}
 
+def get_competition_overrides() -> Dict[str, set]:
+    """
+    Lädt manuelle Ausnahmen für die Turnier-Erkennung (BSM-Liga-IDs, gelten je Saison).
+
+    Format von config/competition-overrides.json:
+        {"include": [<league_id>, ...], "exclude": [<league_id>, ...]}
+    include: immer als Liga-Betrieb ausgeben; exclude: immer aussortieren. Fehlt die Datei,
+    gelten nur die automatischen Regeln.
+
+    Returns:
+        Dict mit den Mengen 'include' und 'exclude'
+    """
+    overrides: Dict[str, set] = {'include': set(), 'exclude': set()}
+    if not os.path.exists(COMPETITION_OVERRIDES_PATH):
+        return overrides
+
+    try:
+        with open(COMPETITION_OVERRIDES_PATH, 'r', encoding='utf-8') as f:
+            raw = json.load(f)
+    except json.JSONDecodeError as e:
+        print(f"FEHLER: Ungültiges JSON in {COMPETITION_OVERRIDES_PATH}: {e}")
+        sys.exit(1)
+
+    for key in ('include', 'exclude'):
+        values = raw.get(key, [])
+        if not isinstance(values, list) or not all(isinstance(value, int) for value in values):
+            print(f"FEHLER: '{key}' in {COMPETITION_OVERRIDES_PATH} muss eine Liste von Liga-IDs (int) sein.")
+            sys.exit(1)
+        overrides[key] = set(values)
+
+    overlap = overrides['include'] & overrides['exclude']
+    if overlap:
+        print(f"FEHLER: Liga-IDs sowohl in include als auch exclude: {sorted(overlap)}")
+        sys.exit(1)
+
+    return overrides
+
+
+def has_state_selection_team(teams: List[Dict[str, Any]]) -> bool:
+    """
+    Erkennt Auswahl-Wettbewerbe: BSM führt Landesauswahl-Teams mit einem Landesverband als "Club",
+    der keinen Namen hat (name = null, nur acronym/short_name).
+    """
+    for team in teams:
+        clubs: List[Dict[str, Any]] = []
+        if team.get('club'):
+            clubs.append(team['club'])
+        clubs.extend(team.get('clubs') or [])
+        if clubs and not any(club.get('name') for club in clubs):
+            return True
+    return False
+
+
+def classify_competition(league_data: Dict[str, Any], overrides: Dict[str, set]) -> Optional[str]:
+    """
+    Entscheidet, ob ein Wettbewerb aussortiert wird.
+
+    Returns:
+        Grund der Aussortierung oder None für Liga-Betrieb
+    """
+    league_id = league_data.get('id')
+    if league_id in overrides['include']:
+        return None
+    if league_id in overrides['exclude']:
+        return 'Manuell ausgeschlossen'
+
+    name = league_data.get('name') or ''
+    for pattern, reason in TOURNAMENT_NAME_PATTERNS:
+        if pattern.search(name):
+            return reason
+
+    if has_state_selection_team(league_data.get('teams') or []):
+        return 'Landesauswahl'
+
+    return None
+
+
 def build_structure(organizations: Dict[str, str], year: int) -> Dict[str, Any]:
     """
     Baut die vollständige Struktur mit Organisationen, Ligen und Teams auf.
@@ -311,10 +403,12 @@ def build_structure(organizations: Dict[str, str], year: int) -> Dict[str, Any]:
             'generated_at': datetime.now().isoformat(),
             'total_organizations': len(organizations),
             'successful_organizations': 0,
-            'failed_organizations': 0
+            'failed_organizations': 0,
+            'excluded_competitions': []
         }
     }
-    
+    overrides = get_competition_overrides()
+
     total_orgs = len(organizations)
     current_org = 0
     
@@ -331,8 +425,17 @@ def build_structure(organizations: Dict[str, str], year: int) -> Dict[str, Any]:
                 'leagues': {}
             }
             
-            # Konvertiere die Liga-Struktur für die Ausgabe
+            # Konvertiere die Liga-Struktur für die Ausgabe (nur Liga-Betrieb)
             for league_id, league_data in org_data['leagues'].items():
+                exclusion_reason = classify_competition(league_data, overrides)
+                if exclusion_reason:
+                    structure['metadata']['excluded_competitions'].append({
+                        'organization': org_name,
+                        'id': league_data['id'],
+                        'name': league_data['name'],
+                        'reason': exclusion_reason,
+                    })
+                    continue
                 structure['organizations'][org_name]['leagues'][league_id] = {
                     'id': league_data['id'],
                     'name': league_data['name'],
@@ -358,7 +461,12 @@ def build_structure(organizations: Dict[str, str], year: int) -> Dict[str, Any]:
         # Rate Limiting: Warte zwischen Requests (außer beim letzten)
         if current_org < total_orgs:
             time.sleep(REQUEST_DELAY)
-    
+
+    excluded = structure['metadata']['excluded_competitions']
+    print(f"\nAussortiert (kein Liga-Betrieb): {len(excluded)} Wettbewerbe")
+    for competition in excluded:
+        print(f"  - {competition['organization']}: {competition['name']} ({competition['id']}) – {competition['reason']}")
+
     return structure
 
 def save_structure(structure: Dict[str, Any], year: int) -> bool:

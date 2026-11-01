@@ -2,8 +2,11 @@ name: BSM Structure Fetcher
 
 on:
   schedule:
-    # Montags um 2:00 UTC (entspricht 3:00 MEZ / 4:00 MESZ)
-    - cron: '0 2 * * *'
+    # 2:00 UTC (3:00 MEZ / 4:00 MESZ), vor dem DiamondStats-Structure-Sync (Mo 3:00 UTC)
+    # Saison März–Oktober: täglich
+    - cron: '0 2 * 3-10 *'
+    # Off-Season November–Februar: nur montags
+    - cron: '0 2 * 11,12,1,2 1'
   workflow_dispatch:  # Ermöglicht manuelles Auslösen
 
 jobs:

@@ -4,7 +4,7 @@ Extrahiert und speichert die Ligen- und Team-Strukturen aller Landesverbände im
 
 ## Beschreibung
 
-Dieses Projekt sammelt automatisch die Strukturdaten (Ligen und Teams) aller Landesverbände aus der BSM-API und speichert sie als strukturierte JSON-Dateien. Die Daten werden wöchentlich aktualisiert und über GitHub Pages bereitgestellt.
+Dieses Projekt sammelt automatisch die Strukturdaten (Ligen und Teams) aller Landesverbände aus der BSM-API und speichert sie als strukturierte JSON-Dateien. Die Daten werden in der Saison täglich, in der Off-Season wöchentlich aktualisiert und über GitHub Pages bereitgestellt.
 
 ## Funktionsweise
 
@@ -17,7 +17,28 @@ Das Skript `bsm-fetcher.py` führt folgende Schritte aus:
 3. **Datenextraktion**: Aus den Match-Daten werden automatisch alle Ligen, Teams und zugehörige Club-Informationen extrahiert
 4. **Strukturierung**: Die Daten werden hierarchisch strukturiert:
    - Organisationen → Ligen → Teams → Clubs
-5. **Speicherung**: Die vollständige Struktur wird als JSON-Datei im `data/` Verzeichnis gespeichert (Format: `bsm-structure-YYYY.json`)
+5. **Nur Liga-Betrieb**: Turniere werden aussortiert (siehe unten)
+6. **Speicherung**: Die vollständige Struktur wird als JSON-Datei im `data/` Verzeichnis gespeichert (Format: `bsm-structure-YYYY.json`)
+
+### Nur Liga-Betrieb
+
+Ausgegeben werden nur Ligen inklusive Play-offs, Playdowns und Runden. BSM kennzeichnet Turniere nicht (`league.type` ist immer `"League"`), daher werden Wettbewerbe so aussortiert:
+
+- **Name**: `DM …` (Deutsche Meisterschaft), `LP …` (Länderpokal), enthält `Meisterschaft`, `Pokal`, `Finale`, `All-Star`/`Allstar` oder `Slowpitch`
+- **Landesauswahl**: mindestens ein Team, dessen einziger „Club“ ein Landesverband ohne Namen ist
+
+Aussortierte Wettbewerbe stehen mit Grund unter `metadata.excluded_competitions` (`organization`, `id`, `name`, `reason`) und werden beim Lauf ausgegeben.
+
+Ausnahmen pro Saison (BSM-Liga-IDs) in `config/competition-overrides.json`:
+
+```json
+{
+  "include": [6123],
+  "exclude": [6456]
+}
+```
+
+`include` gibt einen Wettbewerb immer aus, `exclude` sortiert ihn immer aus.
 
 ### Fehlerbehandlung
 
@@ -30,7 +51,7 @@ Das Skript `bsm-fetcher.py` führt folgende Schritte aus:
 
 Ein GitHub Actions Workflow führt das Skript automatisch aus:
 
-- **Zeitplan**: Wöchentlich montags um 2:00 UTC (3:00 MEZ / 4:00 MESZ)
+- **Zeitplan**: um 2:00 UTC (3:00 MEZ / 4:00 MESZ) – Saison (März–Oktober) täglich, Off-Season (November–Februar) nur montags
 - **Manueller Start**: Kann auch manuell über `workflow_dispatch` ausgelöst werden
 - **Automatisches Deployment**: Die generierten Daten werden automatisch auf GitHub Pages bereitgestellt
 
