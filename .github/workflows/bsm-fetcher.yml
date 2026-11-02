@@ -2,11 +2,12 @@ name: BSM Structure Fetcher
 
 on:
   schedule:
-    # 2:00 UTC (3:00 MEZ / 4:00 MESZ), vor dem DiamondStats-Structure-Sync (Mo 3:00 UTC)
+    # 2:17 UTC (Minute 17 statt 0: zur vollen Stunde verzögert GitHub geplante Läufe besonders stark,
+    # beobachtet bis ~8 h). DiamondStats liest das JSON erst Mo 14:00 UTC.
     # Saison März–Oktober: täglich
-    - cron: '0 2 * 3-10 *'
+    - cron: '17 2 * 3-10 *'
     # Off-Season November–Februar: nur montags
-    - cron: '0 2 * 11,12,1,2 1'
+    - cron: '17 2 * 11,12,1,2 1'
   workflow_dispatch:  # Ermöglicht manuelles Auslösen
 
 jobs:

@@ -74,9 +74,10 @@ Liga-IDs ändern sich jede Saison. Eine ID in beiden Listen oder ungültige Wert
 
 Der GitHub-Actions-Workflow `.github/workflows/bsm-fetcher.yml`:
 
-- **Zeitplan**: 2:00 UTC (3:00 MEZ / 4:00 MESZ)
-  - März–Oktober täglich (`0 2 * 3-10 *`)
-  - November–Februar nur montags (`0 2 * 11,12,1,2 1`)
+- **Zeitplan**: 2:17 UTC (3:17 MEZ / 4:17 MESZ)
+  - März–Oktober täglich (`17 2 * 3-10 *`)
+  - November–Februar nur montags (`17 2 * 11,12,1,2 1`)
+  - GitHub startet geplante Läufe oft mit Verzögerung (beobachtet: mehrere Stunden). Wer die Daten zu einer festen Uhrzeit braucht, sollte sie deutlich später abrufen (DiamondStats: Montag 14:00 UTC).
 - **Manueller Start**: über `workflow_dispatch`
 - **Aktuelles Jahr**: wird bei jedem Lauf neu erzeugt
 - **Historische Jahre** (ab 2024): werden nur erzeugt, wenn die Datei in `docs/` fehlt
